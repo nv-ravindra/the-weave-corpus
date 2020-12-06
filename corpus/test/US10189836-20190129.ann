@@ -1,0 +1,481 @@
+T1	SYSTEMATIC 163919 164083	2-[4-([8-[(1R,5 S,8R)-8-(benzyloxy)-3-azabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyri din-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T2	SYSTEMATIC 164098 164154	tert-butyl 8-oxo-3-azabicyclo[3.2.1]octane-3-carboxylate
+T3	SYSTEMATIC 164178 164186	methanol
+T4	FORMULA 164235 164240	NaBH4
+T5	TRIVIAL 164506 164516	silica gel
+T6	SYSTEMATIC 164530 164543	ethyl acetate
+T7	FAMILY 164544 164559	petroleum ether
+T8	SYSTEMATIC 164590 164663	(1R, 5S, 8r)-tert-butyl 8-hydroxy-3-azabicyclo[3.2.1]octane-3-carboxylate
+T9	FAMILY 164687 164702	petroleum ether
+T10	SYSTEMATIC 164703 164716	ethyl acetate
+T11	SYSTEMATIC 164749 164763	sodium hydride
+T12	ABBREVIATION 164788 164791	DMF
+T13	SYSTEMATIC 164810 164870	tert-butyl 8-hydroxy-3-azabicyclo[3.2.1]octane-3-carboxylate
+T14	SYSTEMATIC 164952 164972	(bromomethyl)benzene
+T15	TRIVIAL 165127 165132	water
+T16	SYSTEMATIC 165187 165200	ethyl acetate
+T17	TRIVIAL 165316 165326	silica gel
+T18	SYSTEMATIC 165340 165353	ethyl acetate
+T19	FAMILY 165354 165369	petroleum ether
+T20	SYSTEMATIC 165473 165537	tert-butyl 8-(benzyloxy)-3-azabicyclo[3.2.1]octane-3-carboxylate
+T21	SYSTEMATIC 165606 165670	tert-Butyl 8-(benzyloxy)-3-azabicyclo[3.2.1]octane-3-carboxylate
+T22	FORMULA 165707 165710	HCl
+T23	SYSTEMATIC 165711 165718	dioxane
+T24	FORMULA 165884 165887	H2O
+T25	SYSTEMATIC 165943 165962	potassium carbonate
+T26	ABBREVIATION 166065 166068	DCM
+T27	FORMULA 166069 166073	MeOH
+T28	SYSTEMATIC 166176 166215	8-(benzyloxy)-3-azabicyclo[3.2.1]octane
+T29	SYSTEMATIC 166308 166419	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T30	SYSTEMATIC 166444 166451	dioxane
+T31	SYSTEMATIC 166470 166509	8-(benzyloxy)-3-azabicyclo[3.2.1]octane
+T32	FORMULA 166532 166546	Pd2(dba)3CHCl3
+T33	ABBREVIATION 166568 166573	BINAP
+T34	FORMULA 166598 166604	Cs2CO3
+T35	SYSTEMATIC 166632 166640	nitrogen
+T36	TRIVIAL 166797 166807	silica gel
+T37	ABBREVIATION 166821 166824	DCM
+T38	FORMULA 166825 166829	MeOH
+T39	FORMULA 167066 167073	NH4HCO3
+T40	TRIVIAL 167077 167082	water
+T41	FORMULA 167100 167104	MeCN
+T42	SYSTEMATIC 167177 167339	2-[4-([8-[(1R,5S,8R)-8-(benzyloxy)-3-azabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T43	FORMULA 167432 167440	CD3OD-d4
+T44	SYSTEMATIC 167800 167988	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T45	SYSTEMATIC 168006 168048	3-(trifluoromethyl)azetidine hydrochloride
+T46	SYSTEMATIC 168072 168079	toluene
+T47	SYSTEMATIC 168092 168119	4-nitrophenyl chloroformate
+T48	TRIVIAL 168349 168359	silica gel
+T49	SYSTEMATIC 168373 168386	ethyl acetate
+T50	FAMILY 168387 168402	petroleum ether
+T51	SYSTEMATIC 168514 168570	4-nitrophenyl 3-(trifluoromethyl)azetidine-1-carboxylate
+T52	SYSTEMATIC 168605 168618	ethyl acetate
+T53	SYSTEMATIC 168619 168625	hexane
+T54	SYSTEMATIC 168648 168702	tert-butyl 3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T55	SYSTEMATIC 168727 168838	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T56	SYSTEMATIC 168862 168869	dioxane
+T57	FORMULA 168888 168902	Pd2(dba)3CHCl3
+T58	ABBREVIATION 168925 168930	BINAP
+T59	FORMULA 168956 168962	Cs2CO3
+T60	SYSTEMATIC 168989 168997	nitrogen
+T61	TRIVIAL 169190 169200	silica gel
+T62	SYSTEMATIC 169214 169229	dichloromethane
+T63	SYSTEMATIC 169230 169238	methanol
+T64	SYSTEMATIC 169270 169432	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T65	SYSTEMATIC 169515 169677	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T66	SYSTEMATIC 169701 169716	dichloromethane
+T67	SYSTEMATIC 169735 169755	trifluoroacetic acid
+T68	ABBREVIATION 169918 169921	DCM
+T69	ABBREVIATION 169975 169980	DIPEA
+T70	SYSTEMATIC 170070 170211	2-[4-[(8-[3,8-diazabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T71	ABBREVIATION 170216 170221	DIPEA
+T72	ABBREVIATION 170222 170225	TFA
+T73	SYSTEMATIC 170299 170440	2-[4-[(8-[3,8-diazabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T74	ABBREVIATION 170445 170450	DIPEA
+T75	ABBREVIATION 170451 170454	TFA
+T76	SYSTEMATIC 170510 170566	4-nitrophenyl 3-(trifluoromethyl)azetidine-1-carboxylate
+T77	ABBREVIATION 170592 170597	DIPEA
+T78	TRIVIAL 170782 170792	silica gel
+T79	SYSTEMATIC 170806 170821	dichloromethane
+T80	SYSTEMATIC 170822 170830	methanol
+T81	FORMULA 171014 171021	NH4HCO3
+T82	TRIVIAL 171025 171030	water
+T83	FORMULA 171048 171052	MeCN
+T84	FORMULA 171061 171065	MeCN
+T85	SYSTEMATIC 171142 171330	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T86	FORMULA 171416 171424	CD3OD-d4
+T87	SYSTEMATIC 171733 171927	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[(1 r,3r)-3-(trifluoromethyl)cyclobutyl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T88	SYSTEMATIC 171947 172140	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[(1s,3s)-3-(trifluoromethyl)cyclobutyl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T89	SYSTEMATIC 172177 172318	2-[4-[(8-[3,8-diazabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T90	ABBREVIATION 172335 172340	DIPEA
+T91	ABBREVIATION 172341 172344	TFA
+T92	ABBREVIATION 172374 172377	DMF
+T93	SYSTEMATIC 172419 172467	3-(trifluoromethyl)cyclobutane-1-carboxylic acid
+T94	FORMULA 172489 172496	EDC.HCl
+T95	FORMULA 172520 172524	HOBt
+T96	ABBREVIATION 172551 172556	DIPEA
+T97	TRIVIAL 172750 172760	silica gel
+T98	SYSTEMATIC 172774 172789	dichloromethane
+T99	SYSTEMATIC 172790 172798	methanol
+T100	FAMILY 172831 172836	amide
+T101	SYSTEMATIC 172981 172992	formic acid
+T102	TRIVIAL 172996 173001	water
+T103	FORMULA 173006 173010	MeCN
+T104	FORMULA 173018 173022	MeCN
+T105	SYSTEMATIC 173122 173133	formic acid
+T106	FORMULA 173207 173215	CD3OD-d4
+T107	SYSTEMATIC 173600 173611	formic acid
+T108	FORMULA 173702 173710	CD3OD-d4
+T109	SYSTEMATIC 174067 174238	4,4,4-trifluoro-1-[3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-8-azabicyclo[3.2.1]oct-2-en-8-yl]butan-1-one
+T110	SYSTEMATIC 174256 174367	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T111	SYSTEMATIC 174391 174402	1,4-dioxane
+T112	TRIVIAL 174415 174420	water
+T113	SYSTEMATIC 174453 174546	tert-butyl 3-(tetramethyl-1,3,2-dioxaborolan-2-yl)-8-azabicyclo[3.2.1]oct-2-ene-8-carboxylate
+T114	FORMULA 174568 174587	Pd(dppf)Cl2. CH2Cl2
+T115	FORMULA 174614 174620	Cs2CO3
+T116	SYSTEMATIC 174647 174655	nitrogen
+T117	SYSTEMATIC 174738 174746	nitrogen
+T118	TRIVIAL 174894 174904	silica gel
+T119	SYSTEMATIC 174918 174933	dichloromethane
+T120	SYSTEMATIC 174934 174942	methanol
+T121	SYSTEMATIC 174981 175142	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-8-azabicyclo[3.2.1]oct-2-ene-8-carboxylate
+T122	SYSTEMATIC 175221 175382	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-8-azabicyclo[3.2.1]oct-2-ene-8-carboxylate
+T123	SYSTEMATIC 175407 175422	dichloromethane
+T124	SYSTEMATIC 175442 175462	trifluoroacetic acid
+T125	SYSTEMATIC 175594 175734	2-[4-[(8-[8-azabicyclo[3.2.1]oct-2-en-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T126	ABBREVIATION 175742 175745	TFA
+T127	SYSTEMATIC 175819 175960	2-[4-[(8-[8-azabicyclo[3.2.1]oct-2-en-3-yl]-[1,2,4]triazolo [1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T128	ABBREVIATION 175970 175973	TFA
+T129	ABBREVIATION 175983 175986	DMF
+T130	SYSTEMATIC 176005 176033	4,4,4-trifluorobutanoic acid
+T131	ABBREVIATION 176056 176060	HATU
+T132	ABBREVIATION 176083 176088	DIPEA
+T133	TRIVIAL 176275 176285	silica gel
+T134	SYSTEMATIC 176299 176314	dichloromethane
+T135	SYSTEMATIC 176315 176323	methanol
+T136	FORMULA 176570 176577	NH4HCO3
+T137	TRIVIAL 176581 176586	water
+T138	FORMULA 176604 176608	MeCN
+T139	SYSTEMATIC 176685 176856	4,4,4-trifluoro-1-[3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-8-azabicyclo[3.2.1]oct-2-en-8-yl]butan-1-one
+T140	FORMULA 176947 176955	CD3OD-d4
+T141	SYSTEMATIC 177291 177460	2-[4-[(8-[6-[(4-chlorophenyl)methyl]-3,6-diazabicyclo[3.1.1]heptan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T142	SYSTEMATIC 177478 177562	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetic acid
+T143	ABBREVIATION 177586 177589	DMF
+T144	ABBREVIATION 177608 177612	HATU
+T145	ABBREVIATION 177634 177639	DIPEA
+T146	SYSTEMATIC 177661 177679	1-methylpiperazine
+T147	FORMULA 177858 177862	NaOH
+T148	SYSTEMATIC 177876 177891	dichloromethane
+T149	SYSTEMATIC 177978 177993	dichloromethane
+T150	TRIVIAL 178044 178049	brine
+T151	SYSTEMATIC 178132 178140	methanol
+T152	SYSTEMATIC 178165 178277	2-[4-([8-bromo-[1,2,4]triazolo [1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T153	SYSTEMATIC 178364 178475	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T154	SYSTEMATIC 178499 178506	dioxane
+T155	SYSTEMATIC 178525 178580	tert-butyl 3,6-diazabicyclo[3.1.1]heptane-6-carboxylate
+T156	FORMULA 178602 178617	Pd2(dba)3.CHCl3
+T157	ABBREVIATION 178640 178645	BINAP
+T158	FORMULA 178671 178677	Cs2CO3
+T159	SYSTEMATIC 178704 178712	nitrogen
+T160	SYSTEMATIC 178776 178784	nitrogen
+T161	TRIVIAL 178921 178931	silica gel
+T162	SYSTEMATIC 178945 178960	dichloromethane
+T163	SYSTEMATIC 178961 178969	methanol
+T164	SYSTEMATIC 179002 179165	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,6-diazabicyclo[3.1.1]heptane-6-carboxylate
+T165	SYSTEMATIC 179252 179415	tert-butyl 3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,6-diazabicyclo[3.1.1]heptane-6-carboxylate
+T166	SYSTEMATIC 179439 179454	dichloromethane
+T167	SYSTEMATIC 179473 179493	trifluoroacetic acid
+T168	ABBREVIATION 179596 179601	DIPEA
+T169	TRIVIAL 179771 179781	silica gel
+T170	SYSTEMATIC 179795 179810	dichloromethane
+T171	SYSTEMATIC 179811 179819	methanol
+T172	SYSTEMATIC 179858 180000	2-[4-[(8-[3,6-diazabicyclo[3.1.1]heptan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T173	SYSTEMATIC 180089 180231	2-[4-[(8-[3,6-diazabicyclo[3.1.1]heptan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T174	SYSTEMATIC 180256 180263	ethanol
+T175	FORMULA 180282 180292	Ti(Oi-Pr)4
+T176	SYSTEMATIC 180318 180338	4-chlorobenzaldehyde
+T177	FORMULA 180415 180419	AcOH
+T178	FORMULA 180445 180452	NaBH3CN
+T179	TRIVIAL 180676 180686	silica gel
+T180	SYSTEMATIC 180700 180715	dichloromethane
+T181	SYSTEMATIC 180716 180724	methanol
+T182	SYSTEMATIC 180953 180964	formic acid
+T183	TRIVIAL 180968 180973	water
+T184	FORMULA 180978 180982	MeCN
+T185	FORMULA 180990 180994	MeCN
+T186	SYSTEMATIC 181059 181228	2-[4-[(8-[6-[(4-chlorophenyl)methyl]-3,6-diazabicyclo[3.1.1]heptan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T187	SYSTEMATIC 181234 181245	formic acid
+T188	SYSTEMATIC 181276 181287	formic acid
+T189	ABBREVIATION 181374 181381	DMSO-d6
+T190	SYSTEMATIC 181410 181421	formic acid
+T191	SYSTEMATIC 181442 181453	formic acid
+T192	SYSTEMATIC 181676 181860	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T193	SYSTEMATIC 181913 181973	methyl 3-azabicyclo[3.2.1]octane-8-carboxylate hydrochloride
+T194	SYSTEMATIC 181998 182013	dichloromethane
+T195	FORMULA 182032 182037	Boc2O
+T196	ABBREVIATION 182059 182063	DMAP
+T197	ABBREVIATION 182090 182095	DIPEA
+T198	TRIVIAL 182288 182298	silica gel
+T199	SYSTEMATIC 182312 182325	ethyl acetate
+T200	FAMILY 182326 182341	petroleum ether
+T201	SYSTEMATIC 182370 182435	3-tert-butyl 8-methyl 3-azabicyclo[3.2.1]octane-3,8-dicarboxylate
+T202	SYSTEMATIC 182521 182586	3-tert-butyl 8-methyl 3-azabicyclo[3.2.1]octane-3,8-dicarboxylate
+T203	TRIVIAL 182610 182615	water
+T204	SYSTEMATIC 182629 182636	ethanol
+T205	FORMULA 182656 182659	KOH
+T206	SYSTEMATIC 182797 182814	hydrogen chloride
+T207	FORMULA 182919 182923	MeOH
+T208	ABBREVIATION 182924 182927	DCM
+T209	SYSTEMATIC 183046 183115	3-[(tert-butoxy)carbonyl]-3-azabicyclo[3.2.1]octane-8-carboxylic acid
+T210	SYSTEMATIC 183151 183220	3-[(tert-butoxy)carbonyl]-3-azabicyclo[3.2.1]octane-8-carboxylic acid
+T211	ABBREVIATION 183244 183247	DMF
+T212	ABBREVIATION 183266 183270	HATU
+T213	SYSTEMATIC 183292 183334	3-(trifluoromethyl)azetidine hydrochloride
+T214	ABBREVIATION 183359 183364	DIPEA
+T215	TRIVIAL 183555 183565	silica gel
+T216	SYSTEMATIC 183579 183594	dichloromethane
+T217	FAMILY 183595 183610	petroleum ether
+T218	SYSTEMATIC 183731 183828	tert-butyl 8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3-azabicyclo[3.2.1]octane-3-carboxylate
+T219	SYSTEMATIC 183929 184026	tert-butyl 8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3-azabicyclo[3.2.1]octane-3-carboxylate
+T220	FORMULA 184061 184064	HCl
+T221	SYSTEMATIC 184065 184072	dioxane
+T222	SYSTEMATIC 184255 184274	potassium carbonate
+T223	ABBREVIATION 184377 184380	DCM
+T224	FORMULA 184381 184385	MeOH
+T225	SYSTEMATIC 184498 184570	8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3-azabicyclo[3.2.1]octane
+T226	SYSTEMATIC 184602 184713	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T227	SYSTEMATIC 184739 184746	dioxane
+T228	SYSTEMATIC 184778 184848	8-[3-(trifluoromethyl)azetidin-1-yl]carbonyl-3-azabicyclo[3.2.1]octane
+T229	FORMULA 184872 184887	Pd2(dba)3.CHCl3
+T230	ABBREVIATION 184912 184917	BINAP
+T231	FORMULA 184945 184951	Cs2CO3
+T232	SYSTEMATIC 184979 184987	nitrogen
+T233	TRIVIAL 185176 185186	silica gel
+T234	SYSTEMATIC 185200 185215	dichloromethane
+T235	SYSTEMATIC 185216 185224	methanol
+T236	FORMULA 185466 185473	NH4HCO3
+T237	TRIVIAL 185477 185482	water
+T238	FORMULA 185500 185504	MeCN
+T239	SYSTEMATIC 185579 185764	1-(4-methylpiperazin-1-yl)-2-(4-[[8-(8-[[3-(trifluoromethyl)-azetidin-1-yl]carbonyl]-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T240	FORMULA 185891 185899	CD3OD-d4
+T241	SYSTEMATIC 186245 186453	1-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]-2-(4-[[8-(8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T242	SYSTEMATIC 186471 186555	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetic acid
+T243	ABBREVIATION 186579 186582	DMF
+T244	SYSTEMATIC 186601 186642	N-methyl-N-(oxetan-3-yl)piperidin-4-amine
+T245	FORMULA 186664 186671	EDC.HCl
+T246	FORMULA 186693 186697	HOBt
+T247	ABBREVIATION 186719 186724	DIPEA
+T248	SYSTEMATIC 186901 186916	dichloromethane
+T249	TRIVIAL 186921 186926	water
+T250	SYSTEMATIC 186965 186980	dichloromethane
+T251	TRIVIAL 187035 187040	brine
+T252	FORMULA 187056 187062	Na2SO4
+T253	TRIVIAL 187166 187176	silica gel
+T254	SYSTEMATIC 187190 187205	dichloromethane
+T255	SYSTEMATIC 187206 187214	methanol
+T256	SYSTEMATIC 187245 187376	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]ethan-1-one
+T257	SYSTEMATIC 187469 187600	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]ethan-1-one
+T258	SYSTEMATIC 187625 187632	dioxane
+T259	SYSTEMATIC 187651 187705	tert-butyl 3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T260	FORMULA 187729 187744	Pd2(dba)3.CHCl3
+T261	ABBREVIATION 187768 187773	BINAP
+T262	FORMULA 187800 187806	Cs2CO3
+T263	SYSTEMATIC 187834 187842	nitrogen
+T264	TRIVIAL 188005 188015	silica gel
+T265	SYSTEMATIC 188029 188044	dichloromethane
+T266	SYSTEMATIC 188045 188053	methanol
+T267	SYSTEMATIC 188086 188268	tert-butyl 3-(2-[[1-(2-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]-2-oxoethyl)-1H-pyrazol-4-yl]amino]-[1,2,4]triazolo[1,5-a]pyridin-8-yl)-3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T268	SYSTEMATIC 188355 188537	tert-butyl 3-(2-[[1-(2-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]-2-oxoethyl)-1H-pyrazol-4-yl]amino]-[1,2,4]triazolo[1,5-a]pyridin-8-yl)-3,8-diazabicyclo[3.2.1]octane-8-carboxylate
+T269	SYSTEMATIC 188562 188577	dichloromethane
+T270	SYSTEMATIC 188596 188616	trifluoroacetic acid
+T271	ABBREVIATION 188795 188800	DIPEA
+T272	SYSTEMATIC 188890 189051	2-[4-[(8-[3,8-diazabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]ethan-1-one
+T273	ABBREVIATION 189063 189068	DIPEA
+T274	ABBREVIATION 189069 189072	TFA
+T275	SYSTEMATIC 189189 189196	ethanol
+T276	SYSTEMATIC 189216 189272	4-nitrophenyl 3-(trifluoromethyl)azetidine-1-carboxylate
+T277	ABBREVIATION 189298 189303	DIPEA
+T278	TRIVIAL 189494 189504	silica gel
+T279	SYSTEMATIC 189518 189533	dichloromethane
+T280	SYSTEMATIC 189534 189542	methanol
+T281	FORMULA 189724 189731	NH4HCO3
+T282	TRIVIAL 189735 189740	water
+T283	FORMULA 189758 189762	MeCN
+T284	SYSTEMATIC 189847 190055	1-[4-[methyl(oxetan-3-yl)amino]piperidin-1-yl]-2-(4-[[8-(8-[[3-(trifluoromethyl)azetidin-1-yl]carbonyl]-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]-1H-pyrazol-1-yl)ethan-1-one
+T285	FORMULA 190141 190149	CD3OD-d4
+T286	SYSTEMATIC 190527 190611	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetic acid
+T287	SYSTEMATIC 190629 190685	4-nitro-1-[[2-(trimethylsilyl)ethoxy]methyl]-1H-pyrazole
+T288	SYSTEMATIC 190708 190715	ethanol
+T289	TRIVIAL 190730 190735	water
+T290	SYSTEMATIC 190755 190759	iron
+T291	FORMULA 190789 190794	NH4Cl
+T292	SYSTEMATIC 191013 191026	ethyl acetate
+T293	TRIVIAL 191066 191071	brine
+T294	SYSTEMATIC 191103 191117	sodium sulfate
+T295	SYSTEMATIC 191182 191238	1-[[2-(trimethyl silyl)ethoxy]methyl]-1H-pyrazol-4-amine
+T296	SYSTEMATIC 191372 191417	8-bromo-2-iodo-[1,2,4]triazolo[1,5-a]pyridine
+T297	SYSTEMATIC 191440 191447	dioxane
+T298	SYSTEMATIC 191467 191522	1-[[2-(trimethylsilyl)ethoxy]methyl]-1H-pyrazol-4-amine
+T299	FORMULA 191542 191557	Pd2(dba)3.CHCl3
+T300	IDENTIFIER 191579 191587	XantPhos
+T301	FORMULA 191612 191618	Cs2CO3
+T302	SYSTEMATIC 191644 191652	nitrogen
+T303	SYSTEMATIC 191715 191723	nitrogen
+T304	SYSTEMATIC 191805 191818	ethyl acetate
+T305	TRIVIAL 191870 191875	brine
+T306	SYSTEMATIC 191898 191912	sodium sulfate
+T307	TRIVIAL 191996 192006	silica gel
+T308	SYSTEMATIC 192020 192033	ethyl acetate
+T309	FAMILY 192034 192049	petroleum ether
+T310	SYSTEMATIC 192151 192253	N-[8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]-1-[[2-(trimethylsilyl)ethoxy]methyl]-1H-pyrazol-4-amine
+T311	SYSTEMATIC 192340 192442	N-[8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]-1-[[2-(trimethylsilyl)ethoxy]methyl]-1H-pyrazol-4-amine
+T312	SYSTEMATIC 192465 192472	dioxane
+T313	FORMULA 192492 192495	HCl
+T314	SYSTEMATIC 192496 192503	dioxane
+T315	SYSTEMATIC 192645 192670	sodium hydrogen carbonate
+T316	TRIVIAL 192795 192800	water
+T317	SYSTEMATIC 192831 192896	N-[8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]-1H-pyrazol-4-amine
+T318	SYSTEMATIC 193058 193123	N-[8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]-1H-pyrazol-4-amine
+T319	ABBREVIATION 193146 193149	DMF
+T320	SYSTEMATIC 193169 193194	tert-butyl 2-bromoacetate
+T321	ABBREVIATION 193215 193220	DIPEA
+T322	TRIVIAL 193373 193378	water
+T323	SYSTEMATIC 193435 193448	ethyl acetate
+T324	TRIVIAL 193532 193537	brine
+T325	SYSTEMATIC 193576 193590	sodium sulfate
+T326	TRIVIAL 193674 193684	silica gel
+T327	SYSTEMATIC 193698 193711	ethyl acetate
+T328	FAMILY 193712 193727	petroleum ether
+T329	SYSTEMATIC 193831 193922	tert-butyl 2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetate
+T330	SYSTEMATIC 194009 194026	hydrogen chloride
+T331	SYSTEMATIC 194030 194037	dioxane
+T332	SYSTEMATIC 194061 194152	tert-butyl 2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetate
+T333	SYSTEMATIC 194319 194417	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]acetic acid hydrochloride
+T334	ABBREVIATION 194463 194470	DMSO-d6
+T335	SYSTEMATIC 194630 194800	2-(4-((8-((1R,5 S)-8-(2-fluorobenzyl)-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1l-yl)-1-(4-methylpiperazin-1-yl)ethan-1-one
+T336	SYSTEMATIC 194812 194960	2-[4-[[8-(3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino]pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethanone hydrochloride
+T337	SYSTEMATIC 194983 195015	1-(bromomethyl)-2-fluoro-benzene
+T338	ABBREVIATION 195043 195048	DIPEA
+T339	ABBREVIATION 195085 195088	DMF
+T340	FORMULA 195298 195305	NH4HCO3
+T341	TRIVIAL 195309 195314	water
+T342	FORMULA 195332 195336	MeCN
+T343	SYSTEMATIC 195448 195617	2-(4-((8-((1R,5 S)-8-(2-fluorobenzyl)-3,8-diazabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1-yl)-1-(4-methylpiperazin-1-yl)ethan-1-one
+T344	SYSTEMATIC 195695 195874	1-(4-methylpiperazin-1-yl)-2-(4-((8-((1R,5 S,8r)-8-((3,3,3-trifluoropropyl)amino)-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1-yl)ethanone
+T345	SYSTEMATIC 195875 195904	3,3,3-Trifluoropropan-1-amine
+T346	SYSTEMATIC 195952 196008	tert-butyl 8-oxo-3-azabicyclo[3.2.1]octane-3-carboxylate
+T347	SYSTEMATIC 196033 196048	dichloromethane
+T348	FORMULA 196125 196135	NaBH(OAc)3
+T349	TRIVIAL 196281 196291	silica gel
+T350	SYSTEMATIC 196327 196340	ethyl acetate
+T351	FAMILY 196341 196356	petroleum ether
+T352	SYSTEMATIC 196431 196520	tert-butyl trans-8-[(3,3,3-trifluoropropyl)amino]-3-azabicyclo[3.2.1]octane-3-carboxylate
+T353	ABBREVIATION 196566 196569	DCM
+T354	FORMULA 196570 196574	MeOH
+T355	SYSTEMATIC 196594 196683	tert-butyl trans-8-[(3,3,3-trifluoropropyl)amino]-3-azabicyclo[3.2.1]octane-3-carboxylate
+T356	FORMULA 196708 196711	HCl
+T357	SYSTEMATIC 196712 196719	dioxane
+T358	TRIVIAL 196856 196861	water
+T359	SYSTEMATIC 196935 196953	sodium bicarbonate
+T360	ABBREVIATION 197008 197011	DCM
+T361	FORMULA 197016 197020	MeOH
+T362	SYSTEMATIC 197136 197201	trans-N-(3,3,3-trifluoropropyl)-3-azabicyclo[3.2.1]-octan-8-amine
+T363	ABBREVIATION 197254 197257	DCM
+T364	FORMULA 197258 197262	MeOH
+T365	SYSTEMATIC 197290 197401	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T366	SYSTEMATIC 197424 197488	trans-N-(3,3,3-trifluoropropyl)-3-azabicyclo[3.2.1]octan-8-amine
+T367	FORMULA 197512 197526	Pd2(dba)3CHCl3
+T368	ABBREVIATION 197551 197556	BINAP
+T369	FORMULA 197583 197589	Cs2CO3
+T370	SYSTEMATIC 197614 197621	dioxane
+T371	TRIVIAL 197788 197798	silica gel
+T372	SYSTEMATIC 197834 197849	dichloromethane
+T373	SYSTEMATIC 197850 197858	methanol
+T374	TRIVIAL 198022 198027	Water
+T375	FORMULA 198036 198042	NH3H2O
+T376	FORMULA 198048 198052	MeCN
+T377	SYSTEMATIC 198169 198348	1-(4-methylpiperazin-1-yl)-2-(4-((8-((1R,5 S,8r)-8-((3,3,3-trifluoropropyl)amino)-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1-yl)ethanone
+T378	FORMULA 198454 198462	CD3OD-d4
+T379	SYSTEMATIC 198800 198964	4-[3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,8-diazabicyclo[3.2.1]octane-8-sulfonyl]benzonitrile
+T380	SYSTEMATIC 198982 199123	2-[4-[(8-[3,8-diazabicyclo[3.2.1]octan-3-yl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino]-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T381	SYSTEMATIC 199147 199162	dichloromethane
+T382	SYSTEMATIC 199180 199214	4-cyanobenzene-1-sulfonyl chloride
+T383	ABBREVIATION 199241 199246	DIPEA
+T384	TRIVIAL 199374 199379	water
+T385	SYSTEMATIC 199384 199397	ethyl acetate
+T386	TRIVIAL 199458 199463	water
+T387	TRIVIAL 199468 199473	brine
+T388	SYSTEMATIC 199496 199510	sodium sulfate
+T389	TRIVIAL 199683 199688	Water
+T390	FORMULA 199697 199703	NH3H2O
+T391	FORMULA 199709 199713	MeCN
+T392	SYSTEMATIC 199839 200003	4-[3-[2-([1-[2-(4-methylpiperazin-1-yl)-2-oxoethyl]-1H-pyrazol-4-yl]amino)-[1,2,4]triazolo[1,5-a]pyridin-8-yl]-3,8-diazabicyclo[3.2.1]octane-8-sulfonyl]benzonitrile
+T393	FORMULA 200089 200097	CD3OD-d4
+T394	SYSTEMATIC 200450 200620	1-(4-methylpiperazin-1-yl)-2-(4-((8-((1R,5 S,8s)-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1-yl)ethanone
+T395	SYSTEMATIC 200638 200677	3-benzyl-3-azabicyclo[3.2.1]octan-8-one
+T396	SYSTEMATIC 200701 200709	methanol
+T397	FORMULA 200728 200733	NaBH4
+T398	SYSTEMATIC 200781 200789	nitrogen
+T399	TRIVIAL 200877 200882	water
+T400	SYSTEMATIC 200955 200999	trans-3-benzyl-3-azabicyclo[3.2.1]octan-8-ol
+T401	ABBREVIATION 201045 201047	PE
+T402	ABBREVIATION 201048 201050	EA
+T403	SYSTEMATIC 201073 201117	trans-3-benzyl-3-azabicyclo[3.2.1]octan-8-ol
+T404	SYSTEMATIC 201141 201156	dichloromethane
+T405	ABBREVIATION 201175 201180	DIPEA
+T406	FORMULA 201205 201209	Tf2O
+T407	ABBREVIATION 201350 201353	DCM
+T408	TRIVIAL 201358 201363	water
+T409	TRIVIAL 201399 201404	water
+T410	TRIVIAL 201409 201414	brine
+T411	SYSTEMATIC 201427 201441	sodium sulfate
+T412	TRIVIAL 201501 201511	silica gel
+T413	SYSTEMATIC 201547 201560	ethyl acetate
+T414	FAMILY 201561 201576	petroleum ether
+T415	SYSTEMATIC 201663 201733	trans-3-benzyl-3-azabicyclo[3.2.1]octan-8-yl trifluoromethanesulfonate
+T416	FAMILY 201782 201797	Petroleum ether
+T417	SYSTEMATIC 201798 201811	ethyl acetate
+T418	SYSTEMATIC 201818 201840	p-Toluenesulfonic acid
+T419	SYSTEMATIC 201888 201958	trans-3-benzyl-3-azabicyclo[3.2.1]octan-8-yl trifluoromethanesulfonate
+T420	ABBREVIATION 202003 202007	DMSO
+T421	TRIVIAL 202018 202023	water
+T422	SYSTEMATIC 202037 202044	toluene
+T423	SYSTEMATIC 202161 202180	potassium carbonate
+T424	SYSTEMATIC 202255 202270	dichloromethane
+T425	TRIVIAL 202371 202381	silica gel
+T426	SYSTEMATIC 202417 202430	ethyl acetate
+T427	FAMILY 202431 202446	petroleum ether
+T428	SYSTEMATIC 202538 202580	cis-3-benzyl-3-azabicyclo[3.2.1]octan-8-ol
+T429	FAMILY 202633 202648	Petroleum ether
+T430	SYSTEMATIC 202649 202662	ethyl acetate
+T431	SYSTEMATIC 202681 202723	cis-3-benzyl-3-azabicyclo[3.2.1]octan-8-ol
+T432	FORMULA 202752 202756	Pd/C
+T433	SYSTEMATIC 202768 202776	methanol
+T434	FORMULA 202825 202827	H2
+T435	SYSTEMATIC 202930 202963	cis-3-azabicyclo[3.2.1]octan-8-ol
+T436	ABBREVIATION 203016 203019	DCM
+T437	FORMULA 203020 203024	MeOH
+T438	SYSTEMATIC 203047 203080	cis-3-azabicyclo[3.2.1]octan-8-ol
+T439	SYSTEMATIC 203104 203119	dichloromethane
+T440	ABBREVIATION 203139 203144	DIPEA
+T441	SYSTEMATIC 203169 203194	di-tert butyl dicarbonate
+T442	TRIVIAL 203327 203337	silica gel
+T443	SYSTEMATIC 203373 203386	ethyl acetate
+T444	FAMILY 203387 203402	petroleum ether
+T445	SYSTEMATIC 203497 203561	tert-butyl cis-8-hydroxy-3-azabicyclo[3.2.1]octane-3-carboxylate
+T446	FAMILY 203614 203629	Petroleum ether
+T447	SYSTEMATIC 203630 203643	ethyl acetate
+T448	FORMULA 203668 203671	NaH
+T449	TRIVIAL 203699 203710	mineral oil
+T450	SYSTEMATIC 203726 203747	N,N-dimethylformamide
+T451	SYSTEMATIC 203767 203831	tert-butyl cis-8-hydroxy-3-azabicyclo[3.2.1]octane-3-carboxylate
+T452	SYSTEMATIC 203868 203876	nitrogen
+T453	SYSTEMATIC 204002 204040	4-(chloromethyl)pyridine hydrochloride
+T454	TRIVIAL 204185 204190	water
+T455	TRIVIAL 204285 204295	silica gel
+T456	SYSTEMATIC 204331 204344	ethyl acetate
+T457	FAMILY 204345 204360	petroleum ether
+T458	SYSTEMATIC 204453 204531	tert-butyl cis-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octane-3-carboxylate
+T459	FAMILY 204577 204592	Petroleum ether
+T460	SYSTEMATIC 204593 204606	ethyl acetate
+T461	SYSTEMATIC 204625 204703	tert-butyl cis-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octane-3-carboxylate
+T462	FORMULA 204728 204731	HCl
+T463	SYSTEMATIC 204732 204739	dioxane
+T464	SYSTEMATIC 204918 204937	potassium carbonate
+T465	ABBREVIATION 205014 205017	DCM
+T466	FORMULA 205018 205022	MeOH
+T467	SYSTEMATIC 205146 205199	cis-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octane
+T468	ABBREVIATION 205251 205254	DCM
+T469	FORMULA 205255 205259	MeOH
+T470	SYSTEMATIC 205287 205398	2-[4-([8-bromo-[1,2,4]triazolo[1,5-a]pyridin-2-yl]amino)-1H-pyrazol-1-yl]-1-(4-methylpiperazin-1-yl)ethan-1-one
+T471	SYSTEMATIC 205421 205474	cis-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octane
+T472	FORMULA 205498 205507	Pd2(dba)3
+T473	ABBREVIATION 205531 205536	BINAP
+T474	FORMULA 205563 205569	Cs2CO3
+T475	SYSTEMATIC 205594 205601	dioxane
+T476	TRIVIAL 205777 205787	silica gel
+T477	SYSTEMATIC 205837 205845	methanol
+T478	SYSTEMATIC 205849 205864	dichloromethane
+T479	SYSTEMATIC 205986 205994	methanol
+T480	SYSTEMATIC 206005 206175	1-(4-methylpiperazin-1-yl)-2-(4-((8-((1R,5 S,8s)-8-(pyridin-4-ylmethoxy)-3-azabicyclo[3.2.1]octan-3-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl)amino)-1H-pyrazol-1-yl)ethanone
+T481	ABBREVIATION 206275 206282	DMSO-d6

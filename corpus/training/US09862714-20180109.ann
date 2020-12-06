@@ -1,0 +1,512 @@
+T1	SYSTEMATIC 274794 274876	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T2	SYSTEMATIC 274877 274929	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T3	SYSTEMATIC 274934 274964	4-(chlorosulfonyl)benzoic acid
+T4	SYSTEMATIC 275001 275012	m-toluidine
+T5	SYSTEMATIC 275055 275107	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T6	SYSTEMATIC 275330 275382	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T7	SYSTEMATIC 275424 275455	4-(pyridin-2-yl)thiazol-2-amine
+T8	FORMULA 275565 275570	EtOAc
+T9	FAMILY 275574 275581	hexanes
+T10	SYSTEMATIC 275590 275672	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T11	SYSTEMATIC 276024 276099	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-p-tolylthiazol-2-yl)benzamide
+T12	SYSTEMATIC 276100 276152	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T13	SYSTEMATIC 276194 276218	4-p-tolylthiazol-2-amine
+T14	FORMULA 276325 276330	EtOAc
+T15	FAMILY 276334 276341	hexanes
+T16	SYSTEMATIC 276350 276425	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-p-tolylthiazol-2-yl)benzamide
+T17	SYSTEMATIC 276693 276767	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-phenylthiazol-2-yl)benzamide
+T18	SYSTEMATIC 276768 276820	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T19	SYSTEMATIC 276862 276885	4-phenylthiazol-2-amine
+T20	FORMULA 276992 276997	EtOAc
+T21	FAMILY 277001 277008	hexanes
+T22	SYSTEMATIC 277017 277091	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-phenylthiazol-2-yl)benzamide
+T23	SYSTEMATIC 277369 277451	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T24	SYSTEMATIC 277452 277504	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T25	SYSTEMATIC 277546 277577	6-methylbenzo[d]thiazol-2-amine
+T26	FORMULA 277684 277689	EtOAc
+T27	FAMILY 277693 277700	hexanes
+T28	SYSTEMATIC 277709 277791	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T29	SYSTEMATIC 278076 278163	N-(4-(4-acetamidophenyl)thiazol-2-yl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T30	SYSTEMATIC 278164 278216	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T31	SYSTEMATIC 278258 278300	N-(4-(2-aminothiazol-4-yl)phenyl)acetamide
+T32	FORMULA 278407 278412	EtOAc
+T33	FAMILY 278416 278423	hexanes
+T34	SYSTEMATIC 278432 278519	N-(4-(4-acetamidophenyl)thiazol-2-yl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T35	SYSTEMATIC 278796 278878	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T36	SYSTEMATIC 278879 278931	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T37	SYSTEMATIC 278936 278966	3-(chlorosulfonyl)benzoic acid
+T38	SYSTEMATIC 279003 279030	1,2,3,4-tetrahydroquinoline
+T39	SYSTEMATIC 279074 279126	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T40	SYSTEMATIC 279394 279446	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T41	SYSTEMATIC 279488 279519	4-(pyridin-2-yl)thiazol-2-amine
+T42	FORMULA 279628 279633	EtOAc
+T43	FAMILY 279637 279644	hexanes
+T44	SYSTEMATIC 279686 279699	diethyl ether
+T45	SYSTEMATIC 279708 279790	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T46	SYSTEMATIC 280108 280174	3-(indolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T47	SYSTEMATIC 280175 280211	3-(indolin-1-ylsulfonyl)benzoic acid
+T48	SYSTEMATIC 280216 280246	3-(chlorosulfonyl)benzoic acid
+T49	SYSTEMATIC 280299 280307	indoline
+T50	SYSTEMATIC 280350 280386	3-(indolin-1-ylsulfonyl)benzoic acid
+T51	SYSTEMATIC 280713 280749	3-(indolin-1-ylsulfonyl)benzoic acid
+T52	SYSTEMATIC 280791 280822	4-(pyridin-2-yl)thiazol-2-amine
+T53	FORMULA 280931 280936	EtOAc
+T54	FAMILY 280940 280947	hexanes
+T55	SYSTEMATIC 280989 281002	diethyl ether
+T56	SYSTEMATIC 281011 281077	3-(indolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T57	SYSTEMATIC 281442 281511	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-methoxyphenyl)benzamide
+T58	SYSTEMATIC 281512 281564	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T59	SYSTEMATIC 281606 281622	3-methoxyaniline
+T60	FORMULA 281729 281734	EtOAc
+T61	FAMILY 281738 281745	hexanes
+T62	SYSTEMATIC 281787 281802	dichloromethane
+T63	FAMILY 281803 281810	hexanes
+T64	SYSTEMATIC 281819 281888	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-methoxyphenyl)benzamide
+T65	SYSTEMATIC 282235 282313	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-(1-hydroxyethyl)phenyl)benzamide
+T66	SYSTEMATIC 282314 282366	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T67	SYSTEMATIC 282408 282432	1-(3-aminophenyl)ethanol
+T68	FORMULA 282539 282544	EtOAc
+T69	FAMILY 282548 282555	hexanes
+T70	SYSTEMATIC 282597 282612	dichloromethane
+T71	FAMILY 282613 282620	hexanes
+T72	SYSTEMATIC 282629 282707	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-(1-hydroxyethyl)phenyl)benzamide
+T73	SYSTEMATIC 283041 283107	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(pyridin-4-yl)benzamide
+T74	SYSTEMATIC 283108 283160	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T75	SYSTEMATIC 283202 283217	4-aminopyridine
+T76	FORMULA 283324 283329	EtOAc
+T77	SYSTEMATIC 283333 283348	dichloromethane
+T78	SYSTEMATIC 283390 283405	dichloromethane
+T79	FAMILY 283406 283413	hexanes
+T80	SYSTEMATIC 283422 283488	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(pyridin-4-yl)benzamide
+T81	SYSTEMATIC 283724 283806	4-(N-(4-fluorophenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T82	SYSTEMATIC 283807 283859	4-(N-(4-fluorophenyl)-N-methylsulfamoyl)benzoic acid
+T83	SYSTEMATIC 283864 283894	4-(chlorosulfonyl)benzoic acid
+T84	SYSTEMATIC 283931 283955	4-fluoro-N-methylaniline
+T85	SYSTEMATIC 283999 284052	4-(N-(4-fluorophenyl)-N-methylsulfamoyl) benzoic acid
+T86	SYSTEMATIC 284181 284233	4-(N-(4-fluorophenyl)-N-methylsulfamoyl)benzoic acid
+T87	SYSTEMATIC 284275 284306	4-(pyridin-2-yl)thiazol-2-amine
+T88	FORMULA 284407 284412	EtOAc
+T89	SYSTEMATIC 284454 284467	diethyl ether
+T90	SYSTEMATIC 284476 284558	4-(N-(4-fluorophenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T91	SYSTEMATIC 284784 284866	4-(N-(4-chlorophenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T92	SYSTEMATIC 284867 284919	4-(N-(4-chlorophenyl)-N-methylsulfamoyl)benzoic acid
+T93	SYSTEMATIC 284924 284954	4-(chlorosulfonyl)benzoic acid
+T94	SYSTEMATIC 284991 285015	4-chloro-N-methylaniline
+T95	SYSTEMATIC 285059 285112	4-(N-(4-chlorophenyl)-N-methylsulfamoyl) benzoic acid
+T96	SYSTEMATIC 285270 285322	4-(N-(4-chlorophenyl)-N-methylsulfamoyl)benzoic acid
+T97	SYSTEMATIC 285364 285395	4-(pyridin-2-yl)thiazol-2-amine
+T98	FORMULA 285496 285501	EtOAc
+T99	SYSTEMATIC 285543 285556	diethyl ether
+T100	SYSTEMATIC 285565 285647	4-(N-(4-chlorophenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T101	SYSTEMATIC 285904 285997	4-(N-methyl-N-(4-(trifluoromethyl)phenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T102	SYSTEMATIC 285998 286061	4-(N-methyl-N-(4-(trifluoromethyl)phenyl)sulfamoyl)benzoic acid
+T103	SYSTEMATIC 286066 286096	4-(chlorosulfonyl)benzoic acid
+T104	SYSTEMATIC 286133 286168	N-methyl-4-(trifluoromethyl)aniline
+T105	SYSTEMATIC 286213 286276	4-(N-methyl-N-(4-(trifluoromethyl)phenyl)sulfamoyl)benzoic acid
+T106	SYSTEMATIC 286434 286497	4-(N-methyl-N-(4-(trifluoromethyl)phenyl)sulfamoyl)benzoic acid
+T107	SYSTEMATIC 286539 286570	4-(pyridin-2-yl)thiazol-2-amine
+T108	FORMULA 286671 286676	EtOAc
+T109	SYSTEMATIC 286718 286731	diethyl ether
+T110	SYSTEMATIC 286740 286833	4-(N-methyl-N-(4-(trifluoromethyl)phenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T111	SYSTEMATIC 287129 287212	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T112	SYSTEMATIC 287213 287266	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T113	SYSTEMATIC 287271 287301	4-(chlorosulfonyl)benzoic acid
+T114	SYSTEMATIC 287338 287363	4-methoxy-N-methylaniline
+T115	SYSTEMATIC 287407 287461	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl) benzoic acid
+T116	SYSTEMATIC 287634 287687	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T117	SYSTEMATIC 287729 287760	4-(pyridin-2-yl)thiazol-2-amine
+T118	FORMULA 287861 287866	EtOAc
+T119	SYSTEMATIC 287908 287921	diethyl ether
+T120	SYSTEMATIC 287930 288013	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T121	SYSTEMATIC 288284 288358	4-(5-chloroindolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T122	SYSTEMATIC 288359 288403	4-(5-chloroindolin-1-ylsulfonyl)benzoic acid
+T123	SYSTEMATIC 288408 288438	3-(chlorosulfonyl)benzoic acid
+T124	SYSTEMATIC 288475 288491	5-chloroindoline
+T125	SYSTEMATIC 288536 288580	3-(5-chloroindolin-1-ylsulfonyl)benzoic acid
+T126	SYSTEMATIC 288766 288810	3-(5-chloroindolin-1-ylsulfonyl)benzoic acid
+T127	SYSTEMATIC 288852 288883	4-(pyridin-2-yl)thiazol-2-amine
+T128	ABBREVIATION 288906 288909	DMF
+T129	FORMULA 288998 289003	EtOAc
+T130	SYSTEMATIC 289045 289058	diethyl ether
+T131	SYSTEMATIC 289067 289141	4-(5-chloroindolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T132	SYSTEMATIC 289392 289467	4-(5-chloroindolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T133	SYSTEMATIC 289468 289512	3-(5-chloroindolin-1-ylsulfonyl)benzoic acid
+T134	SYSTEMATIC 289554 289585	4-(pyridin-2-yl)thiazol-2-amine
+T135	FORMULA 289692 289697	EtOAc
+T136	FAMILY 289701 289708	hexanes
+T137	SYSTEMATIC 289750 289763	diethyl ether
+T138	SYSTEMATIC 289772 289847	4-(5-chloroindolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T139	SYSTEMATIC 290136 290227	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-2-fluoro-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T140	SYSTEMATIC 290228 290289	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-2-fluorobenzoic acid
+T141	SYSTEMATIC 290331 290362	4-(pyridin-2-yl)thiazol-2-amine
+T142	FORMULA 290463 290468	EtOAc
+T143	SYSTEMATIC 290510 290523	diethyl ether
+T144	SYSTEMATIC 290532 290623	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-2-fluoro-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T145	SYSTEMATIC 290909 290997	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)benzamide
+T146	SYSTEMATIC 290998 291050	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T147	SYSTEMATIC 291092 291129	3-(4-fluorophenyl)-1H-pyrazol-5-amine
+T148	FORMULA 291235 291239	MeOH
+T149	FORMULA 291243 291248	EtOAc
+T150	SYSTEMATIC 291290 291305	dichloromethane
+T151	FAMILY 291306 291313	hexanes
+T152	SYSTEMATIC 291322 291410	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)benzamide
+T153	SYSTEMATIC 291688 291762	4-(N-(4-methoxyphenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T154	SYSTEMATIC 291763 291807	4-(N-(4-methoxyphenyl)sulfamoyl)benzoic acid
+T155	SYSTEMATIC 291813 291843	4-(chlorosulfonyl)benzoic acid
+T156	SYSTEMATIC 291881 291897	4-methoxyaniline
+T157	SYSTEMATIC 291940 291984	4-(N-(4-methoxyphenyl)sulfamoyl)benzoic acid
+T158	SYSTEMATIC 292162 292206	4-(N-(4-methoxyphenyl)sulfamoyl)benzoic acid
+T159	SYSTEMATIC 292249 292280	4-(pyridin-2-yl)thiazol-2-amine
+T160	FORMULA 292381 292386	EtOAc
+T161	SYSTEMATIC 292428 292441	diethyl ether
+T162	SYSTEMATIC 292450 292524	4-(N-(4-methoxyphenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T163	SYSTEMATIC 292777 292850	4-(N-(3-chlorophenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T164	SYSTEMATIC 292851 292894	4-(N-(3-chlorophenyl)sulfamoyl)benzoic acid
+T165	SYSTEMATIC 292900 292930	4-(chlorosulfonyl)benzoic acid
+T166	SYSTEMATIC 292973 292988	3-chloroaniline
+T167	SYSTEMATIC 293031 293074	4-(N-(3-chlorophenyl)sulfamoyl)benzoic acid
+T168	SYSTEMATIC 293233 293276	4-(N-(3-chlorophenyl)sulfamoyl)benzoic acid
+T169	SYSTEMATIC 293319 293350	4-(pyridin-2-yl)thiazol-2-amine
+T170	FORMULA 293459 293464	EtOAc
+T171	FAMILY 293468 293475	hexanes
+T172	SYSTEMATIC 293517 293530	diethyl ether
+T173	SYSTEMATIC 293539 293612	4-(N-(3-chlorophenyl)sulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T174	SYSTEMATIC 293887 293970	4-(N-(3-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T175	SYSTEMATIC 293971 294024	4-(N-(3-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T176	SYSTEMATIC 294030 294060	4-(chlorosulfonyl)benzoic acid
+T177	SYSTEMATIC 294098 294123	3-methoxy-N-methylaniline
+T178	SYSTEMATIC 294166 294219	4-(N-(3-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T179	SYSTEMATIC 294427 294480	4-(N-(3-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T180	SYSTEMATIC 294523 294554	4-(pyridin-2-yl)thiazol-2-amine
+T181	FORMULA 294663 294668	EtOAc
+T182	FAMILY 294672 294679	hexanes
+T183	SYSTEMATIC 294721 294734	diethyl ether
+T184	SYSTEMATIC 294743 294826	4-(N-(3-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T185	SYSTEMATIC 295119 295202	4-(N-(2-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T186	SYSTEMATIC 295203 295256	4-(N-(2-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T187	SYSTEMATIC 295262 295292	4-(chlorosulfonyl)benzoic acid
+T188	SYSTEMATIC 295330 295355	2-methoxy-N-methylaniline
+T189	SYSTEMATIC 295398 295451	4-(N-(2-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T190	SYSTEMATIC 295665 295718	4-(N-(2-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T191	SYSTEMATIC 295761 295792	4-(pyridin-2-yl)thiazol-2-amine
+T192	FORMULA 295901 295906	EtOAc
+T193	FAMILY 295910 295917	hexanes
+T194	SYSTEMATIC 295959 295972	diethyl ether
+T195	SYSTEMATIC 295981 296064	4-(N-(2-methoxyphenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T196	SYSTEMATIC 296333 296397	N-(4-(pyridin-2-yl)thiazol-2-yl)-4-(N-m-tolylsulfamoyl)benzamide
+T197	SYSTEMATIC 296398 296432	4-(N-m-tolylsulfamoyl)benzoic acid
+T198	SYSTEMATIC 296438 296468	4-(chlorosulfonyl)benzoic acid
+T199	SYSTEMATIC 296506 296517	m-toluidine
+T200	SYSTEMATIC 296560 296594	4-(N-m-tolylsulfamoyl)benzoic acid
+T201	SYSTEMATIC 296809 296843	4-(N-m-tolylsulfamoyl)benzoic acid
+T202	SYSTEMATIC 296885 296916	4-(pyridin-2-yl)thiazol-2-amine
+T203	FORMULA 297025 297030	EtOAc
+T204	FAMILY 297034 297041	hexanes
+T205	SYSTEMATIC 297083 297098	dichloromethane
+T206	FAMILY 297099 297106	hexanes
+T207	SYSTEMATIC 297115 297179	N-(4-(pyridin-2-yl)thiazol-2-yl)-4-(N-m-tolylsulfamoyl)benzamide
+T208	SYSTEMATIC 297493 297576	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T209	SYSTEMATIC 297577 297630	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T210	SYSTEMATIC 297672 297703	6-methylbenzo[d]thiazol-2-amine
+T211	FORMULA 297810 297815	EtOAc
+T212	FAMILY 297819 297826	hexanes
+T213	SYSTEMATIC 297868 297883	dichloromethane
+T214	FAMILY 297884 297891	hexanes
+T215	SYSTEMATIC 297900 297983	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T216	SYSTEMATIC 298223 298307	N-(6-methoxybenzo[d]thiazol-2-yl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T217	SYSTEMATIC 298308 298361	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T218	SYSTEMATIC 298403 298435	6-methoxybenzo[d]thiazol-2-amine
+T219	FORMULA 298542 298547	EtOAc
+T220	FAMILY 298551 298558	hexanes
+T221	SYSTEMATIC 298600 298615	dichloromethane
+T222	FAMILY 298616 298623	hexanes
+T223	SYSTEMATIC 298632 298716	N-(6-methoxybenzo[d]thiazol-2-yl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T224	SYSTEMATIC 298933 299021	N-(4-(4-acetamidophenyl)thiazol-2-yl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T225	SYSTEMATIC 299022 299075	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T226	SYSTEMATIC 299117 299159	N-(4-(2-aminothiazol-4-yl)phenyl)acetamide
+T227	FORMULA 299267 299272	EtOAc
+T228	FAMILY 299276 299283	hexanes
+T229	SYSTEMATIC 299325 299340	dichloromethane
+T230	FAMILY 299341 299348	hexanes
+T231	SYSTEMATIC 299357 299446	N-(4-(4-acetamidophenyl)thiazol-2-yl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl) benzamide
+T232	SYSTEMATIC 299677 299744	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(pyridin-4-yl)benzamide
+T233	SYSTEMATIC 299745 299798	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T234	SYSTEMATIC 299840 299855	4-aminopyridine
+T235	FORMULA 299962 299967	EtOAc
+T236	FAMILY 299971 299978	hexanes
+T237	SYSTEMATIC 300020 300035	dichloromethane
+T238	FAMILY 300036 300043	hexanes
+T239	SYSTEMATIC 300052 300119	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)-N-(pyridin-4-yl)benzamide
+T240	SYSTEMATIC 300369 300448	N-(3-(1-hydroxyethyl)phenyl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T241	SYSTEMATIC 300449 300502	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T242	SYSTEMATIC 300544 300568	1-(3-aminophenyl)ethanol
+T243	FORMULA 300675 300680	EtOAc
+T244	FAMILY 300684 300691	hexanes
+T245	SYSTEMATIC 300733 300748	dichloromethane
+T246	FAMILY 300749 300756	hexanes
+T247	SYSTEMATIC 300765 300844	N-(3-(1-hydroxyethyl)phenyl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T248	SYSTEMATIC 301175 301246	N-(4-(4-acetamidophenyl)thiazol-2-yl)-3-(indolin-1-ylsulfonyl)benzamide
+T249	SYSTEMATIC 301247 301283	3-(indolin-1-ylsulfonyl)benzoic acid
+T250	SYSTEMATIC 301312 301317	amine
+T251	FORMULA 301426 301431	EtOAc
+T252	FAMILY 301435 301442	hexanes
+T253	SYSTEMATIC 301484 301499	dichloromethane
+T254	FAMILY 301500 301507	hexanes
+T255	SYSTEMATIC 301516 301587	N-(4-(4-acetamidophenyl)thiazol-2-yl)-3-(indolin-1-ylsulfonyl)benzamide
+T256	SYSTEMATIC 301981 302053	N-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-3-(indolin-1-ylsulfonyl)benzamide
+T257	SYSTEMATIC 302054 302090	3-(indolin-1-ylsulfonyl)benzoic acid
+T258	SYSTEMATIC 302119 302124	amine
+T259	FORMULA 302231 302236	EtOAc
+T260	FAMILY 302240 302247	hexanes
+T261	SYSTEMATIC 302289 302304	dichloromethane
+T262	FAMILY 302305 302312	hexanes
+T263	SYSTEMATIC 302321 302393	N-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-3-(indolin-1-ylsulfonyl)benzamide
+T264	SYSTEMATIC 302706 302793	4-(N-(4-(benzyloxy)phenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T265	SYSTEMATIC 302794 302851	4-(N-(4-(benzyloxy)phenyl)-N-methylsulfamoyl)benzoic acid
+T266	SYSTEMATIC 302857 302887	4-(chlorosulfonyl)benzoic acid
+T267	SYSTEMATIC 302924 302953	4-(benzyloxy)-N-methylaniline
+T268	ABBREVIATION 302977 302982	DIPEA
+T269	SYSTEMATIC 303026 303083	4-(N-(4-(benzyloxy)phenyl)-N-methylsulfamoyl)benzoic acid
+T270	SYSTEMATIC 303250 303298	4-(N-(4-(benzyloxy)phenyl)sulfamoyl)benzoic acid
+T271	SYSTEMATIC 303341 303372	4-(pyridin-2-yl)thiazol-2-amine
+T272	FORMULA 303479 303483	MeOH
+T273	SYSTEMATIC 303487 303502	dichloromethane
+T274	SYSTEMATIC 303544 303557	diethyl ether
+T275	SYSTEMATIC 303566 303653	4-(N-(4-(benzyloxy)phenyl)-N-methylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T276	SYSTEMATIC 303898 303970	4-(N-methyl-N-phenylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T277	SYSTEMATIC 303971 304013	4-(N-methyl-N-phenylsulfamoyl)benzoic acid
+T278	SYSTEMATIC 304019 304049	4-(chlorosulfonyl)benzoic acid
+T279	SYSTEMATIC 304087 304102	N-methylaniline
+T280	SYSTEMATIC 304145 304187	4-(N-methyl-N-phenylsulfamoyl)benzoic acid
+T281	SYSTEMATIC 304340 304382	4-(N-methyl-N-phenylsulfamoyl)benzoic acid
+T282	SYSTEMATIC 304425 304456	4-(pyridin-2-yl)thiazol-2-amine
+T283	FORMULA 304565 304570	EtOAc
+T284	FAMILY 304574 304581	hexanes
+T285	SYSTEMATIC 304623 304636	diethyl ether
+T286	SYSTEMATIC 304645 304717	4-(N-methyl-N-phenylsulfamoyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T287	SYSTEMATIC 304944 305036	4-(6-methoxy-3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T288	SYSTEMATIC 305037 305099	4-(6-methoxy-3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T289	SYSTEMATIC 305105 305135	4-(chlorosulfonyl)benzoic acid
+T290	SYSTEMATIC 305173 305210	6-methoxy-1,2,3,4-tetrahydroquinoline
+T291	SYSTEMATIC 305253 305315	4-(6-methoxy-3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T292	SYSTEMATIC 305556 305618	4-(6-methoxy-3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T293	SYSTEMATIC 305661 305692	4-(pyridin-2-yl)thiazol-2-amine
+T294	FORMULA 305801 305806	EtOAc
+T295	FAMILY 305810 305817	hexanes
+T296	SYSTEMATIC 305859 305872	diethyl ether
+T297	SYSTEMATIC 305881 305973	4-(6-methoxy-3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T298	SYSTEMATIC 306314 306388	N-(benzo[d]thiazol-2-yl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T299	SYSTEMATIC 306389 306441	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T300	SYSTEMATIC 306483 306506	benzo[d]thiazol-2-amine
+T301	FORMULA 306613 306618	EtOAc
+T302	FAMILY 306622 306629	hexanes
+T303	SYSTEMATIC 306638 306712	N-(benzo[d]thiazol-2-yl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T304	SYSTEMATIC 307009 307091	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-methylbenzo[d]thiazol-2-yl)benzamide
+T305	SYSTEMATIC 307092 307144	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T306	SYSTEMATIC 307186 307217	4-methylbenzo[d]thiazol-2-amine
+T307	FORMULA 307324 307329	EtOAc
+T308	FAMILY 307333 307340	hexanes
+T309	SYSTEMATIC 307349 307431	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-methylbenzo[d]thiazol-2-yl)benzamide
+T310	SYSTEMATIC 307679 307761	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-fluorobenzo[d]thiazol-2-yl)benzamide
+T311	SYSTEMATIC 307762 307814	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T312	SYSTEMATIC 307856 307887	6-fluorobenzo[d]thiazol-2-amine
+T313	FORMULA 307994 307999	EtOAc
+T314	FAMILY 308003 308010	hexanes
+T315	SYSTEMATIC 308019 308101	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-fluorobenzo[d]thiazol-2-yl)benzamide
+T316	SYSTEMATIC 308391 308474	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T317	SYSTEMATIC 308475 308527	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T318	SYSTEMATIC 308570 308602	6-methoxybenzo[d]thiazol-2-amine
+T319	FORMULA 308709 308714	EtOAc
+T320	FAMILY 308718 308725	hexanes
+T321	SYSTEMATIC 308767 308782	dichloromethane
+T322	FAMILY 308783 308790	hexanes
+T323	SYSTEMATIC 308799 308882	3-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T324	SYSTEMATIC 309096 309163	N-(3-cyanophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T325	SYSTEMATIC 309164 309216	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T326	SYSTEMATIC 309258 309277	3-aminobenzonitrile
+T327	FORMULA 309384 309389	EtOAc
+T328	FAMILY 309393 309400	hexanes
+T329	SYSTEMATIC 309442 309457	dichloromethane
+T330	FAMILY 309458 309465	hexanes
+T331	SYSTEMATIC 309474 309541	N-(3-cyanophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T332	SYSTEMATIC 309843 309918	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-hydroxypyridin-2-yl)benzamide
+T333	SYSTEMATIC 309919 309971	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T334	SYSTEMATIC 310013 310032	2-aminopyridin-3-ol
+T335	FORMULA 310139 310144	EtOAc
+T336	FAMILY 310148 310155	hexanes
+T337	SYSTEMATIC 310197 310212	dichloromethane
+T338	FAMILY 310213 310220	hexanes
+T339	SYSTEMATIC 310229 310304	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-hydroxypyridin-2-yl)benzamide
+T340	SYSTEMATIC 310596 310670	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methylpyridin-2-yl)benzamide
+T341	SYSTEMATIC 310671 310723	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T342	SYSTEMATIC 310765 310788	6-methylpyridin-2-amine
+T343	FORMULA 310895 310900	EtOAc
+T344	FAMILY 310904 310911	hexanes
+T345	SYSTEMATIC 310953 310968	dichloromethane
+T346	FAMILY 310969 310976	hexanes
+T347	SYSTEMATIC 310985 311059	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(6-methylpyridin-2-yl)benzamide
+T348	SYSTEMATIC 311371 311445	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(5-fluoropyridin-2-yl)benzamide
+T349	SYSTEMATIC 311446 311498	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T350	SYSTEMATIC 311540 311563	6-fluoropyridin-2-amine
+T351	FORMULA 311668 311673	EtOAc
+T352	SYSTEMATIC 311677 311692	dichloromethane
+T353	SYSTEMATIC 311734 311749	dichloromethane
+T354	FAMILY 311750 311757	hexanes
+T355	SYSTEMATIC 311766 311840	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(5-fluoropyridin-2-yl)benzamide
+T356	SYSTEMATIC 312157 312223	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(pyridin-3-yl)benzamide
+T357	SYSTEMATIC 312224 312276	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T358	SYSTEMATIC 312318 312333	3-aminopyridine
+T359	FORMULA 312440 312445	EtOAc
+T360	SYSTEMATIC 312449 312464	dichloromethane
+T361	SYSTEMATIC 312506 312521	dichloromethane
+T362	FAMILY 312522 312529	hexanes
+T363	SYSTEMATIC 312538 312604	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(pyridin-3-yl)benzamide
+T364	SYSTEMATIC 312951 313017	3-(indolin-1-ylsulfonyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T365	SYSTEMATIC 313018 313054	3-(indolin-1-ylsulfonyl)benzoic acid
+T366	SYSTEMATIC 313083 313114	6-methylbenzo[d]thiazol-2-amine
+T367	ABBREVIATION 313137 313140	DMF
+T368	ABBREVIATION 313158 313163	DIPEA
+T369	FORMULA 313188 313193	pybop
+T370	FORMULA 313302 313307	EtOAc
+T371	FAMILY 313311 313318	hexanes
+T372	SYSTEMATIC 313360 313375	dichloromethane
+T373	FAMILY 313376 313383	hexanes
+T374	SYSTEMATIC 313392 313458	3-(indolin-1-ylsulfonyl)-N-(6-methylbenzo[d]thiazol-2-yl)benzamide
+T375	SYSTEMATIC 313808 313875	3-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T376	SYSTEMATIC 313876 313912	3-(indolin-1-ylsulfonyl)benzoic acid
+T377	SYSTEMATIC 313941 313973	6-methoxybenzo[d]thiazol-2-amine
+T378	FORMULA 314080 314085	EtOAc
+T379	FAMILY 314089 314096	hexanes
+T380	SYSTEMATIC 314138 314153	dichloromethane
+T381	FAMILY 314154 314161	hexanes
+T382	SYSTEMATIC 314170 314237	3-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T383	SYSTEMATIC 314599 314665	4-(indolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T384	SYSTEMATIC 314666 314702	4-(indolin-1-ylsulfonyl)benzoic acid
+T385	SYSTEMATIC 314744 314775	4-(pyridin-2-yl)thiazol-2-amine
+T386	FORMULA 314884 314889	EtOAc
+T387	FAMILY 314893 314900	hexanes
+T388	SYSTEMATIC 314909 314975	4-(indolin-1-ylsulfonyl)-N-(4-(pyridin-2-yl)thiazol-2-yl)benzamide
+T389	SYSTEMATIC 315268 315335	4-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T390	SYSTEMATIC 315336 315372	4-(indolin-1-ylsulfonyl)benzoic acid
+T391	SYSTEMATIC 315414 315446	6-methoxybenzo[d]thiazol-2-amine
+T392	FORMULA 315553 315558	EtOAc
+T393	FAMILY 315562 315569	hexanes
+T394	SYSTEMATIC 315578 315645	4-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T395	SYSTEMATIC 315973 316040	3-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T396	SYSTEMATIC 316041 316077	3-(indolin-1-ylsulfonyl)benzoic acid
+T397	SYSTEMATIC 316119 316151	6-methoxybenzo[d]thiazol-2-amine
+T398	FORMULA 316258 316263	EtOAc
+T399	FAMILY 316267 316274	hexanes
+T400	SYSTEMATIC 316316 316331	dichloromethane
+T401	FAMILY 316332 316339	hexanes
+T402	SYSTEMATIC 316348 316415	3-(indolin-1-ylsulfonyl)-N-(6-methoxybenzo[d]thiazol-2-yl)benzamide
+T403	SYSTEMATIC 316739 316808	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(2-methoxyphenyl)benzamide
+T404	SYSTEMATIC 316809 316861	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T405	SYSTEMATIC 316904 316920	2-methoxyaniline
+T406	FORMULA 317027 317032	EtOAc
+T407	FAMILY 317036 317043	hexanes
+T408	SYSTEMATIC 317085 317100	dichloromethane
+T409	FAMILY 317101 317108	hexanes
+T410	SYSTEMATIC 317117 317186	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(2-methoxyphenyl)benzamide
+T411	SYSTEMATIC 317441 317510	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(2-hydroxyphenyl)benzamide
+T412	SYSTEMATIC 317511 317563	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T413	SYSTEMATIC 317605 317618	2-aminophenol
+T414	FORMULA 317725 317730	EtOAc
+T415	FAMILY 317734 317741	hexanes
+T416	SYSTEMATIC 317783 317798	dichloromethane
+T417	FAMILY 317799 317806	hexanes
+T418	SYSTEMATIC 317815 317884	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(2-hydroxyphenyl)benzamide
+T419	SYSTEMATIC 318206 318275	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-methoxyphenyl)benzamide
+T420	SYSTEMATIC 318276 318328	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T421	SYSTEMATIC 318370 318386	4-methoxyaniline
+T422	FORMULA 318493 318498	EtOAc
+T423	FAMILY 318502 318509	hexanes
+T424	SYSTEMATIC 318551 318566	dichloromethane
+T425	FAMILY 318567 318574	hexanes
+T426	SYSTEMATIC 318583 318652	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-methoxyphenyl)benzamide
+T427	SYSTEMATIC 318919 318990	N-(2-acetamidophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T428	SYSTEMATIC 318991 319043	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T429	SYSTEMATIC 319085 319111	N-(2-aminophenyl)acetamide
+T430	FORMULA 319218 319223	EtOAc
+T431	FAMILY 319227 319234	hexanes
+T432	SYSTEMATIC 319276 319291	dichloromethane
+T433	FAMILY 319292 319299	hexanes
+T434	SYSTEMATIC 319308 319379	N-(2-acetamidophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T435	SYSTEMATIC 319681 319752	N-(3-acetamidophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T436	SYSTEMATIC 319753 319805	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T437	SYSTEMATIC 319847 319873	N-(3-aminophenyl)acetamide
+T438	FORMULA 319980 319985	EtOAc
+T439	FAMILY 319989 319996	hexanes
+T440	SYSTEMATIC 320038 320053	dichloromethane
+T441	FAMILY 320054 320061	hexanes
+T442	SYSTEMATIC 320070 320141	N-(3-acetamidophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T443	SYSTEMATIC 320500 320583	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(5-methyl-4-phenylthiazol-2-yl)benzamide
+T444	SYSTEMATIC 320584 320636	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T445	SYSTEMATIC 320678 320710	5-methyl-4-phenylthiazol-2-amine
+T446	FORMULA 320817 320822	EtOAc
+T447	FAMILY 320826 320833	hexanes
+T448	SYSTEMATIC 320842 320925	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(5-methyl-4-phenylthiazol-2-yl)benzamide
+T449	SYSTEMATIC 321197 321265	N-(3-chlorophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T450	SYSTEMATIC 321266 321318	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T451	SYSTEMATIC 321360 321375	3-chloroaniline
+T452	FORMULA 321482 321487	EtOAc
+T453	FAMILY 321491 321498	hexanes
+T454	SYSTEMATIC 321540 321555	dichloromethane
+T455	FAMILY 321556 321563	hexanes
+T456	SYSTEMATIC 321572 321640	N-(3-chlorophenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T457	SYSTEMATIC 321969 322038	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-hydroxyphenyl)benzamide
+T458	SYSTEMATIC 322039 322091	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T459	SYSTEMATIC 322133 322146	3-aminophenol
+T460	FORMULA 322252 322257	EtOAc
+T461	FAMILY 322261 322268	hexanes
+T462	SYSTEMATIC 322310 322325	dichloromethane
+T463	FAMILY 322326 322333	hexanes
+T464	SYSTEMATIC 322342 322411	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(3-hydroxyphenyl)benzamide
+T465	SYSTEMATIC 322744 322815	N-(3-carbamoylphenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T466	SYSTEMATIC 322816 322868	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T467	SYSTEMATIC 322910 322926	3-aminobenzamide
+T468	FORMULA 323033 323038	EtOAc
+T469	SYSTEMATIC 323042 323057	dichloromethane
+T470	SYSTEMATIC 323099 323114	dichloromethane
+T471	FAMILY 323115 323122	hexanes
+T472	SYSTEMATIC 323131 323202	N-(3-carbamoylphenyl)-4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzamide
+T473	SYSTEMATIC 323515 323568	3-(indolin-1-ylsulfonyl)-N-(3-methoxyphenyl)benzamide
+T474	SYSTEMATIC 323569 323605	3-(indolin-1-ylsulfonyl)benzoic acid
+T475	SYSTEMATIC 323634 323650	3-methoxyaniline
+T476	FORMULA 323757 323762	EtOAc
+T477	FAMILY 323766 323773	hexanes
+T478	SYSTEMATIC 323815 323830	dichloromethane
+T479	FAMILY 323831 323838	hexanes
+T480	SYSTEMATIC 323847 323900	3-(indolin-1-ylsulfonyl)-N-(3-methoxyphenyl)benzamide
+T481	SYSTEMATIC 324325 324375	3-(indolin-1-ylsulfonyl)-N-(pyridin-4-yl)benzamide
+T482	SYSTEMATIC 324376 324412	3-(indolin-1-ylsulfonyl)benzoic acid
+T483	SYSTEMATIC 324441 324456	4-aminopyridine
+T484	FORMULA 324563 324568	EtOAc
+T485	FAMILY 324572 324579	hexanes
+T486	SYSTEMATIC 324621 324636	dichloromethane
+T487	FAMILY 324637 324644	hexanes
+T488	SYSTEMATIC 324653 324703	3-(indolin-1-ylsulfonyl)-N-(pyridin-4-yl)benzamide
+T489	SYSTEMATIC 325067 325129	N-(3-(1-hydroxyethyl)phenyl)-3-(indolin-1-ylsulfonyl)benzamide
+T490	SYSTEMATIC 325130 325166	3-(indolin-1-ylsulfonyl)benzoic acid
+T491	SYSTEMATIC 325195 325219	1-(3-aminophenyl)ethanol
+T492	FORMULA 325326 325331	EtOAc
+T493	FAMILY 325335 325342	hexanes
+T494	SYSTEMATIC 325384 325399	dichloromethane
+T495	FAMILY 325400 325407	hexanes
+T496	SYSTEMATIC 325416 325478	N-(3-(1-hydroxyethyl)phenyl)-3-(indolin-1-ylsulfonyl)benzamide
+T497	SYSTEMATIC 325931 326037	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(2-oxo-2,3-dihydrobenzo[d]oxazol-6-yl)thiazol-2-yl)benzamide
+T498	SYSTEMATIC 326038 326090	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)benzoic acid
+T499	SYSTEMATIC 326132 326179	6-(2-aminothiazol-4-yl)benzo[d]oxazol-2(3H)-one
+T500	FORMULA 326287 326292	EtOAc
+T501	FAMILY 326296 326303	hexanes
+T502	SYSTEMATIC 326345 326360	dichloromethane
+T503	FAMILY 326361 326368	hexanes
+T504	SYSTEMATIC 326377 326483	4-(3,4-dihydroquinolin-1(2H)-ylsulfonyl)-N-(4-(2-oxo-2,3-dihydrobenzo[d]oxazol-6-yl)thiazol-2-yl)benzamide
+T505	SYSTEMATIC 326747 326817	N-(3-methoxyphenyl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide
+T506	SYSTEMATIC 326818 326871	4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzoic acid
+T507	SYSTEMATIC 326913 326929	3-methoxyaniline
+T508	FORMULA 327036 327041	EtOAc
+T509	FAMILY 327045 327052	hexanes
+T510	SYSTEMATIC 327094 327109	dichloromethane
+T511	FAMILY 327110 327117	hexanes
+T512	SYSTEMATIC 327126 327196	N-(3-methoxyphenyl)-4-(N-(4-methoxyphenyl)-N-methylsulfamoyl)benzamide

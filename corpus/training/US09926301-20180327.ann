@@ -1,0 +1,559 @@
+T1	SYSTEMATIC 137169 137320	5-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide trifluoroacetate
+T2	SYSTEMATIC 137329 137381	tert-Butyl 3-(cyanomethylene)azetidine-1-carboxylate
+T3	SYSTEMATIC 137405 137428	potassium tert-butoxide
+T4	SYSTEMATIC 137432 137447	tetrahydrofuran
+T5	SYSTEMATIC 137511 137541	diethyl cyanomethylphosphonate
+T6	SYSTEMATIC 137566 137581	tetrahydrofuran
+T7	SYSTEMATIC 137715 137754	tert-butyl 3-oxoazetidine-1-carboxylate
+T8	SYSTEMATIC 137791 137806	tetrahydrofuran
+T9	TRIVIAL 137911 137916	water
+T10	SYSTEMATIC 137949 137962	ethyl acetate
+T11	FORMULA 137964 137969	EtOAc
+T12	TRIVIAL 138017 138022	brine
+T13	FORMULA 138035 138040	MgSO4
+T14	TRIVIAL 138141 138151	silica gel
+T15	SYSTEMATIC 138172 138185	ethyl acetate
+T16	FAMILY 138189 138196	hexanes
+T17	FORMULA 138264 138276	C10H14N2O2Na
+T18	SYSTEMATIC 138319 138436	tert-Butyl 3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidine-1-carboxylate
+T19	SYSTEMATIC 138450 138509	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T20	SYSTEMATIC 138532 138584	tert-butyl 3-(cyanomethylene)azetidine-1-carboxylate
+T21	SYSTEMATIC 138609 138643	1,8-diazabicyclo[5.4.0]undec-7-ene
+T22	SYSTEMATIC 138667 138679	acetonitrile
+T23	TRIVIAL 138835 138845	silica gel
+T24	SYSTEMATIC 138866 138879	ethyl acetate
+T25	FAMILY 138883 138890	hexanes
+T26	FORMULA 138962 138973	C15H22BN4O4
+T27	SYSTEMATIC 139016 139124	{3-[4-(4,4,5,5-Tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-3-yl}acetonitrile hydrochloride
+T28	FORMULA 139131 139134	HCl
+T29	SYSTEMATIC 139138 139149	1,4-dioxane
+T30	SYSTEMATIC 139184 139301	tert-butyl 3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidine-1-carboxylate
+T31	SYSTEMATIC 139325 139343	methylene chloride
+T32	FORMULA 139495 139498	HCl
+T33	FORMULA 139600 139611	C14H22BN4O2
+T34	SYSTEMATIC 139653 139722	5-Chloro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T35	SYSTEMATIC 139723 139748	N,N-Diisopropylethylamine
+T36	SYSTEMATIC 139794 139828	5-chloropyrazine-2-carboxylic acid
+T37	SYSTEMATIC 139849 139924	N,N,N′,N′-tetramethyl-O-(7-azabenzotriazol-1-yl)uronium hexafluorophosphate
+T38	SYSTEMATIC 139947 139981	(25)-1,1,1-trifluoropropan-2-amine
+T39	SYSTEMATIC 140004 140022	methylene chloride
+T40	FORMULA 140149 140155	NaHCO3
+T41	SYSTEMATIC 140176 140189	ethyl acetate
+T42	TRIVIAL 140236 140241	brine
+T43	FORMULA 140254 140259	MgSO4
+T44	TRIVIAL 140365 140375	silica gel
+T45	SYSTEMATIC 140388 140401	ethyl acetate
+T46	FAMILY 140405 140412	hexanes
+T47	FORMULA 140482 140493	C8H8C1F3N3O
+T48	SYSTEMATIC 140535 140696	5-{3-(Cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T49	SYSTEMATIC 140710 140779	5-chloro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T50	SYSTEMATIC 140801 140899	{3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-3-yl}acetonitrile HCl
+T51	SYSTEMATIC 140929 140954	N,N-diisopropylethylamine
+T52	SYSTEMATIC 140978 140989	1,4-dioxane
+T53	TRIVIAL 141152 141162	silica gel
+T54	SYSTEMATIC 141183 141196	ethyl acetate
+T55	SYSTEMATIC 141200 141206	hexane
+T56	FORMULA 141287 141300	C22H28BF3N7O3
+T57	SYSTEMATIC 141342 141395	tert-Butyl 4-bromo-3-methyl-1H-pyrazole-1-carboxylate
+T58	SYSTEMATIC 141409 141437	4-bromo-3-methyl-1H-pyrazole
+T59	SYSTEMATIC 141455 141479	di-tert-butyldicarbonate
+T60	SYSTEMATIC 141500 141523	4-dimethylaminopyridine
+T61	SYSTEMATIC 141547 141560	triethylamine
+T62	SYSTEMATIC 141584 141596	acetonitrile
+T63	TRIVIAL 141714 141724	silica gel
+T64	SYSTEMATIC 141745 141758	ethyl acetate
+T65	FAMILY 141762 141769	hexanes
+T66	FORMULA 141834 141844	C5H6BrN2O2
+T67	SYSTEMATIC 141887 142038	5-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide trifluoroacetate
+T68	SYSTEMATIC 142052 142213	5-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T69	SYSTEMATIC 142238 142291	tert-butyl 4-bromo-3-methyl-1H-pyrazole-1-carboxylate
+T70	SYSTEMATIC 142313 142353	tetrakis(triphenylphosphine)palladium(0)
+T71	SYSTEMATIC 142380 142396	sodium carbonate
+T72	SYSTEMATIC 142422 142433	1,4-dioxane
+T73	TRIVIAL 142447 142452	water
+T74	SYSTEMATIC 142468 142476	nitrogen
+T75	ABBREVIATION 142621 142624	TFA
+T76	FORMULA 142648 142653	CD3OD
+T77	FORMULA 142884 142895	C20H21F3N9O
+T78	SYSTEMATIC 142939 143063	5-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T79	SYSTEMATIC 143072 143114	5-Chloro-N-isopropylpyrazine-2-carboxamide
+T80	SYSTEMATIC 143115 143140	N,N-Diisopropylethylamine
+T81	SYSTEMATIC 143185 143219	5-chloropyrazine-2-carboxylic acid
+T82	SYSTEMATIC 143240 143310	benzotriazol-1-yloxytris(dimethylamino)phosphonium hexafluorophosphate
+T83	SYSTEMATIC 143335 143348	2-propanamine
+T84	SYSTEMATIC 143372 143390	methylene chloride
+T85	FORMULA 143517 143523	NaHCO3
+T86	SYSTEMATIC 143544 143557	ethyl acetate
+T87	TRIVIAL 143604 143609	brine
+T88	FORMULA 143622 143627	MgSO4
+T89	TRIVIAL 143733 143743	silica gel
+T90	SYSTEMATIC 143764 143777	ethyl acetate
+T91	FAMILY 143781 143788	hexanes
+T92	FORMULA 143844 143854	C8H11ClN3O
+T93	SYSTEMATIC 143896 144030	5-{3-(Cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T94	SYSTEMATIC 144044 144086	5-chloro-N-isopropylpyrazine-2-carboxamide
+T95	SYSTEMATIC 144108 144206	{3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-3-yl}acetonitrile HCl
+T96	SYSTEMATIC 144260 144285	N,N-diisopropylethylamine
+T97	SYSTEMATIC 144309 144320	1,4-dioxane
+T98	TRIVIAL 144483 144493	silica gel
+T99	SYSTEMATIC 144514 144527	ethyl acetate
+T100	SYSTEMATIC 144531 144537	hexane
+T101	FORMULA 144618 144629	C22H31BN7O3
+T102	SYSTEMATIC 144671 144795	5-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T103	SYSTEMATIC 144809 144862	tert-butyl 4-bromo-3-methyl-1H-pyrazole-1-carboxylate
+T104	SYSTEMATIC 144887 145021	5-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T105	SYSTEMATIC 145046 145113	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II) complex
+T106	SYSTEMATIC 145119 145134	dichloromethane
+T107	SYSTEMATIC 145167 145186	potassium phosphate
+T108	SYSTEMATIC 145211 145218	dioxane
+T109	TRIVIAL 145232 145237	water
+T110	SYSTEMATIC 145378 145386	methanol
+T111	ABBREVIATION 145472 145475	TFA
+T112	FORMULA 145498 145507	C20H24N9O
+T113	SYSTEMATIC 145551 145662	4-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylbenzamide trifluoroacetate
+T114	SYSTEMATIC 145671 145711	Ethyl 4-(3-hydroxyazetidin-1-yl)benzoate
+T115	SYSTEMATIC 145725 145747	ethyl 4-fluorobenzoate
+T116	SYSTEMATIC 145784 145811	azetidin-3-ol hydrochloride
+T117	SYSTEMATIC 145851 145870	potassium carbonate
+T118	SYSTEMATIC 145894 145912	dimethyl sulfoxide
+T119	SYSTEMATIC 145995 146008	ethyl acetate
+T120	TRIVIAL 146034 146039	water
+T121	TRIVIAL 146044 146049	brine
+T122	FORMULA 146084 146089	MgSO4
+T123	TRIVIAL 146196 146206	silica gel
+T124	SYSTEMATIC 146219 146232	ethyl acetate
+T125	SYSTEMATIC 146236 146242	hexane
+T126	FORMULA 146313 146322	C12H16NO3
+T127	SYSTEMATIC 146364 146402	4-(3-Hydroxyazetidin-1-yl)benzoic acid
+T128	SYSTEMATIC 146416 146470	1-[4-(3-hydroxyazetidin-1-yl)phenyl]-2-methoxyethanone
+T129	SYSTEMATIC 146495 146524	lithium hydroxide monohydrate
+T130	TRIVIAL 146548 146553	water
+T131	SYSTEMATIC 146562 146570	methanol
+T132	ABBREVIATION 146582 146585	THF
+T133	FORMULA 146663 146666	HCl
+T134	SYSTEMATIC 146722 146735	ethyl acetate
+T135	FORMULA 146781 146787	Na2SO4
+T136	FORMULA 146969 146978	C10H12NO3
+T137	SYSTEMATIC 147020 147067	4-(3-Hydroxyazetidin-1-yl)-N-isopropylbenzamide
+T138	SYSTEMATIC 147068 147138	Benzotriazol-1-yloxytris(dimethylamino)phosphonium hexafluorophosphate
+T139	SYSTEMATIC 147199 147237	4-(3-hydroxyazetidin-1-yl)benzoic acid
+T140	SYSTEMATIC 147259 147272	2-propanamine
+T141	SYSTEMATIC 147298 147323	N,N-diisopropylethylamine
+T142	SYSTEMATIC 147347 147364	dichloromethylene
+T143	SYSTEMATIC 147444 147459	dichloromethane
+T144	FORMULA 147497 147503	NaHCO3
+T145	TRIVIAL 147508 147513	brine
+T146	FORMULA 147526 147532	Na2SO4
+T147	TRIVIAL 147638 147648	silica gel
+T148	SYSTEMATIC 147669 147682	ethyl acetate
+T149	SYSTEMATIC 147686 147692	hexane
+T150	FORMULA 147774 147784	C13H19N2O2
+T151	SYSTEMATIC 147826 147869	N-Isopropyl-4-(3-oxoazetidin-1-yl)benzamide
+T152	SYSTEMATIC 147904 147919	oxalyl chloride
+T153	SYSTEMATIC 147944 147961	dichloromethylene
+T154	SYSTEMATIC 147989 148007	dimethyl sulfoxide
+T155	SYSTEMATIC 148098 148145	4-(3-hydroxyazetidin-1-yl)-N-isopropylbenzamide
+T156	SYSTEMATIC 148169 148186	dichloromethylene
+T157	SYSTEMATIC 148259 148272	triethylamine
+T158	FORMULA 148397 148403	NaHCO3
+T159	TRIVIAL 148408 148413	brine
+T160	FORMULA 148426 148432	Na2SO4
+T161	SYSTEMATIC 148518 148523	ether
+T162	FORMULA 148683 148693	C13H17N2O2
+T163	SYSTEMATIC 148735 148791	4-[3-(Cyanomethylene)azetidin-1-yl]-N-isopropylbenzamide
+T164	SYSTEMATIC 148836 148859	potassium tert-butoxide
+T165	SYSTEMATIC 148863 148878	tetrahydrofuran
+T166	SYSTEMATIC 148933 148963	diethyl cyanomethylphosphonate
+T167	SYSTEMATIC 149002 149017	tetrahydrofuran
+T168	SYSTEMATIC 149236 149279	N-isopropyl-4-(3-oxoazetidin-1-yl)benzamide
+T169	SYSTEMATIC 149303 149318	tetrahydrofuran
+T170	TRIVIAL 149562 149572	silica gel
+T171	SYSTEMATIC 149589 149602	ethyl acetate
+T172	SYSTEMATIC 149668 149673	ether
+T173	TRIVIAL 149877 149887	silica gel
+T174	SYSTEMATIC 149908 149921	ethyl acetate
+T175	SYSTEMATIC 149925 149931	hexane
+T176	ABBREVIATION 150043 150050	DMSO-d6
+T177	FORMULA 150257 150266	C15H18N3O
+T178	SYSTEMATIC 150308 150429	4-{3-(Cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylbenzamide
+T179	SYSTEMATIC 150443 150502	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T180	SYSTEMATIC 150524 150580	4-[3-(cyanomethylene)azetidin-1-yl]-N-isopropylbenzamide
+T181	SYSTEMATIC 150605 150639	1,8-diazabicyclo[5.4.0]undec-7-ene
+T182	SYSTEMATIC 150663 150680	isopropyl alcohol
+T183	SYSTEMATIC 150794 150817	methyl tert-butyl ether
+T184	ABBREVIATION 150819 150823	MTBE
+T185	ABBREVIATION 150932 150936	MTBE
+T186	ABBREVIATION 151033 151040	DMSO-d6
+T187	FORMULA 151279 151290	C24H33BN5O3
+T188	SYSTEMATIC 151332 151443	4-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylbenzamide trifluoroacetate
+T189	SYSTEMATIC 151457 151510	tert-butyl 4-bromo-3-methyl-1H-pyrazole-1-carboxylate
+T190	SYSTEMATIC 151535 151656	4-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylbenzamide
+T191	SYSTEMATIC 151681 151700	potassium phosphate
+T192	SYSTEMATIC 151727 151794	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II) complex
+T193	SYSTEMATIC 151800 151815	dichloromethane
+T194	SYSTEMATIC 151849 151856	dioxane
+T195	TRIVIAL 151870 151875	water
+T196	SYSTEMATIC 152016 152024	methanol
+T197	ABBREVIATION 152110 152113	TFA
+T198	FORMULA 152136 152145	C22H26N7O
+T199	SYSTEMATIC 152189 152340	4-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide trifluoroacetate
+T200	SYSTEMATIC 152349 152412	2,4,5-Trifluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T201	SYSTEMATIC 152430 152457	2,4,5-trifluorobenzoic acid
+T202	SYSTEMATIC 152481 152493	acetonitrile
+T203	SYSTEMATIC 152512 152533	N,N-dimethylformamide
+T204	SYSTEMATIC 152566 152581	oxalyl chloride
+T205	SYSTEMATIC 152704 152716	acetonitrile
+T206	SYSTEMATIC 152760 152778	methylene chloride
+T207	SYSTEMATIC 152858 152906	(2S)-1,1,1-trifluoropropan-2-amine hydrochloride
+T208	SYSTEMATIC 152954 152961	toluene
+T209	SYSTEMATIC 152981 152997	sodium hydroxide
+T210	SYSTEMATIC 153228 153246	methylene chloride
+T211	TRIVIAL 153305 153310	brine
+T212	TRIVIAL 153323 153328	water
+T213	FORMULA 153351 153356	MgSO4
+T214	ABBREVIATION 153539 153546	DMSO-d6
+T215	FORMULA 153651 153660	C10H8F6NO
+T216	SYSTEMATIC 153702 153789	2,5-Difluoro-4-(3-hydroxyazetidin-1-yl)-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T217	SYSTEMATIC 153803 153866	2,4,5-trifluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T218	SYSTEMATIC 153888 153915	azetidin-3-ol hydrochloride
+T219	SYSTEMATIC 153940 153974	1,8-diazabicyclo[5.4.0]undec-7-ene
+T220	SYSTEMATIC 153999 154011	acetonitrile
+T221	FORMULA 154089 154094	EtOAc
+T222	FORMULA 154122 154125	HCl
+T223	FORMULA 154138 154144	NaHCO3
+T224	TRIVIAL 154158 154163	brine
+T225	TRIVIAL 154176 154181	water
+T226	FORMULA 154230 154235	EtOAc
+T227	FORMULA 154291 154296	MgSO4
+T228	ABBREVIATION 154410 154417	DMSO-d6
+T229	FORMULA 154664 154676	C13H14F5N2O2
+T230	SYSTEMATIC 154718 154801	2,5-Difluoro-4-(3-oxoazetidin-1-yl)-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T231	SYSTEMATIC 154819 154906	2,5-difluoro-4-(3-hydroxyazetidin-1-yl)-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T232	SYSTEMATIC 154930 154948	methylene chloride
+T233	SYSTEMATIC 154967 154988	iodobenzene diacetate
+T234	SYSTEMATIC 155013 155062	2,2,6,6-tetramethyl-1-piperidinyloxy free radical
+T235	ABBREVIATION 155084 155089	TEMPO
+T236	FORMULA 155205 155210	EtOAc
+T237	FORMULA 155238 155244	NaHCO3
+T238	TRIVIAL 155260 155265	brine
+T239	TRIVIAL 155279 155284	water
+T240	SYSTEMATIC 155334 155347	ethyl acetate
+T241	FORMULA 155404 155409	MgSO4
+T242	TRIVIAL 155515 155525	silica gel
+T243	SYSTEMATIC 155555 155568	ethyl acetate
+T244	SYSTEMATIC 155572 155590	methylene chloride
+T245	ABBREVIATION 155649 155653	MTBE
+T246	SYSTEMATIC 155666 155673	heptane
+T247	ABBREVIATION 155762 155769	DMSO-d6
+T248	FORMULA 155946 155958	C13H12F5N2O2
+T249	SYSTEMATIC 156000 156096	4-[3-(Cyanomethylene)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T250	SYSTEMATIC 156097 156127	Diethyl cyanomethylphosphonate
+T251	SYSTEMATIC 156210 156233	potassium tert-butoxide
+T252	ABBREVIATION 156237 156240	THF
+T253	SYSTEMATIC 156285 156300	tetrahydrofuran
+T254	SYSTEMATIC 156551 156634	2,5-difluoro-4-(3-oxoazetidin-1-yl)-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T255	SYSTEMATIC 156658 156673	tetrahydrofuran
+T256	TRIVIAL 156851 156856	brine
+T257	SYSTEMATIC 156869 156882	ethyl acetate
+T258	SYSTEMATIC 156962 156975	ethyl acetate
+T259	FORMULA 157029 157034	MgSO4
+T260	TRIVIAL 157140 157150	silica gel
+T261	SYSTEMATIC 157163 157176	ethyl acetate
+T262	FAMILY 157180 157187	hexanes
+T263	ABBREVIATION 157255 157262	DMSO-d6
+T264	FORMULA 157438 157449	C15H13F5N3O
+T265	SYSTEMATIC 157491 157652	4-{3-(Cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T266	SYSTEMATIC 157666 157725	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T267	SYSTEMATIC 157747 157843	4-[3-(cyanomethylene)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T268	SYSTEMATIC 157868 157902	1,8-diazabicyclo[5.4.0]undec-7-ene
+T269	SYSTEMATIC 157926 157938	acetonitrile
+T270	FORMULA 158128 158141	C24H28BF5N5O3
+T271	SYSTEMATIC 158183 158333	4-[3-(Cyanomethyl)-3-(3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamidetrifluoroacetate
+T272	SYSTEMATIC 158347 158508	4-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T273	SYSTEMATIC 158533 158587	tert-butyl 4-bromo-5-methyl-1H-pyrazole-1-carboxxylate
+T274	SYSTEMATIC 158609 158649	tetrakis(triphenylphosphine)palladium(0)
+T275	SYSTEMATIC 158676 158692	sodium carbonate
+T276	SYSTEMATIC 158718 158729	1,4-dioxane
+T277	TRIVIAL 158743 158748	water
+T278	SYSTEMATIC 158764 158772	nitrogen
+T279	SYSTEMATIC 158847 158860	ethyl acetate
+T280	TRIVIAL 158907 158912	brine
+T281	FORMULA 158925 158930	MgSO4
+T282	ABBREVIATION 159069 159072	TFA
+T283	FORMULA 159095 159106	C22H21F5N7O
+T284	SYSTEMATIC 159150 159291	4-[3-(1H,1′H-4,4′-Bipyrazol-1-yl)-3-(cyanomethyl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide trifluoroacetate
+T285	SYSTEMATIC 159418 159437	4-bromo-1H-pyrazole
+T286	SYSTEMATIC 159442 159603	4-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T287	FORMULA 159621 159632	C21H19F5N7O
+T288	SYSTEMATIC 159676 159804	5-[3-(Cyanomethyl)-3-(3,3′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T289	SYSTEMATIC 159813 159939	tert-Butyl 3-(cyanomethyl)-3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidine-1-carboxylate
+T290	SYSTEMATIC 159953 160021	3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T291	SYSTEMATIC 160043 160095	tert-butyl 3-(cyanomethylene)azetidine-1-carboxylate
+T292	SYSTEMATIC 160120 160154	1,8-diazabicyclo[5.4.0]undec-7-ene
+T293	SYSTEMATIC 160178 160190	acetonitrile
+T294	TRIVIAL 160346 160356	silica gel
+T295	SYSTEMATIC 160377 160390	ethyl acetate
+T296	FAMILY 160394 160401	hexanes
+T297	FORMULA 160457 160468	C16H24BN4O4
+T298	SYSTEMATIC 160511 160628	{3-[3-Methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-3-yl}acetonitrile hydrochloride
+T299	FORMULA 160635 160638	HCl
+T300	SYSTEMATIC 160642 160649	dioxane
+T301	SYSTEMATIC 160684 160810	tert-butyl 3-(cyanomethyl)-3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidine-1-carboxylate
+T302	SYSTEMATIC 160814 160832	methylene chloride
+T303	FORMULA 160989 160992	HCl
+T304	FORMULA 161015 161026	C15H24BN4O2
+T305	SYSTEMATIC 161068 161211	5-{3-(Cyanomethyl)-3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T306	SYSTEMATIC 161225 161332	{3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-3-yl}acetonitrile HCl
+T307	SYSTEMATIC 161358 161400	5-chloro-N-isopropylpyrazine-2-carboxamide
+T308	SYSTEMATIC 161424 161449	N,N-diisopropylethylamine
+T309	SYSTEMATIC 161473 161491	tert-butyl alcohol
+T310	TRIVIAL 161658 161668	silica gel
+T311	SYSTEMATIC 161689 161702	ethyl acetate
+T312	FAMILY 161706 161713	hexanes
+T313	FORMULA 161769 161780	C23H33BN7O3
+T314	SYSTEMATIC 161822 161950	5-[3-(Cyanomethyl)-3-(3,3′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T315	SYSTEMATIC 162077 162105	4-bromo-3-methyl-1H-pyrazole
+T316	SYSTEMATIC 162110 162253	5-{3-(cyanomethyl)-3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T317	FORMULA 162271 162280	C21H26N9O
+T318	SYSTEMATIC 162324 162463	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T319	SYSTEMATIC 162477 162638	4-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T320	SYSTEMATIC 162685 162717	4-bromo-3,5-dimethyl-1H-pyrazole
+T321	SYSTEMATIC 162739 162779	tetrakis(triphenylphosphine)palladium(0)
+T322	SYSTEMATIC 162805 162821	sodium carbonate
+T323	SYSTEMATIC 162844 162855	1,4-dioxane
+T324	TRIVIAL 162864 162869	water
+T325	SYSTEMATIC 162893 162901	nitrogen
+T326	FORMULA 162972 162977	EtOAc
+T327	TRIVIAL 162991 162996	water
+T328	TRIVIAL 163001 163006	brine
+T329	TRIVIAL 163058 163068	silica gel
+T330	FORMULA 163090 163095	EtOAc
+T331	FAMILY 163096 163103	hexanes
+T332	SYSTEMATIC 163120 163128	methanol
+T333	SYSTEMATIC 163129 163144	dichloromethane
+T334	SYSTEMATIC 163217 163229	acetonitrile
+T335	TRIVIAL 163230 163235	water
+T336	SYSTEMATIC 163252 163270	ammonium hydroxide
+T337	ABBREVIATION 163359 163366	DMSO-d6
+T338	FORMULA 163603 163614	C23H23F5N7O
+T339	SYSTEMATIC 163658 163770	5-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide
+T340	SYSTEMATIC 163784 163918	5-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T341	SYSTEMATIC 163965 163997	4-bromo-3,5-dimethyl-1H-pyrazole
+T342	SYSTEMATIC 164020 164118	dicyclohexyl(2′,4′,6′-triisopropylbiphenyl-2-yl)phosphine-(2′-aminobiphenyl-2-yl)(chloro)palladium
+T343	SYSTEMATIC 164149 164165	cesium carbonate
+T344	SYSTEMATIC 164188 164199	1,4-dioxane
+T345	TRIVIAL 164207 164212	water
+T346	SYSTEMATIC 164236 164244	nitrogen
+T347	FORMULA 164330 164335	EtOAc
+T348	TRIVIAL 164349 164354	brine
+T349	TRIVIAL 164413 164423	silica gel
+T350	FORMULA 164445 164450	EtOAc
+T351	FAMILY 164451 164458	hexanes
+T352	SYSTEMATIC 164475 164483	methanol
+T353	SYSTEMATIC 164484 164499	dichloromethane
+T354	SYSTEMATIC 164572 164584	acetonitrile
+T355	TRIVIAL 164585 164590	water
+T356	SYSTEMATIC 164607 164625	ammonium hydroxide
+T357	ABBREVIATION 164713 164720	DMSO-d6
+T358	FORMULA 164962 164971	C21H26N9O
+T359	SYSTEMATIC 165015 165171	5-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide trifluoroacetate
+T360	SYSTEMATIC 165179 165265	[3-(3′,5′-Dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-3-yl]acetonitrile hydrochloride
+T361	SYSTEMATIC 165279 165396	tert-butyl 3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidine-1-carboxylate
+T362	SYSTEMATIC 165443 165475	4-bromo-3,5-dimethyl-1H-pyrazole
+T363	SYSTEMATIC 165497 165537	tetrakis(triphenylphosphine)palladium(0)
+T364	SYSTEMATIC 165563 165579	sodium carbonate
+T365	SYSTEMATIC 165602 165613	1,4-dioxane
+T366	TRIVIAL 165626 165631	water
+T367	FORMULA 165655 165657	N2
+T368	FORMULA 165738 165743	EtOAc
+T369	TRIVIAL 165762 165767	water
+T370	TRIVIAL 165820 165830	silica gel
+T371	FORMULA 165852 165857	EtOAc
+T372	FAMILY 165858 165865	hexanes
+T373	FORMULA 165884 165888	MeOH
+T374	SYSTEMATIC 165889 165904	dichloromethane
+T375	SYSTEMATIC 165914 166009	tert-butyl 3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidine-1-carboxylate
+T376	FORMULA 166044 166054	C18H25N6O2
+T377	SYSTEMATIC 166129 166146	hydrogen chloride
+T378	SYSTEMATIC 166150 166157	dioxane
+T379	SYSTEMATIC 166180 166198	methylene chloride
+T380	FORMULA 166306 166314	C13H17N6
+T381	SYSTEMATIC 166356 166512	5-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide trifluoroacetate
+T382	SYSTEMATIC 166526 166612	[3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-3-yl]acetonitrile hydrochloride
+T383	SYSTEMATIC 166634 166703	5-chloro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T384	SYSTEMATIC 166752 166777	N,N-diisopropylethylamine
+T385	SYSTEMATIC 166800 166818	tert-butyl alcohol
+T386	FORMULA 166901 166905	MeOH
+T387	ABBREVIATION 166981 166984	TFA
+T388	FORMULA 167025 167036	C21H23F3N9O
+T389	SYSTEMATIC 167081 167204	5-[3-(Cyanomethyl)-3-(3-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T390	SYSTEMATIC 167213 167257	tert-Butyl 4-bromo-1H-pyrazole-1-carboxylate
+T391	SYSTEMATIC 167387 167406	4-bromo-1H-pyrazole
+T392	FORMULA 167428 167438	C4H4BrN2O2
+T393	SYSTEMATIC 167481 167604	5-[3-(Cyanomethyl)-3-(3-methyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-isopropylpyrazine-2-carboxamide trifluoroacetate
+T394	ABBREVIATION 167635 167638	TFA
+T395	SYSTEMATIC 167746 167790	tert-butyl 4-bromo-1H-pyrazole-1-carboxylate
+T396	SYSTEMATIC 167795 167938	5-{3-(cyanomethyl)-3-[3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-isopropylpyrazine-2-carboxamide
+T397	FORMULA 167960 167969	C20H24N9O
+T398	SYSTEMATIC 168014 168164	5-[3-(Cyanomethyl)-3-(3′-ethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide trifluoroacetate
+T399	ABBREVIATION 168195 168198	TFA
+T400	SYSTEMATIC 168306 168467	5-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-N-[(1S)-2,2,2-trifluoro-1-methylethyl]pyrazine-2-carboxamide
+T401	SYSTEMATIC 168492 168519	4-bromo-3-ethyl-1H-pyrazole
+T402	FORMULA 168541 168552	C21H23F3N9O
+T403	SYSTEMATIC 168597 168757	4-{3-(Cyanomethyl)-3-[3′-(hydroxymethyl)-1H,1′H-4,4′-bipyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide trifluoroacetate
+T404	SYSTEMATIC 168765 168798	(4-Bromo-1H-pyrazol-5-yl)methanol
+T405	SYSTEMATIC 168799 168822	Sodium tetrahydroborate
+T406	SYSTEMATIC 168869 168903	4-bromo-1H-pyrazole-5-carbaldehyde
+T408	SYSTEMATIC 168942 168957	tetrahydrofuran
+T409	FORMULA 169075 169081	NaHCO3
+T410	SYSTEMATIC 169102 169115	ethyl acetate
+T411	TRIVIAL 169172 169177	brine
+T412	FORMULA 169190 169195	MgSO4
+T413	FORMULA 169374 169383	C4H6BrN2O
+T414	SYSTEMATIC 169425 169585	4-{3-(Cyanomethyl)-3-[3′-(hydroxymethyl)-1H,1′H-4,4′-bipyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide trifluoroacetate
+T415	ABBREVIATION 169616 169619	TFA
+T416	SYSTEMATIC 169727 169888	4-{3-(cyanomethyl)-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T417	SYSTEMATIC 169893 169926	(4-bromo-1H-pyrazol-3-yl)methanol
+T418	FORMULA 169948 169960	C22H21F5N7O2
+T419	SYSTEMATIC 170005 170157	4-{3-(Cyanomethyl)-3-[3-(hydroxymethyl)-3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T420	SYSTEMATIC 170166 170317	Ethyl 4-bromo-1-{3-(cyanomethyl)-1-[2,5-difluoro-4-({[(1S)-2,2,2-trifluoro-1-methylethyl]amino}carbonyl)phenyl]azetidin-3-yl}-1H-pyrazole-3-carboxylate
+T421	SYSTEMATIC 170348 170365	isopropyl alcohol
+T422	SYSTEMATIC 170375 170414	ethyl 4-bromo-1H-pyrazole-3-carboxylate
+T423	SYSTEMATIC 170454 170488	1,8-diazabicyclo[5.4.0]undec-7-ene
+T424	SYSTEMATIC 170515 170611	4-[3-(cyanomethylene)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T425	SYSTEMATIC 170848 170861	ethyl acetate
+T426	FAMILY 170865 170872	hexanes
+T427	ABBREVIATION 170934 170938	DMSO
+T428	FORMULA 171206 171220	C21H20BrF5N5O3
+T429	SYSTEMATIC 171262 171426	Ethyl 1-{3-(cyanomethyl)-1-[2,5-difluoro-4-({[(1S)-2,2,2-trifluoro-1-methylethyl]amino}carbonyl)phenyl]azetidin-3-yl}-3′-methyl-1H,1′H-4,4′-bipyrazole-3-carboxylate
+T430	SYSTEMATIC 171465 171483	tert-butyl alcohol
+T431	TRIVIAL 171498 171503	water
+T432	SYSTEMATIC 171514 171529	cesium fluoride
+T433	SYSTEMATIC 171551 171702	ethyl 4-bromo-1-{3-(cyanomethyl)-1-[2,5-difluoro-4-({[(1S)-2,2,2-trifluoro-1-methylethyl]amino}carbonyl)phenyl]azetidin-3-yl}-1H-pyrazole-3-carboxylate
+T434	SYSTEMATIC 171727 171795	3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole
+T435	FORMULA 171829 171835	Pd-127
+T436	TRIVIAL 171989 171994	water
+T437	SYSTEMATIC 171999 172012	ethyl acetate
+T438	SYSTEMATIC 172051 172064	ethyl acetate
+T439	FORMULA 172099 172105	Na2SO4
+T440	SYSTEMATIC 172204 172217	ethyl acetate
+T441	FAMILY 172221 172228	hexanes
+T442	FORMULA 172289 172301	C25H25F5N7O3
+T443	SYSTEMATIC 172343 172495	4-{3-(Cyanomethyl)-3-[3-(hydroxymethyl)-3′-methyl-1H,1′H-4,4′-bipyrazol-1-yl]azetidin-1-yl}-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T444	SYSTEMATIC 172513 172677	ethyl 1-{3-(cyanomethyl)-1-[2,5-difluoro-4-({[(1S)-2,2,2-trifluoro-1-methylethyl]amino}carbonyl)phenyl]azetidin-3-yl}-3′-methyl-1H,1′H-4,4′-bipyrazole-3-carboxylate
+T445	ABBREVIATION 172701 172704	THF
+T446	SYSTEMATIC 172730 172754	lithium tetrahydroborate
+T447	ABBREVIATION 172758 172761	THF
+T448	TRIVIAL 172879 172884	water
+T449	SYSTEMATIC 172930 172943	ethyl acetate
+T450	SYSTEMATIC 173079 173091	acetonitrile
+T451	TRIVIAL 173092 173097	water
+T452	SYSTEMATIC 173114 173132	ammonium hydroxide
+T453	FORMULA 173207 173212	CDCl3
+T454	FORMULA 173439 173451	C23H23F5N7O2
+T455	SYSTEMATIC 173496 173651	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T456	SYSTEMATIC 173674 173813	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T457	SYSTEMATIC 173847 173854	ethanol
+T458	SYSTEMATIC 173918 173933	Phosphoric acid
+T459	SYSTEMATIC 173937 173948	isopropanol
+T460	SYSTEMATIC 174168 174191	methyl tert-butyl ether
+T461	ABBREVIATION 174193 174197	MTBE
+T462	SYSTEMATIC 174340 174355	phosphoric acid
+T463	SYSTEMATIC 175116 175271	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T464	SYSTEMATIC 175294 175433	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T465	SYSTEMATIC 175467 175479	acetonitrile
+T466	SYSTEMATIC 175543 175558	Phosphoric acid
+T467	SYSTEMATIC 175562 175573	isopropanol
+T468	ABBREVIATION 175781 175785	MTBE
+T469	SYSTEMATIC 175901 175916	phosphoric acid
+T470	SYSTEMATIC 176689 176844	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T471	SYSTEMATIC 176867 177006	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T472	SYSTEMATIC 177040 177051	isopropanol
+T473	SYSTEMATIC 177116 177131	Phosphoric acid
+T474	SYSTEMATIC 177135 177146	isopropanol
+T475	ABBREVIATION 177384 177388	MTBE
+T476	SYSTEMATIC 177504 177519	phosphoric acid
+T477	SYSTEMATIC 178228 178383	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T478	SYSTEMATIC 178411 178566	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T479	SYSTEMATIC 178603 178742	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T480	SYSTEMATIC 178768 178776	methanol
+T481	SYSTEMATIC 178792 178803	isopropanol
+T482	SYSTEMATIC 178863 178878	phosphoric acid
+T483	SYSTEMATIC 178906 178917	isopropanol
+T484	SYSTEMATIC 179015 179024	n-Heptane
+T485	SYSTEMATIC 179179 179188	n-heptane
+T486	SYSTEMATIC 179355 179366	isopropanol
+T487	SYSTEMATIC 179371 179380	n-heptane
+T488	SYSTEMATIC 179420 179429	n-heptane
+T489	SYSTEMATIC 179501 179656	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T490	SYSTEMATIC 179694 179849	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T491	SYSTEMATIC 179985 180140	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide phosphoric acid
+T492	SYSTEMATIC 180181 180189	methanol
+T493	FORMULA 180191 180195	MeOH
+T494	SYSTEMATIC 180420 180428	methanol
+T495	SYSTEMATIC 180460 180471	Isopropanol
+T496	SYSTEMATIC 180613 180624	isopropanol
+T497	SYSTEMATIC 180626 180635	n-heptane
+T498	FORMULA 180734 180738	MeOH
+T499	ABBREVIATION 180740 180743	IPA
+T500	SYSTEMATIC 180748 180757	n-heptane
+T501	SYSTEMATIC 181010 181021	isopropanol
+T502	SYSTEMATIC 181026 181035	n-heptane
+T503	SYSTEMATIC 181073 181082	n-heptane
+T504	SYSTEMATIC 181228 181243	phosphoric acid
+T505	ABBREVIATION 181344 181351	DMSO-d6
+T506	ABBREVIATION 181625 181632	DMSO-d6
+T507	FORMULA 181956 181967	C23H22F5N7O
+T508	SYSTEMATIC 182238 182253	phosphoric acid
+T509	SYSTEMATIC 183065 183222	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide hydrochloric acid
+T510	SYSTEMATIC 183245 183384	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T511	SYSTEMATIC 183418 183427	2-butanol
+T512	SYSTEMATIC 183503 183520	Hydrochloric acid
+T513	SYSTEMATIC 183524 183535	isopropanol
+T514	SYSTEMATIC 183536 183552	isopropylacetate
+T515	ABBREVIATION 183570 183573	IPA
+T516	FORMULA 183574 183578	IPAc
+T517	FORMULA 183590 183593	HCl
+T518	FORMULA 183597 183601	IPAc
+T519	ABBREVIATION 183836 183840	MTBE
+T520	SYSTEMATIC 184174 184191	hydrochloric acid
+T521	SYSTEMATIC 184765 184922	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide hydrochloric acid
+T522	SYSTEMATIC 184945 185084	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T523	SYSTEMATIC 185118 185129	isopropanol
+T524	SYSTEMATIC 185203 185220	Hydrochloric acid
+T525	SYSTEMATIC 185224 185235	isopropanol
+T526	SYSTEMATIC 185236 185252	isopropylacetate
+T527	ABBREVIATION 185271 185274	IPA
+T528	FORMULA 185275 185279	IPAc
+T529	FORMULA 185291 185294	HCl
+T530	FORMULA 185298 185302	IPAc
+T531	ABBREVIATION 185561 185565	MTBE
+T532	SYSTEMATIC 185680 185697	hydrochloric acid
+T533	SYSTEMATIC 186275 186431	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide hydrobromic acid
+T534	SYSTEMATIC 186440 186579	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T535	SYSTEMATIC 186613 186624	isopropanol
+T536	SYSTEMATIC 186698 186714	Hydrobromic acid
+T537	SYSTEMATIC 186718 186729	isopropanol
+T538	TRIVIAL 186730 186735	water
+T539	ABBREVIATION 186751 186754	IPA
+T540	TRIVIAL 186755 186760	water
+T541	FORMULA 186770 186773	HBr
+T542	TRIVIAL 186777 186782	water
+T543	ABBREVIATION 187026 187030	MTBE
+T544	SYSTEMATIC 187334 187350	hydrobromic acid
+T545	SYSTEMATIC 188163 188316	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide sulfuric acid
+T546	SYSTEMATIC 188339 188478	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T547	SYSTEMATIC 188509 188520	isopropanol
+T548	SYSTEMATIC 188594 188607	Sulfuric acid
+T549	SYSTEMATIC 188611 188622	isopropanol
+T550	ABBREVIATION 188633 188636	IPA
+T551	SYSTEMATIC 188646 188659	sulfuric acid
+T552	ABBREVIATION 188905 188909	MTBE
+T553	SYSTEMATIC 189182 189195	sulfuric acid
+T554	SYSTEMATIC 189709 189862	4-[3-(Cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide sulfuric acid
+T555	SYSTEMATIC 189885 190024	4-[3-(cyanomethyl)-3-(3′,5′-dimethyl-1H,1′H-4,4′-bipyrazol-1-yl)azetidin-1-yl]-2,5-difluoro-N-[(1S)-2,2,2-trifluoro-1-methylethyl]benzamide
+T556	SYSTEMATIC 190058 190069	isopropanol
+T557	SYSTEMATIC 190105 190118	Sulfuric acid
+T558	TRIVIAL 190122 190127	water
+T559	ABBREVIATION 190446 190450	MTBE
+T560	SYSTEMATIC 190549 190562	sulfuric acid

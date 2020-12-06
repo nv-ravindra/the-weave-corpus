@@ -1,0 +1,174 @@
+T1	SYSTEMATIC 99952 100002	(4S/R,5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-ol
+T2	FORMULA 100097 100100	KOH
+T3	SYSTEMATIC 100142 100167	2-methyl tetrahydrofurane
+T4	SYSTEMATIC 100169 100198	(4S/R, 5R/S)-1,2-dithian-4-ol
+T5	SYSTEMATIC 100221 100257	tetrabutylammonium hydrogen sulphate
+T6	SYSTEMATIC 100383 100400	propargyl bromide
+T7	SYSTEMATIC 100422 100446	2-methyl tetrahydrofuran
+T8	SYSTEMATIC 100595 100608	ethyl acetate
+T9	TRIVIAL 100668 100673	water
+T10	TRIVIAL 100686 100691	brine
+T11	SYSTEMATIC 100728 100742	sodium sulfate
+T12	TRIVIAL 100873 100883	silica gel
+T13	SYSTEMATIC 100892 100900	methanol
+T14	SYSTEMATIC 100901 100916	dichloromethane
+T15	SYSTEMATIC 100930 100938	methanol
+T16	FORMULA 101005 101010	CD3CN
+T17	FORMULA 101239 101244	CD3CN
+T18	SYSTEMATIC 101326 101376	(4S/R,5S/R)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-ol
+T19	SYSTEMATIC 101409 101435	dithioerythritol disulfide
+T20	SYSTEMATIC 101440 101457	propargyl bromide
+T21	ABBREVIATION 101541 101548	DMSO-D6
+T22	ABBREVIATION 101679 101686	DMSO-D6
+T23	SYSTEMATIC 101768 101837	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T24	SYSTEMATIC 101870 101896	dithioerythritol disulfide
+T25	SYSTEMATIC 101901 101960	2-[2-(2-methoxyethoxy)ethoxy]ethyl 4-methylbenzenesulfonate
+T26	FORMULA 102044 102049	CD3CN
+T27	FORMULA 102304 102309	CD3CN
+T28	SYSTEMATIC 102399 102481	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-2′-O-methyl-3′-O-(4-oxopentanoyl)uridine
+T29	SYSTEMATIC 102496 102534	5′-dimethoxytrityl-2′-)-methyl uridine
+T30	SYSTEMATIC 102561 102575	levulinic acid
+T31	SYSTEMATIC 102599 102614	dichloromethane
+T32	SYSTEMATIC 102640 102699	1-ethyl-3-[3-dimethylaminopropyl]carbodiimide hydrochloride
+T33	SYSTEMATIC 102724 102747	4-dimethylaminopyridine
+T34	SYSTEMATIC 102867 102882	dichloromethane
+T35	TRIVIAL 102905 102910	water
+T36	TRIVIAL 102923 102928	brine
+T37	SYSTEMATIC 102965 102979	sodium sulfate
+T38	TRIVIAL 103105 103115	silica gel
+T39	SYSTEMATIC 103124 103132	methanol
+T40	SYSTEMATIC 103133 103148	dichloromethane
+T41	SYSTEMATIC 103163 103171	methanol
+T42	FORMULA 103217 103222	CD3CN
+T43	FORMULA 103584 103589	CD3CN
+T44	FORMULA 103847 103858	C36H38N2O10
+T45	SYSTEMATIC 103923 103963	2′-O-methyl-3′-O-(4-oxopentanoyl)uridine
+T46	SYSTEMATIC 103978 104060	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-2′-O-methyl-3′-O-(4-oxopentanoyl)uridine
+T47	SYSTEMATIC 104100 104115	dichloromethane
+T48	SYSTEMATIC 104141 104156	1-dodecanethiol
+T49	SYSTEMATIC 104178 104198	trichloroacetic acid
+T50	SYSTEMATIC 104318 104336	sodium bicarbonate
+T51	SYSTEMATIC 104362 104376	sodium sulfate
+T52	TRIVIAL 104487 104497	silica gel
+T53	SYSTEMATIC 104512 104520	methanol
+T54	SYSTEMATIC 104521 104536	dichloromethane
+T55	SYSTEMATIC 104551 104559	methanol
+T56	FORMULA 104605 104610	CD3CN
+T57	FORMULA 104975 104980	CD3CN
+T58	FORMULA 105138 105148	C15H20N2O8
+T59	SYSTEMATIC 105209 105535	(2R,3R,4R,5R)-2-{[({[(2R,3R,4R,5R)-2-{[bis(4-methoxyphenyl)(phenyl)methoxy]methyl}-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-4-methoxytetrahydrofuran-3-yl]oxy}{[(4S,5S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphoryl)oxy]methyl}-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-4-methoxytetrahydrofuran-3-yl 4-oxopentanoate
+T60	SYSTEMATIC 105549 105704	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(dipropan-2-ylamino){[(4S/R,5S/R)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphanyl]-2′-O-methyluridine
+T61	SYSTEMATIC 105730 105770	2′-O-methyl-3′-O-(4-oxopentanoyl)uridine
+T62	SYSTEMATIC 105831 105838	toluene
+T63	SYSTEMATIC 105867 105879	acetonitrile
+T64	SYSTEMATIC 105939 105959	5-ethylthiotetrazole
+T65	SYSTEMATIC 106216 106240	tert-butyl hydroperoxide
+T66	SYSTEMATIC 106250 106256	decane
+T67	SYSTEMATIC 106441 106459	sodium thiosulfate
+T68	SYSTEMATIC 106479 106494	dichloromethane
+T69	TRIVIAL 106555 106560	water
+T70	TRIVIAL 106576 106581	brine
+T71	SYSTEMATIC 106611 106625	sodium sulfate
+T72	TRIVIAL 106858 106863	water
+T73	SYSTEMATIC 106872 106888	ammonium formate
+T74	FORMULA 106892 106896	MeCN
+T75	SYSTEMATIC 106921 106933	acetonitrile
+T76	FORMULA 106978 106983	CD3CN
+T77	FORMULA 107006 107011	CD3CN
+T78	FORMULA 107044 107049	CD3CN
+T79	FORMULA 107072 107077	CD3CN
+T80	FORMULA 107110 107115	CD3CN
+T81	FORMULA 107805 107810	CD3CN
+T82	FORMULA 108154 108168	C53H59N4O19PS2
+T83	FORMULA 108240 108245	CD3CN
+T84	FORMULA 108822 108827	CD3CN
+T85	FORMULA 109148 109162	C53H59N4O19PS2
+T86	SYSTEMATIC 109216 109367	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(2-cyanoethoxy) {[(4S/R,5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphoryl]-2′-O-methyluridine
+T87	SYSTEMATIC 109381 109494	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(2-cyanoethoxy)(dipropan-2-ylamino)phosphanyl]-2′-O-methyluridine
+T88	SYSTEMATIC 109519 109570	(4S/R, 5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-ol
+T89	SYSTEMATIC 109631 109638	toluene
+T90	SYSTEMATIC 109667 109679	acetonitrile
+T91	SYSTEMATIC 109695 109714	thioethyl tetrazole
+T92	SYSTEMATIC 109820 109844	tert-butyl hydroperoxide
+T93	SYSTEMATIC 109873 109879	decane
+T94	SYSTEMATIC 109989 110007	sodium thiosulfate
+T95	SYSTEMATIC 110027 110042	dichloromethane
+T96	TRIVIAL 110103 110108	water
+T97	TRIVIAL 110124 110129	brine
+T98	SYSTEMATIC 110159 110173	sodium sulfate
+T99	FORMULA 110282 110296	C41H44N3O12PS2
+T100	FORMULA 110355 110360	CD3CN
+T101	SYSTEMATIC 110404 110604	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(2-cyanoethoxy) {[(4S/R,5R/S)-5-{[1-(7-hydroxy-2-oxo-2H-chromen-3-yl)-1H-1,2,3-triazol-4-yl]methoxy}-1,2-dithian-4-yl]oxy}phosphoryl]-2′-O-methyluridine
+T102	SYSTEMATIC 110619 110769	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(2-cyanoethoxy){[(4S/R,5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphoryl]-2′-O-methyluridine
+T103	SYSTEMATIC 110806 110840	3-azido-7-hydroxy-2H-chromen-2-one
+T104	SYSTEMATIC 110878 110890	acetonitrile
+T105	SYSTEMATIC 110903 110920	dimethylformamide
+T106	SYSTEMATIC 110959 110967	nitrogen
+T107	SYSTEMATIC 110975 111006	copper (II) sulfate monohydrate
+T108	SYSTEMATIC 111039 111052	ascorbic acid
+T109	TRIVIAL 111187 111193	celite
+T110	TRIVIAL 111300 111305	water
+T111	SYSTEMATIC 111319 111334	dichloromethane
+T112	SYSTEMATIC 111390 111405	dichloromethane
+T113	TRIVIAL 111465 111470	water
+T114	TRIVIAL 111483 111488	brine
+T115	SYSTEMATIC 111518 111532	sodium sulfate
+T116	FORMULA 111677 111691	C50H49N6O15PS2
+T117	FORMULA 111752 111757	CD3CN
+T118	SYSTEMATIC 111815 112014	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(2-cyanoethoxy){[(4S/R,5R/S)-5-{[1-(7-hydroxy-2-oxo-2H-chromen-3-yl)-1H-1,2,3-triazol-4-yl]methoxy}-1,2-dithian-4-yl]oxy}phosphoryl]-2′-O-methyluridine
+T119	SYSTEMATIC 112051 112063	acetonitrile
+T120	TRIVIAL 112076 112081	water
+T121	SYSTEMATIC 112106 112126	tri-n-butylphosphine
+T122	TRIVIAL 112355 112360	water
+T123	SYSTEMATIC 112369 112385	ammonium formate
+T124	FORMULA 112389 112393	MeCN
+T125	SYSTEMATIC 112418 112430	acetonitrile
+T126	FORMULA 112596 112601	CD3CN
+T127	FORMULA 112965 112970	CD3CN
+T128	FORMULA 113108 113120	C16H15N3O4S2
+T129	SYSTEMATIC 113171 113326	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(dipropan-2-ylamino){[(4S/R,5S/R)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphanyl]-2′-O-methyluridine
+T130	SYSTEMATIC 113341 113381	5′-O-dimethoxytrityl-2′-O-methyl uridine
+T131	SYSTEMATIC 113406 113431	N,N-diisopropylethylamine
+T132	SYSTEMATIC 113455 113470	dichloromethane
+T133	SYSTEMATIC 113503 113538	bis(diisopropylamino)chlorophophine
+T134	SYSTEMATIC 113563 113580	1-methylimidazole
+T135	SYSTEMATIC 113746 113766	bis-diisopropylamino
+T136	SYSTEMATIC 113797 113848	(4S/R, 5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-ol
+T137	TRIVIAL 114054 114064	silica gel
+T138	SYSTEMATIC 114073 114086	ethyl acetate
+T139	SYSTEMATIC 114087 114093	hexane
+T140	FORMULA 114167 114181	C43H51N3O10PS2
+T141	FORMULA 114231 114236	CD3CN
+T142	SYSTEMATIC 114267 114461	5′-O-[bis(4-methoxyphenyl)(phenyl)methyl]-3′-O-[(dipropan-2-ylamino){[(4S/R,5S/R)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-yl]oxy}phosphanyl]-2-fluoro-b-D-arabinofuranosyl}pyrimidine-2,4(1H,3H)-dione
+T143	SYSTEMATIC 114476 114527	(4S/R, 5R/S)-5-(prop-2-yn-1-yloxy)-1,2-dithian-4-ol
+T144	SYSTEMATIC 114588 114608	N,N-diisopropylamine
+T145	SYSTEMATIC 114640 114675	Bis(diisopropylamino)chlorophophine
+T146	SYSTEMATIC 114700 114717	1-methylimidazole
+T147	SYSTEMATIC 114878 114905	bis-diisopropylamino P(III)
+T148	SYSTEMATIC 114940 114987	5′-O-dimethoxytrityl-2′-deoxy-2′-fluoro uridine
+T149	TRIVIAL 115188 115198	silica gel
+T150	SYSTEMATIC 115207 115220	ethyl acetate
+T151	SYSTEMATIC 115221 115227	hexane
+T152	FORMULA 115306 115320	C43H51FN3O9PS2
+T153	FORMULA 115371 115376	CD3CN
+T154	FORMULA 115423 115433	C24H31O4Si
+T155	SYSTEMATIC 115535 115584	5′-O-dimethoxytrityl-2′-deoxy-2′-O-methyl uridine
+T156	SYSTEMATIC 115589 115658	(4S/R,5S/R)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T157	FORMULA 115727 115741	C44H54N3O10PS2
+T158	FORMULA 115793 115798	CD3CN
+T159	SYSTEMATIC 115861 115908	5′-O-dimethoxytrityl-2′-deoxy-2′-fluoro uridine
+T160	SYSTEMATIC 115913 115982	(4S/R,5S/R)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T161	SYSTEMATIC 116087 116136	5′-O-dimethoxytrityl-2′-deoxy-2′-O-methyl uridine
+T162	SYSTEMATIC 116141 116210	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T163	FORMULA 116291 116296	CD3CN
+T164	SYSTEMATIC 116359 116406	5′-O-dimethoxytrityl-2′-deoxy-2′-fluoro uridine
+T165	SYSTEMATIC 116411 116480	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T166	FORMULA 116561 116566	CD3CN
+T167	SYSTEMATIC 116668 116737	5′-O-dimethoxytrityl-2′-deoxy-2′-O-triisopropylsilyloxymethyl uridine
+T168	SYSTEMATIC 116742 116811	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T169	SYSTEMATIC 116938 117008	5′-O-dimethoxytrityl-2′-deoxy-2′-O-triisopropylsilyloxymethyl cytidine
+T170	SYSTEMATIC 117013 117082	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T171	SYSTEMATIC 117209 117279	5′-O-dimethoxytrityl-2′-deoxy-2′-O-triisopropylsilyloxymethyl cytidine
+T172	SYSTEMATIC 117284 117353	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol
+T173	SYSTEMATIC 117481 117551	5′-O-dimethoxytrityl-2′-deoxy-2′-O-triisopropylsilyloxymethyl cytidine
+T174	SYSTEMATIC 117556 117625	(4S/R,5R/S)-5-{2-[2-(2-methoxyethoxyl)ethoxy]ethoxy}-1,2-dithian-4-ol

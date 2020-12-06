@@ -1,0 +1,996 @@
+T1	SYSTEMATIC 92669 92749	5-Chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T2	SYSTEMATIC 92779 92809	5-Chloro-2-methoxybenzoic acid
+T3	SYSTEMATIC 92831 92844	sulfuric acid
+T4	SYSTEMATIC 92858 92878	trifluoroacetic acid
+T5	SYSTEMATIC 92921 92939	N-bromosuccinimide
+T6	SYSTEMATIC 93122 93135	ethyl acetate
+T7	SYSTEMATIC 93141 93154	ethyl acetate
+T8	SYSTEMATIC 93172 93186	sodium sulfate
+T9	SYSTEMATIC 93288 93306	methylene chloride
+T10	SYSTEMATIC 93350 93368	methylene chloride
+T11	SYSTEMATIC 93405 93443	3-bromo-5-chloro-2-methoxybenzoic acid
+T12	SYSTEMATIC 93492 93502	acetone-d6
+T13	SYSTEMATIC 93581 93619	3-bromo-5-chloro-2-methoxybenzoic acid
+T14	SYSTEMATIC 93641 93659	methylboronic acid
+T15	FORMULA 93681 93692	Pd(dppf)Cl2
+T16	SYSTEMATIC 93717 93733	cesium carbonate
+T17	SYSTEMATIC 93771 93786	tetrahydrofuran
+T18	SYSTEMATIC 93801 93809	nitrogen
+T19	FORMULA 93869 93872	HCl
+T20	SYSTEMATIC 93892 93905	ethyl acetate
+T21	SYSTEMATIC 93911 93924	ethyl acetate
+T22	FORMULA 93942 93948	Na2SO4
+T23	TRIVIAL 94019 94029	silica gel
+T24	SYSTEMATIC 94060 94099	5-chloro-2-methoxy-3-methylbenzoic acid
+T25	SYSTEMATIC 94132 94171	5-chloro-2-methoxy-3-methylbenzoic acid
+T26	SYSTEMATIC 94208 94223	dichloromethane
+T27	SYSTEMATIC 94282 94299	dimethylformamide
+T28	SYSTEMATIC 94314 94329	oxalyl chloride
+T29	SYSTEMATIC 94486 94501	tetrahydrofuran
+T30	TRIVIAL 94516 94528	Hunig's base
+T31	SYSTEMATIC 94553 94595	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T32	TRIVIAL 94691 94701	silica gel
+T33	TRIVIAL 94802 94812	silica gel
+T34	SYSTEMATIC 94844 94924	5-chloro-2-methoxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T35	SYSTEMATIC 94963 94973	acetone-d6
+T36	SYSTEMATIC 95156 95236	5-chloro-2-methoxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T37	SYSTEMATIC 95272 95291	pyridinium chloride
+T38	TRIVIAL 95433 95438	water
+T39	SYSTEMATIC 95458 95471	ethyl acetate
+T40	TRIVIAL 95550 95560	silica gel
+T41	SYSTEMATIC 95592 95672	5-chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T42	SYSTEMATIC 95732 95742	acetone-d6
+T43	SYSTEMATIC 95906 96004	5-Chloro-3-(2-(dimethylamino)ethyl)-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T44	SYSTEMATIC 96034 96064	5-chloro-2-methoxybenzoic acid
+T45	SYSTEMATIC 96086 96099	sulfuric acid
+T46	SYSTEMATIC 96150 96168	N-bromosuccinimide
+T47	SYSTEMATIC 96354 96367	ethyl acetate
+T48	SYSTEMATIC 96373 96386	ethyl acetate
+T49	SYSTEMATIC 96404 96418	sodium sulfate
+T50	SYSTEMATIC 96510 96525	dichloromethane
+T51	SYSTEMATIC 96569 96584	dichloromethane
+T52	SYSTEMATIC 96627 96665	3-bromo-5-chloro-2-methoxybenzoic acid
+T53	SYSTEMATIC 96712 96722	acetone-d6
+T54	SYSTEMATIC 96813 96851	3-bromo-5-chloro-2-methoxybenzoic acid
+T55	SYSTEMATIC 96872 96889	dimethylformamide
+T56	SYSTEMATIC 96908 96927	potassium carbonate
+T57	FORMULA 96961 96965	CH3I
+T58	TRIVIAL 97042 97047	Water
+T59	SYSTEMATIC 97077 97090	ethyl acetate
+T60	TRIVIAL 97149 97154	water
+T61	TRIVIAL 97159 97164	brine
+T62	SYSTEMATIC 97180 97194	sodium sulfate
+T63	SYSTEMATIC 97302 97343	Methyl 3-bromo-5-chloro-2-methoxybenzoate
+T64	SYSTEMATIC 97366 97428	potassium (2-((tert-butoxycarbonyl)amino)ethyl)trifluoroborate
+T65	FORMULA 97451 97462	Pd(dppf)Cl2
+T66	SYSTEMATIC 97487 97504	caesium carbonate
+T67	SYSTEMATIC 97592 97600	nitrogen
+T68	SYSTEMATIC 97628 97635	toluene
+T69	TRIVIAL 97648 97653	water
+T70	SYSTEMATIC 97692 97700	nitrogen
+T71	SYSTEMATIC 97747 97755	nitrogen
+T72	SYSTEMATIC 97777 97794	ammonium chloride
+T73	SYSTEMATIC 97859 97872	ethyl acetate
+T74	TRIVIAL 97974 97984	silica gel
+T75	SYSTEMATIC 98089 98101	Chloroform-d
+T76	SYSTEMATIC 98291 98364	Methyl 3-(2-((tert-butoxycarbonyl)amino)ethyl)-5-chloro-2-methoxybenzoate
+T77	FORMULA 98405 98408	HCl
+T78	SYSTEMATIC 98412 98419	dioxane
+T79	SYSTEMATIC 98505 98523	sodium bicarbonate
+T80	SYSTEMATIC 98562 98577	dichloromethane
+T81	TRIVIAL 98613 98618	water
+T82	TRIVIAL 98623 98628	brine
+T83	SYSTEMATIC 98644 98658	sodium sulfate
+T84	SYSTEMATIC 98783 98795	Chloroform-d
+T85	SYSTEMATIC 98962 99012	methyl 3-(2-aminoethyl)-5-chloro-2-methoxybenzoate
+T86	SYSTEMATIC 99037 99045	methanol
+T87	SYSTEMATIC 99063 99075	formaldehyde
+T88	TRIVIAL 99106 99111	water
+T89	SYSTEMATIC 99114 99137	sodium cyanoborohydride
+T90	SYSTEMATIC 99162 99173	acetic acid
+T91	SYSTEMATIC 99270 99288	sodium bicarbonate
+T92	SYSTEMATIC 99318 99333	dichloromethane
+T93	TRIVIAL 99435 99445	silica gel
+T94	SYSTEMATIC 99549 99561	Chloroform-d
+T95	SYSTEMATIC 99783 99843	methyl 5-chloro-3-(2-(dimethylamino)ethyl)-2-methoxybenzoate
+T96	SYSTEMATIC 99867 99875	methanol
+T97	SYSTEMATIC 99896 99915	potassium hydroxide
+T98	FORMULA 100001 100004	HCl
+T99	SYSTEMATIC 100106 100123	dimethylformamide
+T100	SYSTEMATIC 100132 100205	N,N,N′,N′-Tetramethyl-O-(1H-benzotriazol-1-yl)uronium hexafluorophosphate
+T101	SYSTEMATIC 100248 100273	N,N-diisopropylethylamine
+T102	SYSTEMATIC 100367 100409	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T103	SYSTEMATIC 100507 100524	ammonium chloride
+T104	SYSTEMATIC 100563 100576	ethyl acetate
+T105	SYSTEMATIC 100605 100618	ethyl acetate
+T106	FORMULA 100640 100646	Na2SO4
+T107	TRIVIAL 100717 100727	silica gel
+T108	SYSTEMATIC 100823 100835	Chloroform-d
+T109	SYSTEMATIC 101076 101174	5-Chloro-3-(2-(dimethylamino)ethyl)-2-methoxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T110	SYSTEMATIC 101210 101229	pyridinium chloride
+T111	TRIVIAL 101371 101376	water
+T112	SYSTEMATIC 101396 101409	ethyl acetate
+T113	TRIVIAL 101488 101498	silica gel
+T114	SYSTEMATIC 101524 101623	5-chloro-3-(2-(dimethylamino)ethyl)-2-hydroxy-N-(6-(trifluoromethyl) benzo[d]thiazol-2-yl)benzamide
+T115	FORMULA 101684 101689	CDCl3
+T116	SYSTEMATIC 101884 101986	5-Chloro-2-hydroxy-3-(2-(methylsulfonamido)ethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T117	SYSTEMATIC 102016 102066	methyl 3-(2-aminoethyl)-5-chloro-2-methoxybenzoate
+T118	SYSTEMATIC 102090 102105	dichloromethane
+T119	SYSTEMATIC 102123 102137	trimethylamine
+T120	SYSTEMATIC 102161 102185	methanesulfonyl chloride
+T121	SYSTEMATIC 102300 102315	dichloromethane
+T122	FORMULA 102348 102351	HCl
+T123	TRIVIAL 102353 102358	water
+T124	TRIVIAL 102363 102368	brine
+T125	FORMULA 102403 102409	Na2SO4
+T126	SYSTEMATIC 102573 102637	methyl 5-chloro-2-methoxy-3-(2-(methylsulfonamido)ethyl)benzoate
+T127	SYSTEMATIC 102662 102670	methanol
+T128	SYSTEMATIC 102691 102710	potassium hydroxide
+T129	FORMULA 102789 102792	HCl
+T130	SYSTEMATIC 102857 102870	ethyl acetate
+T131	SYSTEMATIC 102928 102942	sodium sulfate
+T132	SYSTEMATIC 103121 103182	5-Chloro-2-methoxy-3-(2-(methylsulfonamido)ethyl)benzoic acid
+T133	SYSTEMATIC 103221 103238	dimethylformamide
+T134	SYSTEMATIC 103247 103320	N,N,N′,N′-Tetramethyl-O-(1H-benzotriazol-1-yl)uronium hexafluorophosphate
+T135	SYSTEMATIC 103364 103389	N,N-diisopropylethylamine
+T136	SYSTEMATIC 103483 103525	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T137	SYSTEMATIC 103623 103640	ammonium chloride
+T138	SYSTEMATIC 103679 103692	ethyl acetate
+T139	SYSTEMATIC 103721 103734	ethyl acetate
+T140	FORMULA 103756 103762	Na2SO4
+T141	TRIVIAL 103833 103843	silica gel
+T142	SYSTEMATIC 103874 103976	5-Chloro-2-hydroxy-3-(2-(methylsulfonamido)ethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T143	SYSTEMATIC 104029 104039	acetone-d6
+T144	SYSTEMATIC 104281 104375	4-Chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl morpholine-4-carboxylate
+T145	SYSTEMATIC 104405 104476	5-chloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T146	SYSTEMATIC 104498 104506	pyridine
+T147	SYSTEMATIC 104526 104556	morpholine-4-carbonyl chloride
+T148	FORMULA 104641 104644	HCl
+T149	SYSTEMATIC 104687 104700	ethyl acetate
+T150	SYSTEMATIC 104749 104763	sodium sulfate
+T151	TRIVIAL 104820 104830	silica gel
+T152	SYSTEMATIC 104862 104956	4-chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl morpholine-4-carboxylate
+T153	SYSTEMATIC 105015 105025	acetone-d6
+T154	SYSTEMATIC 105311 105397	4-Chloro-2-((5-(trifluoromethyl)pyrazin-2-yl)carbamoyl)phenyl morpholine-4-carboxylate
+T155	SYSTEMATIC 105427 105490	5-chloro-2-hydroxy-N-(5-(trifluoromethyl)pyrazin-2-yl)benzamide
+T156	SYSTEMATIC 105514 105522	pyridine
+T157	SYSTEMATIC 105542 105572	morpholine-4-carbonyl chloride
+T158	FORMULA 105659 105662	HCl
+T159	SYSTEMATIC 105705 105718	ethyl acetate
+T160	SYSTEMATIC 105767 105781	sodium sulfate
+T161	TRIVIAL 105838 105848	silica gel
+T162	SYSTEMATIC 105880 105966	4-chloro-2-((5-(trifluoromethyl)pyrazin-2-yl)carbamoyl)phenyl morpholine-4-carboxylate
+T163	SYSTEMATIC 106025 106035	acetone-d6
+T164	SYSTEMATIC 106285 106387	4-Chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl 4-methylpiperazine-1-carboxylate
+T165	SYSTEMATIC 106417 106488	5-chloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T166	SYSTEMATIC 106510 106518	pyridine
+T167	SYSTEMATIC 106538 106576	4-methylpiperazine-1-carbonyl chloride
+T168	FORMULA 106661 106664	HCl
+T169	SYSTEMATIC 106707 106720	ethyl acetate
+T170	SYSTEMATIC 106769 106783	sodium sulfate
+T171	TRIVIAL 106840 106850	silica gel
+T172	SYSTEMATIC 106882 106984	4-chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl 4-methylpiperazine-1-carboxylate
+T173	SYSTEMATIC 107044 107056	Chloroform-d
+T174	SYSTEMATIC 107314 107404	6-Chloro-3-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-2H-benzo[e][1,3]oxazine-2,4(3H)-dione
+T175	SYSTEMATIC 107434 107505	5-chloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T176	SYSTEMATIC 107528 107543	dichloromethane
+T177	SYSTEMATIC 107561 107575	trimethylamine
+T178	SYSTEMATIC 107604 107631	4-Nitrophenyl Chloroformate
+T179	FORMULA 107741 107746	NH4Cl
+T180	SYSTEMATIC 107785 107798	ethyl acetate
+T181	SYSTEMATIC 107827 107840	ethyl acetate
+T182	FORMULA 107862 107868	Na2SO4
+T183	TRIVIAL 107939 107949	silica gel
+T184	SYSTEMATIC 107980 108070	6-chloro-3-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-2H-benzo[e][1,3]oxazine-2,4(3H)-dione
+T185	FORMULA 108121 108126	CDCl3
+T186	SYSTEMATIC 108311 108418	5-Chloro-2-(trifluoromethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-1H-benzo[d]imidazole-7-carboxamide
+T187	SYSTEMATIC 108448 108476	2-amino-5-chlorobenzoic acid
+T188	SYSTEMATIC 108498 108505	dioxane
+T189	SYSTEMATIC 108533 108558	trifluoroacetic anhydride
+T190	SYSTEMATIC 108712 108725	ethyl acetate
+T191	TRIVIAL 108730 108735	water
+T192	TRIVIAL 108771 108776	brine
+T193	FORMULA 108789 108795	Na2SO4
+T194	SYSTEMATIC 108832 108881	5-chloro-2-(2,2,2-trifluoroacetamido)benzoic acid
+T195	SYSTEMATIC 109002 109051	5-chloro-2-(2,2,2-trifluoroacetamido)benzoic acid
+T196	SYSTEMATIC 109085 109098	sulfuric acid
+T197	SYSTEMATIC 109126 109143	potassium nitrate
+T198	TRIVIAL 109368 109373	water
+T199	SYSTEMATIC 109384 109441	5-chloro-3-nitro-2-(2,2,2-trifluoroacetamido)benzoic acid
+T200	SYSTEMATIC 109556 109613	5-chloro-3-nitro-2-(2,2,2-trifluoroacetamido)benzoic acid
+T201	SYSTEMATIC 109634 109645	acetic acid
+T202	SYSTEMATIC 109664 109668	iron
+T203	TRIVIAL 109827 109832	water
+T204	SYSTEMATIC 109837 109850	ethyl acetate
+T205	SYSTEMATIC 109942 110009	5-chloro-2-(trifluoromethyl)-1H-benzo[d]imidazole-7-carboxylic acid
+T206	SYSTEMATIC 110065 110072	acetone
+T207	SYSTEMATIC 110152 110219	5-chloro-2-(trifluoromethyl)-1H-benzo[d]imidazole-7-carboxylic acid
+T208	SYSTEMATIC 110249 110322	N,N,N′,N′-Tetramethyl-O-(1H-benzotriazol-1-yl)uronium hexafluorophosphate
+T209	SYSTEMATIC 110347 110372	N,N-diisopropylethylamine
+T210	SYSTEMATIC 110438 110480	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T211	SYSTEMATIC 110633 110646	ethyl acetate
+T212	SYSTEMATIC 110661 110678	ammonium chloride
+T213	TRIVIAL 110723 110728	brine
+T214	FORMULA 110741 110747	Na2SO4
+T215	SYSTEMATIC 110818 110925	5-chloro-2-(trifluoromethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-1H-benzo[d]imidazole-7-carboxamide
+T216	SYSTEMATIC 110982 110992	acetone-d6
+T217	SYSTEMATIC 111207 111288	2,4-Bis(trifluoromethyl)-5-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)amino)phenol
+T218	SYSTEMATIC 111293 111300	Bromine
+T219	SYSTEMATIC 111324 111339	dichloromethane
+T220	SYSTEMATIC 111392 111423	3,5-bis(trifluoromethyl)aniline
+T221	SYSTEMATIC 111445 111461	sodium carbonate
+T222	SYSTEMATIC 111486 111490	iron
+T223	SYSTEMATIC 111520 111535	dichloromethane
+T224	TRIVIAL 111657 111662	water
+T225	SYSTEMATIC 111667 111682	dichloromethane
+T226	TRIVIAL 111718 111723	brine
+T227	FORMULA 111736 111742	Na2SO4
+T228	SYSTEMATIC 111915 111927	Chloroform-d
+T229	SYSTEMATIC 111971 111984	Sulfuric acid
+T230	SYSTEMATIC 112022 112065	2,6-dibromo-3,5-bis(trifluoromethyl)aniline
+T231	SYSTEMATIC 112086 112093	ethanol
+T232	SYSTEMATIC 112134 112148	sodium nitrite
+T233	TRIVIAL 112169 112174	water
+T234	TRIVIAL 112262 112267	water
+T235	SYSTEMATIC 112287 112292	ether
+T236	SYSTEMATIC 112327 112341	sodium sulfate
+T237	SYSTEMATIC 112477 112489	Chloroform-d
+T238	SYSTEMATIC 112546 112589	1,5-dibromo-2,4-bis(trifluoromethyl)benzene
+T239	SYSTEMATIC 112613 112630	dimethylformamide
+T240	SYSTEMATIC 112648 112664	copper(I) iodide
+T241	SYSTEMATIC 112694 112710	sodium methoxide
+T242	SYSTEMATIC 112714 112722	methanol
+T243	FORMULA 112783 112785	N2
+T244	TRIVIAL 112825 112830	water
+T245	SYSTEMATIC 112850 112855	ether
+T246	SYSTEMATIC 112890 112904	sodium sulfate
+T247	SYSTEMATIC 113042 113054	Chloroform-d
+T248	SYSTEMATIC 113192 113241	1-bromo-5-methoxy-2,4-bis(trifluoromethyl)benzene
+T249	FORMULA 113262 113269	Mo(CO)6
+T250	SYSTEMATIC 113291 113333	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T251	FORMULA 113354 113359	K3PO4
+T252	SYSTEMATIC 113381 113404	4-dimethylaminopyridine
+T253	SYSTEMATIC 113425 113446	palladium(II) acetate
+T254	IDENTIFIER 113470 113478	Xantphos
+T255	SYSTEMATIC 113502 113509	dioxane
+T256	SYSTEMATIC 113549 113557	nitrogen
+T257	SYSTEMATIC 113581 113598	ammonium chloride
+T258	SYSTEMATIC 113637 113650	ethyl acetate
+T259	SYSTEMATIC 113708 113722	sodium sulfate
+T260	SYSTEMATIC 113857 113869	Chloroform-d
+T261	SYSTEMATIC 113977 114064	N-(5-methoxy-2,4-bis(trifluoromethyl)phenyl)-6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T262	SYSTEMATIC 114100 114119	pyridinium chloride
+T263	TRIVIAL 114261 114266	water
+T264	SYSTEMATIC 114286 114299	ethyl acetate
+T265	TRIVIAL 114378 114388	silica gel
+T266	SYSTEMATIC 114420 114501	2,4-bis(trifluoromethyl)-5-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)amino)phenol
+T267	SYSTEMATIC 114567 114577	acetone-d6
+T268	SYSTEMATIC 114729 114816	5-Hydroxy-2,4-bis(trifluoromethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T269	SYSTEMATIC 114836 114850	n-butyllithium
+T270	SYSTEMATIC 114869 114875	hexane
+T271	SYSTEMATIC 114931 114980	1-bromo-5-methoxy-2,4-bis(trifluoromethyl)benzene
+T272	SYSTEMATIC 115001 115016	tetrahydrofuran
+T273	SYSTEMATIC 115202 115218	sodium hydroxide
+T274	FORMULA 115293 115296	HCl
+T275	TRIVIAL 115408 115418	silica gel
+T276	SYSTEMATIC 115527 115537	acetone-d6
+T277	SYSTEMATIC 115583 115629	5-methoxy-2,4-bis(trifluoromethyl)benzoic acid
+T278	SYSTEMATIC 115667 115682	dichloromethane
+T279	SYSTEMATIC 115741 115758	dimethylformamide
+T280	SYSTEMATIC 115773 115788	oxalyl chloride
+T281	SYSTEMATIC 115946 115961	tetrahydrofuran
+T282	TRIVIAL 115976 115988	Hunig's base
+T283	SYSTEMATIC 116013 116055	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T284	TRIVIAL 116152 116162	silica gel
+T285	TRIVIAL 116263 116273	silica gel
+T286	SYSTEMATIC 116379 116389	acetone-d6
+T287	SYSTEMATIC 116565 116652	5-methoxy-2,4-bis(trifluoromethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T288	SYSTEMATIC 116689 116708	pyridinium chloride
+T289	TRIVIAL 116850 116855	water
+T290	SYSTEMATIC 116875 116888	ethyl acetate
+T291	TRIVIAL 116967 116977	silica gel
+T292	SYSTEMATIC 117009 117096	5-hydroxy-2,4-bis(trifluoromethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T293	SYSTEMATIC 117157 117167	acetone-d6
+T294	SYSTEMATIC 117359 117436	4-Chloro-2-((2-chloro-4-cyanophenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T295	SYSTEMATIC 117467 117521	5-chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide
+T296	SYSTEMATIC 117545 117553	pyridine
+T297	SYSTEMATIC 117573 117603	morpholine-4-carbonyl chloride
+T298	FORMULA 117690 117693	HCl
+T299	SYSTEMATIC 117736 117749	ethyl acetate
+T300	SYSTEMATIC 117798 117812	sodium sulfate
+T301	TRIVIAL 117869 117879	silica gel
+T302	SYSTEMATIC 117911 117988	4-chloro-2-((2-chloro-4-cyanophenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T303	SYSTEMATIC 118046 118056	acetone-d6
+T304	SYSTEMATIC 118333 118422	4-Chloro-2-((2-chloro-4-(trifluoromethyl)phenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T305	SYSTEMATIC 118453 118519	5-chloro-N-(2-chloro-4-(trifluoromethyl)phenyl)-2-hydroxybenzamide
+T306	SYSTEMATIC 118543 118551	pyridine
+T307	SYSTEMATIC 118571 118601	morpholine-4-carbonyl chloride
+T308	FORMULA 118688 118691	HCl
+T309	SYSTEMATIC 118734 118747	ethyl acetate
+T310	SYSTEMATIC 118796 118810	sodium sulfate
+T311	TRIVIAL 118867 118877	silica gel
+T312	SYSTEMATIC 118909 118996	chloro-2-((2-chloro-4-(trifluoromethyl)phenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T313	SYSTEMATIC 119054 119064	acetone-d6
+T314	SYSTEMATIC 119379 119456	4-Chloro-2-((2-chloro-4-nitrophenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T315	SYSTEMATIC 119487 119541	5-chloro-N-(2-chloro-4-nitrophenyl)-2-hydroxybenzamide
+T316	SYSTEMATIC 119562 119570	pyridine
+T317	SYSTEMATIC 119590 119620	morpholine-4-carbonyl chloride
+T318	FORMULA 119704 119707	HCl
+T319	SYSTEMATIC 119750 119763	ethyl acetate
+T320	SYSTEMATIC 119812 119826	sodium sulfate
+T321	TRIVIAL 119883 119893	silica gel
+T322	SYSTEMATIC 119925 120002	4-chloro-2-((2-chloro-4-nitrophenyl)carbamoyl)phenyl morpholine-4-carboxylate
+T323	SYSTEMATIC 120061 120071	acetone-d6
+T324	SYSTEMATIC 120373 120439	5-Chloro-N-(2-chloro-4-(trifluoromethyl)phenyl)-2-hydroxybenzamide
+T325	SYSTEMATIC 120445 120468	5-Chlorosalicyclic acid
+T326	SYSTEMATIC 120509 120525	thionyl chloride
+T327	SYSTEMATIC 120673 120688	dichloromethane
+T328	SYSTEMATIC 120717 120740	trifluoromethyl aniline
+T329	TRIVIAL 120894 120904	silica gel
+T330	SYSTEMATIC 120932 120939	acetone
+T331	FAMILY 120940 120948	hexances
+T332	SYSTEMATIC 120959 121025	5-chloro-N-(2-chloro-4-(trifluoromethyl)phenyl)-2-hydroxybenzamide
+T333	SYSTEMATIC 121091 121103	Chloroform-d
+T334	FORMULA 121334 121347	C14H9Cl2F3NO2
+T335	SYSTEMATIC 121397 121452	5-Chloro-N-(2-chloro-4-fluorophenyl)-2-hydroxybenzamide
+T336	SYSTEMATIC 121458 121488	5-Chloro-2-hydroxybenzoic acid
+T337	SYSTEMATIC 121529 121545	thionyl chloride
+T338	SYSTEMATIC 121693 121708	dichloromethane
+T339	SYSTEMATIC 121737 121751	fluoro aniline
+T340	TRIVIAL 121893 121903	silica gel
+T341	SYSTEMATIC 121931 121938	acetone
+T342	FAMILY 121939 121947	hexances
+T343	SYSTEMATIC 121958 122013	5-chloro-N-(2-chloro-4-fluorophenyl)-2-hydroxybenzamide
+T344	SYSTEMATIC 122078 122089	Methanol-d4
+T345	SYSTEMATIC 122357 122411	5-Chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide
+T346	SYSTEMATIC 122417 122440	5-Chlorosalicyclic acid
+T347	SYSTEMATIC 122481 122496	tetrahydrofuran
+T348	SYSTEMATIC 122555 122572	dimethylformamide
+T349	SYSTEMATIC 122585 122600	oxalyl chloride
+T350	SYSTEMATIC 122765 122773	o-xylene
+T351	SYSTEMATIC 122802 122815	cyano aniline
+T352	SYSTEMATIC 122993 123006	diethyl ether
+T353	SYSTEMATIC 123025 123036	cyano amide
+T354	TRIVIAL 123072 123082	silica gel
+T355	SYSTEMATIC 123110 123117	acetone
+T356	SYSTEMATIC 123137 123191	5-chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide
+T357	SYSTEMATIC 123257 123267	Acetone-d6
+T358	SYSTEMATIC 123517 123586	5-Chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide-2-aminoethanol
+T359	SYSTEMATIC 123598 123652	5-Chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide
+T360	SYSTEMATIC 123693 123701	methanol
+T361	SYSTEMATIC 123727 123741	2-aminoethanol
+T362	SYSTEMATIC 123947 123960	4-cyano amide
+T363	SYSTEMATIC 124082 124095	diethyl ether
+T364	SYSTEMATIC 124105 124159	5-chloro-N-(2-chloro-4-cyanophenyl)-2-hydroxybenzamide
+T365	SYSTEMATIC 124170 124184	2-aminoethanol
+T366	ABBREVIATION 124269 124276	DMSO-d6
+T367	SYSTEMATIC 124529 124633	4-Chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl [1,4′-bipiperidine]-1′-carboxylate
+T368	ABBREVIATION 124656 124663	DMSO-d6
+T369	SYSTEMATIC 124951 125038	4-chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl dimethylglycinate
+T370	SYSTEMATIC 125050 125143	4-Chloro-2-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl prolinate hydrochloride
+T371	ABBREVIATION 125166 125173	DMSO-d6
+T372	SYSTEMATIC 125400 125480	5-Chloro-N-(4-fluoro-6-(trifluoromethyl)benzo[d]thiazol-2-yl)-2-hydroxybenzamide
+T373	ABBREVIATION 125503 125510	DMSO-d6
+T374	SYSTEMATIC 125698 125774	N-(4,6-Bis(trifluoromethyl)benzo[d]thiazol-2-yl)-5-chloro-2-hydroxybenzamide
+T375	ABBREVIATION 125797 125804	DMSO-d6
+T376	SYSTEMATIC 125986 126050	5-Chloro-N-(4,6-difluorobenzo[d]thiazol-2-yl)-2-hydroxybenzamide
+T377	ABBREVIATION 126073 126080	DMSO-d6
+T378	SYSTEMATIC 126229 126309	5-Chloro-N-(6-fluoro-4-(trifluoromethyl)benzo[d]thiazol-2-yl)-2-hydroxybenzamide
+T379	ABBREVIATION 126332 126339	DMSO-d6
+T380	SYSTEMATIC 126553 126624	5-Chloro-2-hydroxy-N-(5-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T381	ABBREVIATION 126647 126654	DMSO-d6
+T382	SYSTEMATIC 126911 126982	5-Chloro-2-hydroxy-N-(7-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T383	ABBREVIATION 127005 127012	DMSO-d6
+T384	SYSTEMATIC 127269 127348	5-Chloro-3-ethyl-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T385	SYSTEMATIC 127379 127417	3-bromo-5-chloro-2-methoxybenzoic acid
+T386	FORMULA 127439 127450	Pd(dppf)Cl2
+T387	FORMULA 127475 127481	Cs2CO3
+T388	ABBREVIATION 127505 127508	THF
+T389	FORMULA 127523 127525	N2
+T390	SYSTEMATIC 127536 127550	triethylborane
+T391	ABBREVIATION 127567 127570	THF
+T392	FORMULA 127604 127606	N2
+T393	FORMULA 127679 127682	HCl
+T394	ABBREVIATION 127702 127704	EA
+T395	ABBREVIATION 127710 127712	EA
+T396	FORMULA 127730 127736	Na2SO4
+T397	TRIVIAL 127807 127817	silica gel
+T398	SYSTEMATIC 127848 127886	5-chloro-2-methoxy-3-ethylbenzoic acid
+T399	SYSTEMATIC 127936 127948	Chloroform-d
+T400	SYSTEMATIC 128062 128100	5-chloro-2-methoxy-3-ethylbenzoic acid
+T401	ABBREVIATION 128139 128142	DMF
+T402	ABBREVIATION 128151 128155	HBTU
+T403	ABBREVIATION 128199 128204	DIPEA
+T404	SYSTEMATIC 128284 128326	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T405	FORMULA 128424 128429	NH4Cl
+T406	ABBREVIATION 128468 128470	EA
+T407	ABBREVIATION 128499 128501	EA
+T408	FORMULA 128523 128529	Na2SO4
+T409	TRIVIAL 128600 128610	silica gel
+T410	SYSTEMATIC 128707 128717	Acetone-d6
+T411	SYSTEMATIC 128924 129017	5-Chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide ethanolamine
+T412	FORMULA 129079 129083	MeOH
+T413	SYSTEMATIC 129101 129113	ethanolamine
+T414	SYSTEMATIC 129356 129364	methanol
+T415	SYSTEMATIC 129512 129581	5-Chloro-N-(6-fluorobenzo[d]thiazol-2-yl)-2-hydroxy-3-methylbenzamide
+T416	SYSTEMATIC 129587 129626	5-chloro-2-methoxy-3-methylbenzoic acid
+T417	ABBREVIATION 129665 129668	DMF
+T418	ABBREVIATION 129677 129681	HBTU
+T419	ABBREVIATION 129724 129729	DIPEA
+T420	SYSTEMATIC 129809 129840	6-fluorobenzo[d]thiazol-2-amine
+T421	FORMULA 129937 129942	NH4Cl
+T422	ABBREVIATION 129981 129983	EA
+T423	ABBREVIATION 130012 130014	EA
+T424	FORMULA 130036 130042	Na2SO4
+T425	TRIVIAL 130113 130123	silica gel
+T426	SYSTEMATIC 130218 130230	Chloroform-d
+T427	SYSTEMATIC 130457 130532	3,5-Dichloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T428	SYSTEMATIC 130538 130564	3,5-dichlorosalicylic acid
+T429	ABBREVIATION 130601 130604	THF
+T430	ABBREVIATION 130663 130666	DMF
+T431	SYSTEMATIC 130680 130695	oxalyl chloride
+T432	SYSTEMATIC 130837 130844	dioxane
+T433	SYSTEMATIC 130858 130900	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T434	TRIVIAL 131033 131043	silica gel
+T435	SYSTEMATIC 131142 131152	Acetone-d6
+T436	SYSTEMATIC 131338 131418	5-Chloro-2-hydroxy-3-methyl-N-(4-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T437	SYSTEMATIC 131424 131463	5-chloro-2-methoxy-3-methylbenzoic acid
+T438	ABBREVIATION 131501 131504	DMF
+T439	ABBREVIATION 131513 131517	HBTU
+T440	ABBREVIATION 131561 131566	DIPEA
+T441	SYSTEMATIC 131646 131688	4-(trifluoromethyl)benzo[d]thiazol-2-amine
+T442	FORMULA 131785 131790	NH4Cl
+T443	ABBREVIATION 131829 131831	EA
+T444	ABBREVIATION 131860 131862	EA
+T445	FORMULA 131884 131890	Na2SO4
+T446	TRIVIAL 131961 131971	silica gel
+T447	SYSTEMATIC 132066 132078	Chloroform-d
+T448	SYSTEMATIC 132262 132346	5-Chloro-2-hydroxy-N-(4-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide ethanolamine
+T449	SYSTEMATIC 132377 132448	5-chloro-2-hydroxy-N-(4-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T450	FORMULA 132472 132476	MeOH
+T451	SYSTEMATIC 132494 132506	ethanolamine
+T452	SYSTEMATIC 132772 132783	Methanol-d4
+T453	SYSTEMATIC 132991 133075	5-Chloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide ethanolamine
+T454	SYSTEMATIC 133106 133177	5-chloro-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T455	FORMULA 133202 133206	MeOH
+T456	SYSTEMATIC 133224 133236	ethanolamine
+T457	SYSTEMATIC 133502 133513	Methanol-d4
+T458	SYSTEMATIC 133690 133783	5-Chloro-2-hydroxy-3-methyl-N-(4-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide ethanolamine
+T459	SYSTEMATIC 133813 133893	5-chloro-2-hydroxy-3-methyl-N-(4-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T460	FORMULA 133918 133922	MeOH
+T461	SYSTEMATIC 133940 133952	ethanolamine
+T462	SYSTEMATIC 134219 134230	Methanol-d4
+T463	SYSTEMATIC 134403 134480	5-Chloro-N-(4,6-difluorobenzo[d]thiazol-2-yl)-2-hydroxybenzamide ethanolamine
+T464	SYSTEMATIC 134510 134574	5-chloro-N-(4,6-difluorobenzo[d]thiazol-2-yl)-2-hydroxybenzamide
+T465	FORMULA 134598 134602	MeOH
+T466	SYSTEMATIC 134620 134632	ethanolamine
+T467	SYSTEMATIC 134897 134908	Methanol-d4
+T468	SYSTEMATIC 135087 135172	5-Chloro-3-cyclopropyl-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T469	SYSTEMATIC 135191 135232	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T470	SYSTEMATIC 135251 135274	cyclopropylboronic acid
+T471	FORMULA 135293 135301	Pd(OAc)2
+T472	SYSTEMATIC 135321 135343	tricyclohexylphosphine
+T473	SYSTEMATIC 135366 135394	potassium phosphate tribasic
+T474	SYSTEMATIC 135417 135424	toluene
+T475	TRIVIAL 135437 135442	water
+T476	FORMULA 135525 135530	NH4Cl
+T477	ABBREVIATION 135569 135571	EA
+T478	ABBREVIATION 135600 135602	EA
+T479	FORMULA 135624 135630	Na2SO4
+T480	TRIVIAL 135701 135711	silica gel
+T481	SYSTEMATIC 135742 135789	methyl 5-chloro-3-cyclopropyl-2-methoxybenzoate
+T482	SYSTEMATIC 135841 135853	Chloroform-d
+T483	SYSTEMATIC 136026 136073	methyl 5-chloro-3-cyclopropyl-2-methoxybenzoate
+T484	FORMULA 136097 136101	MeOH
+T485	FORMULA 136129 136132	KOH
+T486	ABBREVIATION 136267 136269	EA
+T487	FORMULA 136277 136281	NaOH
+T488	ABBREVIATION 136351 136353	EA
+T489	FORMULA 136394 136400	Na2SO4
+T490	SYSTEMATIC 136437 136481	5-chloro-3-cyclopropyl-2-methoxybenzoic acid
+T491	SYSTEMATIC 136596 136640	5-chloro-3-cyclopropyl-2-methoxybenzoic acid
+T492	ABBREVIATION 136665 136669	HBTU
+T493	ABBREVIATION 136693 136696	DMF
+T494	ABBREVIATION 136714 136719	DIPEA
+T495	SYSTEMATIC 136786 136828	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T496	ABBREVIATION 136969 136971	EA
+T497	TRIVIAL 136976 136981	water
+T498	TRIVIAL 137017 137022	brine
+T499	FORMULA 137035 137041	Na2SO4
+T500	SYSTEMATIC 137180 137192	Chloroform-d
+T501	SYSTEMATIC 137400 137480	5-Chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T502	SYSTEMATIC 137495 137548	(2R,3R,4R,5S)-6-(methylamino)hexane-1,2,3,4,5-pentaol
+T503	SYSTEMATIC 137585 137665	5-chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T504	FORMULA 137690 137694	MeOH
+T505	SYSTEMATIC 137712 137732	N-methyl-D-glucamine
+T506	SYSTEMATIC 137998 138009	Methanol-d4
+T507	SYSTEMATIC 138190 138273	5-Chloro-2-hydroxy-3-isopropyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T508	FORMULA 138285 138287	N2
+T509	SYSTEMATIC 138289 138330	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T510	SYSTEMATIC 138390 138405	diisopropylzinc
+T511	SYSTEMATIC 138419 138426	toluene
+T512	SYSTEMATIC 138431 138438	dioxane
+T513	FORMULA 138471 138482	Pd(dppf)Cl2
+T514	FORMULA 138597 138600	HCl
+T515	ABBREVIATION 138618 138620	EA
+T516	FORMULA 138669 138672	HCl
+T517	TRIVIAL 138674 138679	water
+T518	TRIVIAL 138681 138686	brine
+T519	SYSTEMATIC 138809 138854	methyl 5-chloro-3-isopropyl-2-methoxybenzoate
+T520	SYSTEMATIC 138908 138920	Chloroform-d
+T521	SYSTEMATIC 139073 139118	methyl 5-chloro-3-isopropyl-2-methoxybenzoate
+T522	FORMULA 139143 139147	MeOH
+T523	FORMULA 139175 139178	KOH
+T524	ABBREVIATION 139313 139315	EA
+T525	FORMULA 139323 139327	NaOH
+T526	ABBREVIATION 139397 139399	EA
+T527	FORMULA 139440 139446	Na2SO4
+T528	SYSTEMATIC 139483 139525	5-chloro-3-isopropyl-2-methoxybenzoic acid
+T529	SYSTEMATIC 139641 139683	5-chloro-3-isopropyl-2-methoxybenzoic acid
+T530	ABBREVIATION 139708 139712	HBTU
+T531	ABBREVIATION 139737 139740	DMF
+T532	ABBREVIATION 139758 139763	DIPEA
+T533	SYSTEMATIC 139831 139873	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T534	ABBREVIATION 140015 140017	EA
+T535	TRIVIAL 140022 140027	water
+T536	TRIVIAL 140063 140068	brine
+T537	FORMULA 140081 140087	Na2SO4
+T538	SYSTEMATIC 140226 140238	Chloroform-d
+T539	SYSTEMATIC 140427 140554	4-Chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl [1,4′-bipiperidine]-1′-carboxylate hydrochloride
+T540	SYSTEMATIC 140585 140665	5-chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T541	ABBREVIATION 140689 140692	THF
+T542	ABBREVIATION 140710 140715	DIPEA
+T543	SYSTEMATIC 140740 140780	[1,4′-bipiperidine]-1′-carbonyl chloride
+T544	ABBREVIATION 140900 140902	EA
+T545	TRIVIAL 140907 140912	water
+T546	ABBREVIATION 140918 140920	EA
+T547	FORMULA 140942 140948	Na2SO4
+T548	TRIVIAL 141019 141029	silica gel
+T549	SYSTEMATIC 141122 141134	Chloroform-d
+T550	SYSTEMATIC 141399 141512	4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl [1,4′-bipiperidine]-1′-carboxylate
+T551	ABBREVIATION 141536 141539	THF
+T552	FORMULA 141562 141565	HCl
+T553	SYSTEMATIC 141569 141576	dioxane
+T554	SYSTEMATIC 141695 141708	diethyl ether
+T555	SYSTEMATIC 141782 141855	5-Chloro-N-(4,6-difluorobenzo[d]thiazol-2-yl)-2-hydroxy-3-methylbenzamide
+T556	SYSTEMATIC 141861 141900	5-chloro-2-methoxy-3-methylbenzoic acid
+T557	ABBREVIATION 141939 141942	DMF
+T558	ABBREVIATION 141951 141955	HBTU
+T559	ABBREVIATION 141998 142003	DIPEA
+T560	SYSTEMATIC 142083 142118	4,6-difluorobenzo[d]thiazol-2-amine
+T561	FORMULA 142215 142220	NH4Cl
+T562	ABBREVIATION 142259 142261	EA
+T563	ABBREVIATION 142290 142292	EA
+T564	FORMULA 142314 142320	Na2SO4
+T565	TRIVIAL 142391 142401	silica gel
+T566	SYSTEMATIC 142495 142507	Chloroform-d
+T567	SYSTEMATIC 142676 142756	5-Chloro-2-hydroxy-3-methyl-N-(5-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T568	SYSTEMATIC 142762 142801	5-chloro-2-methoxy-3-methylbenzoic acid
+T569	ABBREVIATION 142839 142842	DCM
+T570	ABBREVIATION 142901 142904	DMF
+T571	SYSTEMATIC 142919 142934	oxalyl chloride
+T572	ABBREVIATION 143078 143081	THF
+T573	TRIVIAL 143096 143108	Hunig's base
+T574	SYSTEMATIC 143133 143175	5-(trifluoromethyl)benzo[d]thiazol-2-amine
+T575	TRIVIAL 143258 143268	silica gel
+T576	TRIVIAL 143369 143379	silica gel
+T577	SYSTEMATIC 143411 143491	5-chloro-2-methoxy-3-methyl-N-(5-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T578	SYSTEMATIC 143546 143558	Chloroform-d
+T579	SYSTEMATIC 143729 143809	5-chloro-2-methoxy-3-methyl-N-(5-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T580	SYSTEMATIC 143845 143864	pyridinium chloride
+T581	TRIVIAL 143992 143997	water
+T582	SYSTEMATIC 144017 144030	ethyl acetate
+T583	TRIVIAL 144109 144119	silica gel
+T584	SYSTEMATIC 144227 144239	Chloroform-d
+T585	SYSTEMATIC 144404 144484	5-Chloro-2-hydroxy-3-methyl-N-(7-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T586	SYSTEMATIC 144490 144529	5-chloro-2-methoxy-3-methylbenzoic acid
+T587	ABBREVIATION 144567 144570	DCM
+T588	ABBREVIATION 144629 144632	DMF
+T589	SYSTEMATIC 144647 144662	oxalyl chloride
+T590	ABBREVIATION 144806 144809	THF
+T591	TRIVIAL 144824 144836	Hunig's base
+T592	SYSTEMATIC 144861 144903	7-(trifluoromethyl)benzo[d]thiazol-2-amine
+T593	TRIVIAL 144986 144996	silica gel
+T594	TRIVIAL 145097 145107	silica gel
+T595	SYSTEMATIC 145139 145219	5-chloro-2-methoxy-3-methyl-N-(7-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T596	SYSTEMATIC 145275 145287	Chloroform-d
+T597	SYSTEMATIC 145462 145542	5-chloro-2-methoxy-3-methyl-N-(7-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T598	SYSTEMATIC 145579 145598	pyridinium chloride
+T599	TRIVIAL 145726 145731	water
+T600	SYSTEMATIC 145751 145764	ethyl acetate
+T601	TRIVIAL 145843 145853	silica gel
+T602	SYSTEMATIC 145959 145971	Chloroform-d
+T603	SYSTEMATIC 146160 146259	4-Chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl dihydrogen phosphate
+T604	SYSTEMATIC 146265 146360	Sodium 4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl phosphate
+T605	SYSTEMATIC 146366 146461	4-chloro-2-methyl-6((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl diethyl phosphate
+T606	FORMULA 146517 146522	CHCl3
+T607	ABBREVIATION 146534 146537	THF
+T608	SYSTEMATIC 146564 146581	diethyl phosphite
+T609	FORMULA 146602 146606	CCl4
+T610	ABBREVIATION 146617 146621	DMAP
+T611	ABBREVIATION 146645 146650	DIPEA
+T612	TRIVIAL 146803 146813	silica gel
+T613	SYSTEMATIC 146927 147026	4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl dihydrogen phosphate
+T614	SYSTEMATIC 147057 147153	4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl diethyl phosphate
+T615	ABBREVIATION 147186 147189	DCM
+T616	SYSTEMATIC 147216 147237	trimethylsilyl iodide
+T617	FORMULA 147338 147342	MeOH
+T618	SYSTEMATIC 147548 147553	ether
+T619	TRIVIAL 147596 147601	water
+T620	SYSTEMATIC 147673 147681	methanol
+T621	SYSTEMATIC 147828 147923	sodium 4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl phosphate
+T622	SYSTEMATIC 147954 148053	4-chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl dihydrogen phosphate
+T623	FORMULA 148077 148081	MeOH
+T624	FORMULA 148113 148117	NaOH
+T625	FORMULA 148142 148146	MeOH
+T626	SYSTEMATIC 148272 148277	ether
+T627	TRIVIAL 148300 148305	water
+T628	SYSTEMATIC 148375 148479	4-Chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl) carbamoyl)phenyl morpholine-4-carboxylate
+T629	SYSTEMATIC 148510 148590	5-chloro-3-methyl-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T630	SYSTEMATIC 148614 148622	pyridine
+T631	SYSTEMATIC 148642 148672	morpholine-4-carbonyl chloride
+T632	FORMULA 148759 148762	HCl
+T633	ABBREVIATION 148805 148807	EA
+T634	SYSTEMATIC 148856 148870	sodium sulfate
+T635	TRIVIAL 148927 148937	silica gel
+T636	SYSTEMATIC 149044 149054	Acetone-d6
+T637	SYSTEMATIC 149242 149367	4-Chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl 4-methylpiperazine-1-carboxylate hydrochloride
+T638	SYSTEMATIC 149398 149478	5-chloro-3-methyl-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T639	SYSTEMATIC 149502 149510	pyridine
+T640	SYSTEMATIC 149530 149568	4-methylpiperazine-1-carbonyl chloride
+T641	FORMULA 149655 149658	HCl
+T642	ABBREVIATION 149701 149703	EA
+T643	FORMULA 149765 149768	HCl
+T644	TRIVIAL 149770 149775	water
+T645	TRIVIAL 149777 149782	brine
+T646	SYSTEMATIC 149795 149809	sodium sulfate
+T647	FAMILY 149876 149883	hexanes
+T648	SYSTEMATIC 149974 149985	Methanol-d4
+T649	SYSTEMATIC 150176 150293	4-Chloro-2-methyl-6-((6-(trifluoromethyl)benzo[d]thiazol-2-yl)carbamoyl)phenyl piperazine-1-carboxylate hydrochloride
+T650	SYSTEMATIC 150324 150404	5-chloro-3-methyl-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T651	SYSTEMATIC 150428 150436	pyridine
+T652	SYSTEMATIC 150456 150509	tert-butyl 4-(chlorocarbonyl)piperazine-1-carboxylate
+T653	ABBREVIATION 150655 150657	EA
+T654	TRIVIAL 150662 150667	water
+T655	TRIVIAL 150703 150708	water
+T656	TRIVIAL 150710 150715	brine
+T657	SYSTEMATIC 150728 150742	sodium sulfate
+T658	FORMULA 150812 150815	HCl
+T659	SYSTEMATIC 150819 150826	dioxane
+T660	SYSTEMATIC 150947 150960	diethyl ether
+T661	SYSTEMATIC 151056 151067	Methanol-d4
+T662	SYSTEMATIC 151247 151326	5-Chloro-3-cyano-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T663	SYSTEMATIC 151345 151386	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T664	FORMULA 151405 151412	Zn(CN)2
+T665	FORMULA 151431 151440	Pd(PPh3)4
+T666	FORMULA 151492 151494	N2
+T667	ABBREVIATION 151561 151563	EA
+T668	TRIVIAL 151568 151573	water
+T669	TRIVIAL 151619 151624	water
+T670	TRIVIAL 151626 151631	brine
+T671	SYSTEMATIC 151750 151791	methyl 5-chloro-3-cyano-2-methoxybenzoate
+T672	SYSTEMATIC 151841 151853	Chloroform-d
+T673	SYSTEMATIC 151958 151999	methyl 5-chloro-3-cyano-2-methoxybenzoate
+T674	FORMULA 152023 152027	MeOH
+T675	FORMULA 152055 152058	KOH
+T676	FORMULA 152162 152165	HCl
+T677	SYSTEMATIC 152169 152176	dioxane
+T678	ABBREVIATION 152330 152334	HBTU
+T679	ABBREVIATION 152357 152360	DMF
+T680	ABBREVIATION 152372 152377	DIPEA
+T681	SYSTEMATIC 152443 152485	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T682	ABBREVIATION 152626 152628	EA
+T683	TRIVIAL 152633 152638	water
+T684	TRIVIAL 152674 152679	brine
+T685	FORMULA 152692 152698	Na2SO4
+T686	SYSTEMATIC 152773 152852	5-chloro-3-cyano-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T687	SYSTEMATIC 152902 152912	Acetone-d6
+T688	SYSTEMATIC 153079 153168	5-Chloro-2-hydroxy-3-(hydroxymethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T689	SYSTEMATIC 153199 153250	methyl 5-chloro-3-(hydroxymethyl)-2-methoxybenzoate
+T690	ABBREVIATION 153274 153277	DCM
+T691	ABBREVIATION 153295 153300	DIPEA
+T692	FORMULA 153322 153327	MOMCl
+T693	ABBREVIATION 153364 153368	DMAP
+T694	ABBREVIATION 153473 153476	DCM
+T695	SYSTEMATIC 153486 153502	Ammonia chloride
+T696	TRIVIAL 153599 153609	silica gel
+T697	SYSTEMATIC 153640 153700	methyl 5-chloro-2-methoxy-3-((methoxymethoxy)methyl)benzoate
+T698	SYSTEMATIC 153747 153759	Chloroform-d
+T699	SYSTEMATIC 153906 153966	methyl 5-chloro-2-methoxy-3-((methoxymethoxy)methyl)benzoate
+T700	FORMULA 153991 153995	MeOH
+T701	FORMULA 154023 154026	KOH
+T702	ABBREVIATION 154149 154151	EA
+T703	SYSTEMATIC 154159 154170	citric acid
+T704	ABBREVIATION 154176 154178	EA
+T705	TRIVIAL 154201 154206	brine
+T706	FORMULA 154219 154225	Na2SO4
+T707	ABBREVIATION 154279 154283	HBTU
+T708	ABBREVIATION 154305 154308	DMF
+T709	ABBREVIATION 154320 154325	DIPEA
+T710	SYSTEMATIC 154393 154435	6-(trifluoromethyl)benzo[d]thiazol-2-amine
+T711	ABBREVIATION 154577 154579	EA
+T712	TRIVIAL 154584 154589	water
+T713	TRIVIAL 154625 154630	brine
+T714	FORMULA 154643 154649	Na2SO4
+T715	SYSTEMATIC 154724 154822	5-chloro-2-hydroxy-3-((methoxymethoxy)methyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2 yl)benzamide
+T716	SYSTEMATIC 154872 154884	Chloroform-d
+T717	SYSTEMATIC 155121 155219	5-chloro-2-hydroxy-3-((methoxymethoxy)methyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2 yl)benzamide
+T718	SYSTEMATIC 155243 155252	isopropyl
+T719	FORMULA 155283 155286	HCl
+T720	TRIVIAL 155380 155385	water
+T721	ABBREVIATION 155431 155433	EA
+T722	TRIVIAL 155473 155478	brine
+T723	SYSTEMATIC 155491 155505	sodium sulfate
+T724	SYSTEMATIC 155580 155669	5-chloro-2-hydroxy-3-(hydroxymethyl)-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T725	SYSTEMATIC 155719 155731	Chloroform-d
+T726	SYSTEMATIC 155849 155934	N-(4,6-Bis(trifluoromethyl)benzo[d]thiazol-2-yl)-5-chloro-2-hydroxy-3-methylbenzamide
+T727	SYSTEMATIC 155935 155974	5-chloro-2-methoxy-3-methylbenzoic acid
+T728	ABBREVIATION 156012 156015	DCM
+T729	ABBREVIATION 156074 156077	DMF
+T730	SYSTEMATIC 156091 156106	oxalyl chloride
+T731	ABBREVIATION 156249 156252	THF
+T732	TRIVIAL 156267 156279	Hunig's base
+T733	SYSTEMATIC 156303 156350	4,6-bis(trifluoromethyl)benzo[d]thiazol-2-amine
+T734	TRIVIAL 156434 156444	silica gel
+T735	TRIVIAL 156545 156555	silica gel
+T736	SYSTEMATIC 156587 156662	5-chloro-N-(2-chloro-4-(trifluoromethyl)phenyl)-2-methoxy-3-methylbenzamide
+T737	FORMULA 156717 156722	cdcl3
+T738	SYSTEMATIC 156937 157022	N-(4,6-bis(trifluoromethyl)benzo[d]thiazol-2-yl)-5-chloro-2-methoxy-3-methylbenzamide
+T739	ABBREVIATION 157056 157059	DCM
+T740	FORMULA 157077 157081	BBr3
+T741	ABBREVIATION 157091 157094	DCM
+T742	FORMULA 157306 157310	MeOH
+T743	TRIVIAL 157315 157320	water
+T744	ABBREVIATION 157389 157392	DCM
+T745	TRIVIAL 157397 157402	water
+T746	TRIVIAL 157438 157443	water
+T747	TRIVIAL 157445 157450	brine
+T748	SYSTEMATIC 157466 157480	sodium sulfate
+T749	TRIVIAL 157534 157544	silica gel
+T750	FORMULA 157642 157647	cdcl3
+T751	SYSTEMATIC 157828 157909	5-Chloro-2-hydroxy-3-methyl-N-(6-(trifluoromethoxy)benzo[d]thiazol-2-yl)benzamide
+T752	SYSTEMATIC 157940 157970	5-Chloro-2-methoxybenzoic acid
+T753	SYSTEMATIC 157992 158005	sulfuric acid
+T754	ABBREVIATION 158020 158023	TFA
+T755	ABBREVIATION 158050 158053	NBS
+T756	ABBREVIATION 158220 158222	EA
+T757	ABBREVIATION 158228 158230	EA
+T758	FORMULA 158248 158254	Na2SO4
+T759	ABBREVIATION 158354 158357	DCM
+T760	ABBREVIATION 158401 158404	DCM
+T761	SYSTEMATIC 158441 158479	3-bromo-5-chloro-2-methoxybenzoic acid
+T762	SYSTEMATIC 158530 158537	acetone
+T763	SYSTEMATIC 158616 158654	3-bromo-5-chloro-2-methoxybenzoic acid
+T764	SYSTEMATIC 158676 158694	methylboronic acid
+T765	FORMULA 158714 158725	Pd(dppf)Cl2
+T766	FORMULA 158749 158755	Cs2CO3
+T767	ABBREVIATION 158791 158794	THF
+T768	FORMULA 158809 158811	N2
+T769	FORMULA 158867 158870	HCl
+T770	ABBREVIATION 158890 158892	EA
+T771	ABBREVIATION 158898 158900	EA
+T772	FORMULA 158918 158924	Na2SO4
+T773	TRIVIAL 158995 159005	silica gel
+T774	SYSTEMATIC 159036 159075	5-chloro-2-methoxy-3-methylbenzoic acid
+T775	SYSTEMATIC 159125 159135	chloroform
+T776	SYSTEMATIC 159215 159254	5-chloro-2-methoxy-3-methylbenzoic acid
+T777	ABBREVIATION 159291 159294	DCM
+T778	ABBREVIATION 159353 159356	DMF
+T779	SYSTEMATIC 159370 159385	oxalyl chloride
+T780	ABBREVIATION 159528 159531	THF
+T781	TRIVIAL 159546 159558	Hunig's base
+T782	SYSTEMATIC 159583 159626	6-(trifluoromethoxy)benzo[d]thiazol-2-amine
+T783	TRIVIAL 159710 159720	silica gel
+T784	TRIVIAL 159821 159831	silica gel
+T785	SYSTEMATIC 159863 159944	5-chloro-2-methoxy-3-methyl-N-(6-(trifluoromethoxy)benzo[d]thiazol-2-yl)benzamide
+T786	SYSTEMATIC 159999 160011	Chloroform-d
+T787	SYSTEMATIC 160248 160329	5-chloro-2-methoxy-3-methyl-N-(6-(trifluoromethoxy)benzo[d]thiazol-2-yl)benzamide
+T788	ABBREVIATION 160353 160356	DMF
+T789	SYSTEMATIC 160378 160399	Sodium ethanethiolate
+T790	FORMULA 160518 160521	HCl
+T791	ABBREVIATION 160567 160569	EA
+T792	ABBREVIATION 160598 160600	EA
+T793	FORMULA 160622 160628	Na2SO4
+T794	TRIVIAL 160699 160709	silica gel
+T795	SYSTEMATIC 160807 160817	Acetone-d6
+T796	SYSTEMATIC 161028 161127	5-Chloro-3-(3-(dimethylamino)propyl)-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T797	SYSTEMATIC 161133 161171	3-bromo-5-chloro-2-methoxybenzoic acid
+T798	SYSTEMATIC 161197 161227	5-chloro-2-methoxybenzoic acid
+T799	SYSTEMATIC 161249 161262	sulfuric acid
+T800	ABBREVIATION 161275 161278	TFA
+T801	ABBREVIATION 161303 161306	NBS
+T802	ABBREVIATION 161478 161480	EA
+T803	ABBREVIATION 161486 161488	EA
+T804	SYSTEMATIC 161506 161520	sodium sulfate
+T805	ABBREVIATION 161612 161615	DCM
+T806	ABBREVIATION 161659 161662	DCM
+T807	SYSTEMATIC 161705 161743	3-bromo-5-chloro-2-methoxybenzoic acid
+T808	SYSTEMATIC 161790 161797	acetone
+T809	SYSTEMATIC 161863 161904	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T810	SYSTEMATIC 161930 161968	3-bromo-5-chloro-2-methoxybenzoic acid
+T811	ABBREVIATION 161989 161992	DMF
+T812	SYSTEMATIC 162011 162030	potassium carbonate
+T813	FORMULA 162064 162068	CH3I
+T814	TRIVIAL 162131 162136	Water
+T815	ABBREVIATION 162166 162168	EA
+T816	TRIVIAL 162227 162232	water
+T817	TRIVIAL 162237 162242	brine
+T818	SYSTEMATIC 162258 162272	sodium sulfate
+T819	SYSTEMATIC 162380 162449	methyl 5-chloro-3-(3-(dimethylamino)prop-1-yn-1-yl)-2-methoxybenzoate
+T820	FORMULA 162456 162458	N2
+T821	SYSTEMATIC 162473 162514	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T822	SYSTEMATIC 162536 162565	N,N-dimethylprop-2-yn-1-amine
+T823	FORMULA 162589 162601	PdCl2(PPh3)2
+T824	FORMULA 162623 162626	CuI
+T825	SYSTEMATIC 162650 162663	triethylamine
+T826	TRIVIAL 162704 162709	Water
+T827	ABBREVIATION 162739 162741	EA
+T828	TRIVIAL 162800 162805	water
+T829	TRIVIAL 162810 162815	brine
+T830	SYSTEMATIC 162831 162845	sodium sulfate
+T831	TRIVIAL 162902 162912	silica gel
+T832	FORMULA 163012 163017	CHCl3
+T833	SYSTEMATIC 163180 163241	methyl 5-chloro-3-(3-(dimethylamino)propyl)-2-methoxybenzoate
+T834	SYSTEMATIC 163255 163324	methyl 5-chloro-3-(3-(dimethylamino)prop-1-yn-1-yl)-2-methoxybenzoate
+T835	FORMULA 163349 163353	Pd—C
+T836	SYSTEMATIC 163366 163374	methanol
+T837	FORMULA 163401 163403	H2
+T838	TRIVIAL 163559 163569	silica gel
+T839	FORMULA 163668 163673	CHCl3
+T840	SYSTEMATIC 163887 163986	5-chloro-3-(3-(dimethylamino)propyl)-2-methoxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T841	SYSTEMATIC 164012 164073	methyl 5-chloro-3-(3-(dimethylamino)propyl)-2-methoxybenzoate
+T842	FORMULA 164096 164100	MeOH
+T843	FORMULA 164128 164131	KOH
+T844	FORMULA 164231 164234	HCl
+T845	SYSTEMATIC 164238 164245	dioxane
+T846	ABBREVIATION 164399 164403	HBTU
+T847	ABBREVIATION 164425 164428	DMF
+T848	ABBREVIATION 164440 164445	DIPEA
+T849	SYSTEMATIC 164514 164554	(trifluoromethyl)benzo[d]thiazol-2-amine
+T850	ABBREVIATION 164694 164696	EA
+T851	TRIVIAL 164701 164706	water
+T852	TRIVIAL 164742 164747	brine
+T853	FORMULA 164760 164766	Na2SO4
+T854	SYSTEMATIC 164946 165045	5-Chloro-3-(3-(dimethylamino)propyl)-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T855	SYSTEMATIC 165051 165150	5-chloro-3-(3-(dimethylamino)propyl)-2-methoxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T856	SYSTEMATIC 165185 165204	pyridinium chloride
+T857	TRIVIAL 165332 165337	water
+T858	SYSTEMATIC 165357 165370	ethyl acetate
+T859	TRIVIAL 165449 165459	silica gel
+T860	SYSTEMATIC 165579 165587	methanol
+T861	SYSTEMATIC 165817 165914	5-Chloro-3-((dimethylamino)methyl)-2-hydroxy-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)benzamide
+T862	SYSTEMATIC 165945 165987	methyl 5-chloro-3-formyl-2-methoxybenzoate
+T863	FORMULA 166012 166016	MeOH
+T864	SYSTEMATIC 166034 166047	dimethylamine
+T865	ABBREVIATION 166067 166070	THF
+T866	FORMULA 166084 166091	NaBH3CN
+T867	SYSTEMATIC 166117 166128	acetic acid
+T868	SYSTEMATIC 166240 166258	sodium bicarbonate
+T869	ABBREVIATION 166319 166321	EA
+T870	SYSTEMATIC 166549 166608	methyl 5-chloro-3-((dimethylamino)methyl)-2-methoxybenzoate
+T871	FORMULA 166632 166636	MeOH
+T872	FORMULA 166665 166668	KOH
+T873	FORMULA 166772 166775	HCl
+T874	SYSTEMATIC 166779 166786	dioxane
+T875	ABBREVIATION 166940 166944	HBTU
+T876	ABBREVIATION 166967 166970	DMF
+T877	ABBREVIATION 166982 166987	DIPEA
+T878	SYSTEMATIC 167057 167097	(trifluoromethyl)benzo[d]thiazol-2-amine
+T879	ABBREVIATION 167239 167241	EA
+T880	TRIVIAL 167246 167251	water
+T881	TRIVIAL 167287 167292	brine
+T882	FORMULA 167305 167311	Na2SO4
+T883	SYSTEMATIC 167450 167462	Chloroform-d
+T884	SYSTEMATIC 167662 167760	5-Chloro-3-((dimethylamino)methyl)-2-hydroxy-N-(6-(trifluoromethoxy)benzo[d]thiazol-2-yl)benzamide
+T885	SYSTEMATIC 167791 167821	5-Chloro-2-methoxybenzoic acid
+T886	SYSTEMATIC 167843 167856	sulfuric acid
+T887	ABBREVIATION 167871 167874	TFA
+T888	ABBREVIATION 167901 167904	NBS
+T889	TRIVIAL 168035 168038	ice
+T890	ABBREVIATION 168071 168073	EA
+T891	ABBREVIATION 168079 168081	EA
+T892	FORMULA 168099 168105	Na2SO4
+T893	ABBREVIATION 168205 168208	DCM
+T894	ABBREVIATION 168252 168255	DCM
+T895	SYSTEMATIC 168292 168330	3-bromo-5-chloro-2-methoxybenzoic acid
+T896	SYSTEMATIC 168381 168388	acetone
+T897	SYSTEMATIC 168479 168517	3-bromo-5-chloro-2-methoxybenzoic acid
+T898	ABBREVIATION 168538 168541	DMF
+T899	SYSTEMATIC 168560 168579	potassium carbonate
+T900	FORMULA 168613 168617	CH3I
+T901	TRIVIAL 168680 168685	Water
+T902	ABBREVIATION 168715 168717	EA
+T903	TRIVIAL 168776 168781	water
+T904	TRIVIAL 168786 168791	brine
+T905	SYSTEMATIC 168807 168821	sodium sulfate
+T906	SYSTEMATIC 168942 168983	methyl 3-bromo-5-chloro-2-methoxybenzoate
+T907	SYSTEMATIC 169004 169022	methylboronic acid
+T908	FORMULA 169043 169051	Pd(OAc)2
+T909	SYSTEMATIC 169072 169094	tricyclohexylphosphine
+T910	SYSTEMATIC 169118 169146	potassium phosphate tribasic
+T911	SYSTEMATIC 169182 169189	toluene
+T912	TRIVIAL 169202 169207	water
+T913	FORMULA 169221 169223	N2
+T914	FORMULA 169276 169281	NH4Cl
+T915	ABBREVIATION 169320 169322	EA
+T916	ABBREVIATION 169351 169353	EA
+T917	FORMULA 169375 169381	Na2SO4
+T918	TRIVIAL 169452 169462	silica gel
+T919	SYSTEMATIC 169493 169535	methyl 5-chloro-2-methoxy-3-methylbenzoate
+T920	SYSTEMATIC 169584 169594	chloroform
+T921	ABBREVIATION 169721 169724	NBS
+T922	ABBREVIATION 169746 169750	AIBN
+T923	SYSTEMATIC 169789 169831	methyl 5-chloro-2-methoxy-3-methylbenzoate
+T924	FORMULA 169854 169858	CCl4
+T925	TRIVIAL 169995 170005	silica gel
+T926	SYSTEMATIC 170036 170085	methyl 5-chloro-3-(bromomethyl)-2-methoxybenzoate
+T927	FORMULA 170137 170142	cdcl3
+T928	SYSTEMATIC 170261 170310	methyl 5-chloro-3-(bromomethyl)-2-methoxybenzoate
+T929	SYSTEMATIC 170335 170351	2-methoxyethanol
+T930	FORMULA 170373 170377	NaOH
+T931	ABBREVIATION 170510 170512	EA
+T932	FORMULA 170559 170562	HCl
+T933	SYSTEMATIC 170574 170588	sodium sulfate
+T934	SYSTEMATIC 170648 170653	ether
+T935	SYSTEMATIC 170662 170720	5-chloro-2-methoxy-3-((2-methoxyethoxy)methyl)benzoic acid
+T936	FORMULA 170767 170772	cdcl3
+T937	SYSTEMATIC 170976 171034	5-chloro-2-methoxy-3-((2-methoxyethoxy)methyl)benzoic acid
+T938	ABBREVIATION 171072 171075	DMF
+T939	ABBREVIATION 171084 171088	HBTU
+T940	ABBREVIATION 171131 171136	DIPEA
+T941	SYSTEMATIC 171215 171258	6-(trifluoromethoxy)benzo[d]thiazol-2-amine
+T942	TRIVIAL 171345 171350	Water
+T943	ABBREVIATION 171380 171382	EA
+T944	ABBREVIATION 171411 171413	EA
+T945	FORMULA 171435 171441	Na2SO4
+T946	TRIVIAL 171512 171522	silica gel
+T947	SYSTEMATIC 171618 171628	Acetone-d6
+T948	SYSTEMATIC 171836 171916	55-Chloro-2-hydroxy-3-methyl-N-(6-(methylsulfonyl)benzo[d]thiazol-2-yl)benzamide
+T949	SYSTEMATIC 171922 171961	5-chloro-2-methoxy-3-methylbenzoic acid
+T950	ABBREVIATION 171998 172001	DCM
+T951	ABBREVIATION 172060 172063	DMF
+T952	SYSTEMATIC 172077 172092	oxalyl chloride
+T953	ABBREVIATION 172234 172237	THF
+T954	TRIVIAL 172252 172264	Hunig's base
+T955	SYSTEMATIC 172288 172330	6-(methyl sulfonyl)benzo[d]thiazol-2-amine
+T956	TRIVIAL 172411 172421	silica gel
+T957	TRIVIAL 172522 172532	silica gel
+T958	SYSTEMATIC 172564 172643	5-chloro-2-methoxy-3-methyl-N-(6-(methylsulfonyl)benzo[d]thiazol-2-yl)benzamide
+T959	FORMULA 172697 172702	cdcl3
+T960	SYSTEMATIC 172959 173038	5-chloro-2-methoxy-3-methyl-N-(6-(methylsulfonyl)benzo[d]thiazol-2-yl)benzamide
+T961	ABBREVIATION 173062 173065	DMF
+T962	SYSTEMATIC 173087 173108	Sodium ethanethiolate
+T963	FORMULA 173227 173230	HCl
+T964	ABBREVIATION 173276 173278	EA
+T965	ABBREVIATION 173307 173309	EA
+T966	FORMULA 173331 173337	Na2SO4
+T967	TRIVIAL 173408 173418	silica gel
+T968	ABBREVIATION 173516 173523	DMSO-d6
+T969	SYSTEMATIC 173742 173838	5-Chloro-2-methyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-1H-benzo[d]imidazole-7-carboxamide
+T970	ABBREVIATION 173861 173868	DMSO-d6
+T971	SYSTEMATIC 174044 174139	5-Chloro-2-ethyl-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-1H-benzo[d]imidazole-7-carboxamide
+T972	ABBREVIATION 174157 174164	DMSO-d6
+T973	SYSTEMATIC 174378 174471	5-Chloro-N-(6-(trifluoromethyl)benzo[d]thiazol-2-yl)-1H-benzo[d][1,2,3]triazole-7-carboxamide
+T974	ABBREVIATION 174494 174501	DMSO-d6
+T975	SYSTEMATIC 174678 174764	5-Chloro-N-(4,6-difluorobenzo[d]thiazol-2-yl)-1H-benzo[d][1,2,3]triazole-7-carboxamide
+T976	SYSTEMATIC 174800 174853	5-chloro-1H-benzo[d][1,2,3]triazole-7-carboxylic acid
+T977	SYSTEMATIC 174877 174912	4,6-difluorobenzo[d]thiazol-2-amine
+T978	SYSTEMATIC 174935 174943	pyridine
+T979	SYSTEMATIC 174955 174967	acetonitrile
+T980	FORMULA 174985 174990	POCl3
+T981	ABBREVIATION 175095 175097	EA
+T982	TRIVIAL 175102 175107	water
+T983	TRIVIAL 175143 175148	brine
+T984	FORMULA 175161 175167	Na2SO4
+T985	SYSTEMATIC 175305 175315	Acetone-d6
+T986	SYSTEMATIC 175444 175526	5-Chloro-N-(6-fluorobenzo[d]thiazol-2-yl)-1H-benzo[d][1,2,3]triazole-7-carboxamide
+T987	SYSTEMATIC 175562 175615	5-chloro-1H-benzo[d][1,2,3]triazole-7-carboxylic acid
+T988	SYSTEMATIC 175639 175670	6-fluorobenzo[d]thiazol-2-amine
+T989	SYSTEMATIC 175693 175701	pyridine
+T990	SYSTEMATIC 175713 175725	acetonitrile
+T991	FORMULA 175743 175748	POCl3
+T992	ABBREVIATION 175853 175855	EA
+T993	TRIVIAL 175860 175865	water
+T994	TRIVIAL 175901 175906	brine
+T995	FORMULA 175919 175925	Na2SO4
+T996	SYSTEMATIC 176063 176073	Acetone-d6

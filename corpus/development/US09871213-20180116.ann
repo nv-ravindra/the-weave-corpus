@@ -1,0 +1,377 @@
+T1	SYSTEMATIC 79516 79562	anthracene-9,10-bis(boronic acid glycol ester)
+T2	SYSTEMATIC 79586 79600	n-butyllithium
+T3	SYSTEMATIC 79610 79618	n-hexane
+T4	SYSTEMATIC 79737 79759	9,10-dibromoanthracene
+T5	SYSTEMATIC 79774 79787	diethyl ether
+T6	SYSTEMATIC 80004 80020	trimethyl borate
+T7	SYSTEMATIC 80189 80200	acetic acid
+T8	TRIVIAL 80214 80219	water
+T9	TRIVIAL 80306 80311	water
+T10	SYSTEMATIC 80419 80427	n-hexane
+T11	SYSTEMATIC 80602 80610	n-hexane
+T12	SYSTEMATIC 80663 80670	toluene
+T13	SYSTEMATIC 80681 80696	ethylene glycol
+T14	TRIVIAL 80739 80744	water
+T15	SYSTEMATIC 80808 80815	toluene
+T16	SYSTEMATIC 80892 80899	toluene
+T17	SYSTEMATIC 81063 81109	anthracene-9,10-bis(boronic acid glycol ester)
+T18	SYSTEMATIC 81227 81290	10-(4-methylnaphth-1-yl)anthracene-9-boronic acid pinacol ester
+T19	SYSTEMATIC 81294 81327	9-(4-Methylnaphth-1-yl)anthracene
+T20	SYSTEMATIC 81349 81369	tri-o-tolylphosphine
+T21	SYSTEMATIC 81400 81421	palladium(II) acetate
+T22	SYSTEMATIC 81495 81529	4-methylnaphthalene-1-boronic acid
+T23	SYSTEMATIC 81553 81570	9-bromoanthracene
+T24	SYSTEMATIC 81591 81613	tripotassium phosphate
+T25	SYSTEMATIC 81640 81647	dioxane
+T26	SYSTEMATIC 81659 81666	toluene
+T27	TRIVIAL 81682 81687	water
+T28	TRIVIAL 81844 81849	water
+T29	TRIVIAL 81902 81912	silica gel
+T30	SYSTEMATIC 81988 81995	ethanol
+T31	SYSTEMATIC 82131 82138	ethanol
+T32	SYSTEMATIC 82249 82291	9-Bromo-10-(4-methylnaphth-1-yl)anthracene
+T33	SYSTEMATIC 82327 82334	bromine
+T34	SYSTEMATIC 82348 82363	dichloromethane
+T35	SYSTEMATIC 82444 82477	9-(4-methylnaphth-1-yl)anthracene
+T36	SYSTEMATIC 82492 82507	dichloromethane
+T37	SYSTEMATIC 82631 82638	ethanol
+T38	TRIVIAL 82728 82733	water
+T39	SYSTEMATIC 82738 82745	ethanol
+T40	SYSTEMATIC 82788 82795	ethanol
+T41	SYSTEMATIC 82841 82848	ethanol
+T42	SYSTEMATIC 82971 83034	10-(4-Methylnaphth-1-yl)anthracene-9-boronic acid pinacol ester
+T43	SYSTEMATIC 83057 83071	n-butyllithium
+T44	SYSTEMATIC 83081 83089	n-hexane
+T45	SYSTEMATIC 83207 83249	9-bromo-10-(4-methylnaphth-1-yl)anthracene
+T46	SYSTEMATIC 83264 83277	diethyl ether
+T47	SYSTEMATIC 83495 83511	trimethyl borate
+T48	SYSTEMATIC 83679 83690	acetic acid
+T49	TRIVIAL 83704 83709	water
+T50	TRIVIAL 83796 83801	water
+T51	SYSTEMATIC 83909 83917	n-hexane
+T52	SYSTEMATIC 84092 84100	n-hexane
+T53	SYSTEMATIC 84153 84160	toluene
+T54	SYSTEMATIC 84183 84190	pinacol
+T55	TRIVIAL 84233 84238	water
+T56	SYSTEMATIC 84302 84309	toluene
+T57	ABBREVIATION 84376 84380	DMSO
+T58	SYSTEMATIC 84518 84573	9,10-bis(phenyl-2-boronic acid pinacol ester)anthracene
+T59	SYSTEMATIC 84577 84610	9,10-Bis(2-bromophenyl)anthracene
+T60	SYSTEMATIC 84631 84671	tetrakis(triphenylphosphino)palladium(0)
+T61	SYSTEMATIC 84721 84739	1,2-dibromobenzene
+T62	SYSTEMATIC 84762 84813	9,10-anthracenediboronic acid ethylene glycol ester
+T63	SYSTEMATIC 84839 84857	potassium fluoride
+T64	SYSTEMATIC 84910 84917	dioxane
+T65	SYSTEMATIC 84929 84936	ethanol
+T66	TRIVIAL 84951 84956	water
+T67	TRIVIAL 85099 85104	water
+T68	SYSTEMATIC 85146 85153	ethanol
+T69	SYSTEMATIC 85313 85368	9,10-bis(phenyl-2-boronic acid pinacol ester)anthracene
+T70	FORMULA 85380 85386	n-BuLi
+T71	SYSTEMATIC 85396 85402	hexane
+T72	SYSTEMATIC 85453 85486	9,10-bis(2-bromophenyl)anthracene
+T73	SYSTEMATIC 85501 85514	diethyl ether
+T74	SYSTEMATIC 85654 85670	trimethyl borate
+T75	SYSTEMATIC 85774 85785	acetic acid
+T76	TRIVIAL 85800 85805	water
+T77	SYSTEMATIC 85825 85838	ethyl acetate
+T78	TRIVIAL 85980 85985	water
+T79	SYSTEMATIC 86035 86042	toluene
+T80	SYSTEMATIC 86067 86074	pinacol
+T81	TRIVIAL 86132 86137	water
+T82	TRIVIAL 86172 86177	water
+T83	SYSTEMATIC 86201 86208	toluene
+T84	SYSTEMATIC 86242 86249	ethanol
+T85	SYSTEMATIC 86359 86366	toluene
+T86	SYSTEMATIC 86539 86599	1,2-bis(anthracen-9-yl-10-boronic acid pinacol ester)benzene
+T87	SYSTEMATIC 86603 86633	1,2-Bis(anthracen-9-yl)benzene
+T88	SYSTEMATIC 86702 86720	1,2-dibromobenzene
+T89	SYSTEMATIC 86746 86797	9,10-anthracenediboronic acid ethylene glycol ester
+T90	SYSTEMATIC 86821 86835	dibromobenzene
+T91	SYSTEMATIC 86861 86885	9-anthraceneboronic acid
+T92	SYSTEMATIC 86985 86992	ethanol
+T93	SYSTEMATIC 87063 87074	acetic acid
+T94	SYSTEMATIC 87246 87253	ethanol
+T95	SYSTEMATIC 87333 87371	1,2-Bis(10-bromoanthracen-9-yl)benzene
+T96	SYSTEMATIC 87394 87412	N-bromosuccinimide
+T97	SYSTEMATIC 87487 87517	1,2-bis(anthracen-9-yl)benzene
+T98	ABBREVIATION 87573 87576	THF
+T99	ABBREVIATION 87735 87738	THF
+T100	ABBREVIATION 87779 87782	THF
+T101	SYSTEMATIC 87818 87825	ethanol
+T102	SYSTEMATIC 87955 88015	1,2-Bis(anthracen-9-yl-10-boronic acid pinacol ester)benzene
+T103	SYSTEMATIC 88084 88117	9,10-bis(2-bromophenyl)anthracene
+T104	SYSTEMATIC 88139 88177	1,2-bis(10-bromoanthracen-9-yl)benzene
+T105	SYSTEMATIC 88328 88392	1,4-bis(anthracen-9-yl-10-boronic acid pinacol ester)naphthalene
+T106	SYSTEMATIC 88396 88430	1,4-Bis(anthracen-9-yl)naphthalene
+T107	SYSTEMATIC 88499 88517	1,2-dibromobenzene
+T108	SYSTEMATIC 88543 88594	9,10-anthracenediboronic acid ethylene glycol ester
+T109	SYSTEMATIC 88617 88639	1,4-dibromonaphthalene
+T110	SYSTEMATIC 88665 88689	9-anthraceneboronic acid
+T111	SYSTEMATIC 88794 88801	ethanol
+T112	SYSTEMATIC 88891 88933	1,4-Bis(10-bromoanthracen-9-yl)naphthalene
+T113	SYSTEMATIC 89001 89031	1,2-bis(anthracen-9-yl)benzene
+T114	SYSTEMATIC 89058 89076	N-bromosuccinimide
+T115	SYSTEMATIC 89099 89133	1,4-bis(anthracen-9-yl)naphthalene
+T116	SYSTEMATIC 89159 89177	N-bromosuccinimide
+T117	SYSTEMATIC 89268 89332	1,4-Bis(anthracen-9-yl-10-boronic acid pinacol ester)naphthalene
+T118	SYSTEMATIC 89401 89434	9,10-bis(2-bromophenyl)anthracene
+T119	SYSTEMATIC 89456 89498	1,4-bis(10-bromoanthracen-9-yl)naphthalene
+T120	SYSTEMATIC 89651 89719	9,10-bis(naphth-1-yl)anthracene-2,6-bis-(boronic acid pinacol ester)
+T121	SYSTEMATIC 89723 89766	2,6-Dibromo-9,10-bis(naphth-1-yl)anthracene
+T122	TRIVIAL 89785 89801	Grignard reagent
+T123	SYSTEMATIC 89841 89859	1-bromonaphthalene
+T124	SYSTEMATIC 89884 89893	magnesium
+T125	ABBREVIATION 89907 89910	THF
+T126	SYSTEMATIC 89933 89957	2,6-dibromoanthraquinone
+T127	TRIVIAL 89976 89992	Grignard reagent
+T128	SYSTEMATIC 90056 90067	acetic acid
+T129	ABBREVIATION 90154 90157	DMF
+T130	SYSTEMATIC 90180 90196	tin(II) chloride
+T131	SYSTEMATIC 90273 90290	hydrochloric acid
+T132	SYSTEMATIC 90421 90438	hydrochloric acid
+T133	TRIVIAL 90477 90482	water
+T134	SYSTEMATIC 90525 90532	ethanol
+T135	ABBREVIATION 90602 90605	DMF
+T136	SYSTEMATIC 90685 90752	9,10-Bis(naphth-1-yl)anthracene-2,6-bis(boronic acid pinacol ester)
+T137	SYSTEMATIC 90821 90854	9,10-bis(2-bromophenyl)anthracene
+T138	SYSTEMATIC 90876 90920	2,6-dibromo-9,10-bis-(naphth-1-yl)anthracene
+T139	SYSTEMATIC 90965 90972	toluene
+T140	SYSTEMATIC 90982 90989	dioxane
+T141	SYSTEMATIC 91131 91191	9,10-bis(naphth-1-yl-4-boronic acid pinacol ester)anthracene
+T142	SYSTEMATIC 91195 91233	9,10-Bis(4-bromonaphth-1-yl)anthracene
+T143	SYSTEMATIC 91256 91270	n-butyllithium
+T144	SYSTEMATIC 91280 91286	hexane
+T145	SYSTEMATIC 91370 91392	1,4-dibromonaphthalene
+T146	ABBREVIATION 91407 91410	THF
+T147	SYSTEMATIC 91506 91519	anthraquinone
+T148	SYSTEMATIC 91601 91612	acetic acid
+T149	ABBREVIATION 91705 91708	DMF
+T150	SYSTEMATIC 91731 91747	tin(II) chloride
+T151	SYSTEMATIC 91824 91841	hydrochloric acid
+T152	SYSTEMATIC 91972 91989	hydrochloric acid
+T153	TRIVIAL 92028 92033	water
+T154	SYSTEMATIC 92075 92082	ethanol
+T155	ABBREVIATION 92147 92150	NMP
+T156	SYSTEMATIC 92230 92268	9,10-Bis(4-bromonaphth-1-yl)anthracene
+T157	SYSTEMATIC 92337 92370	9,10-bis(2-bromophenyl)anthracene
+T158	SYSTEMATIC 92392 92430	9,10-bis(4-bromonaphth-1-yl)anthracene
+T159	SYSTEMATIC 92477 92515	9,10-bis(4-bromonaphth-1-yl)anthracene
+T160	SYSTEMATIC 92738 92745	dioxane
+T161	SYSTEMATIC 92887 92956	1,6-bis(2,5-dimethylphenyl)pyrene-3,8-bis(boronic acid pinacol ester)
+T162	SYSTEMATIC 92960 92993	1,6-Bis(2,5-dimethylphenyl)pyrene
+T163	SYSTEMATIC 93013 93033	tri-o-tolylphosphine
+T164	SYSTEMATIC 93059 93080	palladium(II) acetate
+T165	SYSTEMATIC 93150 93163	dibromopyrene
+T166	SYSTEMATIC 93203 93233	2,5-dimethylphenylboronic acid
+T167	SYSTEMATIC 93260 93291	potassium phosphate monohydrate
+T168	SYSTEMATIC 93318 93325	toluene
+T169	SYSTEMATIC 93337 93344	dioxane
+T170	TRIVIAL 93359 93364	water
+T171	SYSTEMATIC 93514 93521	ethanol
+T172	SYSTEMATIC 93549 93564	dichloromethane
+T173	TRIVIAL 93612 93622	silica gel
+T174	SYSTEMATIC 93700 93707	ethanol
+T175	SYSTEMATIC 93820 93827	ethanol
+T176	SYSTEMATIC 93939 93984	1,6-Bis(2,5-dimethylphenyl)-3,8-dibromopyrene
+T177	SYSTEMATIC 94021 94054	1,6-bis(2,5-dimethylphenyl)pyrene
+T178	SYSTEMATIC 94080 94098	N-bromosuccinimide
+T179	ABBREVIATION 94112 94115	THF
+T180	SYSTEMATIC 94264 94271	ethanol
+T181	TRIVIAL 94286 94291	water
+T182	SYSTEMATIC 94383 94390	ethanol
+T183	SYSTEMATIC 94451 94464	chlorobenzene
+T184	SYSTEMATIC 94543 94612	1,6-Bis(2,5-dimethylphenyl)pyrene-3,8-bis(boronic acid pinacol ester)
+T185	SYSTEMATIC 94679 94712	9,10-bis(2-bromophenyl)anthracene
+T186	SYSTEMATIC 94734 94779	1,6-bis(2,5-dimethylphenyl)-3,8-dibromopyrene
+T187	SYSTEMATIC 94836 94843	dioxane
+T188	SYSTEMATIC 94983 95052	1,4-bis(anthracen-9-yl-10-boronic acid pyrocatechol ester)naphthalene
+T189	SYSTEMATIC 95121 95154	9,10-bis(2-bromophenyl)anthracene
+T190	SYSTEMATIC 95176 95218	1,4-bis(10-bromoanthracen-9-yl)naphthalene
+T191	SYSTEMATIC 95264 95271	pinacol
+T192	SYSTEMATIC 95292 95304	pyrocatechol
+T193	SYSTEMATIC 95456 95529	9,10-bis(naphth-1-yl)anthracene-3,8-bis-(boronic acid pyrocatechol ester)
+T194	SYSTEMATIC 95598 95631	9,10-bis(2-bromophenyl)anthracene
+T195	SYSTEMATIC 95653 95697	2,6-dibromo-9,10-bis-(naphth-1-yl)anthracene
+T196	SYSTEMATIC 95743 95750	pinacol
+T197	SYSTEMATIC 95771 95783	pyrocatechol
+T198	SYSTEMATIC 95921 95988	2,4,6-Tris[10-(4-methylnaphth-1-yl)anthracen-9-yl]-cyclotriboroxane
+T199	SYSTEMATIC 96049 96061	boronic acid
+T200	SYSTEMATIC 96092 96104	acetonitrile
+T201	TRIVIAL 96121 96126	water
+T202	SYSTEMATIC 96240 96247	ethanol
+T203	SYSTEMATIC 96346 96353	dioxane
+T204	SYSTEMATIC 96496 96601	9,10-Bis(naphth-1-yl)anthracene-3,8-bis(boronic acid hexafluoro-2,3-bis(trifluoromethyl)but-2,3-yl ester)
+T205	SYSTEMATIC 96670 96703	9,10-bis(2-bromophenyl)anthracene
+T206	SYSTEMATIC 96725 96769	2,6-dibromo-9,10-bis-(naphth-1-yl)anthracene
+T207	SYSTEMATIC 96811 96818	pinacol
+T208	SYSTEMATIC 96840 96890	hexafluoro-2,3-bis(trifluoromethyl)butane-2,3-diol
+T209	SYSTEMATIC 96935 96942	toluene
+T210	SYSTEMATIC 96943 96955	acetonitrile
+T211	SYSTEMATIC 97098 97185	9,10-bis(naphth-1-yl)anthracene-3,8-bis(2-(3-methyl-2,3-dihydrobenzo-1,3,2-oxazaborole)
+T212	SYSTEMATIC 97254 97287	9,10-bis(2-bromophenyl)anthracene
+T213	SYSTEMATIC 97309 97353	2,6-dibromo-9,10-bis-(naphth-1-yl)anthracene
+T214	SYSTEMATIC 97395 97402	pinacol
+T215	SYSTEMATIC 97424 97443	2-methylaminophenol
+T216	ABBREVIATION 97488 97491	DMF
+T217	SYSTEMATIC 97636 97708	tris((4-(2,2-di(4-phenylboronic acid pinacol ester)vinyl)phen-1-yl)amine
+T218	SYSTEMATIC 97712 97763	Tris((4-(2,2-di(4-bromophenyl)vinyl)phen-1-yl)amine
+T219	SYSTEMATIC 97800 97843	bis(4-bromophenyl)methyl diethylphosphonate
+T220	ABBREVIATION 97857 97860	DMF
+T221	SYSTEMATIC 97928 97948	sodium tert-butoxide
+T222	ABBREVIATION 97973 97976	DMF
+T223	SYSTEMATIC 98071 98090	tris(4-formyl)amine
+T224	ABBREVIATION 98104 98107	DMF
+T225	SYSTEMATIC 98215 98232	hydrochloric acid
+T226	SYSTEMATIC 98247 98254	ethanol
+T227	TRIVIAL 98340 98345	water
+T228	SYSTEMATIC 98377 98384	ethanol
+T229	ABBREVIATION 98467 98470	DMF
+T230	SYSTEMATIC 98533 98540	ethanol
+T231	SYSTEMATIC 98654 98726	Tris((4-(2,2-di(4-phenylboronic acid pinacol ester)vinyl)phen-1-yl)amine
+T232	FORMULA 98736 98742	n-BuLi
+T233	SYSTEMATIC 98752 98758	hexane
+T234	SYSTEMATIC 98809 98860	tris((4-(2,2-di(4-bromophenyl)vinyl)phen-1-yl)amine
+T235	SYSTEMATIC 98875 98888	diethyl ether
+T236	SYSTEMATIC 99028 99044	trimethyl borate
+T237	SYSTEMATIC 99149 99160	acetic acid
+T238	TRIVIAL 99175 99180	water
+T239	SYSTEMATIC 99200 99213	ethyl acetate
+T240	TRIVIAL 99355 99360	water
+T241	SYSTEMATIC 99410 99417	toluene
+T242	SYSTEMATIC 99443 99450	pinacol
+T243	TRIVIAL 99508 99513	water
+T244	TRIVIAL 99548 99553	water
+T245	SYSTEMATIC 99577 99584	toluene
+T246	SYSTEMATIC 99618 99625	ethanol
+T247	SYSTEMATIC 99730 99737	dioxane
+T248	SYSTEMATIC 99738 99745	ethanol
+T249	SYSTEMATIC 99921 99988	1,4-bis(4-di(4-phenylboronic acid pinacol ester)aminostyryl)benzene
+T250	SYSTEMATIC 99992 100038	1,4-Bis(4-di(4-bromophenyl)aminostyryl)benzene
+T251	SYSTEMATIC 100074 100101	p-xylene diethylphosphonate
+T252	ABBREVIATION 100115 100118	DMF
+T253	SYSTEMATIC 100186 100206	sodium tert-butoxide
+T254	ABBREVIATION 100231 100234	DMF
+T255	SYSTEMATIC 100329 100368	bis(4-bromophenyl)(4-formylphenyl)amine
+T256	ABBREVIATION 100382 100385	DMF
+T257	SYSTEMATIC 100496 100513	hydrochloric acid
+T258	SYSTEMATIC 100528 100535	ethanol
+T259	TRIVIAL 100621 100626	water
+T260	SYSTEMATIC 100658 100665	ethanol
+T261	ABBREVIATION 100748 100751	DMF
+T262	SYSTEMATIC 100814 100821	ethanol
+T263	SYSTEMATIC 100934 101001	1,4-Bis(4-di(4-phenylboronic acid pinacol ester)aminostyryl)benzene
+T264	SYSTEMATIC 101071 101122	tris((4-(2,2-di(4-bromophenyl)vinyl)phen-1-yl)amine
+T265	SYSTEMATIC 101144 101190	1,4-bis(4-di(4-bromophenyl)aminostyryl)benzene
+T266	SYSTEMATIC 101340 101412	N,N,N′,N′-tetrakis(4-1,3,2-dioxaborolan-2-ylphenyl)biphenyl-4,4′-diamine
+T267	SYSTEMATIC 101416 101455	N,N,N′,N′-tetra(4-bromophenyl)benzidine
+T268	SYSTEMATIC 101477 101495	N-bromosuccinimide
+T269	SYSTEMATIC 101556 101586	N,N,N′,N′-tetraphenylbenzidine
+T270	ABBREVIATION 101600 101603	THF
+T271	TRIVIAL 101730 101733	ice
+T272	TRIVIAL 101829 101834	water
+T273	SYSTEMATIC 101860 101867	ethanol
+T274	ABBREVIATION 101897 101900	DMF
+T275	SYSTEMATIC 101979 102057	N4,N4′,N4″,N4′″-tetrakis(4-1,3,2-dioxaborolan-2-ylphenyl)biphenyl-4,4′-diamine
+T276	SYSTEMATIC 102127 102173	1,4-bis(4-di(4-bromophenyl)aminostyryl)benzene
+T277	SYSTEMATIC 102195 102234	N,N,N′,N′-tetra(4-bromophenyl)benzidine
+T278	SYSTEMATIC 102281 102288	pinacol
+T279	SYSTEMATIC 102311 102326	ethylene glycol
+T280	SYSTEMATIC 102360 102367	toluene
+T281	SYSTEMATIC 102508 102592	2,2′-bis(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)spiro-9,9′-bifluorene
+T282	SYSTEMATIC 102596 102641	2,2′-Bis(4-bromobenzoyl)spiro-9,9′-bifluorene
+T283	SYSTEMATIC 102677 102700	4-bromobenzoyl chloride
+T284	SYSTEMATIC 102714 102732	1,2-dichloroethane
+T285	SYSTEMATIC 102791 102809	aluminium chloride
+T286	SYSTEMATIC 102823 102841	1,2-dichloroethane
+T287	SYSTEMATIC 102877 102898	spiro-9,9′-bifluorene
+T288	SYSTEMATIC 102912 102930	1,2-dichloroethane
+T289	SYSTEMATIC 103104 103121	hydrochloric acid
+T290	TRIVIAL 103250 103255	water
+T291	SYSTEMATIC 103287 103294	ethanol
+T292	SYSTEMATIC 103407 103492	2,2′-Bis(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-spiro-9,9′-bifluorene
+T293	SYSTEMATIC 103632 103690	2-(4-acetylphenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane
+T294	SYSTEMATIC 103703 103723	4-acetylbromobenzene
+T295	SYSTEMATIC 103745 103790	2,2′-bis(4-bromobenzoyl)spiro-9,9′-bifluorene
+T296	SYSTEMATIC 103943 104042	2-bis(spiro-9,9′-bifluorene)-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphine oxide
+T297	SYSTEMATIC 104046 104106	2-Bis(spiro-9,9′-bifluorene)-(4-bromophenyl))phosphine oxide
+T298	SYSTEMATIC 104168 104191	dichlorophenylphosphine
+T299	SYSTEMATIC 104214 104247	4-bromophenylphosphorus dibromide
+T300	SYSTEMATIC 104287 104300	chlorobenzene
+T301	SYSTEMATIC 104380 104479	2-Bis(spiro-9,9′-bifluorene)-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)phosphine oxide
+T302	SYSTEMATIC 104549 104594	2,2′-bis(4-bromobenzoyl)spiro-9,9′-bifluorene
+T303	SYSTEMATIC 104616 104677	2-bis-(spiro-9,9′-bifluorene)-(4-bromophenyl))phosphine oxide
+T304	SYSTEMATIC 104829 104891	4,4′-bis(4,4′-bis(1,3,2-dioxaborolan-2-yl)-carbazolyl)biphenyl
+T305	SYSTEMATIC 104895 104936	4,4′-Bis(4,4′-bisbromocarbazolyl)biphenyl
+T306	SYSTEMATIC 104958 104976	N-bromosuccinimide
+T307	SYSTEMATIC 105037 105058	biscarbazolylbiphenyl
+T308	ABBREVIATION 105073 105076	THF
+T309	TRIVIAL 105307 105312	water
+T310	SYSTEMATIC 105338 105345	ethanol
+T311	ABBREVIATION 105370 105373	DMF
+T312	SYSTEMATIC 105452 105513	4,4′-Bis(4,4′-bis(1,3,2-dioxaborolan-2-yl)carbazolyl)biphenyl
+T313	SYSTEMATIC 105583 105622	N,N,N′,N′-tetra(4-bromophenyl)benzidine
+T314	SYSTEMATIC 105644 105686	4,4′-bis-(4,4′-bisbromocarbazolyl)biphenyl
+T315	SYSTEMATIC 105733 105740	pinacol
+T316	SYSTEMATIC 105763 105778	ethylene glycol
+T317	SYSTEMATIC 105812 105819	dioxane
+T318	SYSTEMATIC 105960 106031	1,6-bis((4-methylphenyl)amino)pyrene-3,8-bis(boronic acid pinacol ester
+T319	SYSTEMATIC 106036 106072	1,6-Bis((4-methylphenyl)amino)pyrene
+T320	SYSTEMATIC 106095 106126	di-tert-butylphosphine chloride
+T321	SYSTEMATIC 106157 106178	palladium(II) acetate
+T322	SYSTEMATIC 106248 106261	dibromopyrene
+T323	SYSTEMATIC 106301 106325	bis(4-methylphenyl)amine
+T324	SYSTEMATIC 106351 106371	sodium tert-butoxide
+T325	SYSTEMATIC 106386 106393	toluene
+T326	TRIVIAL 106478 106483	water
+T327	SYSTEMATIC 106574 106581	ethanol
+T328	ABBREVIATION 106652 106655	DMF
+T329	SYSTEMATIC 106734 106782	1,6-Bis((4-methylphenyl)amino)-3,8-dibromopyrene
+T330	SYSTEMATIC 106851 106884	1,6-bis(2,5-dimethylphenyl)pyrene
+T331	SYSTEMATIC 106906 106943	1,6-bis((4-methyl-phenyl)amino)pyrene
+T332	SYSTEMATIC 106990 107008	N-bromosuccinimide
+T333	SYSTEMATIC 107031 107049	N-bromosuccinimide
+T334	SYSTEMATIC 107139 107211	1,6-Bis((4-methylphenyl)amino)pyrene-3,8-bis(boronic acid pinacol ester)
+T335	SYSTEMATIC 107278 107311	9,10-bis(2-bromophenyl)anthracene
+T336	SYSTEMATIC 107333 107382	1,6-bis((4-methyl-phenyl)amino)-3,8-dibromopyrene
+T337	SYSTEMATIC 107439 107452	chlorobenzene
+T338	SYSTEMATIC 107593 107677	9,10-bis((bis-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)amino)anthracene
+T339	SYSTEMATIC 107681 107714	9,10-Bis(diphenylamino)anthracene
+T340	SYSTEMATIC 107785 107798	dibromopyrene
+T341	SYSTEMATIC 107841 107866	bis(4-methyl-phenyl)amine
+T342	SYSTEMATIC 107889 107911	9,10-dibromoanthracene
+T343	SYSTEMATIC 107937 107950	diphenylamine
+T344	SYSTEMATIC 108039 108086	9,10-Bis-N,N-(di(4-bromophenyl)amino)anthracene
+T345	SYSTEMATIC 108157 108187	N,N,N′,N′-tetraphenylbenzidine
+T346	SYSTEMATIC 108210 108243	9,10-bis(diphenylamino)anthracene
+T347	SYSTEMATIC 108331 108416	9,10-Bis((bis-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-phenyl)amino)anthracene
+T348	SYSTEMATIC 108485 108518	9,10-bis(2-bromophenyl)anthracene
+T349	SYSTEMATIC 108540 108583	9,10-bis(di(4-bromo-phenyl)amino)anthracene
+T350	SYSTEMATIC 108636 108649	chlorobenzene
+T351	SYSTEMATIC 108789 108888	fac-tris[2-(2-pyridinyl-κN)(5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-κC]-iridium(III)
+T352	FAMILY 109035 109050	phenylboronates
+T353	SYSTEMATIC 109071 109130	fac-tris[2-(2-pyridinyl-κN)(5-bromo-phenyl)-κC]iridium(III)
+T354	SYSTEMATIC 109143 109150	dioxane
+T355	SYSTEMATIC 109174 109187	pinacolborane
+T356	TRIVIAL 109277 109287	silica gel
+T357	SYSTEMATIC 109295 109308	triethylamine
+T358	SYSTEMATIC 109318 109333	dichloromethane
+T359	SYSTEMATIC 109334 109342	n-hexane
+T360	SYSTEMATIC 109496 109603	fac-tris[2-(2-pyridinyl-κN)(4-fluoro-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-κC]iridium(III)
+T361	FAMILY 109750 109765	phenylboronates
+T362	SYSTEMATIC 109786 109853	fac-tris[2-(2-pyridinyl-κN)(4-fluoro-5-bromophenyl)-κC]iridium(III)
+T363	SYSTEMATIC 109866 109873	dioxane
+T364	SYSTEMATIC 109897 109910	pinacolborane
+T365	TRIVIAL 110000 110010	silica gel
+T366	SYSTEMATIC 110018 110031	triethylamine
+T367	SYSTEMATIC 110041 110056	dichloromethane
+T368	SYSTEMATIC 110057 110065	n-hexane
+T369	SYSTEMATIC 110219 110322	fac-tris[2-(1-isoquinolinyl-κN)(5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-κC]-iridium(III)
+T370	FAMILY 110469 110484	phenylboronates
+T371	SYSTEMATIC 110506 110568	fac-tris[2-(1-isoquinolinyl-κN)(5-bromophenyl)-κC]iridium(III)
+T372	SYSTEMATIC 110581 110588	dioxane
+T373	SYSTEMATIC 110612 110625	pinacolborane
+T374	TRIVIAL 110715 110725	silica gel
+T375	SYSTEMATIC 110733 110746	triethylamine
+T376	SYSTEMATIC 110756 110771	dichloromethane
+T377	SYSTEMATIC 110772 110780	n-hexane

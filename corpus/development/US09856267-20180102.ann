@@ -1,0 +1,2012 @@
+T1	SYSTEMATIC 289952 290068	1-(3-(4-(methyl(tetrahydro-2H-pyran-4-yl)amino)-6-(pyridine-4-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T2	SYSTEMATIC 290090 290156	(2,6-dichloro-pyrimidin-4-yl)-methyl-(tetrahydro-pyran-4-yl)-amine
+T3	SYSTEMATIC 290174 290200	2,4,6-trichloro-pyrimidine
+T4	SYSTEMATIC 290222 290235	triethylamine
+T5	FORMULA 290258 290262	EtOH
+T6	SYSTEMATIC 290282 290317	N-methyltetrahydro-2H-pyran-4-amine
+T7	FORMULA 290440 290443	H2O
+T8	FORMULA 290501 290506	EtOAc
+T9	FORMULA 290563 290569	Na2SO4
+T10	TRIVIAL 290652 290662	silica gel
+T11	TRIVIAL 290664 290679	petroleum ether
+T12	FORMULA 290680 290685	EtOAc
+T13	SYSTEMATIC 290707 290772	(2,6-dichloro-pyrimidin-4-yl)-methyl-(tetrahydro-pyran-4-yl)amine
+T14	SYSTEMATIC 290860 291024	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T15	SYSTEMATIC 291029 291193	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{2-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-4-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T16	SYSTEMATIC 291211 291276	(2,6-dichloro-pyrimidin-4-yl)-methyl-(tetrahydro-pyran-4-yl)amine
+T17	SYSTEMATIC 291307 291314	dioxane
+T18	FORMULA 291319 291322	H2O
+T19	FORMULA 291346 291352	Na2CO3
+T20	FORMULA 291373 291382	Pd(PPh3)4
+T21	SYSTEMATIC 291407 291550	{2-(tert-Butyl-dimethyl-silanyloxyl)-3-[3-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-phenoxy]-propyl}-methyl-carbamic acid tert-butyl ester
+T22	FORMULA 291599 291601	N2
+T23	TRIVIAL 291699 291704	water
+T24	FORMULA 291732 291737	EtOAc
+T25	FORMULA 291794 291800	Na2SO4
+T26	SYSTEMATIC 291882 292046	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T27	SYSTEMATIC 292143 292307	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{2-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-4-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T28	SYSTEMATIC 292380 292550	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T29	SYSTEMATIC 292568 292732	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T30	SYSTEMATIC 292765 292772	dioxane
+T31	FORMULA 292777 292780	H2O
+T32	FORMULA 292804 292810	Na2CO3
+T33	FORMULA 292831 292840	Pd(PPh3)4
+T34	SYSTEMATIC 292865 292889	pyridin-4-ylboronic acid
+T35	FORMULA 292937 292939	N2
+T36	TRIVIAL 293040 293045	water
+T37	FORMULA 293073 293078	EtOAc
+T38	FORMULA 293135 293141	Na2SO4
+T39	TRIVIAL 293224 293234	silica gel
+T40	TRIVIAL 293236 293251	petroleum ether
+T41	FORMULA 293252 293257	EtOAc
+T42	SYSTEMATIC 293279 293449	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T43	SYSTEMATIC 293522 293635	1-methylamino-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propan-2-ol
+T44	SYSTEMATIC 293650 293820	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T45	FORMULA 293866 293869	HCl
+T46	SYSTEMATIC 293882 293890	methanol
+T47	SYSTEMATIC 294040 294153	1-methylamino-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propan-2-ol
+T48	FORMULA 294205 294210	CD3OD
+T49	SYSTEMATIC 294508 294621	1-Methylamino-3-(3-{6-[methyl-(tetrahydro-pyran-4-yl)-amino]-2-pyridin-4-yl-pyrimidin-4-yl}-phenoxyl)-propan-2-ol
+T50	SYSTEMATIC 294643 294813	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T51	SYSTEMATIC 294831 294995	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{2-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]-pyrimidin-4-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T52	SYSTEMATIC 295028 295035	dioxane
+T53	FORMULA 295040 295043	H2O
+T54	FORMULA 295067 295073	Na2CO3
+T55	FORMULA 295094 295103	Pd(PPh3)4
+T56	SYSTEMATIC 295128 295152	pyridin-4-ylboronic acid
+T57	FORMULA 295196 295198	N2
+T58	TRIVIAL 295301 295306	water
+T59	FORMULA 295334 295339	EtOAc
+T60	FORMULA 295396 295402	Na2SO4
+T61	TRIVIAL 295485 295495	silica gel
+T62	TRIVIAL 295497 295512	petroleum ether
+T63	FORMULA 295513 295518	EtOAc
+T64	SYSTEMATIC 295540 295710	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T65	SYSTEMATIC 295783 295895	1-Methylamino-3-(3-{6-[methyl-(tetrahydr-pyran-4-yl)-amino]-2-pyridin-4-yl-pyrimidin-4-yl}-phenoxyl)-propan-2-ol
+T66	SYSTEMATIC 295910 296080	[2-(tert-Butyl-dimethyl-silanyloxyl)-3-(3-{4-[methyl-(tetrahydro-pyran-4-yl)-amino]-6-pyridin-4-yl-pyrimidin-2-yl}-phenoxyl)-propyl]-methyl-carbamic acid tert-butyl ester
+T67	FORMULA 296126 296129	HCl
+T68	SYSTEMATIC 296142 296150	methanol
+T69	SYSTEMATIC 296302 296415	1-methylamino-3-(3-{6-[methyl-(tetrahydro-pyran-4-yl)-amino]-2-pyridin-4-yl-pyrimidin-4-yl}-phenoxyl)-propan-2-ol
+T70	FORMULA 296467 296472	CD3OD
+T71	SYSTEMATIC 296812 296924	1-(3-(5-methyl-4-morpholino-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T72	SYSTEMATIC 296946 297013	(R)-2,6-dichloro-5-methyl-N-(tetrahydrofuran-3-yl)pyrimidin-4-amine
+T73	SYSTEMATIC 297027 297061	2,4,6-trichloro-5-methylpyrimidine
+T74	SYSTEMATIC 297080 297122	(R)-tetrahydro-furan-3-amine hydrochloride
+T75	FORMULA 297146 297150	Et3N
+T76	FORMULA 297173 297177	EtOH
+T77	TRIVIAL 297313 297323	silica gel
+T78	FORMULA 297325 297330	EtOAc
+T79	FAMILY 297331 297346	petroleum ether
+T80	SYSTEMATIC 297396 297463	(R)-2,6-dichloro-5-methyl-N-(tetrahydrofuran-3-yl)pyrimidin-4-amine
+T81	SYSTEMATIC 297553 297628	(R)-3-(4-chloro-5-methyl-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenol
+T82	SYSTEMATIC 297646 297713	(R)-2,6-dichloro-5-methyl-N-(tetrahydrofuran-3-yl)pyrimidin-4-amine
+T83	SYSTEMATIC 297744 297751	dioxane
+T84	FORMULA 297756 297759	H2O
+T85	FORMULA 297783 297789	Na2CO3
+T86	FORMULA 297810 297819	Pd(PPh3)4
+T87	SYSTEMATIC 297844 297872	3-hydroxy-phenylboronic acid
+T88	SYSTEMATIC 297920 297928	nitrogen
+T89	TRIVIAL 298021 298026	water
+T90	FORMULA 298076 298081	EtOAc
+T91	FORMULA 298136 298142	Na2SO4
+T92	TRIVIAL 298225 298235	silica gel
+T93	FORMULA 298237 298242	EtOAc
+T94	FAMILY 298243 298258	petroleum ether
+T95	SYSTEMATIC 298304 298380	(R)-3-(4-chloro-5-methyl-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl) phenol
+T96	SYSTEMATIC 298463 298542	(R)-3-(5-methyl-4-morpholino-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenol
+T97	SYSTEMATIC 298556 298632	(R)-3-(4-chloro-5-methyl-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl) phenol
+T98	SYSTEMATIC 298658 298668	morpholine
+T99	FORMULA 298692 298698	Na2CO3
+T100	FORMULA 298721 298725	EtOH
+T101	TRIVIAL 298897 298907	silica gel
+T102	FORMULA 298909 298914	EtOAc
+T103	FAMILY 298915 298930	petroleum ether
+T104	SYSTEMATIC 298979 299058	(R)-3-(5-methyl-4-morpholino-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenol
+T105	SYSTEMATIC 299155 299255	5-methyl-6-morpholino-2-(3-(oxiran-2-ylmethoxy)phenyl)-N—((R)-tetrahydrofuran-3-yl)pyrimidin-4-amine
+T106	SYSTEMATIC 299269 299348	(R)-3-(5-methyl-4-morpholino-6-(tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenol
+T107	SYSTEMATIC 299369 299392	2-(chloromethyl)oxirane
+T108	FORMULA 299416 299421	K2CO3
+T109	FORMULA 299444 299448	MeCN
+T110	TRIVIAL 299619 299629	silica gel
+T111	FORMULA 299631 299636	EtOAc
+T112	FAMILY 299637 299652	petroleum ether
+T113	SYSTEMATIC 299701 299801	5-methyl-6-morpholino-2-(3-(oxiran-2-ylmethoxy)phenyl)-N—((R)-tetrahydrofuran-3-yl)pyrimidin-4-amine
+T114	SYSTEMATIC 299897 300009	1-(3-(5-methyl-4-morpholino-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T115	SYSTEMATIC 300010 300111	5-Methyl-6-morpholino-2-(3-(oxiran-2-ylmethoxy)phenyl)-N—((R)-tetra-hydrofuran-3-yl)pyrimidin-4-amine
+T116	FORMULA 300153 300158	MeNH2
+T117	SYSTEMATIC 300171 300179	methanol
+T118	SYSTEMATIC 300337 300450	1-(3-(5-methyl-4-morpholino-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T119	FORMULA 300504 300509	CD3OD
+T120	SYSTEMATIC 300820 300972	methyl4-(6-(3,5-dimethylisoxazol-4-yl)-2-(3-((S)-2-hydroxy-3-(methyl amino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate formate
+T121	SYSTEMATIC 300994 301031	(S)-2-((3-bromophenoxy)methyl)oxirane
+T122	SYSTEMATIC 301051 301064	3-bromophenol
+T123	SYSTEMATIC 301108 301114	phenol
+T124	FORMULA 301130 301135	K2CO3
+T125	FORMULA 301160 301164	MeCN
+T126	SYSTEMATIC 301191 301218	(S)-2-(chloromethyl)oxirane
+T127	SYSTEMATIC 301292 301299	oxirane
+T128	TRIVIAL 301598 301608	silica gel
+T129	TRIVIAL 301610 301625	petroleum ether
+T130	FORMULA 301626 301631	EtOAc
+T131	SYSTEMATIC 301654 301692	(S)-2-((3-bromophenoxy)methyl) oxirane
+T132	SYSTEMATIC 301780 301829	(S)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T133	FORMULA 301848 301853	MeNH2
+T134	SYSTEMATIC 301880 301885	amine
+T135	SYSTEMATIC 301889 301896	ammonia
+T136	FORMULA 301901 301905	MeOH
+T137	SYSTEMATIC 301948 301985	(S)-2-((3-bromophenoxy)methyl)oxirane
+T138	FORMULA 302007 302011	MeOH
+T139	SYSTEMATIC 302226 302275	(S)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T140	SYSTEMATIC 302433 302499	(S)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T141	FORMULA 302505 302510	Boc2O
+T142	SYSTEMATIC 302572 302621	(S)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T143	MULTIPLE 302636 302662	primary or secondary amine
+T144	SYSTEMATIC 302679 302692	triethylamine
+T145	ABBREVIATION 302716 302719	DCM
+T146	TRIVIAL 302885 302890	water
+T147	FORMULA 302913 302918	NH4Cl
+T148	TRIVIAL 302951 302956	brine
+T149	FORMULA 303000 303006	Na2SO4
+T150	SYSTEMATIC 303044 303110	(S)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T151	SYSTEMATIC 303284 303372	(S)-tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethyl-silyloxy)propyl(methyl)carbamate
+T152	SYSTEMATIC 303387 303453	(S)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T153	FAMILY 303468 303475	alcohol
+T154	SYSTEMATIC 303492 303501	imidazole
+T155	ABBREVIATION 303525 303528	DCM
+T156	FORMULA 303560 303565	TBSCl
+T157	TRIVIAL 303689 303694	water
+T158	TRIVIAL 303710 303715	brine
+T159	FORMULA 303759 303765	Na2SO4
+T160	TRIVIAL 303861 303871	silica gel
+T161	TRIVIAL 303873 303888	petroleum ether
+T162	FORMULA 303889 303894	EtOAc
+T163	SYSTEMATIC 303917 304007	(S)-tert-butyl 3-(3-bromo-phenoxyl)-2-(tert-butyldimethylsilyloxy)propyl(methyl) carbamate
+T164	SYSTEMATIC 304106 304227	(S)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-di-chloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T165	SYSTEMATIC 304245 304333	(S)-tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethylsilyloxy) propyl(methyl)carbamate
+T166	SYSTEMATIC 304384 304469	tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethyl silyloxy) propyl(methyl)carbamate
+T167	ABBREVIATION 304478 304481	THF
+T168	FORMULA 304516 304518	N2
+T169	SYSTEMATIC 304554 304569	n-butyl lithium
+T170	SYSTEMATIC 304573 304579	hexane
+T171	SYSTEMATIC 304701 304732	4,6-dichloro-5-methylpyrimidine
+T172	SYSTEMATIC 304776 304786	pyrimidine
+T173	ABBREVIATION 304801 304804	THF
+T174	TRIVIAL 304929 304934	water
+T175	ABBREVIATION 304970 304973	DDQ
+T176	FORMULA 305085 305091	CH2Cl2
+T177	FORMULA 305131 305135	NaOH
+T178	TRIVIAL 305149 305154	brine
+T179	FORMULA 305187 305193	Na2SO4
+T180	TRIVIAL 305275 305285	silica gel
+T181	TRIVIAL 305298 305313	petroleum ether
+T182	FORMULA 305314 305319	EtOAc
+T183	SYSTEMATIC 305335 305457	(S)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-di-chloro-5-methyl-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T184	SYSTEMATIC 305582 305670	(S)-tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethylsilyloxy) propyl(methyl)carbamate
+T185	SYSTEMATIC 305850 305994	tert-butyl(S)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylsoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T186	SYSTEMATIC 306012 306133	(S)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T187	FAMILY 306148 306158	heteroaryl
+T188	FAMILY 306162 306166	aryl
+T189	FAMILY 306207 306211	halo
+T190	SYSTEMATIC 306219 306225	chloro
+T191	SYSTEMATIC 306227 306232	bromo
+T192	SYSTEMATIC 306234 306238	iodo
+T193	SYSTEMATIC 306244 306273	sulfonyl substituted hydroxyl
+T194	SYSTEMATIC 306288 306293	tosyl
+T195	SYSTEMATIC 306295 306300	mesyl
+T196	SYSTEMATIC 306302 306307	besyl
+T197	SYSTEMATIC 306344 306351	dioxane
+T198	FORMULA 306352 306355	H2O
+T199	SYSTEMATIC 306383 306420	3,5-dimethylisoxazol-4-ylboronic acid
+T200	SYSTEMATIC 306435 306447	boronic acid
+T201	FAMILY 306451 306456	ester
+T202	FORMULA 306477 306486	Pd(PPh3)4
+T203	FORMULA 306511 306517	Na2CO3
+T204	FORMULA 306567 306569	N2
+T205	TRIVIAL 306678 306683	water
+T206	FORMULA 306711 306716	EtOAc
+T207	FORMULA 306773 306779	Na2SO4
+T208	TRIVIAL 306872 306882	silica gel
+T209	TRIVIAL 306896 306911	petroleum ether
+T210	FORMULA 306912 306917	EtOAc
+T211	SYSTEMATIC 306940 307086	tert-butyl(S)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T212	SYSTEMATIC 307169 307356	methyl 4-(2-(3-((S)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino) piperidine-1-carboxylate
+T213	SYSTEMATIC 307400 307547	tert-butyl(S)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl) carbamate
+T214	FAMILY 307562 307572	heteroaryl
+T215	FAMILY 307576 307580	aryl
+T216	FAMILY 307621 307625	halo
+T217	SYSTEMATIC 307633 307639	chloro
+T218	SYSTEMATIC 307641 307646	bromo
+T219	SYSTEMATIC 307648 307652	iodo
+T220	SYSTEMATIC 307658 307687	sulfonyl substituted hydroxyl
+T221	SYSTEMATIC 307702 307707	tosyl
+T222	SYSTEMATIC 307709 307714	mesyl
+T223	SYSTEMATIC 307716 307721	besyl
+T224	SYSTEMATIC 307736 307788	methyl 4-aminopiperidine-1-carboxylate hydrochloride
+T225	MULTIPLE 307803 307829	primary or secondary amine
+T226	SYSTEMATIC 307843 307856	triethylamine
+T227	FORMULA 307881 307883	KI
+T228	ABBREVIATION 307906 307910	DMSO
+T229	FORMULA 308095 308100	EtOAc
+T230	TRIVIAL 308122 308127	water
+T231	TRIVIAL 308150 308155	brine
+T232	FORMULA 308198 308204	Na2SO4
+T233	TRIVIAL 308278 308293	petroleum ether
+T234	FORMULA 308294 308299	EtOAc
+T235	SYSTEMATIC 308317 308506	methyl 4-(2-(3-((S)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy) propoxyl)phenyl)-6-(3,5-dimethyl isoxazol-4-yl)-5-methyl-pyrimidin-4-ylamino)piperidine-1-carboxylate
+T236	SYSTEMATIC 308590 308734	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(3-((S)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T237	SYSTEMATIC 308735 308924	Methyl 4-(2-(3-((S)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-dimethylsilyloxy) propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino) piperidine-1-carboxylate
+T238	FAMILY 308939 308951	aminoalcohol
+T239	SYSTEMATIC 308962 308967	silyl
+T240	ABBREVIATION 309019 309022	TFA
+T241	FORMULA 309165 309169	MeOH
+T242	FORMULA 309234 309239	K2CO3
+T243	SYSTEMATIC 309364 309508	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(3-((S)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T244	SYSTEMATIC 309514 309525	formic acid
+T245	FORMULA 309581 309586	CD3OD
+T246	SYSTEMATIC 309949 310087	1-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T247	SYSTEMATIC 310109 310264	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-chloro-5-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T248	SYSTEMATIC 310282 310407	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-chloro-5-(4,6-dichloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T249	ABBREVIATION 310427 310431	DMSO
+T250	SYSTEMATIC 310441 310468	tetrahydro-2H-pyran-4-amine
+T251	SYSTEMATIC 310492 310497	amine
+T252	SYSTEMATIC 310513 310526	triethylamine
+T253	FORMULA 310756 310761	EtOAc
+T254	TRIVIAL 310787 310792	water
+T255	FORMULA 310841 310846	EtOAc
+T256	FORMULA 310898 310904	Na2SO4
+T257	TRIVIAL 311006 311021	petroleum ether
+T258	FORMULA 311022 311027	EtOAc
+T259	SYSTEMATIC 311043 311200	tert-butyl 2-(tert-butyldimethyl silyloxy)-3-(3-chloro-5-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T260	SYSTEMATIC 311290 311466	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T261	SYSTEMATIC 311484 311639	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-chloro-5-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T262	SYSTEMATIC 311672 311679	dioxane
+T263	FORMULA 311680 311683	H2O
+T264	FORMULA 311713 311719	Na2CO3
+T265	FORMULA 311740 311749	Pd(PPh3)4
+T266	SYSTEMATIC 311774 311811	3,5-dimethylisoxazol-4-ylboronic acid
+T267	SYSTEMATIC 311835 311847	boronic acid
+T268	FORMULA 311888 311890	N2
+T269	FORMULA 312028 312033	EtOAc
+T270	TRIVIAL 312058 312063	water
+T271	TRIVIAL 312076 312081	brine
+T272	FORMULA 312124 312130	Na2SO4
+T273	TRIVIAL 312213 312223	silica gel
+T274	TRIVIAL 312225 312240	petroleum ether
+T275	FORMULA 312241 312246	EtOAc
+T276	SYSTEMATIC 312268 312446	tert-butyl 2-(tert-butyldimethyl-silyloxy)-3-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl amino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T277	SYSTEMATIC 312518 312657	1-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T278	SYSTEMATIC 312662 312838	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T279	FORMULA 312880 312883	HCl
+T280	SYSTEMATIC 312896 312904	methanol
+T281	SYSTEMATIC 313056 313195	1-(3-chloro-5-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T282	FORMULA 313249 313254	CD3OD
+T283	SYSTEMATIC 313574 313726	(3S)-ethyl 3-((6-(3,5-dimethylisoxazol-4-yl)-2-(3-(2-hydroxy-3-(methylamino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T284	SYSTEMATIC 313752 313822	(S)-ethyl 3-((tert-butoxycarbonylamino)methyl)morpholine-4-carboxylate
+T285	SYSTEMATIC 313840 313884	(S)-tert-butyl morpholin-3-ylmethylcarbamate
+T286	SYSTEMATIC 313908 313913	amine
+T287	SYSTEMATIC 313929 313942	triethylamine
+T288	ABBREVIATION 313965 313968	DCM
+T289	FORMULA 314000 314002	N2
+T290	SYSTEMATIC 314025 314044	ethyl chloroformate
+T291	TRIVIAL 314130 314135	Water
+T292	ABBREVIATION 314189 314192	DCM
+T293	FORMULA 314248 314254	Na2SO4
+T294	SYSTEMATIC 314300 314371	(S)-ethyl 3-((tert-butoxycarbonylamino)methyl) morpholine-4-carboxylate
+T295	SYSTEMATIC 314588 314651	(S)-ethyl 3-(aminomethyl)morpholine-4-carboxylate hydrochloride
+T296	SYSTEMATIC 314669 314740	((S)-ethyl 3-((tert-butoxycarbonylamino)methyl)morpholine-4-carboxylate
+T297	FORMULA 314755 314759	MeOH
+T298	FORMULA 314788 314791	HCl
+T299	SYSTEMATIC 314795 314802	dioxane
+T300	FORMULA 314914 314919	EtOAc
+T301	SYSTEMATIC 314940 315004	(S)-ethyl 3-(aminomethyl) morpholine-4-carboxylate hydrochloride
+T302	SYSTEMATIC 315075 315270	(3S)-ethyl 3-((2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T303	SYSTEMATIC 315288 315431	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T304	SYSTEMATIC 315455 315462	toluene
+T305	SYSTEMATIC 315480 315544	(S)-ethyl 3-(aminomethyl) morpholine-4-carboxylate hydrochloride
+T306	FAMILY 315580 315593	primary amine
+T307	FORMULA 315607 315618	Pd(t-Bu3P)2
+T308	FORMULA 315643 315650	t-BuONa
+T309	FORMULA 315699 315701	N2
+T310	TRIVIAL 315794 315799	water
+T311	FORMULA 315853 315858	EtOAc
+T312	FORMULA 315914 315920	Na2SO4
+T313	TRIVIAL 315994 316009	petroleum ether
+T314	FORMULA 316010 316015	EtOAc
+T315	SYSTEMATIC 316031 316225	(3S)-ethyl 3-((2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T316	SYSTEMATIC 316296 316448	(3S)-ethyl 3-((6-(3,5-dimethylisoxazol-4-yl)-2-(3-(2-hydroxy-3-(methylamino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T317	SYSTEMATIC 316463 316657	(3S)-ethyl 3-((2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T318	FORMULA 316670 316674	MeOH
+T319	FORMULA 316731 316734	HCl
+T320	SYSTEMATIC 316747 316754	dioxane
+T321	FORMULA 316886 316890	MeOH
+T322	SYSTEMATIC 316923 316941	ammonium hydroxide
+T323	SYSTEMATIC 317039 317192	(3S)-ethyl 3-((6-(3,5-dimethylisoxazol-4-yl)-2-(3-(2-hydroxy-3-(methylamino)propoxyl)phenyl)-5-methylpyrimidin-4-ylamino)methyl) morpholine-4-carboxylate
+T324	FORMULA 317245 317250	CD3OD
+T325	SYSTEMATIC 317620 317761	1-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T326	SYSTEMATIC 317783 317962	[tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-dimethylsoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T327	SYSTEMATIC 317980 318123	[tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T328	SYSTEMATIC 318147 318154	toluene
+T329	FORMULA 318172 318178	Cs2CO3
+T330	FORMULA 318200 318211	(t-Bu3P)2Pd
+T331	SYSTEMATIC 318236 318274	5-cyclopropyl-1,3,4-thiadiazol-2-amine
+T332	FAMILY 318289 318303	aromatic amine
+T333	FORMULA 318344 318346	N2
+T334	TRIVIAL 318477 318482	water
+T335	FORMULA 318510 318515	EtOAc
+T336	FORMULA 318572 318578	Na2SO4
+T337	TRIVIAL 318661 318671	silica gel
+T338	TRIVIAL 318673 318688	petroleum ether
+T339	FORMULA 318689 318694	EtOAc
+T340	SYSTEMATIC 318716 318895	tert-butyl 2-(tert-butyl dimethylsilyloxy)-3-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T341	SYSTEMATIC 318968 319108	1-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T342	SYSTEMATIC 319109 319287	tert-Butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T343	FORMULA 319328 319331	HCl
+T344	SYSTEMATIC 319344 319351	dioxane
+T345	SYSTEMATIC 319519 319659	1-(3-(4-(5-cyclopropyl-1,3,4-thiadiazol-2-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T346	SYSTEMATIC 319663 319674	formic acid
+T347	FORMULA 319729 319734	CD3OD
+T348	SYSTEMATIC 320083 320222	1-(3-(4-(4-(2,2-difluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T349	SYSTEMATIC 320244 320390	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T350	SYSTEMATIC 320408 320525	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methyl-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T351	ABBREVIATION 320547 320550	DMF
+T352	SYSTEMATIC 320569 320582	triethylamine
+T353	SYSTEMATIC 320604 320631	(R)-tetrahydrofuran-3-amine
+T354	SYSTEMATIC 320655 320660	amine
+T355	TRIVIAL 320856 320861	water
+T356	FORMULA 320889 320894	EtOAc
+T357	SYSTEMATIC 320967 320984	ammonium chloride
+T358	TRIVIAL 321008 321013	brine
+T359	FORMULA 321036 321042	Na2SO4
+T360	TRIVIAL 321125 321135	silica gel
+T361	TRIVIAL 321137 321152	petroleum ether
+T362	FORMULA 321153 321158	EtOAc
+T363	SYSTEMATIC 321180 321327	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-((R)-tetrahydrofuran-3-yl-amino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T364	SYSTEMATIC 321399 321556	[tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-methyl-4-(piperazin-1-yl)-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T365	SYSTEMATIC 321574 321721	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-((R)-tetrahydrofuran-3-yl-amino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T366	SYSTEMATIC 321753 321760	toulene
+T367	FORMULA 321779 321785	Cs2CO3
+T368	SYSTEMATIC 321806 321816	piperazine
+T369	SYSTEMATIC 321843 321850	diamine
+T370	FORMULA 321866 321877	(t-Bu3P)2Pd
+T371	FORMULA 321924 321926	N2
+T372	FORMULA 322081 322086	EtOAc
+T373	TRIVIAL 322108 322113	water
+T374	FORMULA 322158 322164	Na2SO4
+T375	TRIVIAL 322238 322253	petroleum ether
+T376	FORMULA 322254 322259	EtOAc
+T377	SYSTEMATIC 322273 322429	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-methyl-4-(piperazin-1-yl)-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T378	SYSTEMATIC 322502 322680	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(4-(2,2-di-fluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T379	SYSTEMATIC 322698 322854	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-methyl-4-(piperazin-1-yl)-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T380	FORMULA 322878 322883	CH3CN
+T381	SYSTEMATIC 322901 322917	potassium iodide
+T382	SYSTEMATIC 322938 322964	2-bromo-1,1-difluoroethane
+T383	FORMULA 323022 323028	Cs2CO3
+T384	FORMULA 323207 323212	EtOAc
+T385	TRIVIAL 323237 323242	water
+T386	FORMULA 323287 323293	Na2SO4
+T387	TRIVIAL 323367 323382	petroleum ether
+T388	FORMULA 323383 323388	EtOAc
+T389	SYSTEMATIC 323402 323580	[tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(4-(2,2-difluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T390	SYSTEMATIC 323652 323791	1-(3-(4-(4-(2,2-difluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T391	SYSTEMATIC 323796 323973	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(4-(2,2-difluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T392	FORMULA 324015 324018	HCl
+T393	SYSTEMATIC 324031 324038	dioxane
+T394	SYSTEMATIC 324199 324340	1-(3-(4-(4-(2, 2-difluoroethyl)piperazin-1-yl)-5-methyl-6-((R)-tetrahydrofuran-3-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methyl amino)propan-2-ol
+T395	FORMULA 324395 324400	CDCl3
+T396	SYSTEMATIC 324862 325017	1-(3-(4-(methyl(tetrahydro-2H-pyran-4-yl)amino)-6-(7-(methyl-sulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T397	SYSTEMATIC 325039 325093	5-bromo-7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidine
+T398	SYSTEMATIC 325111 325146	5-bromo-7H-pyrrolo[2,3-d]pyrimidine
+T399	FAMILY 325170 325185	aromatic halide
+T400	ABBREVIATION 325198 325201	DMF
+T401	FORMULA 325219 325222	NaH
+T402	FORMULA 325270 325274	MsCl
+T403	FORMULA 325380 325385	EtOAc
+T404	TRIVIAL 325420 325425	water
+T405	TRIVIAL 325438 325443	brine
+T406	FORMULA 325486 325492	Na2SO4
+T407	TRIVIAL 325575 325585	silica gel
+T408	SYSTEMATIC 325594 325648	5-bromo-7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidine
+T409	SYSTEMATIC 325841 325907	(2,6-dichloro-pyrimidin-4-yl)-methyl-(tetrahydro-pyran-4-yl)-amine
+T410	SYSTEMATIC 325925 326033	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T411	SYSTEMATIC 326055 326068	triethylamine
+T412	ABBREVIATION 326089 326092	DMF
+T413	SYSTEMATIC 326111 326146	N-methyltetrahydro-2H-pyran-4-amine
+T414	SYSTEMATIC 326190 326195	amine
+T415	FORMULA 326324 326329	EtOAc
+T416	FORMULA 326354 326357	H2O
+T417	FORMULA 326379 326384	NH4Cl
+T418	TRIVIAL 326416 326421	brine
+T419	FORMULA 326464 326470	Na2SO4
+T420	TRIVIAL 326553 326563	silica gel
+T421	TRIVIAL 326565 326580	petroleum ether
+T422	FORMULA 326581 326586	EtOAc
+T423	SYSTEMATIC 326608 326768	[2-(tert-butyl-dimethyl-silanyloxyl)-3-(3-{4-chloro-6-[methyl-(tetrahydro-pyran-4-yl)-amino]pyrimidin-2-yl}phenoxyl)propyl]methyl-carbamic acid tert-butyl ester
+T424	SYSTEMATIC 326857 327049	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(methyl(tetra-hydro-2H-pyran-4-yl)amino)-6-(7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T425	SYSTEMATIC 327067 327212	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(methyl(tetrahydro-2H-pyran-4-yl)amino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T426	SYSTEMATIC 327236 327243	dioxane
+T427	SYSTEMATIC 327261 327315	5-bromo-7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidine
+T428	FORMULA 327337 327346	Pd(PPh3)4
+T429	SYSTEMATIC 327371 327384	triethylamine
+T430	FORMULA 327432 327434	N2
+T431	TRIVIAL 327561 327567	celite
+T432	SYSTEMATIC 327655 327847	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(methyl(tetra-hydro-2H-pyran-4-yl)amino)-6-(7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T433	SYSTEMATIC 327919 328072	1-(3-(4-(methyl(tetrahydro-2H-pyran-4-yl)amino)-6-(7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T434	SYSTEMATIC 328087 328279	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(methyl(tetrahydro-2H-pyran-4-yl)amino)-6-(7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T435	FORMULA 328305 328308	HCl
+T436	SYSTEMATIC 328312 328319	dioxane
+T437	SYSTEMATIC 328451 328604	1-(3-(4-(methyl(tetrahydro-2H-pyran-4-yl)amino)-6-(7-(methylsulfonyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T438	SYSTEMATIC 328610 328621	formic acid
+T439	FORMULA 328663 328668	CD3OD
+T440	SYSTEMATIC 329047 329141	1-(3-(6-(3,5-dimethylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T441	SYSTEMATIC 329163 329295	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylsoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T442	SYSTEMATIC 329313 329423	tert-butyl 2-(tert-butyldi-methylsilyloxy)-3-(3-(4,6-di-chloro-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T443	FAMILY 329438 329448	bis-halide
+T444	SYSTEMATIC 329473 329480	dioxane
+T445	FORMULA 329485 329488	H2O
+T446	SYSTEMATIC 329513 329550	3,5-dimethylisoxazol-4-ylboronic acid
+T447	SYSTEMATIC 329574 329579	boron
+T448	FORMULA 329600 329609	Pd(PPh3)4
+T449	FORMULA 329634 329640	Na2CO3
+T450	FORMULA 329688 329690	N2
+T451	TRIVIAL 329804 329809	water
+T452	FORMULA 329838 329843	EtOAc
+T453	FORMULA 329900 329906	Na2SO4
+T454	TRIVIAL 329989 329999	silica gel
+T455	TRIVIAL 330001 330016	petroleum ether
+T456	FORMULA 330017 330022	EtOAc
+T457	SYSTEMATIC 330049 330193	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di methylisoxazol-4-yl)-5-methyl-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T458	SYSTEMATIC 330283 330416	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(6-(3,5-di-methylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T459	SYSTEMATIC 330434 330567	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T460	SYSTEMATIC 330599 330606	dioxane
+T461	FORMULA 330611 330614	H2O
+T462	SYSTEMATIC 330639 330666	pyrimidin-5-yl boronic acid
+T463	SYSTEMATIC 330681 330693	boronic acid
+T464	FORMULA 330707 330718	Pd(dppf)Cl2
+T465	FORMULA 330742 330748	Cs2CO3
+T466	FORMULA 330796 330798	N2
+T467	TRIVIAL 330995 331005	silica gel
+T468	TRIVIAL 331007 331022	petroleum ether
+T469	FORMULA 331023 331028	EtOAc
+T470	SYSTEMATIC 331053 331185	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(6-(3,5-dimethylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T471	SYSTEMATIC 331262 331356	1-(3-(6-(3,5-dimethylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T472	SYSTEMATIC 331361 331493	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(6-(3,5-dimethylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T473	FORMULA 331535 331538	HCl
+T474	SYSTEMATIC 331542 331549	dioxane
+T475	SYSTEMATIC 331701 331795	1-(3-(6-(3,5-dimethylisoxazol-4-yl)-4,5′-bipyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T476	SYSTEMATIC 331801 331812	formic acid
+T477	FORMULA 331867 331872	CD3OD
+T478	SYSTEMATIC 332209 332346	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T479	SYSTEMATIC 332368 332535	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T480	SYSTEMATIC 332549 332683	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di-methylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T481	SYSTEMATIC 332704 332741	(tetrahydro-2H-pyran-4-yl)methanamine
+T482	FORMULA 332765 332767	KI
+T483	FORMULA 332790 332796	n-BuOH
+T484	FORMULA 332973 332978	EtOAc
+T485	TRIVIAL 333004 333009	water
+T486	FORMULA 333054 333060	Na2SO4
+T487	TRIVIAL 333143 333153	silica gel
+T488	TRIVIAL 333155 333170	petroleum ether
+T489	FORMULA 333171 333176	EtOAc
+T490	SYSTEMATIC 333198 333364	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T491	SYSTEMATIC 333454 333630	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T492	SYSTEMATIC 333645 333814	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methyl-isoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T493	FORMULA 333837 333841	MeCN
+T494	FORMULA 333864 333866	N2
+T495	IDENTIFIER 333920 333931	SelectFluor
+T496	FORMULA 334053 334058	EtOAc
+T497	TRIVIAL 334083 334088	water
+T498	FORMULA 334133 334139	Na2SO4
+T499	TRIVIAL 334222 334232	silica gel
+T500	TRIVIAL 334234 334249	petroleum ether
+T501	FORMULA 334250 334255	EtOAc
+T502	SYSTEMATIC 334277 334452	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T503	SYSTEMATIC 334542 334674	(4-(3,5-dimethylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T504	SYSTEMATIC 334675 334850	tert-Butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T505	FORMULA 334891 334894	HCl
+T506	SYSTEMATIC 334907 334914	dioxane
+T507	SYSTEMATIC 335058 335195	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-fluoro-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T508	SYSTEMATIC 335201 335212	formic acid
+T509	FORMULA 335267 335272	CD3OD
+T510	SYSTEMATIC 335679 335816	1-(3-(5-chloro-4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T511	SYSTEMATIC 335825 336001	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-chloro-4-(3,5-dimethyl-isoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T512	SYSTEMATIC 336016 336184	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T513	ABBREVIATION 336207 336210	DMF
+T514	ABBREVIATION 336263 336266	NCS
+T515	FORMULA 336409 336416	Na2S2O3
+T516	FORMULA 336484 336489	EtOAc
+T517	TRIVIAL 336511 336516	water
+T518	TRIVIAL 336529 336534	brine
+T519	FORMULA 336577 336583	Na2SO4
+T520	TRIVIAL 336666 336676	silica gel
+T521	TRIVIAL 336678 336693	petroleum ether
+T522	FORMULA 336694 336699	EtOAc
+T523	SYSTEMATIC 336721 336898	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-chloro-4-(3,5-dimethyl-isoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T524	SYSTEMATIC 336986 337123	1-(3-(5-chloro-4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T525	SYSTEMATIC 337124 337299	tert-Butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-chloro-4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T526	FORMULA 337340 337343	HCl
+T527	SYSTEMATIC 337356 337363	dioxane
+T528	SYSTEMATIC 337512 337649	1-(3-(5-chloro-4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T529	SYSTEMATIC 337655 337666	formic acid
+T530	FORMULA 337721 337726	CD3OD
+T531	SYSTEMATIC 338132 338281	methyl 4-(5-chloro-2-(2-chloro-5-(2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T532	SYSTEMATIC 338303 338336	2-((3-bromophenoxy)methyl)oxirane
+T533	SYSTEMATIC 338356 338369	3-bromophenol
+T534	FORMULA 338392 338397	K2CO3
+T535	FORMULA 338421 338425	MeCN
+T536	SYSTEMATIC 338442 338465	2-(chloromethyl)oxirane
+T537	TRIVIAL 338759 338769	silica gel
+T538	TRIVIAL 338771 338786	petroleum ether
+T539	FORMULA 338787 338792	EtOAc
+T540	SYSTEMATIC 338815 338848	2-((3-bromophenoxy)methyl)oxirane
+T541	SYSTEMATIC 338936 338981	1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T542	SYSTEMATIC 338999 339032	2-((3-bromophenoxy)methyl)oxirane
+T543	FORMULA 339053 339057	MeOH
+T544	FORMULA 339085 339090	MeNH2
+T545	FORMULA 339103 339107	MeOH
+T546	SYSTEMATIC 339243 339277	2-((3-bromophenoxy)methyl) oxirane
+T547	SYSTEMATIC 339443 339505	tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T548	SYSTEMATIC 339523 339568	1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T549	SYSTEMATIC 339584 339597	triethylamine
+T550	ABBREVIATION 339620 339623	DCM
+T551	FORMULA 339654 339659	Boc2O
+T552	ABBREVIATION 339683 339686	DCM
+T553	TRIVIAL 339806 339811	water
+T554	FORMULA 339834 339839	NH4Cl
+T555	TRIVIAL 339872 339877	brine
+T556	FORMULA 339923 339929	Na2SO4
+T557	SYSTEMATIC 339965 340090	tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T558	SYSTEMATIC 340260 340343	tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethylsilyloxy)propyl(methyl)carbamate
+T559	SYSTEMATIC 340358 340420	tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T560	SYSTEMATIC 340436 340445	imidazole
+T561	ABBREVIATION 340469 340472	DCM
+T562	FORMULA 340533 340538	TBSCl
+T563	TRIVIAL 340619 340624	water
+T564	TRIVIAL 340640 340645	brine
+T565	FORMULA 340689 340695	Na2SO4
+T566	TRIVIAL 340796 340806	silica gel
+T567	TRIVIAL 340808 340823	petroleum ether
+T568	FORMULA 340824 340829	EtOAc
+T569	SYSTEMATIC 340852 340938	tert-butyl 3-(3-bromo-phenoxyl)-2-(tert-butyl-dimethylsilyloxy)propyl(methyl)carbamate
+T570	SYSTEMATIC 341026 341135	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-di-chloro-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T571	SYSTEMATIC 341153 341236	tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethylsilyloxy)propyl(methyl)carbamate
+T572	ABBREVIATION 341260 341263	THF
+T573	SYSTEMATIC 341301 341316	n-butyl lithium
+T574	SYSTEMATIC 341336 341342	hexane
+T575	SYSTEMATIC 341428 341451	4,6-dichloro-pyrimidine
+T576	ABBREVIATION 341474 341477	THF
+T577	FORMULA 341602 341606	HOAc
+T578	ABBREVIATION 341642 341645	DDQ
+T579	FORMULA 341774 341780	CH2Cl2
+T580	TRIVIAL 341820 341830	silica gel
+T581	TRIVIAL 341917 341927	silica gel
+T582	TRIVIAL 341929 341944	petroleum ether
+T583	FORMULA 341945 341950	EtOAc
+T584	SYSTEMATIC 341967 342078	tert-butyl 2-(tert-butyldi-methylsilyloxy)-3-(3-(4,6-di-chloro-pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T585	SYSTEMATIC 342169 342302	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T586	SYSTEMATIC 342320 342430	tert-butyl 2-(tert-butyldi-methylsilyloxy)-3-(3-(4,6-di-chloro-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T587	SYSTEMATIC 342473 342480	dioxane
+T588	FORMULA 342485 342488	H2O
+T589	SYSTEMATIC 342513 342550	3,5-dimethylisoxazol-4-ylboronic acid
+T590	FORMULA 342572 342581	Pd(PPh3)4
+T591	FORMULA 342606 342612	Na2CO3
+T592	FORMULA 342660 342662	N2
+T593	TRIVIAL 342776 342781	water
+T594	FORMULA 342810 342815	EtOAc
+T595	FORMULA 342872 342878	Na2SO4
+T596	TRIVIAL 342961 342971	silica gel
+T597	TRIVIAL 342973 342988	petroleum ether
+T598	FORMULA 342989 342994	EtOAc
+T599	SYSTEMATIC 343017 343160	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T600	SYSTEMATIC 343244 343417	methyl 4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T601	SYSTEMATIC 343432 343575	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T602	SYSTEMATIC 343597 343649	methyl 4-aminopiperidine-1-carboxylate hydrochloride
+T603	SYSTEMATIC 343671 343684	triethylamine
+T604	FORMULA 343708 343710	KI
+T605	ABBREVIATION 343734 343738	DMSO
+T606	FORMULA 343914 343919	EtOAc
+T607	TRIVIAL 343941 343946	water
+T608	TRIVIAL 343960 343965	brine
+T609	FORMULA 344007 344013	Na2SO4
+T610	TRIVIAL 344087 344102	petroleum ether
+T611	FORMULA 344103 344108	EtOAc
+T612	SYSTEMATIC 344126 344311	methyl 4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-dimethylsilyloxy) propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-4-ylamino)piperidine-1-carboxylate
+T613	SYSTEMATIC 344400 344593	methyl 4-(2-(5-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)-2-chlorophenyl)-5-chloro-6-(3,5-dimethyl-isoxazol-4-yl)pyrimidin-4-ylamino)piperidine-11-carboxylate
+T614	SYSTEMATIC 344608 344792	methyl 4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-dimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino) piperidine-1-carboxylate
+T615	ABBREVIATION 344815 344818	DMF
+T616	ABBREVIATION 344871 344874	NCS
+T617	ABBREVIATION 344916 344919	DMF
+T618	FORMULA 345018 345023	EtOAc
+T619	TRIVIAL 345059 345064	water
+T620	FORMULA 345086 345093	Na2S2O3
+T621	TRIVIAL 345123 345128	brine
+T622	FORMULA 345171 345177	Na2SO4
+T623	TRIVIAL 345251 345266	petroleum ether
+T624	FORMULA 345267 345272	EtOAc
+T625	SYSTEMATIC 345295 345465	methyl 4-(2-(5-(3-(tert-butoxycarbonyl(methyl)amino)-2-hydroxypropoxy)-2-chlorophenyl)-5-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino) piperidine-1-carboxylate
+T626	SYSTEMATIC 345554 345704	methyl 4-(5-chloro-2-(2-chloro-5-(2-hydroxy-3-(methylamino) propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T627	SYSTEMATIC 345719 345913	methyl 4-(2-(5-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-dimethyl-silyloxy)propoxyl)-2-chlorophenyl)-5-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino) piperidine-1-carboxylate
+T628	ABBREVIATION 345940 345943	TFA
+T629	FORMULA 346056 346060	MeOH
+T630	FORMULA 346116 346121	K2CO3
+T631	SYSTEMATIC 346245 346395	methyl 4-(5-chloro-2-(2-chloro-5-(2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-di-methylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T632	SYSTEMATIC 346401 346412	formic acid
+T633	FORMULA 346467 346471	MeOD
+T634	SYSTEMATIC 346836 346974	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-(hydroxymethyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T635	SYSTEMATIC 346996 347067	2,4-dichloro-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidine-5-carbaldehyde
+T636	SYSTEMATIC 347072 347143	4,6-dichloro-2-(tetrahydro-2H-pyran-4-ylamino)pyrimidine-5-carbaldehyde
+T637	SYSTEMATIC 347160 347200	2,4,6-trichloropyrimidine-5-carbaldehyde
+T638	FORMULA 347223 347229	NaHCO3
+T639	ABBREVIATION 347251 347254	THF
+T640	SYSTEMATIC 347274 347301	tetrahydro-2H-pyran-4-amine
+T641	TRIVIAL 347527 347537	silica gel
+T642	TRIVIAL 347539 347554	petroleum ether
+T643	FORMULA 347555 347560	EtOAc
+T644	SYSTEMATIC 347582 347653	2,4-dichloro-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidine-5-carbaldehyde
+T645	SYSTEMATIC 347708 347779	4,6-dichloro-2-(tetrahydro-2H-pyran-4-ylamino)pyrimidine-5-carbaldehyde
+T646	SYSTEMATIC 347870 348016	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T647	SYSTEMATIC 348034 348105	2,4-dichloro-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidine-5-carbaldehyde
+T648	SYSTEMATIC 348136 348143	dioxane
+T649	FORMULA 348148 348151	H2O
+T650	SYSTEMATIC 348176 348301	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,4,5,5-tetramethyl-1,3,2-dioxa-borolan-2-yl)phenoxyl)propyl(methyl)carbamate
+T651	FORMULA 348322 348327	K2CO3
+T652	FORMULA 348352 348361	Pd(PPh3)4
+T653	FORMULA 348409 348411	N2
+T654	TRIVIAL 348550 348555	water
+T655	FORMULA 348583 348588	EtOAc
+T656	FORMULA 348645 348651	Na2SO4
+T657	TRIVIAL 348734 348744	silica gel
+T658	TRIVIAL 348746 348761	petroleum ether
+T659	FORMULA 348762 348767	EtOAc
+T660	SYSTEMATIC 348794 348942	tert-butyl 2-(tert-butyldimethyl silyloxy)-3-(3-(4-chloro-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T661	SYSTEMATIC 349032 349200	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T662	SYSTEMATIC 349218 349364	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T663	SYSTEMATIC 349397 349404	dioxane
+T664	FORMULA 349409 349412	H2O
+T665	FORMULA 349437 349446	Pd2(dba)3
+T666	SYSTEMATIC 349467 349489	tricyclohexylphosphine
+T667	FORMULA 349510 349512	KF
+T668	SYSTEMATIC 349536 349606	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl) isoxazole
+T669	FORMULA 349654 349656	N2
+T670	TRIVIAL 349803 349808	water
+T671	FORMULA 349836 349841	EtOAc
+T672	FORMULA 349898 349904	Na2SO4
+T673	TRIVIAL 349987 349997	silica gel
+T674	TRIVIAL 349999 350014	petroleum ether
+T675	FORMULA 350015 350020	EtOAc
+T676	SYSTEMATIC 350041 350209	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T677	SYSTEMATIC 350269 350445	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-(hydroxymethyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T678	SYSTEMATIC 350460 350627	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T679	ABBREVIATION 350651 350654	THF
+T680	FORMULA 350680 350685	NaBH4
+T681	SYSTEMATIC 350849 351026	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-(hydroxymethyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T682	SYSTEMATIC 351093 351232	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-(hydroxymethyl)-6-(tetra-hydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T683	SYSTEMATIC 351233 351410	tert-Butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-(hydroxymethyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl) carbamate
+T684	FORMULA 351455 351458	HCl
+T685	SYSTEMATIC 351471 351479	methanol
+T686	SYSTEMATIC 351614 351753	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-(hydroxymethyl)-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T687	ABBREVIATION 351759 351762	TFA
+T688	FORMULA 351804 351809	CD3OD
+T689	SYSTEMATIC 352121 352261	1-(3-(5-(difluoromethyl)-4-(3,5-dimethylisoxazol-4-yl)-6-(tetra-hydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T690	SYSTEMATIC 352270 352447	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-(difluoromethyl)-4-(3,5-dimethylisoxazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T691	SYSTEMATIC 352448 352615	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-formyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T692	SYSTEMATIC 352653 352696	bis-(2-methoxyethyl)aminosulfur trifluoride
+T693	ABBREVIATION 352698 352702	BAST
+T694	TRIVIAL 352835 352840	water
+T695	ABBREVIATION 352868 352871	DCM
+T696	FORMULA 352927 352933	Na2SO4
+T697	TRIVIAL 353016 353026	silica gel
+T698	TRIVIAL 353028 353043	petroleum ether
+T699	FORMULA 353044 353049	EtOAc
+T700	SYSTEMATIC 353071 353248	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-(difluoromethyl)-4-(3,5-dimethylisoxazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T701	SYSTEMATIC 353318 353457	1-(3-(5-(difluoromethyl)-4-(3,5-dimethylisoxazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T702	SYSTEMATIC 353458 353636	tert-Butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(5-(difluoromethyl)-4-(3,5-di-methylisoxazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T703	FORMULA 353679 353682	HCl
+T704	SYSTEMATIC 353695 353703	methanol
+T705	SYSTEMATIC 353860 353999	1-(3-(5-(difluoromethyl)-4-(3,5-dimethylisoxazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T706	ABBREVIATION 354005 354008	TFA
+T707	FORMULA 354050 354055	CD3OD
+T708	SYSTEMATIC 354352 354493	6-(3,5-Dimethyl-isoxazol-4-yl)-2-[3-(2-hydroxy-3-methylamino-propoxyl)phenyl]pyrimidine-4-carboxylic acid (tetrahydro-pyran-4-ylmethyl)-amide
+T709	SYSTEMATIC 354515 354665	phenyl 2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidine-4-carboxylate
+T710	SYSTEMATIC 354683 354816	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T711	FORMULA 354849 354853	MeCN
+T712	SYSTEMATIC 354871 354885	phenyl formate
+T713	TRIVIAL 354906 354914	xantphos
+T714	FORMULA 354935 354943	Pd(OAc)2
+T715	FORMULA 354967 354971	Et3N
+T716	FORMULA 355007 355009	N2
+T717	TRIVIAL 355185 355191	Celite
+T718	SYSTEMATIC 355217 355367	phenyl 2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidine-4-carboxylate
+T719	SYSTEMATIC 355503 355674	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylcarbamoyl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T720	SYSTEMATIC 355689 355841	phenyl 2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-dimethyl silyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidine-4-carboxylate
+T721	FORMULA 355856 355860	MeCN
+T722	SYSTEMATIC 355913 355950	(tetrahydro-2H-pyran-4-yl)methanamine
+T723	FORMULA 355974 355978	Et3N
+T724	SYSTEMATIC 356120 356292	tert-butyl 2-(tert-butyldimethyl-silyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methyl-carbamoyl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T725	SYSTEMATIC 356376 356515	6-(3,5-dimethylisoxazol-4-yl)-2-(3-(2-hydroxy-3-(methyl-amino)propoxyl)phenyl)-N-((tetrahydro-2H-pyran-4-yl)methyl)pyrimidine-4-carboxamide
+T726	SYSTEMATIC 356530 356701	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-6-((tetrahydro-2H-pyran-4-yl)methylcarbamoyl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T727	FORMULA 356724 356728	MeOH
+T728	FORMULA 356756 356759	HCl
+T729	SYSTEMATIC 356763 356770	dioxane
+T730	FORMULA 356883 356887	MeOH
+T731	FORMULA 356922 356927	K2CO3
+T732	SYSTEMATIC 357069 357208	6-(3,5-dimethylisoxazol-4-yl)-2-(3-(2-hydroxy-3-(methyl-amino)propoxyl)phenyl)-N-((tetrahydro-2H-pyran-4-yl)methyl)pyrimidine-4-carboxamide
+T733	SYSTEMATIC 357214 357225	formic acid
+T734	FORMULA 357280 357285	CD3OD
+T735	SYSTEMATIC 357676 357810	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((tetrahydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T736	SYSTEMATIC 357832 358005	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methylisoxazol-4-yl)-5-methyl-6-((tetrahydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T737	SYSTEMATIC 358019 358161	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T738	SYSTEMATIC 358175 358209	(tetrahydro-2H-pyran-4-yl)methanol
+T739	FAMILY 358224 358231	alcohol
+T740	FAMILY 358235 358240	thiol
+T741	FORMULA 358257 358263	Cs2CO3
+T742	ABBREVIATION 358287 358291	DMSO
+T743	FORMULA 358422 358427	EtOAc
+T744	TRIVIAL 358452 358457	water
+T745	TRIVIAL 358480 358485	brine
+T746	FORMULA 358528 358534	Na2SO4
+T747	FORMULA 358646 358651	EtOAc
+T748	FAMILY 358652 358667	petroleum ether
+T749	SYSTEMATIC 358688 358861	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((tetra-hydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T750	SYSTEMATIC 358952 359086	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((tetrahydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T751	SYSTEMATIC 359101 359275	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-((tetrahydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T752	ABBREVIATION 359299 359302	DCM
+T753	FORMULA 359330 359333	HCl
+T754	SYSTEMATIC 359346 359353	dioxane
+T755	FORMULA 359465 359469	MeOH
+T756	FORMULA 359504 359510	NaHCO3
+T757	SYSTEMATIC 359638 359772	1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((tetrahydro-2H-pyran-4-yl)methoxyl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T758	SYSTEMATIC 359778 359789	formic acid
+T759	FORMULA 359844 359849	CD3OD
+T760	SYSTEMATIC 360271 360410	1-(3-(4-(5-cyclopropyl-3-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T761	SYSTEMATIC 360437 360583	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T762	SYSTEMATIC 360601 360717	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T763	SYSTEMATIC 360740 360753	triethylamine
+T764	ABBREVIATION 360776 360779	DMF
+T765	SYSTEMATIC 360798 360825	tetrahydro-2H-pyran-4-amine
+T766	FORMULA 360974 360979	EtOAc
+T767	FORMULA 361017 361020	H2O
+T768	FORMULA 361050 361055	NH4Cl
+T769	TRIVIAL 361079 361084	brine
+T770	FORMULA 361127 361133	Na2SO4
+T771	TRIVIAL 361229 361239	silica gel
+T772	TRIVIAL 361241 361256	petroleum ether
+T773	FORMULA 361257 361262	EtOAc
+T774	SYSTEMATIC 361284 361431	tert-butyl 2-(tert-butyldimethyl-silyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T775	SYSTEMATIC 361541 361572	5-cyclopropyl-3-methylisoxazole
+T776	SYSTEMATIC 361577 361608	3-cyclopropyl-5-methylisoxazole
+T777	SYSTEMATIC 361622 361651	1-cyclopropylbutane-1,3-dione
+T778	FAMILY 361675 361684	1,3-dione
+T779	FORMULA 361698 361707	NH2OH—HCl
+T780	FORMULA 361732 361737	K2CO3
+T781	FORMULA 361762 361766	EtOH
+T782	SYSTEMATIC 361887 361918	5-cyclopropyl-3-methylisoxazole
+T783	SYSTEMATIC 361923 361954	3-cyclopropyl-5-methylisoxazole
+T784	SYSTEMATIC 362097 362136	4-bromo-5-cyclopropyl-3-methylisoxazole
+T785	SYSTEMATIC 362141 362180	4-bromo-3-cyclopropyl-5-methylisoxazole
+T786	SYSTEMATIC 362195 362226	5-cyclopropyl-3-methylisoxazole
+T787	SYSTEMATIC 362231 362263	3-cyclo-propyl-5-methylisoxazole
+T788	ABBREVIATION 362279 362282	DMF
+T789	ABBREVIATION 362308 362311	NBS
+T790	FORMULA 362413 362418	EtOAc
+T791	FORMULA 362444 362447	H2O
+T792	TRIVIAL 362471 362476	brine
+T793	FORMULA 362519 362525	Na2SO4
+T794	TRIVIAL 362621 362631	silica gel
+T795	FORMULA 362653 362658	EtOAc
+T796	FAMILY 362659 362674	petroleum ether
+T797	SYSTEMATIC 362696 362736	4-bromo-5-cyclopropyl-3-methyl-isoxazole
+T798	SYSTEMATIC 362741 362780	4-bromo-3-cyclopropyl-5-methylisoxazole
+T799	SYSTEMATIC 362906 362985	5-cyclopropyl-3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T800	SYSTEMATIC 362990 363070	3-cyclopropyl-5-methyl-4-(4,4,5,5-tetra-methyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T801	SYSTEMATIC 363087 363126	4-bromo-5-cyclopropyl-3-methylisoxazole
+T802	SYSTEMATIC 363131 363170	4-bromo-3-cyclopropyl-5-methylisoxazole
+T803	SYSTEMATIC 363194 363201	dioxane
+T804	SYSTEMATIC 363220 363279	4,4,4′,4′,5,5,5′,5′-octamethyl-2,2′-bi(1,3,2-dioxaborolane)
+T805	FORMULA 363301 363305	KOAc
+T806	FORMULA 363330 363341	PdCl2(dppf)
+T807	FORMULA 363390 363392	N2
+T808	TRIVIAL 363527 363533	celite
+T809	SYSTEMATIC 363572 363651	5-cyclopropyl-3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T810	SYSTEMATIC 363656 363735	3-cyclopropyl-5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T811	SYSTEMATIC 363873 364052	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(5-cyclo-propyl-3-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T812	SYSTEMATIC 364070 364216	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T813	SYSTEMATIC 364249 364256	dioxane
+T814	FORMULA 364261 364264	H2O
+T815	FORMULA 364287 364289	KF
+T816	FORMULA 364310 364319	Pd2(dba)3
+T817	ABBREVIATION 364340 364343	TCP
+T818	SYSTEMATIC 364367 364447	5-cyclo-propyl-3-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T819	SYSTEMATIC 364480 364560	3-cyclopropyl-5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxa-borolan-2-yl)isoxazole
+T820	FORMULA 364610 364612	N2
+T821	FORMULA 364815 364820	EtOAc
+T822	TRIVIAL 364845 364850	water
+T823	TRIVIAL 364871 364876	brine
+T824	FORMULA 364919 364925	Na2SO4
+T825	TRIVIAL 365011 365021	silica gel
+T826	TRIVIAL 365023 365038	petroleum ether
+T827	FORMULA 365039 365044	EtOAc
+T828	SYSTEMATIC 365079 365257	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(5-cyclopropyl-3-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T829	SYSTEMATIC 365286 365465	tert-butyl 2-(tert butyldimethylsilyloxy)-3-(3-(4-(3-cyclopropyl-5-methyl-isoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T830	SYSTEMATIC 365545 365684	1-(3-(4-(5-cyclopropyl-3-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T831	SYSTEMATIC 365698 365878	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(5-cyclo-propyl-3-methyl-isoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T832	SYSTEMATIC 365883 366063	tert-butyl 2-(tert-butyldimethyl-silyloxy)-3-(3-(4-(3-cyclopropyl-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T833	FORMULA 366107 366110	HCl
+T834	SYSTEMATIC 366123 366131	methanol
+T835	SYSTEMATIC 366278 366417	1-(3-(4-(5-cyclopropyl-3-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T836	SYSTEMATIC 366449 366588	1-(3-(4-(3-cyclopropyl-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T837	FORMULA 366671 366676	CD3OD
+T838	SYSTEMATIC 367006 367137	1-(3-(4-(3,5-dimethylisothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T839	SYSTEMATIC 367159 367174	pent-3-yn-2-one
+T840	SYSTEMATIC 367278 367283	argon
+T841	FORMULA 367306 367311	AlCl3
+T842	ABBREVIATION 367337 367340	DCM
+T843	SYSTEMATIC 367401 367429	trimethyl(prop-1-ynyl)silane
+T844	FORMULA 367453 367457	AcCl
+T845	ABBREVIATION 367490 367493	DCM
+T846	TRIVIAL 367691 367696	water
+T847	ABBREVIATION 367716 367719	DCM
+T848	FORMULA 367775 367781	Na2SO4
+T849	SYSTEMATIC 367844 367859	pent-3-yn-2-one
+T850	FORMULA 367896 367901	CDCl3
+T851	SYSTEMATIC 367959 367982	3,5-dimethylisothiazole
+T852	SYSTEMATIC 367996 368011	pent-3-yn-2-one
+T853	FORMULA 368036 368044	H2NOSO3H
+T854	TRIVIAL 368077 368082	water
+T855	FORMULA 368121 368127	NaHCO3
+T856	FORMULA 368160 368164	NaHS
+T857	SYSTEMATIC 368320 368333	diethyl ether
+T858	FORMULA 368389 368395	Na2SO4
+T859	SYSTEMATIC 368431 368454	3,5-dimethylisothiazole
+T860	SYSTEMATIC 368537 368567	4-iodo-3,5-dimethylisothiazole
+T861	SYSTEMATIC 368581 368604	3,5-dimethylisothiazole
+T862	FORMULA 368629 368631	I2
+T863	FORMULA 368672 368676	HNO3
+T864	TRIVIAL 368826 368831	water
+T865	FORMULA 368851 368856	EtOAc
+T866	FORMULA 368912 368918	Na2SO4
+T867	TRIVIAL 369001 369011	silica gel
+T868	SYSTEMATIC 369020 369050	4-iodo-3,5-dimethylisothiazole
+T869	SYSTEMATIC 369122 369161	3,5-dimethylisothiazol-4-ylboronic acid
+T870	SYSTEMATIC 369176 369206	4-iodo-3,5-dimethylisothiazole
+T871	ABBREVIATION 369238 369241	THF
+T872	FORMULA 369267 369269	N2
+T873	FORMULA 369317 369323	EtMgBr
+T874	SYSTEMATIC 369327 369340	diethyl ether
+T875	FORMULA 369414 369421	B(OMe)3
+T876	FORMULA 369552 369555	HCl
+T877	TRIVIAL 369573 369578	water
+T878	SYSTEMATIC 369598 369611	ethyl acetate
+T879	FORMULA 369667 369673	Na2SO4
+T880	SYSTEMATIC 369709 369748	3,5-dimethylisothiazol-4-ylboronic acid
+T881	SYSTEMATIC 369869 370038	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T882	SYSTEMATIC 370052 370198	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T883	SYSTEMATIC 370220 370259	3,5-dimethylisothiazol-4-ylboronic acid
+T884	FORMULA 370280 370282	KF
+T885	FORMULA 370303 370312	Pd2(dba)3
+T886	ABBREVIATION 370336 370339	TCP
+T887	SYSTEMATIC 370371 370378	dioxane
+T888	FORMULA 370383 370386	H2O
+T889	FORMULA 370417 370419	N2
+T890	TRIVIAL 370595 370600	water
+T891	FORMULA 370643 370648	EtOAc
+T892	FORMULA 370703 370709	Na2SO4
+T893	SYSTEMATIC 370790 370960	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T894	SYSTEMATIC 371032 371163	1-(3-(4-(3,5-dimethylisothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T895	SYSTEMATIC 371178 371348	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethyl-isothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T896	FORMULA 371376 371379	HCl
+T897	SYSTEMATIC 371392 371400	methanol
+T898	FORMULA 371511 371515	MeOH
+T899	FORMULA 371548 371553	NH4OH
+T900	SYSTEMATIC 371670 371801	1-(3-(4-(3,5-dimethylisothiazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T901	SYSTEMATIC 371807 371818	formic acid
+T902	FORMULA 371860 371865	CD3OD
+T903	SYSTEMATIC 372250 372388	1-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T904	SYSTEMATIC 372410 372542	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(prop-1-ynyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T905	SYSTEMATIC 372557 372703	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T906	FORMULA 372724 372736	Pd(MeCN)2Cl2
+T907	IDENTIFIER 372760 372766	X-phos
+T908	FORMULA 372790 372794	Et3N
+T909	SYSTEMATIC 372820 372848	trimethyl(prop-1-ynyl)silane
+T910	FORMULA 372897 372899	N2
+T911	ABBREVIATION 372916 372920	TBAF
+T912	TRIVIAL 373213 373218	water
+T913	FORMULA 373246 373251	EtOAc
+T914	FORMULA 373308 373314	Na2SO4
+T915	TRIVIAL 373397 373407	silica gel
+T916	TRIVIAL 373409 373424	petroleum ether
+T917	FORMULA 373425 373430	EtOAc
+T918	SYSTEMATIC 373452 373584	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(prop-1-ynyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T919	SYSTEMATIC 373674 373853	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(5-methyl-3-((trimethylsilyl)methyl)-3H-1,2,3-triazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T920	SYSTEMATIC 373858 374037	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(5-methyl-1-((trimethylsilyl)methyl)-1H-1,2,3-triazol-4-yl)-6-(tetra-hydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T921	SYSTEMATIC 374055 374187	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(prop-1-ynyl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T922	SYSTEMATIC 374220 374227	toluene
+T923	SYSTEMATIC 374246 374274	(azidomethyl)trimethylsilane
+T924	FORMULA 374304 374318	ClCp*(PPh3)2Ru
+T925	FORMULA 374367 374369	N2
+T926	TRIVIAL 374483 374488	water
+T927	FORMULA 374516 374521	EtOAc
+T928	FORMULA 374578 374584	Na2SO4
+T929	SYSTEMATIC 374668 374846	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(5-methyl-3-((trimethylsilyl)methyl)-3H-1,2,3-triazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T930	SYSTEMATIC 374930 375109	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(5-methyl-1-((trimethylsilyl)methyl)-1H-1,2,3-triazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T931	SYSTEMATIC 375215 375371	tert-butyl 3-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-2-hydroxy-propyl(methyl)carbamate
+T932	SYSTEMATIC 375386 375565	tert-butyl 2-hydroxy-3-(3-(5-methyl-4-(5-methyl-3-((trimethylsilyl)methyl)-3H-1,2,3-triazol-4-yl)-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T933	ABBREVIATION 375589 375592	THF
+T934	ABBREVIATION 375621 375625	TBAF
+T935	ABBREVIATION 375629 375632	THF
+T936	TRIVIAL 375754 375759	water
+T937	FORMULA 375787 375792	EtOAc
+T938	FORMULA 375849 375855	Na2SO4
+T939	SYSTEMATIC 375891 376046	tert-butyl 3-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-2-hydroxypropyl(methyl)carbamate
+T940	SYSTEMATIC 376168 376307	1-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetra-hydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T941	SYSTEMATIC 376308 376463	tert-Butyl 3-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-2-hydroxypropyl(methyl)carbamate
+T942	FORMULA 376505 376508	HCl
+T943	SYSTEMATIC 376521 376529	methanol
+T944	SYSTEMATIC 376690 376828	1-(3-(4-(3,5-dimethyl-3H-1,2,3-triazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T945	SYSTEMATIC 376834 376845	formic acid
+T946	FORMULA 376899 376904	CD3OD
+T947	SYSTEMATIC 377286 377429	1-(3-(4-(3-(hydroxymethyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T948	SYSTEMATIC 377451 377489	(5-methylisoxazol-3-yl)methyl benzoate
+T949	SYSTEMATIC 377490 377506	Benzoyl chloride
+T950	SYSTEMATIC 377567 377598	(5-methylisoxazol-3-yl)methanol
+T951	FORMULA 377619 377623	Et3N
+T952	ABBREVIATION 377648 377652	DMAP
+T953	ABBREVIATION 377676 377679	DCM
+T954	TRIVIAL 377829 377834	water
+T955	FORMULA 377852 377857	NH4Cl
+T956	TRIVIAL 377881 377886	brine
+T957	FORMULA 377929 377935	Na2SO4
+T958	TRIVIAL 378041 378051	silica gel
+T959	FORMULA 378074 378079	EtOAc
+T960	FAMILY 378080 378095	petroleum ether
+T961	SYSTEMATIC 378104 378142	(5-methylisoxazol-3-yl)methyl benzoate
+T962	SYSTEMATIC 378225 378271	(4-bromo-5-methylisoxazol-3-yl)methyl benzoate
+T963	SYSTEMATIC 378286 378324	(5-methylisoxazol-3-yl)methyl benzoate
+T964	ABBREVIATION 378349 378352	NBS
+T965	FORMULA 378376 378380	AcOH
+T966	FORMULA 378419 378424	H2SO4
+T967	FORMULA 378606 378612	NaHCO3
+T968	ABBREVIATION 378664 378667	DCM
+T969	TRIVIAL 378725 378730	brine
+T970	FORMULA 378752 378758	Na2SO4
+T971	TRIVIAL 378864 378874	silica gel
+T972	FORMULA 378897 378902	EtOAc
+T973	FAMILY 378903 378918	petroleum ether
+T974	SYSTEMATIC 378928 378975	(4-bromo-5-methyl-isoxazol-3-yl)methyl benzoate
+T975	SYSTEMATIC 379059 379146	(5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl) isoxazol-3-yl)methyl benzoate
+T976	SYSTEMATIC 379163 379209	(4-bromo-5-methylisoxazol-3-yl)methyl benzoate
+T977	IDENTIFIER 379230 379236	S-Phos
+T978	SYSTEMATIC 379257 379296	4,4,5,5-tetramethyl-1,3,2-dioxaborolane
+T979	FORMULA 379319 379327	Pd(OAc)2
+T980	FORMULA 379351 379355	Et3N
+T981	SYSTEMATIC 379379 379386	toluene
+T982	FORMULA 379413 379415	N2
+T983	SYSTEMATIC 379601 379687	(5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazol-3-yl)methyl benzoate
+T984	SYSTEMATIC 379846 380036	(4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-5-methyl-6-(tetrahydro-2H-pyran-4-yl-amino)pyrimidin-4-yl)-5-methylisoxazol-3-yl)methyl benzoate
+T985	SYSTEMATIC 380051 380197	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T986	SYSTEMATIC 380221 380228	dioxane
+T987	FORMULA 380233 380236	H2O
+T988	SYSTEMATIC 380267 380353	(5-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazol-3-yl)methyl benzoate
+T989	ABBREVIATION 380390 380393	TCP
+T990	FORMULA 380415 380417	KF
+T991	FORMULA 380441 380450	Pd2(dba)3
+T992	FORMULA 380499 380501	N2
+T993	TRIVIAL 380692 380697	water
+T994	FORMULA 380725 380730	EtOAc
+T995	TRIVIAL 380787 380792	brine
+T996	FORMULA 380805 380811	Na2SO4
+T997	FAMILY 380895 380910	petroleum ether
+T998	FORMULA 380911 380916	EtOAc
+T999	SYSTEMATIC 380930 381122	(4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethyl-silyl oxyl)propoxyl)phenyl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-4-yl)-5-methylisoxazol-3-yl)methyl benzoate
+T1000	SYSTEMATIC 381207 381390	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3-(hydroxyl-methyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1001	SYSTEMATIC 381405 381596	(4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl-di-methylsilyloxy)propoxyl)phenyl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-4-yl)-5-methylisoxazol-3-yl)methyl benzoate
+T1002	FORMULA 381620 381624	MeOH
+T1003	FORMULA 381663 381667	NaOH
+T1004	TRIVIAL 381690 381695	water
+T1005	ABBREVIATION 381834 381837	DCM
+T1006	TRIVIAL 381859 381864	water
+T1007	TRIVIAL 381879 381884	brine
+T1008	FORMULA 381927 381933	Na2SO4
+T1009	SYSTEMATIC 381969 382150	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3-(hydroxymethyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1010	SYSTEMATIC 382234 382377	1-(3-(4-(3-(hydroxymethyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1011	SYSTEMATIC 382395 382578	tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3-(hydroxyl-methyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1012	ABBREVIATION 382601 382604	DCM
+T1013	FORMULA 382625 382628	HCl
+T1014	SYSTEMATIC 382632 382639	dioxane
+T1015	FORMULA 382763 382767	MeOH
+T1016	SYSTEMATIC 382789 382796	ammonia
+T1017	SYSTEMATIC 382891 383035	1-(3-(4-(3-(hydroxymethyl)-5-methylisoxazol-4-yl)-5-methyl-6-(tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)-3-(methylamino)propan-2-ol
+T1018	SYSTEMATIC 383041 383052	formic acid
+T1019	FORMULA 383131 383136	CD3OD
+T1020	SYSTEMATIC 383478 383626	1-{4-Chloro-3-[4-(5,7-dihydro-pyrrolo[3,4-b]pyridin-6-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1021	SYSTEMATIC 383648 383685	(R)-2-((3-bromophenoxy)methyl)oxirane
+T1022	SYSTEMATIC 383705 383718	3-bromophenol
+T1023	FORMULA 383741 383747	Cs2CO3
+T1024	ABBREVIATION 383769 383772	THF
+T1025	SYSTEMATIC 383793 383814	(R)-glycidyl nosylate
+T1026	TRIVIAL 384031 384036	water
+T1027	SYSTEMATIC 384065 384078	ethyl acetate
+T1028	FORMULA 384136 384142	Na2SO4
+T1029	SYSTEMATIC 384178 384215	(R)-2-((3-bromophenoxy)methyl)oxirane
+T1030	SYSTEMATIC 384355 384404	(R)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T1031	SYSTEMATIC 384419 384456	(R)-2-((3-bromophenoxy)methyl)oxirane
+T1032	FORMULA 384487 384491	MeOH
+T1033	FORMULA 384522 384527	MeNH2
+T1034	FORMULA 384531 384535	MeOH
+T1035	SYSTEMATIC 384731 384780	(R)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T1036	SYSTEMATIC 384920 384986	(R)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T1037	SYSTEMATIC 385001 385050	(R)-1-(3-bromophenoxy)-3-(methylamino)propan-2-ol
+T1038	SYSTEMATIC 385082 385095	triethylamine
+T1039	ABBREVIATION 385117 385120	DCM
+T1040	FORMULA 385200 385205	Boc2O
+T1041	ABBREVIATION 385227 385230	DCM
+T1042	TRIVIAL 385376 385381	water
+T1043	FORMULA 385404 385409	NH4Cl
+T1044	TRIVIAL 385442 385447	brine
+T1045	FORMULA 385491 385497	Na2SO4
+T1046	SYSTEMATIC 385533 385599	(R)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T1047	SYSTEMATIC 385756 385844	(R)-tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethyl-silyloxy)propyl(methyl)carbamate
+T1048	SYSTEMATIC 385859 385925	(R)-tert-butyl 3-(3-bromophenoxy)-2-hydroxypropyl(methyl)carbamate
+T1049	SYSTEMATIC 385957 385966	imidazole
+T1050	ABBREVIATION 385988 385991	DCM
+T1051	FORMULA 386021 386023	N2
+T1052	FORMULA 386070 386075	TBSCl
+T1053	TRIVIAL 386182 386187	water
+T1054	TRIVIAL 386203 386208	brine
+T1055	FORMULA 386252 386258	Na2SO4
+T1056	TRIVIAL 386351 386361	silica gel
+T1057	TRIVIAL 386363 386378	petroleum ether
+T1058	FORMULA 386379 386384	EtOAc
+T1059	SYSTEMATIC 386411 386500	(R)-tert-butyl 3-(3-bromo-phenoxyl)-2-(tert-butyldimethylsilyloxy)propyl(methyl)carbamate
+T1060	SYSTEMATIC 386600 386720	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1061	SYSTEMATIC 386735 386823	(R)-tert-butyl 3-(3-bromophenoxy)-2-(tert-butyldimethylsilyloxy) propyl(methyl)carbamate
+T1062	ABBREVIATION 386850 386853	THF
+T1063	FORMULA 386889 386891	N2
+T1064	SYSTEMATIC 386937 386952	n-butyl lithium
+T1065	SYSTEMATIC 386972 386978	hexane
+T1066	SYSTEMATIC 387111 387143	4,6-dichloro-5-methyl-pyrimidine
+T1067	ABBREVIATION 387167 387170	THF
+T1068	ABBREVIATION 387226 387229	DDQ
+T1069	FORMULA 387384 387390	CH2Cl2
+T1070	FORMULA 387417 387421	NaOH
+T1071	TRIVIAL 387431 387436	water
+T1072	TRIVIAL 387452 387457	brine
+T1073	FORMULA 387501 387507	Na2SO4
+T1074	TRIVIAL 387590 387600	silica gel
+T1075	TRIVIAL 387613 387628	petroleum ether
+T1076	FORMULA 387629 387634	EtOAc
+T1077	SYSTEMATIC 387658 387778	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1078	SYSTEMATIC 387869 388015	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T1079	SYSTEMATIC 388033 388153	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1080	SYSTEMATIC 388186 388193	dioxane
+T1081	FORMULA 388198 388201	H2O
+T1082	SYSTEMATIC 388226 388263	3,5-dimethylisoxazol-4-ylboronic acid
+T1083	FORMULA 388285 388294	Pd(PPh3)4
+T1084	FORMULA 388319 388325	Na2CO3
+T1085	FORMULA 388374 388376	N2
+T1086	TRIVIAL 388479 388484	water
+T1087	FORMULA 388513 388518	EtOAc
+T1088	TRIVIAL 388580 388585	brine
+T1089	FORMULA 388607 388613	Na2SO4
+T1090	TRIVIAL 388696 388706	silica gel
+T1091	FORMULA 388730 388735	EtOAc
+T1092	FAMILY 388736 388751	petroleum ether
+T1093	SYSTEMATIC 388769 388915	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1094	SYSTEMATIC 388999 389154	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T1095	SYSTEMATIC 389172 389317	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1096	ABBREVIATION 389340 389343	DMF
+T1097	ABBREVIATION 389363 389366	NCS
+T1098	FORMULA 389457 389462	EtOAc
+T1099	TRIVIAL 389488 389493	water
+T1100	TRIVIAL 389509 389514	brine
+T1101	FORMULA 389558 389564	Na2SO4
+T1102	TRIVIAL 389647 389657	silica gel
+T1103	FORMULA 389681 389686	EtOAc
+T1104	FAMILY 389687 389702	petroleum ether
+T1105	SYSTEMATIC 389712 389866	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1106	SYSTEMATIC 389935 390119	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-di-methylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1107	SYSTEMATIC 390177 390331	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1108	SYSTEMATIC 390353 390390	6,7-dihydro-5H-pyrrolo[3,4-b]pyridine
+T1109	MULTIPLE 390426 390452	primary or secondary amine
+T1110	FORMULA 390466 390468	KI
+T1111	FORMULA 390492 390498	n-BuOH
+T1112	TRIVIAL 390682 390687	water
+T1113	FORMULA 390715 390720	EtOAc
+T1114	FORMULA 390777 390783	Na2SO4
+T1115	SYSTEMATIC 390819 391005	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridine-6(7H)-yl)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T1116	SYSTEMATIC 391163 391310	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1117	SYSTEMATIC 391325 391510	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T1118	ABBREVIATION 391547 391550	TFA
+T1119	FORMULA 391682 391686	MeOH
+T1120	SYSTEMATIC 391708 391715	ammonia
+T1121	SYSTEMATIC 391799 391948	(2R)-1-(4-chloro-3-(4-(3,5-di-methylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methyl amino)propan-2-ol
+T1122	FORMULA 392044 392049	CD3OD
+T1123	SYSTEMATIC 392350 392504	(R)-1-{4-Chloro-3-[5-chloro-4-(5,7-dihydro-pyrrolo[3,4-b]pyridine-6-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1124	SYSTEMATIC 392526 392693	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-di-methylisoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1125	SYSTEMATIC 392751 392888	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1126	SYSTEMATIC 392910 392947	6,7-dihydro-5H-pyrrolo[3,4-b]pyridine
+T1127	SYSTEMATIC 392968 392981	triethylamine
+T1128	FORMULA 393005 393011	n-BuOH
+T1129	TRIVIAL 393194 393199	water
+T1130	FORMULA 393227 393232	EtOAc
+T1131	FORMULA 393289 393295	Na2SO4
+T1132	TRIVIAL 393372 393387	petroleum ether
+T1133	FORMULA 393388 393393	EtOAc
+T1134	SYSTEMATIC 393407 393574	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T1135	SYSTEMATIC 393663 393846	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(5-chloro-4-(3,5-dimethylisoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1136	SYSTEMATIC 393861 394029	(R)-tert-butyl 2-(tert-butyldimethyl silyloxy)-3-(3-(4-(3,5-dimethyl-isoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1137	ABBREVIATION 394052 394055	DMF
+T1138	ABBREVIATION 394080 394083	NCS
+T1139	FORMULA 394235 394240	EtOAc
+T1140	TRIVIAL 394265 394270	water
+T1141	FORMULA 394315 394321	Na2SO4
+T1142	FAMILY 394417 394432	petroleum ether
+T1143	FORMULA 394433 394438	EtOAc
+T1144	SYSTEMATIC 394452 394638	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(5-chloro-4-(3,5-di-methyl isoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridine-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1145	SYSTEMATIC 394734 394888	(R)-1-{4-Chloro-3-[5-chloro-4-(5,7-dihydro-pyrrolo[3,4-b]pyridine-6-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1146	SYSTEMATIC 394903 395087	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(5-chloro-4-(3,5-di-methylisoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1147	ABBREVIATION 395115 395118	TFA
+T1148	FORMULA 395249 395253	MeOH
+T1149	SYSTEMATIC 395275 395282	ammonia
+T1150	SYSTEMATIC 395366 395514	(2R)-1-(4-chloro-3-(5-chloro-4-(3,5-di-methylisoxazol-4-yl)-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1151	FORMULA 395598 395603	CD3OD
+T1152	SYSTEMATIC 395909 396063	methyl 4-(5-chloro-2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino) propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1153	SYSTEMATIC 396085 396262	(R)-methyl 4-(2-(3-(3-(tert-butoxycarbonyl(methylamino))-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1154	SYSTEMATIC 396320 396458	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-di-methylisoxazol-4-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1155	SYSTEMATIC 396480 396523	methyl 4-amino piperidine-1-carboxylate HCl
+T1156	MULTIPLE 396559 396585	primary or secondary amine
+T1157	FORMULA 396599 396603	Et3N
+T1158	FORMULA 396625 396627	KI
+T1159	ABBREVIATION 396652 396656	DMSO
+T1160	TRIVIAL 396813 396818	water
+T1161	FORMULA 396846 396851	EtOAc
+T1162	TRIVIAL 396969 396984	petroleum ether
+T1163	FORMULA 396985 396990	EtOAc
+T1164	SYSTEMATIC 397010 397190	(R)-methyl 4-(2-(3-(3-(tert-butoxy-carbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-di-methyl isoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1165	SYSTEMATIC 397286 397482	methyl 4-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)-2-chlorophenyl)-5-chloro-6-(3,5-dimethyl-isoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1166	SYSTEMATIC 397497 397676	(R)-methyl 4-(2-(3-(3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)phenyl)-6-(3,5-dimethyl isoxazol-4-yl)pyrimidin-4-yl-amino)piperidine-1-carboxylate
+T1167	ABBREVIATION 397700 397703	DMF
+T1168	ABBREVIATION 397742 397745	NCS
+T1169	ABBREVIATION 397769 397772	DMF
+T1170	TRIVIAL 397925 397930	water
+T1171	FORMULA 397958 397963	EtOAc
+T1172	FORMULA 398039 398046	Na2S2O3
+T1173	TRIVIAL 398068 398073	brine
+T1174	FORMULA 398099 398105	Na2SO4
+T1175	TRIVIAL 398179 398194	petroleum ether
+T1176	FORMULA 398195 398200	EtOAc
+T1177	SYSTEMATIC 398216 398406	4-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy) propoxyl)-2-chlorophenyl)-5-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino) piperidine-1-carboxylate
+T1178	SYSTEMATIC 398503 398514	silyl ester
+T1179	SYSTEMATIC 398525 398703	methyl 4-(2-(5-((R)-3-(tert-butoxy carbonyl(methyl)amino)-2-hydroxylpropoxy)-2-chloro phenyl)-5-chloro-6-(3,5-di methyl isoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1180	SYSTEMATIC 398818 398972	methyl 4-(5-chloro-2-(2-chloro-5-((R)-2-hydroxy-3-(methyl-amino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1181	SYSTEMATIC 398987 399178	4-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyl dimethylsilyloxy) propoxyl)-2-chlorophenyl)-5-chloro-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-yl-amino)piperidine-1-carboxylate
+T1182	ABBREVIATION 399206 399209	TFA
+T1183	FORMULA 399315 399319	MeOH
+T1184	SYSTEMATIC 399341 399348	ammonia
+T1185	SYSTEMATIC 399443 399597	methyl 4-(5-chloro-2-(2-chloro-5-((R)-2-hydroxy-3-(methyl amino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1186	SYSTEMATIC 399603 399614	formic acid
+T1187	FORMULA 399700 399704	MeOD
+T1188	SYSTEMATIC 400040 400194	(R)-1-{4-Chloro-3-[4-(5,7-dihydro-pyrrolo[3,4-d]pyrimidin-6-yl)-6-(3,5-dimethyl-Isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1189	SYSTEMATIC 400216 400401	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1190	SYSTEMATIC 400459 400633	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-(4-chloro-3-[4-chloro-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy-propyl)-methyl-carbamic acid tert-butyl ester
+T1191	SYSTEMATIC 400655 400697	6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine HC
+T1192	FAMILY 400733 400748	secondary amine
+T1193	SYSTEMATIC 400764 400777	triethylamine
+T1194	ABBREVIATION 400800 400804	DMSO
+T1195	TRIVIAL 400987 400992	water
+T1196	FORMULA 401020 401025	EtOAc
+T1197	FORMULA 401082 401088	Na2SO4
+T1198	TRIVIAL 401171 401181	silica gel
+T1199	SYSTEMATIC 401190 401401	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(5,7-dihydro-pyrrolo[3,4-d]pyrimidin-6-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1200	SYSTEMATIC 401473 401622	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1201	SYSTEMATIC 401623 401811	tert-Butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl) phenoxyl) propyl(methyl)carbamate
+T1202	ABBREVIATION 401853 401856	TFA
+T1203	FORMULA 401974 401978	MeOH
+T1204	SYSTEMATIC 402055 402062	ammonia
+T1205	SYSTEMATIC 402142 402291	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1206	FORMULA 402358 402363	CD3OD
+T1207	SYSTEMATIC 402650 402814	(2R)-1-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenoxyl)-3-(methylamino)propan-2-ol
+T1208	SYSTEMATIC 402836 402906	tert-butyl 3-((dimethylamino)methylene)-4-oxopyrrolidine-1-carboxylate
+T1209	SYSTEMATIC 402923 402964	tert-butyl 3-oxopyrrolidine-1-carboxylate
+T1210	SYSTEMATIC 402987 403024	1,1-dimethoxy-N,N-dimethylmethanamine
+T1211	TRIVIAL 403191 403201	silica gel
+T1212	ABBREVIATION 403203 403206	DCM
+T1213	FORMULA 403207 403211	MeOH
+T1214	SYSTEMATIC 403234 403306	tert-butyl 3-((di-methyl-amino)methylene)-4-oxopyrrolidine-1-carboxylate
+T1215	FORMULA 403374 403379	CDCl3
+T1216	SYSTEMATIC 403479 403550	tert-butyl 2-cyclopropyl-5H-pyrrolo[3, 4-d]pyrimidine-6(7H)-carboxylate
+T1217	SYSTEMATIC 403568 403638	tert-butyl 3-((dimethylamino)methylene)-4-oxopyrrolidine-1-carboxylate
+T1218	FORMULA 403662 403666	EtOH
+T1219	SYSTEMATIC 403685 403717	cyclopropane-carboximidamide HCl
+T1220	SYSTEMATIC 403753 403768	carboximidamide
+T1221	FORMULA 403785 403789	Et3N
+T1222	TRIVIAL 403969 403984	petroleum ether
+T1223	FORMULA 403985 403990	EtOAc
+T1224	SYSTEMATIC 404004 404074	tert-butyl 2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidine-6(7H)-carboxylate
+T1225	SYSTEMATIC 404169 404226	2-cyclopropyl-6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine HCl
+T1226	SYSTEMATIC 404241 404311	tert-butyl 2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidine-6(7H)-carboxylate
+T1227	FORMULA 404335 404339	MeOH
+T1228	FORMULA 404367 404370	HCl
+T1229	SYSTEMATIC 404374 404381	dioxane
+T1230	SYSTEMATIC 404485 404554	2-cyclo-propyl-6, 7-dihydro-5H-pyrrolo[3,4-d]pyrimidine hydrochloride
+T1231	ABBREVIATION 404707 404714	DMSO-d6
+T1232	SYSTEMATIC 404881 405081	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1233	SYSTEMATIC 405139 405293	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1234	SYSTEMATIC 405315 405372	2-cyclopropyl-6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine HCl
+T1235	FORMULA 405402 405406	Et3N
+T1236	FORMULA 405428 405430	KI
+T1237	ABBREVIATION 405454 405458	DMSO
+T1238	TRIVIAL 405641 405646	water
+T1239	FORMULA 405674 405679	EtOAc
+T1240	FORMULA 405736 405742	Na2SO4
+T1241	FAMILY 405826 405841	petroleum ether
+T1242	FORMULA 405842 405847	EtOAc
+T1243	SYSTEMATIC 405861 406062	tert-butyl(R)-2-(tert-butyl-dimethylsilyloxy)-3-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T1244	SYSTEMATIC 406158 406323	(2R)-1-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenoxyl)-3-(methyl amino)propan-2-ol
+T1245	SYSTEMATIC 406338 406538	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1246	ABBREVIATION 406583 406586	TFA
+T1247	FORMULA 406697 406701	MeOH
+T1248	SYSTEMATIC 406723 406730	ammonia
+T1249	SYSTEMATIC 406825 406990	(2R)-1-(4-chloro-3-(4-(2-cyclopropyl-5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1250	FORMULA 407074 407079	CD3OD
+T1251	SYSTEMATIC 407375 407532	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1252	SYSTEMATIC 407554 407746	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1253	SYSTEMATIC 407804 407959	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl) carbamate
+T1254	SYSTEMATIC 407981 408031	3-fluoro-6,7-dihydro-5H-pyrrolo[3,4-b]pyridine HCl
+T1255	MULTIPLE 408072 408098	primary or secondary amine
+T1256	SYSTEMATIC 408112 408125	triethylamine
+T1257	FORMULA 408149 408155	n-BuOH
+T1258	TRIVIAL 408329 408334	water
+T1259	FORMULA 408362 408367	EtOAc
+T1260	FORMULA 408424 408430	Na2SO4
+T1261	FAMILY 408494 408509	petroleum ether
+T1262	FORMULA 408510 408515	EtOAc
+T1263	SYSTEMATIC 408529 408725	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-di-methyl isoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methyl-pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T1264	SYSTEMATIC 408814 408971	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1265	SYSTEMATIC 408986 409180	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethyl-isoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1266	FORMULA 409207 409210	HCl
+T1267	SYSTEMATIC 409214 409221	dioxane
+T1268	FORMULA 409344 409348	MeOH
+T1269	SYSTEMATIC 409370 409377	ammonia
+T1270	SYSTEMATIC 409472 409628	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-6-(3-fluoro-5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1271	FORMULA 409695 409700	CD3OD
+T1272	SYSTEMATIC 410008 410175	(R)-1-{4-Chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1273	SYSTEMATIC 410197 410273	tert-butyl 1-cyclopropyl-4,6-dihydropyrrolo[3,4-c]pyrazole-5(1H)-carboxylate
+T1274	SYSTEMATIC 410291 410361	tert-butyl 3-((dimethylamino)methylene)-4-oxopyrrolidine-1-carboxylate
+T1275	FORMULA 410385 410389	MeOH
+T1276	SYSTEMATIC 410407 410441	cyclopropylhydrazine hydrochloride
+T1277	SYSTEMATIC 410477 410486	hydrazine
+T1278	FORMULA 410511 410515	Et3N
+T1279	TRIVIAL 410630 410635	water
+T1280	FORMULA 410663 410668	EtOAc
+T1281	FORMULA 410725 410731	Na2SO4
+T1282	SYSTEMATIC 410767 410843	tert-butyl 1-cyclopropyl-4,6-dihydropyrrolo[3,4-c]pyrazole-5(1H)-carboxylate
+T1283	SYSTEMATIC 410996 411054	1-cyclopropyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole HCl
+T1284	SYSTEMATIC 411069 411145	tert-butyl 1-cyclopropyl-4,6-dihydropyrrolo[3,4-c]pyrazole-5(1H)-carboxylate
+T1285	FORMULA 411164 411167	HCl
+T1286	SYSTEMATIC 411171 411178	dioxane
+T1287	SYSTEMATIC 411267 411321	1-cyclopropyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T1288	FORMULA 411325 411328	HCl
+T1289	SYSTEMATIC 411485 411711	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1290	SYSTEMATIC 411769 411924	tert-butyl(2R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1291	SYSTEMATIC 411946 412005	1-cyclopropyl-1,4, 5,6-tetrahydropyrrolo[3,4-c]pyrazole HCl
+T1292	FORMULA 412024 412026	KI
+T1293	FORMULA 412048 412052	Et3N
+T1294	FORMULA 412076 412082	n-BuOH
+T1295	TRIVIAL 412265 412270	water
+T1296	FORMULA 412298 412303	EtOAc
+T1297	FORMULA 412360 412366	Na2SO4
+T1298	FAMILY 412440 412455	petroleum ether
+T1299	FORMULA 412456 412461	EtOAc
+T1300	SYSTEMATIC 412477 412703	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1301	SYSTEMATIC 412776 412944	(R)-1-{4-Chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1302	SYSTEMATIC 412959 413185	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1303	FORMULA 413212 413215	HCl
+T1304	SYSTEMATIC 413219 413226	dioxane
+T1305	FORMULA 413348 413352	MeOH
+T1306	SYSTEMATIC 413374 413381	ammonia
+T1307	SYSTEMATIC 413476 413644	(R)-1-{4-Chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(1-cyclopropyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1308	SYSTEMATIC 413650 413661	formic acid
+T1309	FORMULA 413746 413751	CD3OD
+T1310	SYSTEMATIC 414076 414243	(2R)-1-{4-chloro-3-[4-(2,3-dimethyl-2,6-dihydro-4H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-methyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1311	SYSTEMATIC 414248 414417	(2R)-1-{4-Chloro-3-[4-(1,3-dimethyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1312	SYSTEMATIC 414439 414656	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(3-methyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]phenoxy}propyl)methyl-carbamic acid tert-butyl ester
+T1313	SYSTEMATIC 414714 414868	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1314	SYSTEMATIC 414890 414953	3-methyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole hydrochloride
+T1315	FORMULA 414974 414978	Et3N
+T1316	FORMULA 415002 415008	n-BuOH
+T1317	TRIVIAL 415191 415196	water
+T1318	FORMULA 415224 415229	EtOAc
+T1319	TRIVIAL 415286 415291	brine
+T1320	FORMULA 415304 415310	Na2SO4
+T1321	TRIVIAL 415384 415399	petroleum ether
+T1322	FORMULA 415400 415405	EtOAc
+T1323	SYSTEMATIC 415421 415638	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-(3-methyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]phenoxy}propyl)methyl-carbamic acid tert-butyl ester
+T1324	SYSTEMATIC 415722 415948	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(2,3-dimethyl-2, 6-dihydro-4H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1325	SYSTEMATIC 415966 416184	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(3,5-di-methyl-isoxazol-4-yl)-5-methyl-6-(3-methyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)pyrimidin-2-yl]phenoxy}propyl)methyl-carbamic acid tert-butyl ester
+T1326	ABBREVIATION 416212 416215	THF
+T1327	SYSTEMATIC 416247 416255	nitrogen
+T1328	FORMULA 416278 416281	NaH
+T1329	TRIVIAL 416455 416460	water
+T1330	FORMULA 416488 416493	EtOAc
+T1331	FORMULA 416549 416555	Na2SO4
+T1332	TRIVIAL 416629 416644	petroleum ether
+T1333	FORMULA 416645 416650	EtOAc
+T1334	SYSTEMATIC 416666 416892	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(2,3-dimethyl-2,6-dihydro-4H-pyrrolo[3, 4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1335	SYSTEMATIC 416932 417157	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(1,3-dimethyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1336	SYSTEMATIC 417249 417418	(2R)-1-{4-Chloro-3-[4-(2,3-dimethyl-2,6-dihydro-4H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1337	ABBREVIATION 417507 417510	TFA
+T1338	FORMULA 417641 417645	MeOH
+T1339	SYSTEMATIC 417667 417674	ammonia
+T1340	SYSTEMATIC 417758 417928	(2R)-1-{4-chloro-3-[4-(2,3-dimethyl-2,6-dihydro-4H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-di-methyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1341	SYSTEMATIC 417961 418125	1-{4-Chloro-3-[4-(1,3-dimethyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1342	SYSTEMATIC 418203 418373	(2R)-1-{4-chloro-3-[4-(2,3-dimethyl-2,6-dihydro-4H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-di methyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1343	FORMULA 418439 418444	CD3OD
+T1344	SYSTEMATIC 418730 418899	(2R)-1-{4-Chloro-3-[4-(1,3-dimethyl-4,6-dihydro-1H-pyrrolo[3,4-c]pyrazol-5-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methylamino-propan-2-ol
+T1345	FORMULA 418955 418960	CD3OD
+T1346	SYSTEMATIC 419231 419323	-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1347	SYSTEMATIC 419345 419420	7-Cyclopropyl-2,7-diaza-spiro[3.5]nonane-2-carboxylic acid tert-butyl ester
+T1348	SYSTEMATIC 419438 419499	2,7-Diaza-spiro[3.5]nonane-2-carboxylic acid tert-butyl ester
+T1349	FORMULA 419522 419526	MeOH
+T1350	ABBREVIATION 419531 419534	THF
+T1351	SYSTEMATIC 419558 419598	(1-ethoxy-cyclo-propoxyl)trimethylsilane
+T1352	FORMULA 419649 419653	HOAc
+T1353	FORMULA 419677 419684	NaBH3CN
+T1354	TRIVIAL 419823 419828	water
+T1355	FORMULA 419856 419861	EtOAc
+T1356	FORMULA 419918 419924	Na2SO4
+T1357	SYSTEMATIC 419960 420036	7-cyclo propyl-2,7-diaza-spiro[3.5]nonane-2-carboxylic acid tert-butyl ester
+T1358	SYSTEMATIC 420190 420234	7-Cyclopropyl-2,7-diaza-spiro[3.5]nonane HCl
+T1359	SYSTEMATIC 420240 420315	7-Cyclopropyl-2,7-diaza-spiro[3.5]nonane-2-carboxylic acid tert-butyl ester
+T1360	FORMULA 420343 420346	HCl
+T1361	SYSTEMATIC 420350 420357	dioxane
+T1362	SYSTEMATIC 420463 420504	7-cyclo propyl-2,7-diaza-spiro[3.5]nonane
+T1363	FORMULA 420508 420511	HCl
+T1364	SYSTEMATIC 420648 420861	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[3.5]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1365	SYSTEMATIC 420919 421073	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1366	SYSTEMATIC 421096 421140	7-cyclopropyl-2,7-diaza-spiro[3.5]nonane HCl
+T1367	SYSTEMATIC 421174 421187	triethylamine
+T1368	FORMULA 421211 421217	n-BuOH
+T1369	TRIVIAL 421400 421405	water
+T1370	FORMULA 421433 421438	EtOAc
+T1371	FORMULA 421495 421501	Na2SO4
+T1372	TRIVIAL 421575 421590	petroleum ether
+T1373	FORMULA 421591 421596	EtOAc
+T1374	SYSTEMATIC 421609 421822	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[3.5]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1375	SYSTEMATIC 421918 422075	(R)-1-{4-Chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[3.5]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1376	SYSTEMATIC 422090 422304	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(7-cyclo propyl-2,7-diaza-spiro[3.5]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1377	ABBREVIATION 422320 422323	TFA
+T1378	FORMULA 422446 422450	MeOH
+T1379	SYSTEMATIC 422472 422479	ammonia
+T1380	SYSTEMATIC 422563 422720	(R)-1-{4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[3.5]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1381	SYSTEMATIC 422726 422737	formic acid
+T1382	FORMULA 422822 422827	CD3OD
+T1383	SYSTEMATIC 423165 423322	(R)-1-{4-Chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1384	SYSTEMATIC 423344 423419	7-Cyclopropyl-2,7-diaza-spiro[4.4]nonane-2-carboxylic acid tert-butyl ester
+T1385	SYSTEMATIC 423437 423498	2,7-diaza-spiro[4.4]nonane-2-carboxylic acid tert-butyl ester
+T1386	FORMULA 423522 423526	MeOH
+T1387	ABBREVIATION 423531 423534	THF
+T1388	SYSTEMATIC 423558 423598	(1-ethoxy-cyclo-propoxyl)trimethylsilane
+T1389	FORMULA 423650 423654	HOAc
+T1390	FORMULA 423678 423685	NaBH3CN
+T1391	TRIVIAL 423828 423833	water
+T1392	FORMULA 423861 423866	EtOAc
+T1393	FORMULA 423923 423929	Na2SO4
+T1394	SYSTEMATIC 423965 424040	7-cyclopropyl-2,7-diaza-spiro[4.4]nonane-2-carboxylic acid tert-butyl ester
+T1395	FORMULA 424177 424182	CD3OD
+T1396	SYSTEMATIC 424321 424365	2-Cyclopropyl-2,7-diaza-spiro[4.4]nonane TFA
+T1397	SYSTEMATIC 424371 424446	7-Cyclopropyl-2,7-diaza-spiro[4.4]nonane-2-carboxylic acid tert-butyl ester
+T1398	FORMULA 424480 424483	HCl
+T1399	SYSTEMATIC 424487 424494	dioxane
+T1400	SYSTEMATIC 424598 424638	2-cyclopropyl-2,7-diaza-spiro[4.4]nonane
+T1401	FORMULA 424642 424645	HCl
+T1402	FORMULA 424780 424785	CD3OD
+T1403	SYSTEMATIC 424927 425140	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-propyl)-methyl-carbamic acid tert-butyl ester
+T1404	SYSTEMATIC 425198 425352	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1405	SYSTEMATIC 425374 425418	2-cyclopropyl-2,7-diaza-spiro[4.4]nonane HCl
+T1406	SYSTEMATIC 425434 425447	triethylamine
+T1407	FORMULA 425471 425477	n-BuOH
+T1408	TRIVIAL 425660 425665	water
+T1409	FORMULA 425693 425698	EtOAc
+T1410	FORMULA 425755 425761	Na2SO4
+T1411	SYSTEMATIC 425806 426019	(R)-(2-(tert-Butyl-dimethyl-silanyloxyl)-3-(4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-di-methyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy-propyl)-methyl-carbamic acid tert-butyl ester
+T1412	SYSTEMATIC 426161 426318	(R)-1-{4-Chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1413	SYSTEMATIC 426333 426547	(R)-(2-(tert-butyl-dimethyl-silanyloxyl)-3-{4-chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxyl)-propyl)-methyl-carbamic acid tert-butyl ester
+T1414	ABBREVIATION 426564 426567	TFA
+T1415	FORMULA 426674 426678	MeOH
+T1416	SYSTEMATIC 426700 426707	ammonia
+T1417	SYSTEMATIC 426791 426948	(R)-1-(4-Chloro-3-[4-(7-cyclopropyl-2,7-diaza-spiro[4.4]non-2-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-phenoxy}-3-methyl-amino-propan-2-ol
+T1418	FORMULA 427032 427037	CD3OD
+T1419	SYSTEMATIC 427381 427558	(R)-2-[2-[2-Chloro-5-(2-hydroxy-3-methylamino-propoxyl)-phenyl]-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1420	SYSTEMATIC 427580 427662	2,7-Diaza-spiro[3.5]nonane-2,7-dicarboxylic acid 2-tert-butyl ester 7-methyl ester
+T1421	SYSTEMATIC 427680 427741	2,7-Diaza-spiro[3.5]nonane-2-carboxylic acid tert-butyl ester
+T1422	SYSTEMATIC 427765 427778	triethylamine
+T1423	FORMULA 427799 427805	CH2Cl2
+T1424	SYSTEMATIC 427836 427844	nitrogen
+T1425	SYSTEMATIC 427866 427886	methyl chloroformate
+T1426	FORMULA 428026 428032	NaHCO3
+T1427	FORMULA 428090 428095	EtOAc
+T1428	FORMULA 428162 428166	NH4C
+T1429	TRIVIAL 428188 428193	brine
+T1430	FORMULA 428214 428220	Na2SO4
+T1431	SYSTEMATIC 428256 428338	2,7-diaza-spiro[3.5]nonane-2,7-dicarboxylic acid 2-tert-butyl ester 7-methyl ester
+T1432	SYSTEMATIC 428501 428562	2,7-Diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester HCl
+T1433	SYSTEMATIC 428582 428664	2,7-Diaza-spiro[3.5]nonane-2,7-dicarboxylic acid 2-tert-butyl ester 7-methyl ester
+T1434	FORMULA 428700 428704	MeOH
+T1435	FORMULA 428732 428735	HCl
+T1436	SYSTEMATIC 428739 428746	dioxane
+T1437	SYSTEMATIC 428852 428909	2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1438	FORMULA 428913 428916	HCl
+T1439	SYSTEMATIC 429053 429278	(R)-2-[2-{5-[3-(tert-Butoxycarbonyl-methyl-amino)-2-(tert-butyl-dimethyl-silanyloxyl)-propoxy]-2-chloro-phenyl}-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1440	SYSTEMATIC 429336 429490	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1441	SYSTEMATIC 429512 429573	2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester HCl
+T1442	SYSTEMATIC 429608 429621	triethylamine
+T1443	FORMULA 429646 429652	n-BuOH
+T1444	TRIVIAL 429835 429840	water
+T1445	FORMULA 429868 429873	EtOAc
+T1446	FORMULA 429930 429936	Na2SO4
+T1447	SYSTEMATIC 429972 430198	(R)-2-[2-{5-[3-(tert-butoxycarbonyl-methyl-amino)-2-(tert-butyl-dimethyl-silanyloxyl)-propoxy]-2-chloro-phenyl})-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1448	SYSTEMATIC 430353 430530	(R)-2-[2-[2-Chloro-5-(2-hydroxy-3-methylamino-propoxyl)-phenyl]-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1449	SYSTEMATIC 430545 430770	(R)-2-[2-{5-[3-(tert-butoxycarbonyl-methyl-amino)-2-(tert-butyl-dimethyl-silanyloxyl)-propoxy]-2-chloro-phenyl}-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1450	ABBREVIATION 430800 430803	TFA
+T1451	FORMULA 430922 430926	MeOH
+T1452	SYSTEMATIC 430948 430955	ammonia
+T1453	SYSTEMATIC 431039 431216	(R)-2-[2-[2-Chloro-5-(2-hydroxy-3-methylamino-propoxyl)-phenyl]-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-4-yl]-2,7-diaza-spiro[3.5]nonane-7-carboxylic acid methyl ester
+T1454	FORMULA 431312 431317	CD3OD
+T1455	SYSTEMATIC 431637 431738	phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-yl)-2,6-diazaspiro[3.4]octane-6-carboxylate
+T1456	SYSTEMATIC 431760 431826	2-tert-butyl 6-methyl 2,6-diazaspiro[3.4]octane-2,6-di-Carboxylate
+T1457	SYSTEMATIC 431844 431894	tert-butyl 2,6-diazaspiro[3.4]octane-2-carboxylate
+T1458	ABBREVIATION 431918 431921	DCM
+T1459	FORMULA 431963 431967	Et3N
+T1460	SYSTEMATIC 432016 432036	methyl chloroformate
+T1461	FORMULA 432142 432147	EtOAc
+T1462	FORMULA 432186 432189	H2O
+T1463	FORMULA 432207 432212	NH4Cl
+T1464	TRIVIAL 432234 432239	brine
+T1465	FORMULA 432282 432288	Na2SO4
+T1466	SYSTEMATIC 432324 432389	2-tert-butyl 6-methyl 2,6-diazaspiro[3.4]octane-2,6-dicarboxylate
+T1467	SYSTEMATIC 432481 432531	methyl 2,6-diazaspiro[3.4]octane-6-carboxylate TFA
+T1468	SYSTEMATIC 432551 432616	2-tert-butyl 6-methyl 2,6-diazaspiro[3.4]octane-2,6-dicarboxylate
+T1469	ABBREVIATION 432640 432643	DCM
+T1470	ABBREVIATION 432673 432676	TFA
+T1471	SYSTEMATIC 432781 432827	methyl 2,6-diazaspiro[3.4]octane-6-carboxylate
+T1472	ABBREVIATION 432831 432834	TFA
+T1473	SYSTEMATIC 432970 433175	methyl 2-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethylsoxazol-4-yl)-5-methylpyrimidin-4-yl)-2,6-diazaspiro[3.4]octane-6-carboxylate
+T1474	SYSTEMATIC 433233 433388	tert-butyl(2R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1475	SYSTEMATIC 433410 433460	methyl 2,6-diazaspiro[3.4]octane-6-carboxylate TFA
+T1476	FORMULA 433494 433498	Et3N
+T1477	FORMULA 433519 433521	KI
+T1478	FORMULA 433545 433551	n-BuOH
+T1479	FORMULA 433706 433711	EtOAc
+T1480	TRIVIAL 433759 433764	water
+T1481	FORMULA 433782 433787	NH4Cl
+T1482	TRIVIAL 433809 433814	brine
+T1483	FORMULA 433857 433863	Na2SO4
+T1484	FAMILY 433947 433962	petroleum ether
+T1485	FORMULA 433963 433968	EtOAc
+T1486	SYSTEMATIC 433982 434189	methyl 2-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tertbutyl-dimethylsilyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-4-yl)-2,6-diazaspiro[3.4]octane-6-carboxylate
+T1487	SYSTEMATIC 434279 434444	methyl 2-(2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-yl)-2,6-diaza-spiro[3.4]octane-6-carboxylate
+T1488	SYSTEMATIC 434459 434666	methyl 2-(2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-4-yl)-2,6-diazaspiro[3.4]octane-6-carboxylate
+T1489	ABBREVIATION 434690 434693	DCM
+T1490	ABBREVIATION 434723 434726	TFA
+T1491	FORMULA 434845 434849	MeOH
+T1492	SYSTEMATIC 434871 434878	ammonia
+T1493	SYSTEMATIC 434968 435133	methyl 2-(2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-4-yl)-2,6-diazaspiro[3.4]octane-6-carboxylate
+T1494	FORMULA 435217 435222	CD3OD
+T1495	SYSTEMATIC 435552 435712	(R)-1-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-yl-amino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1496	SYSTEMATIC 435734 435795	tert-butyl cis-1-cyclopropyl-3-fluoropiperidin-4-yl-carbamate
+T1497	SYSTEMATIC 435813 435859	tert-butyl cis-3-fluoropiperidin-4-ylcarbamate
+T1498	SYSTEMATIC 435881 435919	(1-methoxycyclopropoxy)trimethylsilane
+T1499	FORMULA 435943 435947	AcOH
+T1500	FORMULA 435970 435974	MeOH
+T1501	FORMULA 435984 435991	NaBH3CN
+T1502	ABBREVIATION 436228 436231	DCM
+T1503	TRIVIAL 436254 436259	water
+T1504	TRIVIAL 436274 436279	brine
+T1505	FORMULA 436322 436328	Na2SO4
+T1506	SYSTEMATIC 436377 436438	tert-butyl cis-1-cyclopropyl-3-fluoropiperidin-4-yl-carbamate
+T1507	FORMULA 436547 436552	CDCl3
+T1508	SYSTEMATIC 436797 436844	cis-1-cyclopropyl-3-fluoropiperidin-4-amine HCl
+T1509	SYSTEMATIC 436859 436919	tert-butyl cis-1-cyclopropyl-3-fluoropiperidin-4-ylcarbamate
+T1510	ABBREVIATION 436951 436954	DCM
+T1511	FORMULA 436983 436986	HCl
+T1512	SYSTEMATIC 436990 436997	dioxane
+T1513	SYSTEMATIC 437110 437157	cis-1-cyclopropyl-3-fluoropiperidin-4-amine HCl
+T1514	SYSTEMATIC 437298 437493	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1515	SYSTEMATIC 437511 437666	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1516	SYSTEMATIC 437690 437697	toluene
+T1517	FORMULA 437715 437722	t-BuONa
+T1518	FORMULA 437744 437755	Pd(t-Bu3P)2
+T1519	SYSTEMATIC 437779 437840	cis-1-cyclopropyl-3-fluoropiperidin-4-amine hydrochloric acid
+T1520	FAMILY 437876 437889	primary amine
+T1521	FORMULA 437930 437932	N2
+T1522	TRIVIAL 438054 438059	water
+T1523	FORMULA 438087 438092	EtOAc
+T1524	TRIVIAL 438149 438154	brine
+T1525	FORMULA 438167 438173	Na2SO4
+T1526	FAMILY 438260 438275	petroleum ether
+T1527	FORMULA 438276 438281	EtOAc
+T1528	SYSTEMATIC 438295 438491	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1529	SYSTEMATIC 438576 438734	(R)-1-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1530	SYSTEMATIC 438749 438946	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methyl-pyrimidin-2-yl)phenoxyl) propyl(methyl)carbamate
+T1531	ABBREVIATION 438970 438973	DCM
+T1532	FORMULA 439001 439004	HCl
+T1533	SYSTEMATIC 439008 439015	dioxane
+T1534	FORMULA 439168 439172	MeOH
+T1535	SYSTEMATIC 439194 439201	ammonia
+T1536	SYSTEMATIC 439286 439445	(R)-1-(4-chloro-3-(4-(cis-1-cyclopropyl-3-fluoropiperidin-4-ylamino)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1537	ABBREVIATION 439523 439530	DMSO-d6
+T1538	SYSTEMATIC 439957 440113	(2R)-1-(4-chloro-3-(4-(3,3-difluoro-1-methylpiperidin-4-yl-amino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1539	SYSTEMATIC 440135 440198	tert-butyl 4-(benzylamino)-3,3-difluoropiperidine-1-carboxylate
+T1540	SYSTEMATIC 440216 440269	tert-butyl 3,3-difluoro-4-oxopiperidine-1-carboxylate
+T1541	ABBREVIATION 440292 440295	DCM
+T1542	FORMULA 440321 440326	BnNH2
+T1543	FORMULA 440371 440381	NaBH(OAc)3
+T1544	FORMULA 440487 440493	NaHCO3
+T1545	ABBREVIATION 440530 440533	DCM
+T1546	TRIVIAL 440590 440595	water
+T1547	TRIVIAL 440610 440615	brine
+T1548	FORMULA 440636 440642	Na2SO4
+T1549	TRIVIAL 440726 440741	petroleum ether
+T1550	ABBREVIATION 440742 440744	EA
+T1551	SYSTEMATIC 440758 440821	tert-butyl 4-(benzylamino)-3,3-difluoropiperidine-1-carboxylate
+T1552	SYSTEMATIC 440913 440968	tert-butyl 4-amino-3,3-difluoropiperidine-1-carboxylate
+T1553	SYSTEMATIC 440983 441035	4-(benzylamino)-3,3-difluoropiperidine-1-carboxylate
+T1554	SYSTEMATIC 441059 441067	methanol
+T1555	FORMULA 441114 441116	H2
+T1556	FORMULA 441151 441155	Pd-C
+T1557	TRIVIAL 441231 441237	Celite
+T1558	SYSTEMATIC 441280 441335	tert-butyl 4-amino-3,3-difluoropiperidine-1-carboxylate
+T1559	FORMULA 441392 441397	CD3OD
+T1560	SYSTEMATIC 441536 441683	tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)-3,3-difluoropiperidine-1-carboxylate
+T1561	SYSTEMATIC 441741 441837	4-(6-chloro-2-(2-chloro-5-(methoxymethoxy)phenyl)-5-methyl-pyrimidin-4-yl)-3,5-dimethylisoxazole
+T1562	SYSTEMATIC 441859 441916	tert-butyl 4-amino-3, 3-difluoro piperidine-1-carboxylate
+T1563	FORMULA 441941 441943	KF
+T1564	ABBREVIATION 441967 441971	DMSO
+T1565	FORMULA 442151 442156	EtOAc
+T1566	TRIVIAL 442178 442183	water
+T1567	TRIVIAL 442198 442203	brine
+T1568	FORMULA 442246 442252	Na2SO4
+T1569	TRIVIAL 442326 442341	petroleum ether
+T1570	FORMULA 442342 442347	EtOAc
+T1571	SYSTEMATIC 442361 442509	tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-yl-amino)-3,3-difluoropiperidine-1-carboxylate
+T1572	SYSTEMATIC 442599 442721	4-chloro-3-(4-(3,3-difluoropiperidin-4-ylamino)-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol hydrochloride
+T1573	SYSTEMATIC 442736 442884	tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)-3,3-difluoropiperidine-1-carboxylate
+T1574	FORMULA 442908 442912	MeOH
+T1575	FORMULA 442941 442944	HCl
+T1576	SYSTEMATIC 442948 442955	dioxane
+T1577	SYSTEMATIC 443054 443167	4-chloro-3-(4-(3,3-di-fluoropiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenol HCl
+T1578	SYSTEMATIC 443327 443443	4-chloro-3-(4-(3,3-difluoro-1-methylpiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1579	SYSTEMATIC 443461 443573	4-chloro-3-(4-(3,3-difluoropiperidin-4-ylamino)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol HCl
+T1580	SYSTEMATIC 443617 443625	methanol
+T1581	FORMULA 443652 443656	HCHO
+T1582	FORMULA 443679 443683	AcOH
+T1583	FORMULA 443707 443714	NaBH3CN
+T1584	FORMULA 443834 443840	NaHCO3
+T1585	FORMULA 443876 443881	EtOAc
+T1586	TRIVIAL 443938 443943	brine
+T1587	FORMULA 443956 443962	Na2SO4
+T1588	SYSTEMATIC 443998 444116	4-chloro-3-(4-(3,3-difluoro-1-methyl-piperidin-4-ylamino)-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1589	SYSTEMATIC 444276 444418	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-(3,3-difluoro-1-methyl-piperidin-4-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-amine
+T1590	SYSTEMATIC 444436 444553	4-chloro-3-(4-(3,3-difluoro-1-methylpiperidin-4-ylamino)-6-(3,5-di-methylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1591	ABBREVIATION 444592 444595	THF
+T1592	SYSTEMATIC 444614 444659	(R)-oxiran-2-ylmethyl 3-nitrobenzenesulfonate
+T1593	FORMULA 444684 444690	Cs2CO3
+T1594	TRIVIAL 444807 444812	water
+T1595	FORMULA 444840 444845	EtOAc
+T1596	TRIVIAL 444902 444907	brine
+T1597	FORMULA 444920 444926	Na2SO4
+T1598	SYSTEMATIC 445007 445149	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-(3,3-di-fluoro-1-methylpiperidin-4-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-amine
+T1599	SYSTEMATIC 445234 445390	(2R)-1-(4-chloro-3-(4-(3,3-difluoro-1-methylpiperidin-4-yl-amino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1600	SYSTEMATIC 445405 445547	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-(3,3-difluoro-1-methyl piperidin-4-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-amine
+T1601	FORMULA 445571 445575	MeOH
+T1602	FORMULA 445604 445609	MeNH2
+T1603	FORMULA 445613 445617	MeOH
+T1604	SYSTEMATIC 445774 445930	(2R)-1-(4-chloro-3-(4-(3,3-difluoro-1-methylpiperidin-4-ylamino)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1605	FORMULA 446008 446013	CD3OD
+T1606	SYSTEMATIC 446302 446461	(R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-methyl amino)propan-2-ol
+T1607	SYSTEMATIC 446483 446536	cis-(+)-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amine
+T1608	SYSTEMATIC 446551 446581	2-methyl-tetrahydropyran-4-one
+T1609	FORMULA 446605 446610	BnNH2
+T1610	ABBREVIATION 446634 446637	DCE
+T1611	FORMULA 446663 446673	NaBH(OAc)3
+T1612	TRIVIAL 446766 446771	water
+T1613	ABBREVIATION 446800 446803	DCM
+T1614	TRIVIAL 446860 446865	brine
+T1615	FORMULA 446878 446884	Na2SO4
+T1616	TRIVIAL 446958 446973	petroleum ether
+T1617	ABBREVIATION 446974 446976	EA
+T1618	SYSTEMATIC 446990 447040	cis-N-benzyl-2-methyl-tetra hydro-2H-pyran-4-amine
+T1619	SYSTEMATIC 447059 447111	trans-N-benzyl-2-methyl-tetra hydro-2H-pyran-4-amine
+T1620	SYSTEMATIC 447179 447228	cis-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amine
+T1621	SYSTEMATIC 447250 447300	cis-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amines
+T1622	SYSTEMATIC 447373 447426	cis-(+)-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amine
+T1623	SYSTEMATIC 447436 447489	cis-(−)-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amine
+T1624	SYSTEMATIC 447584 447628	(2R,4R)-2-methyl-tetrahydro-2H-pyran-4-amine
+T1625	SYSTEMATIC 447642 447695	cis-(+)-N-benzyl-2-methyl-tetrahydro-2H-pyran-4-amine
+T1626	FORMULA 447723 447727	Pd-C
+T1627	FORMULA 447749 447753	MeOH
+T1628	FORMULA 447792 447794	H2
+T1629	TRIVIAL 447843 447849	Celite
+T1630	FORMULA 447884 447887	HCl
+T1631	SYSTEMATIC 447891 447898	dioxane
+T1632	SYSTEMATIC 447931 447979	(2R,4R)-2-methyl-tetrahydro-2H-pyran-4-amine HCl
+T1633	SYSTEMATIC 448123 448319	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1634	SYSTEMATIC 448377 448531	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1635	SYSTEMATIC 448553 448601	(2R,4R)-2-methyl-tetrahydro-2H-pyran-4-amine HCl
+T1636	FORMULA 448614 448616	KI
+T1637	FORMULA 448637 448641	Et3N
+T1638	FORMULA 448663 448669	n-BuOH
+T1639	TRIVIAL 448820 448825	water
+T1640	FORMULA 448879 448884	EtOAc
+T1641	TRIVIAL 448941 448946	brine
+T1642	FORMULA 448959 448965	Na2SO4
+T1643	SYSTEMATIC 449001 449197	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1644	SYSTEMATIC 449329 449488	(R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1645	SYSTEMATIC 449503 449701	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetrahydro-2H-pyran-4-ylamino)pyrimidin-2-yl) phenoxyl)propyl(methyl)carbamate
+T1646	FORMULA 449740 449744	MeOH
+T1647	FORMULA 449772 449775	HCl
+T1648	SYSTEMATIC 449779 449786	dioxane
+T1649	FORMULA 449924 449928	MeOH
+T1650	SYSTEMATIC 449950 449957	ammonia
+T1651	SYSTEMATIC 450052 450212	(R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2R,4R)-2-methyl-tetra-hydro-2H-pyran-4-ylamino)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1652	SYSTEMATIC 450218 450229	formic acid
+T1653	FORMULA 450327 450332	CD3OD
+T1654	SYSTEMATIC 450684 450849	(S)-ethyl 3-((2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl) morpholine-4-carboxylate
+T1655	SYSTEMATIC 450871 451079	(S)-ethyl 3-((2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethylsilyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl pyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T1656	SYSTEMATIC 451137 451291	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(4-chloro-3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)propyl(methyl)carbamate
+T1657	SYSTEMATIC 451313 451367	(S)-ethyl 3-(amino-methyl)morpholine-4-carboxylate HCl
+T1658	FORMULA 451393 451397	Et3N
+T1659	ABBREVIATION 451421 451425	DMSO
+T1660	TRIVIAL 451602 451607	water
+T1661	FORMULA 451635 451640	EtOAc
+T1662	FORMULA 451697 451703	Na2SO4
+T1663	TRIVIAL 451792 451802	silica gel
+T1664	SYSTEMATIC 451811 452019	(R)-ethyl 3-((2-(5-((R)-3-(tert-butoxycarbonyl(methyl)amino)-2-(tert-butyldimethyl-silyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T1665	SYSTEMATIC 452108 452273	(S)-ethyl 3-((2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino) propoxyl)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T1666	SYSTEMATIC 452288 452493	(S)-ethyl 3-((2-(5-((R)-3-(2-tert-butoxy-2-oxoethylamino)-2-(tert-butyldimethyl-silyloxy)propoxyl)-2-chlorophenyl)-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T1667	FORMULA 452520 452523	HCl
+T1668	SYSTEMATIC 452527 452534	dioxane
+T1669	FORMULA 452657 452661	MeOH
+T1670	SYSTEMATIC 452684 452691	ammonia
+T1671	SYSTEMATIC 452786 452951	(R)-ethyl 3-((2-(2-chloro-5-((R)-2-hydroxy-3-(methylamino)propoxyl)phenyl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-4-ylamino)methyl)morpholine-4-carboxylate
+T1672	SYSTEMATIC 452957 452968	formic acid
+T1673	FORMULA 453040 453044	MeOD
+T1674	SYSTEMATIC 453339 453487	1-{3-[4-(5,7-Dihydro-pyrrolo[3,4-b]pyridin-6-yl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methyl-pyrimidin-2-yl]-4-fluoro-phenoxy}-3-methylamino-propan-2-ol
+T1675	SYSTEMATIC 453509 453555	(R)-2-((3-bromo-4-fluorophenoxy)methyl)oxirane
+T1676	SYSTEMATIC 453573 453595	3-bromo-4-fluorophenol
+T1677	SYSTEMATIC 453631 453644	3-bromophenol
+T1678	FORMULA 453669 453673	MeCN
+T1679	FORMULA 453684 453689	K2CO3
+T1680	SYSTEMATIC 453711 453757	(R)-oxiran-2-ylmethyl 4-methylbenzenesulfonate
+T1681	SYSTEMATIC 453893 453939	(R)-2-((3-bromo-4-fluorophenoxy)methyl)oxirane
+T1682	SYSTEMATIC 454085 454143	(R)-1-(3-bromo-4-fluorophenoxy)-3-(methylamino)propan-2-ol
+T1683	SYSTEMATIC 454158 454204	(R)-2-((3-bromo-4-fluorophenoxy)methyl)oxirane
+T1684	FORMULA 454234 454238	MeOH
+T1685	FORMULA 454303 454308	MeNH2
+T1686	FORMULA 454312 454316	MeOH
+T1687	SYSTEMATIC 454414 454473	(R)-1-(3-bromo-4-fluorophenoxy)-3-(methyl-amino)propan-2-ol
+T1688	SYSTEMATIC 454642 454717	(R)-tert-butyl 3-(3-bromo-4-fluorophenoxy)-2-hydroxypropyl(methyl)carbamate
+T1689	SYSTEMATIC 454732 454790	(R)-1-(3-bromo-4-fluorophenoxy)-3-(methylamino)propan-2-ol
+T1690	ABBREVIATION 454830 454833	DCM
+T1691	FORMULA 454890 454895	Boc2O
+T1692	SYSTEMATIC 455022 455099	(R)-tert-butyl 3-(3-bromo-4-fluoro phenoxyl)-2-hydroxypropyl(methyl)carbamate
+T1693	SYSTEMATIC 455254 455350	(R)-tert-butyl 3-(3-bromo-4-fluorophenoxy)-2-(tert-butyldimethylsilyloxy)propyl(methyl)carbamate
+T1694	SYSTEMATIC 455365 455441	(R)-tert-butyl 3-(3-bromo-4-fluorophenoxy)-2-hydroxylpropyl(methyl)carbamate
+T1695	SYSTEMATIC 455472 455481	imidazole
+T1696	ABBREVIATION 455512 455515	DCM
+T1697	FORMULA 455547 455552	TBSCl
+T1698	ABBREVIATION 455573 455576	DCM
+T1699	FORMULA 455673 455675	N2
+T1700	TRIVIAL 455716 455721	water
+T1701	FORMULA 455765 455771	Na2SO4
+T1702	TRIVIAL 455864 455874	silica gel
+T1703	TRIVIAL 455876 455891	petroleum ether
+T1704	FORMULA 455892 455897	EtOAc
+T1705	SYSTEMATIC 455914 456010	(R)-tert-butyl 3-(3-bromo-4-fluorophenoxy)-2-(tert-butyldimethylsilyloxy)propyl(methyl)carbamate
+T1706	SYSTEMATIC 456117 456245	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1707	SYSTEMATIC 456260 456357	(R)-tert-butyl 3-(3-bromo-4-fluorophenoxy)-2-(tert-butyldimethyl silyloxy)propyl(methyl)carbamate
+T1708	ABBREVIATION 456381 456384	THF
+T1709	FORMULA 456419 456421	N2
+T1710	SYSTEMATIC 456467 456482	n-butyl lithium
+T1711	SYSTEMATIC 456499 456505	hexane
+T1712	SYSTEMATIC 456646 456678	4,6-dichloro-5-methyl-pyrimidine
+T1713	ABBREVIATION 456699 456702	THF
+T1714	ABBREVIATION 456758 456761	DDQ
+T1715	FORMULA 456913 456919	CH2Cl2
+T1716	FORMULA 456946 456950	NaOH
+T1717	TRIVIAL 456960 456965	water
+T1718	TRIVIAL 456981 456986	brine
+T1719	FORMULA 457030 457036	Na2SO4
+T1720	TRIVIAL 457119 457129	silica gel
+T1721	TRIVIAL 457142 457157	petroleum ether
+T1722	FORMULA 457158 457163	EtOAc
+T1723	SYSTEMATIC 457177 457306	(R)-tert-butyl 2-(tert-butyldimethyl silyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1724	SYSTEMATIC 457396 457549	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1725	SYSTEMATIC 457567 457695	(R)-tert-butyl 2-(tert-butyldimethylsilyloxy)-3-(3-(4,6-dichloro-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1726	SYSTEMATIC 457725 457732	dioxane
+T1727	FORMULA 457737 457740	H2O
+T1728	SYSTEMATIC 457765 457803	3,5-dimethylisoxazol-4-yl boronic acid
+T1729	FORMULA 457823 457832	Pd(PPh3)4
+T1730	FORMULA 457855 457861	Na2CO3
+T1731	FORMULA 457907 457909	N2
+T1732	TRIVIAL 458011 458016	water
+T1733	FORMULA 458045 458050	EtOAc
+T1734	TRIVIAL 458112 458117	brine
+T1735	FORMULA 458139 458145	Na2SO4
+T1736	TRIVIAL 458228 458238	silica gel
+T1737	FORMULA 458256 458261	EtOAc
+T1738	FAMILY 458262 458277	petroleum ether
+T1739	SYSTEMATIC 458286 458440	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1740	SYSTEMATIC 458536 458718	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1741	SYSTEMATIC 458776 458929	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-fluorophenoxy)propyl(methyl)carbamate
+T1742	SYSTEMATIC 458951 458988	6,7-dihydro-5H-pyrrolo[3,4-b]pyridine
+T1743	MULTIPLE 459024 459050	primary or secondary amine
+T1744	FORMULA 459064 459066	KI
+T1745	FORMULA 459090 459096	n-BuOH
+T1746	TRIVIAL 459279 459284	water
+T1747	FORMULA 459312 459317	EtOAc
+T1748	FORMULA 459374 459380	Na2SO4
+T1749	SYSTEMATIC 459416 459602	tert-butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridine-6(7H)-yl)pyrimidin-2-yl)-4-fluoro-phenoxyl) propyl(methyl)carbamate
+T1750	SYSTEMATIC 459751 459898	(2R)-1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)-4-fluorophenoxy)-3-(methyl-amino)propan-2-ol
+T1751	SYSTEMATIC 459899 460082	tert-Butyl(R)-2-(tert-butyldimethylsilyloxy)-3-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)-4-fluorophenoxy) propyl(methyl)carbamate
+T1752	ABBREVIATION 460133 460136	TFA
+T1753	FORMULA 460257 460261	MeOH
+T1754	SYSTEMATIC 460313 460320	ammonia
+T1755	SYSTEMATIC 460404 460551	(2R)-1-(4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-b]pyridin-6(7H)-yl)pyrimidin-2-yl)phenoxyl)-3-(methylamino)propan-2-ol
+T1756	FORMULA 460647 460652	CD3OD
+T1757	SYSTEMATIC 460962 461138	(R)-4-{6-(3,5-Dimethyl-isoxazol-4-yl)-2-[5-(2-hydroxy-3-methyl-amino-propoxyl)-2-trifluoromethyl-phenyl]-5-methyl-pyrimidin-4-ylamino}-piperidine-1-carboxylic acid methyl ester
+T1758	SYSTEMATIC 461160 461204	2-bromo-4-methoxy-1-(trifluoromethyl)benzene
+T1759	FORMULA 461224 461227	NaH
+T1760	ABBREVIATION 461258 461261	DMF
+T1761	SYSTEMATIC 461293 461301	nitrogen
+T1762	FORMULA 461324 461329	CH3OH
+T1763	SYSTEMATIC 461457 461500	2-bromo-4-fluoro-1-(trifluoromethyl)benzene
+T1764	TRIVIAL 461728 461733	water
+T1765	FORMULA 461759 461764	EtOAc
+T1766	TRIVIAL 461822 461827	water
+T1767	TRIVIAL 461843 461848	brine
+T1768	FORMULA 461870 461876	Na2SO4
+T1769	TRIVIAL 461959 461969	silica gel
+T1770	TRIVIAL 461971 461986	petroleum ether
+T1771	FORMULA 461987 461992	EtOAc
+T1772	SYSTEMATIC 462016 462060	2-bromo-4-methoxy-1-(trifluoromethyl)benzene
+T1773	FORMULA 462107 462112	CD3OD
+T1774	SYSTEMATIC 462237 462308	4,6-dichloro-2-(5-methoxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidine
+T1775	SYSTEMATIC 462326 462370	2-bromo-4-methoxy-1-(trifluoromethyl)benzene
+T1776	ABBREVIATION 462397 462400	THF
+T1777	SYSTEMATIC 462434 462442	nitrogen
+T1778	SYSTEMATIC 462465 462480	n-Butyl lithium
+T1779	SYSTEMATIC 462499 462505	hexane
+T1780	SYSTEMATIC 462624 462655	4,6-dichloro-5-methylpyrimidine
+T1781	ABBREVIATION 462678 462681	THF
+T1782	FORMULA 462802 462806	HOAc
+T1783	ABBREVIATION 462844 462847	DDQ
+T1784	FORMULA 462971 462977	CH2Cl2
+T1785	FORMULA 463004 463008	NaOH
+T1786	TRIVIAL 463023 463028	brine
+T1787	FORMULA 463072 463078	Na2SO4
+T1788	TRIVIAL 463132 463138	silica
+T1789	TRIVIAL 463167 463182	petroleum ether
+T1790	FORMULA 463183 463188	EtOAc
+T1791	SYSTEMATIC 463214 463285	4,6-dichloro-2-(5-methoxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidine
+T1792	SYSTEMATIC 463357 463454	4-(6-chloro-2-(5-methoxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidin-4-yl)-3,5-dimethylisoxazole
+T1793	SYSTEMATIC 463472 463544	4,6-dichloro-2-(5-methoxy-2-(trifluoromethyl)phenyl)-5-methyl-pyrimidine
+T1794	SYSTEMATIC 463575 463582	dioxane
+T1795	TRIVIAL 463587 463592	water
+T1796	SYSTEMATIC 463616 463653	3,5-dimethylisoxazol-4-ylboronic acid
+T1797	FORMULA 463674 463680	Na2CO3
+T1798	FORMULA 463704 463713	Pd(PPh3)4
+T1799	TRIVIAL 463899 463904	water
+T1800	FORMULA 463932 463937	EtOAc
+T1801	TRIVIAL 463994 463999	brine
+T1802	FORMULA 464022 464028	Na2SO4
+T1803	TRIVIAL 464102 464117	petroleum ether
+T1804	FORMULA 464118 464123	EtOAc
+T1805	SYSTEMATIC 464137 464236	4-(6-chloro-2-(5-methoxy-2-(trifluoro methyl)phenyl)-5-methyl-pyrimidin-4-yl)-3,5-dimethylisoxazole
+T1806	SYSTEMATIC 464308 464399	3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-(trifluoromethyl)phenol
+T1807	SYSTEMATIC 464414 464512	4-(6-chloro-2-(5-methoxy-2-(trifluoromethyl)phenyl)-5-methyl-pyrimidin-4-yl)-3,5-dimethylisoxazole
+T1808	ABBREVIATION 464535 464538	DCM
+T1809	FORMULA 464597 464601	BBr3
+T1810	TRIVIAL 464742 464747	water
+T1811	FORMULA 464772 464777	EtOAc
+T1812	FORMULA 464842 464848	NaHCO3
+T1813	TRIVIAL 464870 464875	brine
+T1814	FORMULA 464896 464902	Na2SO4
+T1815	TRIVIAL 464976 464991	petroleum ether
+T1816	FORMULA 464992 464997	EtOAc
+T1817	SYSTEMATIC 465011 465103	3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-(trifluoromethyl) phenol
+T1818	SYSTEMATIC 465176 465308	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-hydroxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T1819	SYSTEMATIC 465366 465457	3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-(trifluoromethyl)phenol
+T1820	SYSTEMATIC 465479 465521	methyl 4-aminopiperidine-1-carboxylate HCl
+T1821	ABBREVIATION 465543 465546	TEA
+T1822	FORMULA 465570 465572	KI
+T1823	ABBREVIATION 465596 465600	DMSO
+T1824	TRIVIAL 465783 465788	water
+T1825	FORMULA 465816 465821	EtOAc
+T1826	FORMULA 465886 465891	NH4Cl
+T1827	TRIVIAL 465913 465918	brine
+T1828	FORMULA 465939 465945	Na2SO4
+T1829	TRIVIAL 466019 466034	petroleum ether
+T1830	FORMULA 466035 466040	EtOAc
+T1831	SYSTEMATIC 466054 466186	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-hydroxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T1832	SYSTEMATIC 466276 466425	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-5-methyl-2-(5-((R)-oxiran-2-ylmethoxy)-2-(trifluoromethyl)phenyl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1833	SYSTEMATIC 466443 466576	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-hydroxy-2-(trifluoro-methyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T1834	SYSTEMATIC 466600 466645	(R)-oxiran-2-ylmethyl 3-nitrobenzenesulfonate
+T1835	ABBREVIATION 466667 466670	THF
+T1836	FORMULA 466689 466695	Cs2CO3
+T1837	TRIVIAL 466808 466813	water
+T1838	FORMULA 466841 466846	EtOAc
+T1839	TRIVIAL 466903 466908	brine
+T1840	FORMULA 466921 466927	Na2SO4
+T1841	SYSTEMATIC 466963 467113	methyl 4-(6-(3,5-dimethyl isoxazol-4-yl)-5-methyl-2-(5-((R)-oxiran-2-ylmethoxy)-2-(trifluoromethyl)phenyl)pyrimidin-4-ylamino)piperidine-1-carboxylate
+T1842	SYSTEMATIC 467260 467426	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-((R)-2-hydroxy-3-(methylamino)propoxyl)-2-(trifluoromethyl)phenyl)-5-methylpyrimidin-4-yl-amino)piperidine-11-carboxylate
+T1843	SYSTEMATIC 467441 467566	4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-hydroxy-2-(trifluoromethyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T1844	FORMULA 467608 467613	MeNH2
+T1845	FORMULA 467617 467621	MeOH
+T1846	SYSTEMATIC 467751 467917	methyl 4-(6-(3,5-dimethylisoxazol-4-yl)-2-(5-((R)-2-hydroxy-3-(methylamino) propoxyl)-2-(trifluoro methyl)phenyl)-5-methylpyrimidin-4-ylamino)piperidine-1-carboxylate
+T1847	SYSTEMATIC 467923 467934	formic acid
+T1848	FORMULA 468018 468023	CD3OD
+T1849	SYSTEMATIC 468287 468448	(R)-1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3, 4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoromethyl)phenoxyl)-3-(methyl-amino)propan-2-ol
+T1850	SYSTEMATIC 468470 468593	3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3, 4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoromethyl)phenol
+T1851	SYSTEMATIC 468651 468742	3-(4-chloro-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)-4-(trifluoromethyl)phenol
+T1852	SYSTEMATIC 468763 468806	6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine HCl
+T1853	FORMULA 468827 468831	Et3N
+T1854	FORMULA 468855 468857	KI
+T1855	ABBREVIATION 468880 468884	DMSO
+T1856	TRIVIAL 469067 469072	water
+T1857	FORMULA 469100 469105	EtOAc
+T1858	TRIVIAL 469162 469167	brine
+T1859	FORMULA 469188 469194	Na2SO4
+T1860	TRIVIAL 469268 469283	petroleum ether
+T1861	FORMULA 469284 469289	EtOAc
+T1862	SYSTEMATIC 469303 469425	3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoromethyl)phenol
+T1863	SYSTEMATIC 469515 469660	3,5-dimethyl-4-(5-methyl-2-(5-((R)-oxiran-2-ylmethoxy)-2-(trifluoromethyl)phenyl)-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-4-yl)isoxazole
+T1864	SYSTEMATIC 469675 469798	3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoro methyl)phenol
+T1865	ABBREVIATION 469821 469824	THF
+T1866	SYSTEMATIC 469850 469875	(R)-(−)-Glycidyl nosylate
+T1867	FORMULA 469899 469905	Cs2CO3
+T1868	FORMULA 469987 469992	EtOAc
+T1869	TRIVIAL 470032 470037	water
+T1870	TRIVIAL 470052 470057	brine
+T1871	FORMULA 470100 470106	Na2SO4
+T1872	SYSTEMATIC 470142 470289	3,5-dimethyl-4-(5-methyl-2-(5-((R)-oxiran-2-yl-methoxyl)-2-(trifluoromethyl)phenyl)-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-4-yl)isoxazole
+T1873	SYSTEMATIC 470437 470596	(R)-1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoromethyl)phenoxyl)-3-(methylamino)propan-2-ol
+T1874	SYSTEMATIC 470611 470757	3,5-dimethyl-4-(5-methyl-2-(5-((R)-oxiran-2-ylmethoxy)-2-(trifluoromethyl)phenyl)-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-4-yl) isoxazole
+T1875	FORMULA 470793 470798	MeNH2
+T1876	FORMULA 470802 470806	MeOH
+T1877	SYSTEMATIC 470927 471086	(R)-1-(3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-(5H-pyrrolo[3,4-d]pyrimidin-6(7H)-yl)pyrimidin-2-yl)-4-(trifluoromethyl)phenoxyl)-3-(methylamino)propan-2-ol
+T1878	FORMULA 471181 471186	CD3OD
+T1879	SYSTEMATIC 471453 471619	(R)-1-(4-chloro-3-(4-((2S,4S)-1-cyclopropyl-2-methylpiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenoxyl)-3-(di-methyl amino)propan-2-ol
+T1880	SYSTEMATIC 471641 471714	(2S,4R)-tert-butyl 2-methyl-4-(methylsulfonyloxy)piperidine-1-carboxylate
+T1881	SYSTEMATIC 471732 471793	(2S,4R)-tert-butyl 4-hydroxy-2-methylpiperidine-1-carboxylate
+T1882	FORMULA 471818 471822	Et3N
+T1883	ABBREVIATION 471846 471849	DCM
+T1884	FORMULA 471877 471881	MsCl
+T1885	TRIVIAL 472002 472007	water
+T1886	ABBREVIATION 472059 472062	DCM
+T1887	FORMULA 472127 472132	NH4Cl
+T1888	TRIVIAL 472146 472151	brine
+T1889	FORMULA 472164 472170	Na2SO4
+T1890	SYSTEMATIC 472206 472279	(2S,4R)-tert-butyl 2-methyl-4-(methylsulfonyloxy)piperidine-1-carboxylate
+T1891	SYSTEMATIC 472428 472487	(2S,4S)-tert-butyl 4-azido-2-methylpiperidine-1-carboxylate
+T1892	SYSTEMATIC 472505 472578	(2S,4R)-tert-butyl 2-methyl-4-(methylsulfonyloxy)piperidine-1-carboxylate
+T1893	ABBREVIATION 472610 472613	DMF
+T1894	FORMULA 472631 472635	NaN3
+T1895	TRIVIAL 472746 472751	water
+T1896	FORMULA 472779 472784	EtOAc
+T1897	TRIVIAL 472841 472846	brine
+T1898	FORMULA 472859 472865	Na2SO4
+T1899	SYSTEMATIC 472903 472962	(2S,4S)-tert-butyl 4-azido-2-methylpiperidine-1-carboxylate
+T1900	SYSTEMATIC 473111 473170	(2S,4S)-tert-butyl 4-amino-2-methylpiperidine-1-carboxylate
+T1901	SYSTEMATIC 473188 473247	(2S,4S)-tert-butyl 4-azido-2-methylpiperidine-1-carboxylate
+T1902	FORMULA 473279 473283	MeOH
+T1903	FORMULA 473306 473310	Pd-C
+T1904	FORMULA 473382 473384	H2
+T1905	TRIVIAL 473423 473429	Celite
+T1906	SYSTEMATIC 473472 473531	(2S,4S)-tert-butyl 4-amino-2-methylpiperidine-1-carboxylate
+T1907	SYSTEMATIC 473680 473713	1-bromo-3-(methoxymethoxy)benzene
+T1908	SYSTEMATIC 473729 473742	3-bromophenol
+T1909	ABBREVIATION 473764 473769	DIPEA
+T1910	ABBREVIATION 473792 473795	DCM
+T1911	SYSTEMATIC 473860 473881	methoxymethyl bromide
+T1912	TRIVIAL 473989 473994	water
+T1913	FORMULA 474015 474020	NH4Cl
+T1914	TRIVIAL 474043 474048	brine
+T1915	FORMULA 474092 474098	Na2SO4
+T1916	SYSTEMATIC 474136 474171	1-bromo-3-(methoxy-methoxyl)benzene
+T1917	FORMULA 474212 474217	CDCl3
+T1918	SYSTEMATIC 474332 474392	4,6-dichloro-2-(3-(methoxymethoxy)phenyl)-5-methylpyrimidine
+T1919	SYSTEMATIC 474410 474443	1-bromo-3-(methoxymethoxy)benzene
+T1920	ABBREVIATION 474469 474472	THF
+T1921	FORMULA 474507 474509	N2
+T1922	SYSTEMATIC 474532 474547	n-butyl lithium
+T1923	SYSTEMATIC 474565 474571	hexane
+T1924	SYSTEMATIC 474691 474722	4,6-dichloro-5-methylpyrimidine
+T1925	ABBREVIATION 474743 474746	THF
+T1926	FORMULA 474878 474882	HOAc
+T1927	ABBREVIATION 474919 474922	DDQ
+T1928	FORMULA 475043 475049	CH2Cl2
+T1929	FORMULA 475076 475080	NaOH
+T1930	TRIVIAL 475096 475101	brine
+T1931	FORMULA 475145 475151	Na2SO4
+T1932	TRIVIAL 475231 475241	silica gel
+T1933	TRIVIAL 475255 475270	petroleum ether
+T1934	FORMULA 475271 475276	EtOAc
+T1935	SYSTEMATIC 475297 475357	4,6-dichloro-2-(3-(methoxymethoxy)phenyl)-5-methylpyrimidine
+T1936	SYSTEMATIC 475445 475532	4-(6-chloro-2-(3-(methoxymethoxy)phenyl)-5-methyl-pyrimidin-4-yl)-3,5-dimethylisoxazole
+T1937	SYSTEMATIC 475550 475610	4,6-dichloro-2-(3-(methoxymethoxy)phenyl)-5-methylpyrimidine
+T1938	SYSTEMATIC 475633 475670	3,5-dimethylisoxazol-4-ylboronic acid
+T1939	SYSTEMATIC 475703 475710	dioxane
+T1940	FORMULA 475715 475718	H2O
+T1941	FORMULA 475742 475751	Pd(PPh3)4
+T1942	FORMULA 475774 475780	Na2CO3
+T1943	FORMULA 475849 475851	N2
+T1944	TRIVIAL 475970 475975	water
+T1945	FORMULA 476003 476008	EtOAc
+T1946	FORMULA 476065 476071	Na2SO4
+T1947	TRIVIAL 476154 476164	silica gel
+T1948	TRIVIAL 476166 476181	petroleum ether
+T1949	FORMULA 476182 476187	EtOAc
+T1950	SYSTEMATIC 476204 476291	4-(6-chloro-2-(3-(methoxymethoxy)phenyl)-5-methyl pyrimidin-4-yl)-3,5-dimethylisoxazole
+T1951	SYSTEMATIC 476378 476473	4-(6-chloro-2-(2-chloro-5-(methoxymethoxy)phenyl)-5-methylpyrimidin-4-yl)-3,5-dimethylisoxazole
+T1952	SYSTEMATIC 476491 476577	4-(6-chloro-2-(3-(methoxymethoxy)phenyl)-5-methylpyrimidin-4-yl)-3,5-dimethylisoxazole
+T1953	ABBREVIATION 476600 476603	DMF
+T1954	ABBREVIATION 476622 476625	NCS
+T1955	FORMULA 476738 476743	EtOAc
+T1956	TRIVIAL 476796 476801	water
+T1957	FORMULA 476822 476828	Na2SO3
+T1958	TRIVIAL 476853 476858	brine
+T1959	FORMULA 476902 476908	Na2SO4
+T1960	TRIVIAL 476991 477001	silica gel
+T1961	TRIVIAL 477003 477018	petroleum ether
+T1962	FORMULA 477019 477024	EtOAc
+T1963	SYSTEMATIC 477041 477137	4-(6-chloro-2-(2-chloro-5-(methoxymethoxy)phenyl)-5-methylpyrimidin-4-yl)-3,5-di-methylisoxazole
+T1964	SYSTEMATIC 477224 477375	(2S,4S)-tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)-2-methylpiperidine-1-carboxylate
+T1965	SYSTEMATIC 477433 477530	4-(6-chloro-2-(2-chloro-5-(methoxymethoxy)phenyl)-5-methyl-pyrimidin-4-yl)-3, 5-dimethylisoxazole
+T1966	SYSTEMATIC 477551 477611	(2S,4S)-tert-butyl 4-amino-2-methyl piperidine-1-carboxylate
+T1967	MULTIPLE 477647 477673	primary or secondary amine
+T1968	FORMULA 477686 477690	Et3N
+T1969	ABBREVIATION 477714 477718	DMSO
+T1970	TRIVIAL 477872 477877	water
+T1971	FORMULA 477929 477934	EtOAc
+T1972	TRIVIAL 477991 477996	brine
+T1973	FORMULA 478009 478015	Na2SO4
+T1974	FAMILY 478079 478094	petroleum ether
+T1975	FORMULA 478095 478100	EtOAc
+T1976	SYSTEMATIC 478120 478272	(2S,4S)-tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-dimethyl-isoxazol-4-yl)-5-methylpyrimidin-4-ylamino)-2-methylpiperidine-1-carboxylate
+T1977	SYSTEMATIC 478345 478460	4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2S,4S)-2-methylpiperidin-4-ylamino)pyrimidin-2-yl)phenol HCl
+T1978	SYSTEMATIC 478478 478629	(2S,4S)-tert-butyl 4-(2-(2-chloro-5-(methoxymethoxy)phenyl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-ylamino)-2-methylpiperidine-1-carboxylate
+T1979	FORMULA 478652 478656	MeOH
+T1980	FORMULA 478677 478680	HCl
+T1981	SYSTEMATIC 478684 478691	dioxane
+T1982	SYSTEMATIC 478793 478908	4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2S,4S)-2-methylpiperidin-4-ylamino)pyrimidin-2-yl)phenol HCl
+T1983	SYSTEMATIC 479069 479194	4-chloro-3-(4-((2S,4S)-1-cyclopropyl-2-methylpiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1984	SYSTEMATIC 479212 479328	4-chloro-3-(4-(3,5-dimethylisoxazol-4-yl)-5-methyl-6-((2S,4S)-2-methyl piperidin-4-ylamino)pyrimidin-2-yl)phenol HCl
+T1985	FORMULA 479359 479363	MeOH
+T1986	SYSTEMATIC 479382 479419	(1-ethoxycyclopropoxy)trimethylsilane
+T1987	FORMULA 479440 479444	AcOH
+T1988	FORMULA 479468 479475	NaBH3CN
+T1989	FORMULA 479615 479621	NaHCO3
+T1990	FORMULA 479660 479665	EtOAc
+T1991	TRIVIAL 479722 479727	brine
+T1992	FORMULA 479740 479746	Na2SO4
+T1993	TRIVIAL 479807 479822	petroleum ether
+T1994	FORMULA 479823 479828	EtOAc
+T1995	SYSTEMATIC 479852 479979	4-chloro-3-(4-((2S,4S)-1-cyclopropyl-2-methyl-piperidin-4-yl-amino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1996	SYSTEMATIC 480047 480197	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-((2S,4S)-1-cyclopropyl-2-methylpiperidin-4-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-amine
+T1997	SYSTEMATIC 480212 480339	4-chloro-3-(4-((2S,4S)-1-cyclopropyl-2-methyl-piperidin-4-yl-amino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl)phenol
+T1998	ABBREVIATION 480363 480366	THF
+T1999	SYSTEMATIC 480379 480424	(R)-oxiran-2-ylmethyl 3-nitrobenzenesulfonate
+T2000	FORMULA 480462 480468	Cs2CO3
+T2001	TRIVIAL 480551 480556	water
+T2002	FORMULA 480600 480605	EtOAc
+T2003	TRIVIAL 480662 480667	brine
+T2004	FORMULA 480680 480686	Na2SO4
+T2005	SYSTEMATIC 480722 480873	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-((2S,4S)-1-cyclopropyl-2-methylpiperidin-4-yl)-6-(3,5-dimethyl isoxazol-4-yl)-5-methylpyrimidin-4-amine
+T2006	SYSTEMATIC 481006 481173	(R)-1-(4-chloro-3-(4-((2S,4S)-1-cyclopropyl-2-methyl-piperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenoxyl)-3-(dimethyl amino)propan-2-ol
+T2007	SYSTEMATIC 481188 481339	2-(2-chloro-5-((R)-oxiran-2-ylmethoxy)phenyl)-N-((2S,4S)-1-cyclo-propyl-2-methylpiperidin-4-yl)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-4-amine
+T2008	FORMULA 481372 481376	MeOH
+T2009	SYSTEMATIC 481410 481423	dimethylamine
+T2010	TRIVIAL 481436 481441	water
+T2011	SYSTEMATIC 481615 481781	(R)-1-(4-chloro-3-(4-((2S,4S)-1-cyclo-propyl-2-methylpiperidin-4-ylamino)-6-(3,5-dimethylisoxazol-4-yl)-5-methylpyrimidin-2-yl) phenoxyl)-3-(dimethylamino)propan-2-ol
+T2012	FORMULA 481865 481870	CD3OD

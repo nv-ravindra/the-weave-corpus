@@ -1,0 +1,355 @@
+T1	SYSTEMATIC 108121 108141	Piperidine-2,6-dione
+T2	SYSTEMATIC 108183 108211	lithium hexamethyldisilazide
+T3	SYSTEMATIC 108213 108236	lithiumdiisopropylamide
+T4	ABBREVIATION 108238 108241	LDA
+T5	ABBREVIATION 108247 108250	LDA
+T6	SYSTEMATIC 108251 108274	hexamethylphosphoramide
+T7	ABBREVIATION 108276 108280	HMPT
+T8	SYSTEMATIC 108285 108300	tetrahydrofuran
+T9	SYSTEMATIC 108344 108351	bromide
+T10	SYSTEMATIC 108355 108363	chloride
+T11	SYSTEMATIC 108432 108443	sulfonamide
+T12	FORMULA 108597 108599	NH
+T13	SYSTEMATIC 108614 108634	piperidine-2,4-dione
+T14	SYSTEMATIC 108681 108703	Thiazolidine-2,4-dione
+T15	SYSTEMATIC 108745 108760	n-butyl lithium
+T16	SYSTEMATIC 108762 108784	secondary butyllithium
+T17	ABBREVIATION 108789 108792	LDA
+T18	ABBREVIATION 108793 108797	HMPT
+T19	SYSTEMATIC 108819 108834	tetrahydrofuran
+T20	SYSTEMATIC 108838 108855	dimethylformamide
+T21	SYSTEMATIC 108886 108893	bromide
+T22	SYSTEMATIC 108897 108905	chloride
+T23	SYSTEMATIC 108974 108985	sulfonamide
+T24	FORMULA 109150 109152	NH
+T25	SYSTEMATIC 109167 109189	thiazolidine-2,4-dione
+T26	SYSTEMATIC 109716 109723	heptane
+T27	SYSTEMATIC 109724 109736	iso-propanol
+T28	SYSTEMATIC 109904 109911	heptane
+T29	SYSTEMATIC 109912 109924	iso-propanol
+T30	SYSTEMATIC 109925 109937	diethylamine
+T31	SYSTEMATIC 110473 110536	(S)-1-azido-2-(3-(cyclopropylmethoxy)-4-fluorophenyl)butan-2-ol
+T32	FORMULA 110671 110677	LiHMDS
+T33	SYSTEMATIC 110704 110736	lithium bis(trimethylsilyl)amide
+T34	SYSTEMATIC 110744 110759	tetrahydrofuran
+T35	SYSTEMATIC 110825 110836	glutarimide
+T36	SYSTEMATIC 110867 110882	tetrahydrofuran
+T37	FAMILY 110896 110906	iodoalkane
+T38	SYSTEMATIC 111131 111148	ammonium chloride
+T39	SYSTEMATIC 111198 111216	methylene chloride
+T40	SYSTEMATIC 111272 111289	magnesium sulfate
+T41	SYSTEMATIC 111394 111405	cyclohexane
+T42	SYSTEMATIC 111410 111423	ethyl acetate
+T43	ABBREVIATION 111511 111514	LDA
+T44	SYSTEMATIC 111539 111563	lithium diisopropylamide
+T45	SYSTEMATIC 111571 111586	tetrahydrofuran
+T46	SYSTEMATIC 111587 111594	heptane
+T47	SYSTEMATIC 111595 111607	ethylbenzene
+T48	SYSTEMATIC 111673 111684	glutarimide
+T49	SYSTEMATIC 111715 111730	tetrahydrofuran
+T50	FAMILY 111744 111754	iodoalkane
+T51	TRIVIAL 111942 111947	water
+T52	SYSTEMATIC 111997 112015	methylene chloride
+T53	SYSTEMATIC 112071 112088	magnesium sulfate
+T54	SYSTEMATIC 112193 112204	cyclohexane
+T55	SYSTEMATIC 112209 112222	ethyl acetate
+T56	FORMULA 112351 112354	HCl
+T57	SYSTEMATIC 112373 112381	methanol
+T58	SYSTEMATIC 112418 112425	ammonia
+T59	SYSTEMATIC 112429 112437	methanol
+T60	SYSTEMATIC 112514 112525	acetic acid
+T61	FAMILY 112552 112560	aldehyde
+T62	SYSTEMATIC 112574 112597	sodium cyanoborohydride
+T63	SYSTEMATIC 112753 112778	sodium hydrogenocarbonate
+T64	SYSTEMATIC 112825 112838	ethyl acetate
+T65	SYSTEMATIC 112894 112911	magnesium sulfate
+T66	SYSTEMATIC 113016 113027	cyclohexane
+T67	SYSTEMATIC 113032 113045	ethyl acetate
+T68	FAMILY 113156 113163	alkynyl
+T69	SYSTEMATIC 113217 113224	dioxane
+T70	SYSTEMATIC 113246 113251	argon
+T71	SYSTEMATIC 113262 113329	chloro(1,5-cyclooctadiene)(pentamethylcyclopentadienyl)ruthenium II
+T72	TRIVIAL 113497 113507	silica gel
+T73	SYSTEMATIC 113553 113564	cyclohexane
+T74	SYSTEMATIC 113569 113582	ethyl acetate
+T75	SYSTEMATIC 113643 113763	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluorophenyl)-2-hydroxybutyl]-3H-[1,2,3]triazol-4-yl}-butyl)-piperidine-2,6-dione
+T76	SYSTEMATIC 113772 113805	3-hex-5-ynyl-piperidine-2,6-dione
+T77	SYSTEMATIC 113893 113908	6-iodo-1-hexyne
+T78	SYSTEMATIC 114115 114148	3-hex-5-ynyl-piperidine-2,6-dione
+T79	FORMULA 114312 114317	CDCl3
+T80	SYSTEMATIC 114679 114802	3-(5-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-pentyl)-piperidine-2,6-dione
+T81	SYSTEMATIC 114811 114845	3-hept-6-ynyl-piperidine-2,6-dione
+T82	SYSTEMATIC 114933 114950	7-iodo-hept-1-yne
+T83	SYSTEMATIC 115127 115161	3-hept-6-ynyl-piperidine-2,6-dione
+T84	FORMULA 115329 115334	CDCl3
+T85	SYSTEMATIC 115691 115814	3-(3-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-propyl)-piperidine-2,6-dione
+T86	SYSTEMATIC 115823 115857	3-pent-4-ynyl-piperidine-2,6-dione
+T87	SYSTEMATIC 115944 115961	5-iodo-pent-1-yne
+T88	SYSTEMATIC 116138 116172	3-pent-4-ynyl-piperidine-2,6-dione
+T89	ABBREVIATION 116376 116380	DMSO
+T90	SYSTEMATIC 116695 116822	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butylamino)-piperidine-2,6-dione
+T91	SYSTEMATIC 116831 116869	3-hex-5-ynylamino-piperidine-2,6-dione
+T92	SYSTEMATIC 116922 116963	3-aminopiperidine-2,6-dione hydrochloride
+T93	SYSTEMATIC 116987 116997	hex-5-ynal
+T94	SYSTEMATIC 117031 117044	hex-5-yn-1-ol
+T95	SYSTEMATIC 117152 117177	sodium hydrogenocarbonate
+T96	SYSTEMATIC 117311 117349	3-hex-5-ynylamino-piperidine-2,6-dione
+T97	SYSTEMATIC 117399 117411	acetonitrile
+T98	SYSTEMATIC 117431 117456	di-tert-butyl dicarbonate
+T99	SYSTEMATIC 117489 117512	4-dimethylaminopyridine
+T100	SYSTEMATIC 117657 117682	sodium hydrogenocarbonate
+T101	SYSTEMATIC 117710 117723	ethyl acetate
+T102	SYSTEMATIC 117779 117796	magnesium sulfate
+T103	SYSTEMATIC 117901 117912	cyclohexane
+T104	SYSTEMATIC 117917 117930	ethyl acetate
+T105	SYSTEMATIC 117958 118026	(2,6-dioxo-piperidin-3-yl)-hex-5-ynyl-carbamic acid tert-butyl ester
+T106	SYSTEMATIC 118060 118217	(4-{3-[(S)-2-(3-cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-(2,6-dioxo-piperidin-3-yl)-carbamic acid tert-butyl ester
+T107	SYSTEMATIC 118271 118339	(2,6-dioxo-piperidin-3-yl)-hex-5-ynyl-carbamic acid tert-butyl ester
+T108	SYSTEMATIC 118520 118677	(4-{3-[(S)-2-(3-cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-(2,6-dioxo-piperidin-3-yl)-carbamic acid tert-butyl ester
+T109	SYSTEMATIC 118727 118745	methylene chloride
+T110	SYSTEMATIC 118782 118795	hydrochloride
+T111	SYSTEMATIC 118799 118812	diethyl ether
+T112	SYSTEMATIC 118930 118955	sodium hydrogenocarbonate
+T113	SYSTEMATIC 119012 119025	ethyl acetate
+T114	SYSTEMATIC 119081 119098	magnesium sulfate
+T115	SYSTEMATIC 119203 119216	ethyl acetate
+T116	SYSTEMATIC 119221 119229	methanol
+T117	ABBREVIATION 119342 119346	DMSO
+T118	SYSTEMATIC 119675 119803	3-(3-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-propylamino)-piperidine-2,6-dione
+T119	SYSTEMATIC 119812 119851	3-pent-4-ynylamino-piperidine-2,6-dione
+T120	SYSTEMATIC 119904 119945	3-aminopiperidine-2,6-dione hydrochloride
+T121	SYSTEMATIC 119969 119980	pent-4-ynal
+T122	SYSTEMATIC 120014 120028	pent-5-yn-1-ol
+T123	SYSTEMATIC 120136 120161	sodium hydrogenocarbonate
+T124	SYSTEMATIC 120293 120332	3-pent-4-ynylamino-piperidine-2,6-dione
+T125	SYSTEMATIC 120382 120394	acetonitrile
+T126	SYSTEMATIC 120414 120439	di-tert-butyl dicarbonate
+T127	SYSTEMATIC 120471 120494	4-dimethylaminopyridine
+T128	SYSTEMATIC 120635 120660	sodium hydrogenocarbonate
+T129	SYSTEMATIC 120688 120701	ethyl acetate
+T130	SYSTEMATIC 120757 120774	magnesium sulfate
+T131	SYSTEMATIC 120879 120890	cyclohexane
+T132	SYSTEMATIC 120895 120908	ethyl acetate
+T133	SYSTEMATIC 120936 121005	(2,6-dioxo-piperidin-3-yl)-pent-4-ynyl-carbamic acid tert-butyl ester
+T134	SYSTEMATIC 121039 121197	(3-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-propyl)-(2,6-dioxo-piperidin-3-yl)-carbamic acid tert-butyl ester
+T135	SYSTEMATIC 121251 121320	(2,6-dioxo-piperidin-3-yl)-pent-4-ynyl-carbamic acid tert-butyl ester
+T136	SYSTEMATIC 121508 121666	(3-{3-[(S)-2-(3-cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-propyl)-(2,6-dioxo-piperidin-3-yl)-carbamic acid tert-butyl ester
+T137	SYSTEMATIC 121716 121734	methylene chloride
+T138	SYSTEMATIC 121771 121784	hydrochloride
+T139	SYSTEMATIC 121788 121801	diethyl ether
+T140	SYSTEMATIC 121919 121944	sodium hydrogenocarbonate
+T141	SYSTEMATIC 122001 122014	ethyl acetate
+T142	SYSTEMATIC 122070 122087	magnesium sulfate
+T143	SYSTEMATIC 122192 122205	ethyl acetate
+T144	SYSTEMATIC 122210 122218	methanol
+T145	ABBREVIATION 122334 122338	DMSO
+T146	SYSTEMATIC 122659 122793	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluorophenyl)-2-hydroxybutyl]-3H-[1,2,3]triazol-4-yl}-butylamino)-3-methyl-piperidine-2,6-dione
+T147	SYSTEMATIC 122802 122849	3-hex-5-ynylamino-3-methyl-piperidine-2,6-dione
+T148	SYSTEMATIC 122902 122965	3-amino-3-methyl-piperidine-2,6-dione hydrochloride monohydrate
+T149	SYSTEMATIC 123066 123076	hex-5-ynal
+T150	SYSTEMATIC 123110 123123	hex-5-yn-1-ol
+T151	SYSTEMATIC 123336 123383	3-hex-5-ynylamino-3-methyl-piperidine-2,6-dione
+T152	ABBREVIATION 123586 123590	DMSO
+T153	SYSTEMATIC 123915 124055	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T154	SYSTEMATIC 124064 124115	3-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T155	SYSTEMATIC 124168 124206	3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T156	SYSTEMATIC 124230 124245	6-iodo-1-hexyne
+T157	SYSTEMATIC 124414 124465	3-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T158	FORMULA 124674 124679	CDCl3
+T159	SYSTEMATIC 125097 125238	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T160	SYSTEMATIC 125264 125292	2-chloro-8-methoxy-quinoline
+T161	SYSTEMATIC 125323 125334	acetic acid
+T162	TRIVIAL 125353 125358	water
+T163	TRIVIAL 125467 125472	Water
+T164	SYSTEMATIC 125503 125521	ammonium hydroxide
+T165	SYSTEMATIC 125579 125597	methylene chloride
+T166	SYSTEMATIC 125612 125622	chloroform
+T167	SYSTEMATIC 125676 125693	magnesium sulfate
+T168	SYSTEMATIC 125752 125779	8-methoxy-1H-quinolin-2-one
+T169	SYSTEMATIC 125854 125881	8-methoxy-1H-quinolin-2-one
+T170	SYSTEMATIC 125931 125938	ethanol
+T171	SYSTEMATIC 125957 125964	rhodium
+T172	SYSTEMATIC 126032 126042	dihydrogen
+T173	TRIVIAL 126104 126110	celite
+T174	SYSTEMATIC 126168 126207	8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T175	SYSTEMATIC 126314 126366	3-hex-5-ynyl-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T176	SYSTEMATIC 126419 126458	8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T177	SYSTEMATIC 126501 126516	6-iodo-1-hexyne
+T178	SYSTEMATIC 126685 126737	3-hex-5-ynyl-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T179	ABBREVIATION 126949 126953	DMSO
+T180	SYSTEMATIC 127287 127422	2-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-4H-pyrido[3,2-b][1,4]oxazin-3-one
+T181	SYSTEMATIC 127456 127479	trimethylsilylacetylene
+T182	SYSTEMATIC 127514 127530	tetrahydrofurane
+T183	SYSTEMATIC 127570 127584	n-butyllithium
+T184	SYSTEMATIC 127588 127594	hexane
+T185	SYSTEMATIC 127640 127663	hexamethylphosphoramide
+T186	SYSTEMATIC 127678 127729	2-(4-bromo-butyl)-4H-pyrido[3,2-b][1,4]oxazin-3-one
+T187	TRIVIAL 127878 127883	water
+T188	SYSTEMATIC 127911 127929	methylene chloride
+T189	SYSTEMATIC 127985 128002	magnesium sulfate
+T190	FAMILY 128151 128157	alkyne
+T191	ABBREVIATION 128190 128193	THF
+T192	SYSTEMATIC 128216 128243	tetrabutylammonium fluoride
+T193	SYSTEMATIC 128247 128263	tetrahydrofurane
+T194	TRIVIAL 128360 128365	Water
+T195	SYSTEMATIC 128419 128432	ethyl acetate
+T196	SYSTEMATIC 128488 128505	magnesium sulfate
+T197	SYSTEMATIC 128610 128621	cyclohexane
+T198	SYSTEMATIC 128626 128639	ethyl acetate
+T199	SYSTEMATIC 128667 128713	2-hex-5-ynyl-4H-pyrido[3,2-b][1,4]oxazin-3-one
+T200	SYSTEMATIC 128835 128881	2-hex-5-ynyl-4H-pyrido[3,2-b][1,4]oxazin-3-one
+T201	FORMULA 129144 129149	CDCl3
+T202	SYSTEMATIC 129502 129642	6-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T203	SYSTEMATIC 129688 129734	6-bromo-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T204	SYSTEMATIC 129765 129772	toluene
+T205	SYSTEMATIC 129805 129821	sodium carbonate
+T206	SYSTEMATIC 129850 129868	tributyl(vinyl)tin
+T207	TRIVIAL 129899 129904	water
+T208	SYSTEMATIC 129945 129950	argon
+T209	SYSTEMATIC 129955 129995	tetrakis(triphenylphosphine)palladium(0)
+T210	SYSTEMATIC 130139 130164	sodium hydrogenocarbonate
+T211	SYSTEMATIC 130218 130231	ethyl acetate
+T212	SYSTEMATIC 130246 130264	methylene chloride
+T213	SYSTEMATIC 130318 130335	magnesium sulfate
+T214	SYSTEMATIC 130446 130457	cyclohexane
+T215	SYSTEMATIC 130462 130475	ethyl acetate
+T216	SYSTEMATIC 130561 130579	methylene chloride
+T217	SYSTEMATIC 130584 130593	n-pentane
+T218	SYSTEMATIC 130604 130650	6-vinyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T219	SYSTEMATIC 130717 130763	6-vinyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T220	SYSTEMATIC 130813 130831	methylene chloride
+T221	SYSTEMATIC 130850 130866	4-bromo-1-butene
+T222	SYSTEMATIC 130925 130930	argon
+T223	TRIVIAL 130954 130970	Grubbs' catalyst
+T224	SYSTEMATIC 131122 131147	sodium hydrogenocarbonate
+T225	SYSTEMATIC 131207 131225	methylene chloride
+T226	SYSTEMATIC 131238 131251	ethyl acetate
+T227	SYSTEMATIC 131307 131324	magnesium sulfate
+T228	SYSTEMATIC 131435 131446	cyclohexane
+T229	SYSTEMATIC 131451 131464	ethyl acetate
+T230	SYSTEMATIC 131492 131557	6-((E)-4-bromo-but-1-enyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T231	SYSTEMATIC 131624 131689	6-((E)-4-bromo-but-1-enyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T232	SYSTEMATIC 131739 131746	ethanol
+T233	SYSTEMATIC 131765 131772	rhodium
+T234	TRIVIAL 131776 131783	alumina
+T235	SYSTEMATIC 131839 131849	dihydrogen
+T236	TRIVIAL 131914 131920	celite
+T237	SYSTEMATIC 132011 132022	cyclohexane
+T238	SYSTEMATIC 132027 132040	ethyl acetate
+T239	SYSTEMATIC 132068 132124	6-(4-bromo-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T240	SYSTEMATIC 132191 132214	trimethylsilylacetylene
+T241	SYSTEMATIC 132246 132261	tetrahydrofuran
+T242	SYSTEMATIC 132309 132323	n-butyllithium
+T243	SYSTEMATIC 132327 132338	cyclohexane
+T244	ABBREVIATION 132370 132374	HMPA
+T245	SYSTEMATIC 132434 132490	6-(4-bromo-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T246	SYSTEMATIC 132540 132555	tetrahydrofuran
+T247	SYSTEMATIC 132689 132714	sodium hydrogenocarbonate
+T248	SYSTEMATIC 132774 132787	ethyl acetate
+T249	SYSTEMATIC 132843 132860	magnesium sulfate
+T250	SYSTEMATIC 132971 132982	cyclohexane
+T251	SYSTEMATIC 132987 133000	ethyl acetate
+T252	SYSTEMATIC 133028 133100	6-(6-trimethylsilanyl-hex-5-ynyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T253	ABBREVIATION 133152 133156	HMPA
+T254	SYSTEMATIC 133223 133295	6-(6-trimethylsilanyl-hex-5-ynyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T255	SYSTEMATIC 133326 133341	tetrahydrofuran
+T256	SYSTEMATIC 133377 133407	tetra-n-butylammonium fluoride
+T257	SYSTEMATIC 133411 133426	tetrahydrofuran
+T258	TRIVIAL 133491 133496	water
+T259	SYSTEMATIC 133559 133572	ethyl acetate
+T260	SYSTEMATIC 133628 133645	magnesium sulfate
+T261	SYSTEMATIC 133756 133767	cyclohexane
+T262	SYSTEMATIC 133772 133785	ethyl acetate
+T263	SYSTEMATIC 133813 133864	6-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T264	SYSTEMATIC 134021 134072	6-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T265	ABBREVIATION 134284 134288	DMSO
+T266	SYSTEMATIC 134662 134802	6-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T267	SYSTEMATIC 134848 134894	6-bromo-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T268	SYSTEMATIC 134925 134932	toluene
+T269	SYSTEMATIC 134965 134981	sodium carbonate
+T270	SYSTEMATIC 135010 135028	tributyl(vinyl)tin
+T271	TRIVIAL 135059 135064	water
+T272	SYSTEMATIC 135105 135110	argon
+T273	SYSTEMATIC 135115 135155	tetrakis(triphenylphosphine)palladium(0)
+T274	SYSTEMATIC 135299 135324	sodium hydrogenocarbonate
+T275	SYSTEMATIC 135378 135391	ethyl acetate
+T276	SYSTEMATIC 135406 135424	methylene chloride
+T277	SYSTEMATIC 135478 135495	magnesium sulfate
+T278	SYSTEMATIC 135606 135617	cyclohexane
+T279	SYSTEMATIC 135622 135635	ethyl acetate
+T280	SYSTEMATIC 135721 135739	methylene chloride
+T281	SYSTEMATIC 135744 135753	n-pentane
+T282	SYSTEMATIC 135764 135810	6-vinyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T283	SYSTEMATIC 135877 135923	6-vinyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T284	SYSTEMATIC 135973 135991	methylene chloride
+T285	SYSTEMATIC 136010 136026	4-bromo-1-butene
+T286	SYSTEMATIC 136085 136090	argon
+T287	TRIVIAL 136114 136130	Grubbs' catalyst
+T288	SYSTEMATIC 136282 136307	sodium hydrogenocarbonate
+T289	SYSTEMATIC 136367 136385	methylene chloride
+T290	SYSTEMATIC 136398 136411	ethyl acetate
+T291	SYSTEMATIC 136467 136484	magnesium sulfate
+T292	SYSTEMATIC 136595 136606	cyclohexane
+T293	SYSTEMATIC 136611 136624	ethyl acetate
+T294	SYSTEMATIC 136652 136717	6-((E)-4-bromo-but-1-enyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T295	SYSTEMATIC 136784 136849	6-((E)-4-bromo-but-1-enyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T296	SYSTEMATIC 136899 136906	ethanol
+T297	SYSTEMATIC 136925 136932	rhodium
+T298	SYSTEMATIC 136999 137009	dihydrogen
+T299	TRIVIAL 137074 137080	celite
+T300	SYSTEMATIC 137171 137182	cyclohexane
+T301	SYSTEMATIC 137187 137200	ethyl acetate
+T302	SYSTEMATIC 137228 137284	6-(4-bromo-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T303	SYSTEMATIC 137351 137374	trimethylsilylacetylene
+T304	SYSTEMATIC 137406 137421	tetrahydrofuran
+T305	SYSTEMATIC 137469 137483	n-butyllithium
+T306	SYSTEMATIC 137487 137498	cyclohexane
+T307	ABBREVIATION 137530 137534	HMPA
+T308	SYSTEMATIC 137594 137650	6-(4-bromo-butyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T309	SYSTEMATIC 137700 137715	tetrahydrofuran
+T310	SYSTEMATIC 137849 137874	sodium hydrogenocarbonate
+T311	SYSTEMATIC 137934 137947	ethyl acetate
+T312	SYSTEMATIC 138003 138020	magnesium sulfate
+T313	SYSTEMATIC 138131 138142	cyclohexane
+T314	SYSTEMATIC 138147 138160	ethyl acetate
+T315	SYSTEMATIC 138188 138260	6-(6-trimethylsilanyl-hex-5-ynyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T316	ABBREVIATION 138312 138316	HMPA
+T317	SYSTEMATIC 138383 138455	6-(6-trimethylsilanyl-hex-5-ynyl)-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T318	SYSTEMATIC 138486 138501	tetrahydrofuran
+T319	SYSTEMATIC 138537 138567	tetra-n-butylammonium fluoride
+T320	SYSTEMATIC 138571 138586	tetrahydrofuran
+T321	TRIVIAL 138651 138656	water
+T322	SYSTEMATIC 138719 138732	ethyl acetate
+T323	SYSTEMATIC 138788 138805	magnesium sulfate
+T324	SYSTEMATIC 138916 138927	cyclohexane
+T325	SYSTEMATIC 138932 138945	ethyl acetate
+T326	SYSTEMATIC 138973 139024	6-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T327	SYSTEMATIC 139181 139232	6-hex-5-ynyl-3,4-dihydro-1H-[1,8]naphthyridin-2-one
+T328	ABBREVIATION 139444 139448	DMSO
+T329	SYSTEMATIC 139821 139962	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T330	SYSTEMATIC 139988 140016	2-chloro-8-methoxy-quinoline
+T331	SYSTEMATIC 140047 140058	acetic acid
+T332	TRIVIAL 140077 140082	water
+T333	TRIVIAL 140191 140196	Water
+T334	SYSTEMATIC 140227 140245	ammonium hydroxide
+T335	SYSTEMATIC 140303 140321	methylene chloride
+T336	SYSTEMATIC 140336 140346	chloroform
+T337	SYSTEMATIC 140400 140417	magnesium sulfate
+T338	SYSTEMATIC 140476 140503	8-methoxy-1H-quinolin-2-one
+T339	SYSTEMATIC 140578 140605	8-methoxy-1H-quinolin-2-one
+T340	SYSTEMATIC 140655 140662	ethanol
+T341	SYSTEMATIC 140681 140688	rhodium
+T342	SYSTEMATIC 140756 140766	dihydrogen
+T343	TRIVIAL 140828 140834	celite
+T344	SYSTEMATIC 140892 140931	8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T345	SYSTEMATIC 141038 141090	3-hex-5-ynyl-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T346	SYSTEMATIC 141143 141182	8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T347	SYSTEMATIC 141225 141240	6-iodo-1-hexyne
+T348	SYSTEMATIC 141409 141461	3-hex-5-ynyl-8-methoxy-3,4-dihydro-1H-quinolin-2-one
+T349	ABBREVIATION 141673 141677	DMSO
+T350	SYSTEMATIC 142011 142152	3-(4-{3-[(S)-2-(3-Cyclopropylmethoxy-4-fluoro-phenyl)-2-hydroxy-butyl]-3H-[1,2,3]triazol-4-yl}-butyl)-1,3-dihydro-pyrrolo[2,3-b]pyridin-2-one
+T351	SYSTEMATIC 142165 142217	3-hex-5-ynyl-1,3-dihydro-pyrrolo[2,3-b]pyridin-2-one
+T352	SYSTEMATIC 142270 142309	1,3-dihydro-pyrrolo[2,3-b]pyridin-2-one
+T353	SYSTEMATIC 142341 142356	6-iodo-1-hexyne
+T354	SYSTEMATIC 142544 142596	3-hex-5-ynyl-1,3-dihydro-pyrrolo[2,3-b]pyridin-2-one
+T355	ABBREVIATION 142807 142811	DMSO

@@ -1,0 +1,559 @@
+T1	SYSTEMATIC 78438 78516	2-Hydroxy-6-(4-methyl-piperazin-1-yl)-naphthalene-1-carbaldehyde hydrochloride
+T2	SYSTEMATIC 78521 78585	2-Hydroxy-6-(4-methyl-piperazin-1-yl)-naphthalene-1-carbaldehyde
+T3	SYSTEMATIC 78590 78634	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T4	SYSTEMATIC 78674 78693	1-methyl-piperazine
+T5	SYSTEMATIC 78714 78734	sodium tert-butoxide
+T6	SYSTEMATIC 78755 78796	tris-(dibenzylideneacetone)dipalladium(0)
+T7	SYSTEMATIC 78815 78849	(2-biphenyl)di-tert-butylphosphine
+T8	SYSTEMATIC 78898 78905	dioxane
+T9	SYSTEMATIC 79031 79041	chloroform
+T10	TRIVIAL 79055 79060	water
+T11	SYSTEMATIC 79119 79130	acetic acid
+T12	SYSTEMATIC 79195 79205	chloroform
+T13	SYSTEMATIC 79251 79265	sodium sulfate
+T14	SYSTEMATIC 79356 79366	chloroform
+T15	SYSTEMATIC 79425 79438	diethyl ether
+T16	ABBREVIATION 79527 79534	DMSO-d6
+T17	SYSTEMATIC 80492 80574	2-Hydroxy-6-[3-(morpholine-4-carbonyl)-pyrrolidin-1-yl]-naphthalene-1-carbaldehyde
+T18	SYSTEMATIC 80579 80623	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T19	SYSTEMATIC 80647 80687	morpholin-4-yl-pyrrolidin-3-yl-methanone
+T20	SYSTEMATIC 80709 80729	sodium-tert-butoxide
+T21	SYSTEMATIC 80751 80792	tris-(dibenzylideneacetone)dipalladium(0)
+T22	SYSTEMATIC 80811 80845	(2-biphenyl)di-tert-butylphosphine
+T23	SYSTEMATIC 80893 80900	dioxane
+T24	SYSTEMATIC 81026 81036	chloroform
+T25	TRIVIAL 81050 81055	water
+T26	SYSTEMATIC 81114 81125	acetic acid
+T27	SYSTEMATIC 81190 81200	chloroform
+T28	SYSTEMATIC 81246 81260	sodium sulfate
+T29	SYSTEMATIC 81351 81361	chloroform
+T30	SYSTEMATIC 81420 81433	diethyl ether
+T31	FORMULA 81523 81528	CDCl3
+T32	SYSTEMATIC 82220 82296	2-Hydroxy-6-(4-pyridin-2-ylmethyl-piperazin-1-yl)-naphthalene-1-carbaldehyde
+T33	SYSTEMATIC 82301 82345	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T34	SYSTEMATIC 82369 82414	1-pyridin-2-ylmethyl-piperazine hydrochloride
+T35	SYSTEMATIC 82435 82455	sodium-tert-butoxide
+T36	SYSTEMATIC 82477 82518	tris-(dibenzylideneacetone)dipalladium(0)
+T37	SYSTEMATIC 82537 82571	(2-biphenyl)di-tert-butylphosphine
+T38	SYSTEMATIC 82619 82626	dioxane
+T39	SYSTEMATIC 82752 82762	chloroform
+T40	TRIVIAL 82776 82781	water
+T41	SYSTEMATIC 82840 82851	acetic acid
+T42	SYSTEMATIC 82916 82926	chloroform
+T43	SYSTEMATIC 82972 82986	sodium sulfate
+T44	SYSTEMATIC 83077 83087	chloroform
+T45	SYSTEMATIC 83088 83096	methanol
+T46	FORMULA 83167 83170	HCl
+T47	SYSTEMATIC 83174 83181	dioxane
+T48	SYSTEMATIC 83208 83221	diethyl ether
+T49	ABBREVIATION 83311 83318	DMSO-d6
+T50	SYSTEMATIC 84268 84341	2-Hydroxy-6-(4-methanesulfonyl-piperazin-1-yl)-naphthalene-1-carbaldehyde
+T51	SYSTEMATIC 84346 84409	4-Methanesulfonyl-piperazine-1-carboxylic acid tert-butyl ester
+T52	SYSTEMATIC 84413 84458	Piperazine-1-carboxylic acid tert-butyl ester
+T53	SYSTEMATIC 84483 84496	triethylamine
+T54	SYSTEMATIC 84541 84555	dichloroethane
+T55	SYSTEMATIC 84578 84602	methanesulfonyl chloride
+T56	SYSTEMATIC 84739 84750	citric acid
+T57	TRIVIAL 84755 84760	brine
+T58	SYSTEMATIC 84796 84810	sodium sulfate
+T59	SYSTEMATIC 84889 84931	1-Methanesulfonyl-piperazine hydrochloride
+T60	SYSTEMATIC 84935 84998	4-Methanesulfonyl-piperazine-1-carboxylic acid tert-butyl ester
+T61	SYSTEMATIC 85035 85048	ethyl acetate
+T62	SYSTEMATIC 85061 85074	ethyl acetate
+T63	FORMULA 85086 85089	HCl
+T64	SYSTEMATIC 85224 85237	diethyl ether
+T65	SYSTEMATIC 85276 85349	2-Hydroxy-6-(4-methanesulfonyl-piperazin-1-yl)-naphthalene-1-carbaldehyde
+T66	SYSTEMATIC 85354 85398	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T67	SYSTEMATIC 85422 85464	1-methanesulfonyl-piperazine hydrochloride
+T68	SYSTEMATIC 85489 85509	sodium-tert-butoxide
+T69	SYSTEMATIC 85531 85572	tris-(dibenzylideneacetone)dipalladium(0)
+T70	SYSTEMATIC 85581 85618	41 (2-biphenyl)di-tert-butylphosphine
+T71	SYSTEMATIC 85667 85674	dioxane
+T72	SYSTEMATIC 85800 85815	dichloromethane
+T73	TRIVIAL 85829 85834	water
+T74	SYSTEMATIC 85893 85904	acetic acid
+T75	SYSTEMATIC 85969 85984	dichloromethane
+T76	SYSTEMATIC 86030 86044	sodium sulfate
+T77	SYSTEMATIC 86135 86145	chloroform
+T78	SYSTEMATIC 86204 86217	diethyl ether
+T79	ABBREVIATION 86331 86338	DMSO-d6
+T80	SYSTEMATIC 86750 86827	N-[1-(5-Formyl-6-hydroxy-naphthalen-2-yl)-pyrrolidin-3-yl]-N-methyl-acetamide
+T81	SYSTEMATIC 86832 86918	2-Hydroxy-6-(3-methylamino-pyrrolidin-1-yl)-naphthalene-1-carbaldehyde dihydrochloride
+T82	SYSTEMATIC 86923 86967	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T83	SYSTEMATIC 86991 87044	methyl-pyrrolidin-3-yl-carbamic acid tert-butyl ester
+T84	SYSTEMATIC 87066 87086	sodium-tert-butoxide
+T85	SYSTEMATIC 87108 87149	tris-(dibenzylideneacetone)dipalladium(0)
+T86	SYSTEMATIC 87167 87201	(2-biphenyl)di-tert-butylphosphine
+T87	SYSTEMATIC 87250 87257	dioxane
+T88	SYSTEMATIC 87384 87394	chloroform
+T89	TRIVIAL 87408 87413	water
+T90	SYSTEMATIC 87472 87483	acetic acid
+T91	SYSTEMATIC 87548 87558	chloroform
+T92	SYSTEMATIC 87604 87618	sodium sulfate
+T93	SYSTEMATIC 87710 87720	chloroform
+T94	SYSTEMATIC 87784 87797	diethyl ether
+T95	SYSTEMATIC 87835 87848	ethyl acetate
+T96	FORMULA 87860 87863	HCl
+T97	SYSTEMATIC 87981 87994	diethyl ether
+T98	ABBREVIATION 88085 88092	DMSO-d6
+T99	SYSTEMATIC 88388 88465	N-[1-(5-Formyl-6-hydroxy-naphthalen-2-yl)-pyrrolidin-3-yl]-N-methyl-acetamide
+T100	SYSTEMATIC 88470 88556	2-Hydroxy-6-(3-methylamino-pyrrolidin-1-yl)-naphthalene-1-carbaldehyde dihydrochloride
+T101	SYSTEMATIC 88609 88624	dichloromethane
+T102	SYSTEMATIC 88629 88645	acetic anhydride
+T103	SYSTEMATIC 88734 88752	sodium bicarbonate
+T104	SYSTEMATIC 88866 88880	sodium sulfate
+T105	SYSTEMATIC 88913 88926	diethyl ether
+T106	FORMULA 89064 89069	CDCl3
+T107	SYSTEMATIC 89493 89559	N-[1-(5-Formyl-6-hydroxy-naphthalen-2-A-pyrrolidin-3-yl]-acetamide
+T108	SYSTEMATIC 89575 89635	3-Acetylamino-pyrrolidine-1-carboxylic acid tert-butyl ester
+T109	SYSTEMATIC 89639 89693	3-Amino-pyrrolidine-1-carboxylic acid tert-butyl ester
+T110	SYSTEMATIC 89740 89754	dichloroethane
+T111	SYSTEMATIC 89759 89775	acetic anhydride
+T112	SYSTEMATIC 89801 89814	triethylamine
+T113	TRIVIAL 89957 89963	silica
+T114	SYSTEMATIC 89969 89979	chloroform
+T115	SYSTEMATIC 90028 90069	N-Pyrrolidin-3-yl-acetamide hydrochloride
+T116	SYSTEMATIC 90073 90133	3-Acetylamino-pyrrolidine-1-carboxylic acid tert-butyl ester
+T117	SYSTEMATIC 90173 90186	ethyl acetate
+T118	FORMULA 90198 90201	HCl
+T119	SYSTEMATIC 90331 90338	Ethanol
+T120	SYSTEMATIC 90348 90361	diethyl ether
+T121	FORMULA 90416 90419	HCl
+T122	SYSTEMATIC 90475 90542	N-[1-(5-Formyl-6-hydroxy-naphthalen-2-yl)-pyrrolidin-3-yl]acetamide
+T123	SYSTEMATIC 90547 90591	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T124	SYSTEMATIC 90615 90656	N-pyrrolidin-3-yl-acetamide hydrochloride
+T125	SYSTEMATIC 90681 90701	sodium-tert-butoxide
+T126	SYSTEMATIC 90722 90763	tris-(dibenzylideneacetone)dipalladium(0)
+T127	SYSTEMATIC 90782 90816	(2-biphenyl)di-tert-butylphosphine
+T128	SYSTEMATIC 90865 90872	dioxane
+T129	SYSTEMATIC 90999 91009	chloroform
+T130	TRIVIAL 91023 91028	water
+T131	SYSTEMATIC 91087 91098	acetic acid
+T132	SYSTEMATIC 91163 91173	chloroform
+T133	SYSTEMATIC 91219 91233	sodium sulfate
+T134	SYSTEMATIC 91323 91333	chloroform
+T135	SYSTEMATIC 91334 91342	methanol
+T136	SYSTEMATIC 91391 91404	diethyl ether
+T137	ABBREVIATION 91496 91503	DMSO-d6
+T138	SYSTEMATIC 91975 92045	trifluoromethanesulfonic acid 8-formyl-7-hydroxy-naphthalen-2-yl ester
+T139	SYSTEMATIC 92050 92111	Trifluoromethanesulfonic acid 7-hydroxy-naphthalen-2-yl ester
+T140	SYSTEMATIC 92115 92123	Pyridine
+T141	FORMULA 92161 92164	KOH
+T142	SYSTEMATIC 92195 92219	2,7-dihydroxynaphthalene
+T143	SYSTEMATIC 92239 92254	dichloromethane
+T144	FORMULA 92278 92282	CaH2
+T145	TRIVIAL 92324 92329	water
+T146	SYSTEMATIC 92331 92365	trifluoromethanesulfonic anhydride
+T147	SYSTEMATIC 92481 92498	Hydrochloric acid
+T148	SYSTEMATIC 92574 92589	dichloromethane
+T149	TRIVIAL 92645 92650	water
+T150	SYSTEMATIC 92672 92689	magnesium sulfate
+T151	TRIVIAL 92781 92791	silica gel
+T152	SYSTEMATIC 92809 92815	hexane
+T153	SYSTEMATIC 92816 92829	ethyl acetate
+T154	SYSTEMATIC 92846 92885	7-trifluoromethanesulfonyoxy-2-naphthol
+T155	SYSTEMATIC 93090 93160	trifluoromethanesulfonic acid 8-formyl-7-hydroxy-naphthalen-2-yl ester
+T156	SYSTEMATIC 93182 93221	7-trifluoromethanesulfonyoxy-2-naphthol
+T157	SYSTEMATIC 93248 93263	dichloromethane
+T158	FORMULA 93287 93291	CaH2
+T159	SYSTEMATIC 93323 93345	titanium tetrachloride
+T160	SYSTEMATIC 93384 93411	dichloromethyl methyl ether
+T161	SYSTEMATIC 93521 93538	Hydrochloric acid
+T162	SYSTEMATIC 93614 93629	dichloromethane
+T163	TRIVIAL 93685 93690	brine
+T164	SYSTEMATIC 93712 93729	magnesium sulfate
+T165	TRIVIAL 93816 93826	silica gel
+T166	SYSTEMATIC 93844 93850	hexane
+T167	SYSTEMATIC 93851 93864	diethyl ether
+T168	SYSTEMATIC 93964 93981	diisopropyl ether
+T169	FORMULA 94057 94062	CDCl3
+T170	SYSTEMATIC 94249 94300	(5-formyl-6-hydroxy-naphthalen-2-yloxy)-acetic acid
+T171	SYSTEMATIC 94305 94358	6-hydroxy-naphthalen-2-yloxy)-acetic acid ethyl ester
+T172	SYSTEMATIC 94379 94403	2,6-dihydroxynaphthalene
+T173	SYSTEMATIC 94425 94442	dimethylformamide
+T174	FORMULA 94451 94454	NaH
+T175	SYSTEMATIC 94515 94543	bromoacetic acid ethyl ester
+T176	TRIVIAL 94710 94715	water
+T177	SYSTEMATIC 94748 94765	hydrochloric acid
+T178	SYSTEMATIC 94787 94800	ethyl acetate
+T179	SYSTEMATIC 94857 94874	magnesium sulfate
+T180	TRIVIAL 94961 94971	silica gel
+T181	SYSTEMATIC 94986 94996	chloroform
+T182	SYSTEMATIC 95155 95218	(5-formyl-6-hydroxy-naphthalen-2-yloxy)-acetic acid ethyl ester
+T183	SYSTEMATIC 95222 95275	6-Hydroxy-naphthalen-2-yloxy)-acetic acid ethyl ester
+T184	SYSTEMATIC 95302 95317	dichloromethane
+T185	FORMULA 95341 95345	CaH2
+T186	SYSTEMATIC 95382 95404	titanium tetrachloride
+T187	SYSTEMATIC 95430 95457	dichloromethyl methyl ether
+T188	SYSTEMATIC 95481 95496	dichloromethane
+T189	FORMULA 95520 95524	CaH2
+T190	SYSTEMATIC 95633 95650	hydrochloric acid
+T191	SYSTEMATIC 95730 95747	hydrochloric acid
+T192	SYSTEMATIC 95784 95797	EDTA disodium
+T193	SYSTEMATIC 95857 95875	sodium bicarbonate
+T194	SYSTEMATIC 95888 95905	magnesium sulfate
+T195	TRIVIAL 95992 96002	silica gel
+T196	SYSTEMATIC 96017 96023	hexane
+T197	SYSTEMATIC 96024 96037	ethyl acetate
+T198	SYSTEMATIC 96132 96183	(5-formyl-6-hydroxy-naphthalen-2-yloxy)-acetic acid
+T199	SYSTEMATIC 96188 96251	(5-Formyl-6-hydroxy-naphthalen-2-yloxy)-acetic acid ethyl ester
+T200	SYSTEMATIC 96313 96320	dioxane
+T201	SYSTEMATIC 96329 96345	sodium hydroxide
+T202	SYSTEMATIC 96396 96411	Dichloromethane
+T203	SYSTEMATIC 96501 96516	dichloromethane
+T204	SYSTEMATIC 96536 96553	hydrochloric acid
+T205	TRIVIAL 96607 96612	water
+T206	ABBREVIATION 96720 96727	DMSO-d6
+T207	SYSTEMATIC 96883 96953	2-Hydroxy-7-(2-morpholin-4-yl-2-oxo-ethoxy)-naphthalene-1-carbaldehyde
+T208	SYSTEMATIC 96958 97008	8-Formyl-7-hydroxy-naphthalen-2-yloxy)-acetic acid
+T209	SYSTEMATIC 97029 97051	1-hydroxybenzotriazole
+T210	SYSTEMATIC 97072 97082	morpholine
+T211	SYSTEMATIC 97102 97115	triethylamine
+T212	SYSTEMATIC 97139 97199	1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride
+T213	SYSTEMATIC 97237 97252	tetrahydrofuran
+T214	SYSTEMATIC 97416 97434	sodium bicarbonate
+T215	SYSTEMATIC 97454 97464	chloroform
+T216	SYSTEMATIC 97520 97537	magnesium sulfate
+T217	TRIVIAL 97624 97634	silica gel
+T218	SYSTEMATIC 97649 97659	chloroform
+T219	SYSTEMATIC 97694 97707	diethyl ether
+T220	ABBREVIATION 97817 97824	DMSO-d6
+T221	SYSTEMATIC 98325 98406	2-Hydroxy-7-[2-(4-methyl-piperazin-1-yl)-2-oxo-ethoxy]-naphthalene-1-carbaldehyde
+T222	SYSTEMATIC 98412 98467	(8-Formyl-7-hydroxy-naphthalen-2-yloxy)-acetyl chloride
+T223	SYSTEMATIC 98472 98488	Thionyl chloride
+T224	SYSTEMATIC 98514 98564	8-formyl-7-hydroxy-naphthalen-2-yloxy)-acetic acid
+T225	SYSTEMATIC 98746 98828	2-Hydroxy-7-[2-(4-methyl-piperazin-1-yl)-2-oxo-ethoxyl]-naphthalene-1-carbaldehyde
+T226	SYSTEMATIC 98851 98869	N-methylpiperazine
+T227	SYSTEMATIC 98894 98907	triethylamine
+T228	SYSTEMATIC 98937 98951	dichloroethane
+T229	SYSTEMATIC 98962 99016	8-Formyl-7-hydroxy-naphthalen-2-yloxy)-acetyl chloride
+T230	TRIVIAL 99124 99129	water
+T231	SYSTEMATIC 99176 99191	dichloromethane
+T232	SYSTEMATIC 99247 99264	magnesium sulfate
+T233	TRIVIAL 99351 99361	silica gel
+T234	SYSTEMATIC 99381 99391	chloroform
+T235	SYSTEMATIC 99392 99400	methanol
+T236	SYSTEMATIC 99443 99456	diethyl ether
+T237	ABBREVIATION 99558 99565	DMSO-d6
+T238	SYSTEMATIC 99843 99926	2-Hydroxy-6-[4-(4-methyl-piperazine-1-carbonyl)-phenoxy]-naphthalene-1-carbaldehyde
+T239	SYSTEMATIC 99932 99977	4-(6-Hydroxy-naphthalen-2-yloxy)-benzonitrile
+T240	SYSTEMATIC 99982 100002	Naphthalene-2,6-diol
+T241	SYSTEMATIC 100025 100046	4-fluoro-benzonitrile
+T242	FORMULA 100072 100077	K2CO3
+T243	ABBREVIATION 100126 100129	DMF
+T244	TRIVIAL 100222 100227	water
+T245	SYSTEMATIC 100232 100247	dichloromethane
+T246	SYSTEMATIC 100311 100328	hydrochloric acid
+T247	SYSTEMATIC 100352 100366	sodium sulfate
+T248	TRIVIAL 100461 100471	silica gel
+T249	SYSTEMATIC 100491 100501	chloroform
+T250	SYSTEMATIC 100502 100510	methanol
+T251	SYSTEMATIC 100551 100605	4-(5-Formyl-6-hydroxy-naphthalen-2-yloxy)-benzonitrile
+T252	SYSTEMATIC 100610 100655	4-(6-Hydroxy-naphthalen-2-yloxy)-benzonitrile
+T253	SYSTEMATIC 100683 100698	dichloromethane
+T254	FORMULA 100722 100726	CaH2
+T255	SYSTEMATIC 100763 100785	titanium tetrachloride
+T256	SYSTEMATIC 100811 100838	dichloromethyl methyl ether
+T257	SYSTEMATIC 100863 100878	dichloromethane
+T258	FORMULA 100902 100906	CaH2
+T259	SYSTEMATIC 101004 101021	hydrochloric acid
+T260	SYSTEMATIC 101101 101118	hydrochloric acid
+T261	SYSTEMATIC 101183 101201	sodium bicarbonate
+T262	SYSTEMATIC 101214 101231	magnesium sulfate
+T263	TRIVIAL 101318 101328	silica gel
+T264	SYSTEMATIC 101343 101358	dichloromethane
+T265	ABBREVIATION 101450 101457	DMSO-d6
+T266	SYSTEMATIC 101653 101707	4-(5-Formyl-6-hydroxy-naphthalen-2-yloxy)-benzoic acid
+T267	SYSTEMATIC 101712 101766	4-(5-Formyl-6-hydroxy-naphthalen-2-yloxy)-benzonitrile
+T268	SYSTEMATIC 101830 101838	methanol
+T269	SYSTEMATIC 101864 101880	sodium hydroxide
+T270	SYSTEMATIC 101987 102004	hydrochloric acid
+T271	TRIVIAL 102111 102121	silica gel
+T272	SYSTEMATIC 102141 102151	chloroform
+T273	SYSTEMATIC 102152 102160	methanol
+T274	ABBREVIATION 102253 102260	DMSO-d6
+T275	SYSTEMATIC 102438 102521	2-Hydroxy-6-[4-(4-methyl-piperazine-1-carbonyl)-phenoxy]-naphthalene-1-carbaldehyde
+T276	SYSTEMATIC 102527 102581	4-(5-Formyl-6-hydroxy-naphthalen-2-yloxy)-benzoic acid
+T277	SYSTEMATIC 102606 102628	1-hydroxybenzotriazole
+T278	SYSTEMATIC 102649 102668	N-methyl-piperazine
+T279	SYSTEMATIC 102689 102702	triethylamine
+T280	SYSTEMATIC 102726 102786	1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride
+T281	SYSTEMATIC 102824 102841	dimethylformamide
+T282	SYSTEMATIC 103005 103023	sodium bicarbonate
+T283	SYSTEMATIC 103043 103053	chloroform
+T284	SYSTEMATIC 103109 103126	magnesium sulfate
+T285	TRIVIAL 103218 103228	silica gel
+T286	SYSTEMATIC 103243 103253	chloroform
+T287	FORMULA 103286 103289	HCl
+T288	SYSTEMATIC 103316 103329	ethyl acetate
+T289	FORMULA 103341 103344	HCl
+T290	ABBREVIATION 103421 103428	DMSO-d6
+T291	SYSTEMATIC 103740 103828	2-Hydroxy-6-[4-methyl-5-(morpholine-4-carbonyl)-thiazol-2-yl]-naphthalene-1-carbaldehyde
+T292	SYSTEMATIC 103834 103879	2-Bromo-4-methyl-thiazole-5-carbonyl chloride
+T293	SYSTEMATIC 103884 103927	2-Bromo-4-methyl-thiazole-5-carboxylic acid
+T294	SYSTEMATIC 103973 103989	thionyl chloride
+T295	SYSTEMATIC 104065 104072	toluene
+T296	SYSTEMATIC 104104 104149	2-bromo-4-methyl-thiazole-5-carbonyl chloride
+T297	SYSTEMATIC 104181 104237	(2-Bromo-4-methyl-thiazol-5-yl)-morpholin-4-yl-methanone
+T298	SYSTEMATIC 104266 104276	morpholine
+T299	SYSTEMATIC 104299 104322	diisopropyl-ethyl-amine
+T300	SYSTEMATIC 104359 104373	dichloroethane
+T301	SYSTEMATIC 104384 104429	2-bromo-4-methyl-thiazole-5-carbonyl chloride
+T302	SYSTEMATIC 104470 104484	dichloroethane
+T303	SYSTEMATIC 104631 104649	sodium bicarbonate
+T304	SYSTEMATIC 104695 104709	sodium sulfate
+T305	SYSTEMATIC 104745 104801	(2-bromo-4-methyl-thiazol-5-yl)-morpholin-4-yl-methanone
+T306	SYSTEMATIC 104847 104935	2-Hydroxy-6-[4-methyl-5-(morpholine-4-carbonyl)-thiazol-2-yl]-naphthalene-1-carbaldehyde
+T307	SYSTEMATIC 104941 104997	(2-bromo-4-methyl-thiazol-5-yl)-morpholin-4-yl-methanone
+T308	SYSTEMATIC 105023 105108	2-Hydroxy-6-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-naphthalene-1-carbaldehyde
+T309	SYSTEMATIC 105150 105166	sodium carbonate
+T310	SYSTEMATIC 105192 105229	tetrakis(triphenylphosphine)palladium
+T311	ABBREVIATION 105288 105291	DMF
+T312	TRIVIAL 105302 105307	water
+T313	SYSTEMATIC 105359 105364	argon
+T314	SYSTEMATIC 105467 105477	chloroform
+T315	TRIVIAL 105482 105487	water
+T316	SYSTEMATIC 105526 105537	acetic acid
+T317	SYSTEMATIC 105631 105641	chloroform
+T318	SYSTEMATIC 105687 105701	sodium sulfate
+T319	SYSTEMATIC 105783 105793	chloroform
+T320	SYSTEMATIC 105843 105856	diethyl ether
+T321	FORMULA 105978 105983	CDCl3
+T322	SYSTEMATIC 106648 106754	2-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiazole-5-carboxylic acid (1-methyl-piperidin-4-yl)-amide
+T323	SYSTEMATIC 106760 106853	4-[(2-Bromo-4-methyl-thiazole-5-carbonyl)-amino]piperidine-1-carboxylic acid tert-butyl ester
+T324	SYSTEMATIC 106882 106935	4-amino-piperidine-1-carboxylic acid text-butyl ester
+T325	SYSTEMATIC 106959 106982	diisopropyl-ethyl-amine
+T326	SYSTEMATIC 107019 107034	dichloromethane
+T327	SYSTEMATIC 107045 107090	2-bromo-4-methyl-thiazole-5-carbonyl chloride
+T328	SYSTEMATIC 107131 107145	dichloroethane
+T329	SYSTEMATIC 107292 107310	sodium bicarbonate
+T330	SYSTEMATIC 107356 107370	sodium sulfate
+T331	SYSTEMATIC 107435 107512	2-Bromo-4-methyl-thiazole-5-carboxylic acid piperidin-4-ylamide hydrochloride
+T332	SYSTEMATIC 107517 107611	4-[(2-Bromo-4-methyl-thiazole-5-carbonyl)-amino]-piperidine-1-carboxylic acid tert-butyl ester
+T333	FORMULA 107661 107664	HCl
+T334	SYSTEMATIC 107668 107681	ethyl acetate
+T335	SYSTEMATIC 107806 107819	diethyl ether
+T336	SYSTEMATIC 107860 107935	2-Bromo-4-methyl-thiazole-5-carboxylic acid (1-methyl-piperidin-4-yl)-amide
+T337	SYSTEMATIC 107957 108034	2-bromo-4-methyl-thiazole-5-carboxylic acid piperidin-4-ylamide hydrochloride
+T338	SYSTEMATIC 108062 108070	methanol
+T339	SYSTEMATIC 108079 108097	sodium bicarbonate
+T340	SYSTEMATIC 108131 108143	formaldehyde
+T341	FORMULA 108169 108176	NaBH3CN
+T342	SYSTEMATIC 108320 108338	sodium bicarbonate
+T343	SYSTEMATIC 108358 108371	ethyl acetate
+T344	SYSTEMATIC 108416 108430	sodium sulfate
+T345	SYSTEMATIC 108512 108522	chloroform
+T346	SYSTEMATIC 108523 108531	methanol
+T347	SYSTEMATIC 108594 108700	2-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiazole-5-carboxylic acid (1-methyl-piperidin-4-yl)-amide
+T348	SYSTEMATIC 108706 108791	2-hydroxy-6-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-naphthalene-1-carbaldehyde
+T349	SYSTEMATIC 108817 108892	2-bromo-4-methyl-thiazole-5-carboxylic acid (1-methyl-piperidin-4-yl)-amide
+T350	SYSTEMATIC 108917 108933	sodium carbonate
+T351	SYSTEMATIC 108956 108993	tetrakis(triphenylphosphine)palladium
+T352	ABBREVIATION 109050 109053	DMF
+T353	TRIVIAL 109063 109068	water
+T354	SYSTEMATIC 109120 109125	argon
+T355	SYSTEMATIC 109228 109243	dichloromethane
+T356	TRIVIAL 109248 109253	water
+T357	SYSTEMATIC 109339 109349	chloroform
+T358	SYSTEMATIC 109395 109409	sodium sulfate
+T359	SYSTEMATIC 109491 109501	chloroform
+T360	SYSTEMATIC 109502 109510	methanol
+T361	SYSTEMATIC 109560 109573	diethyl ether
+T362	ABBREVIATION 109694 109701	DMSO-d6
+T363	SYSTEMATIC 110213 110321	2-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiazole-5-carboxylic acid piperidin-4-ylamide hydrochloride
+T364	SYSTEMATIC 110327 110420	4-[(2-Bromo-4-methyl-thiazole-5-carbonyl)-amino]piperidine-1-carboxylic acid tert-butyl ester
+T365	SYSTEMATIC 110449 110502	4-amino-piperidine-1-carboxylic acid tert-butyl ester
+T366	SYSTEMATIC 110526 110549	diisopropyl-ethyl-amine
+T367	SYSTEMATIC 110586 110601	dichloromethane
+T368	SYSTEMATIC 110612 110657	2-bromo-4-methyl-thiazole-5-carbonyl chloride
+T369	SYSTEMATIC 110720 110734	dichloroethane
+T370	SYSTEMATIC 110881 110899	sodium bicarbonate
+T371	SYSTEMATIC 110945 110959	sodium sulfate
+T372	SYSTEMATIC 111025 111133	2-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiazole-5-carboxylic acid piperidin-4-ylamide hydrochloride
+T373	SYSTEMATIC 111139 111224	2-Hydroxy-6-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-naphthalene-1-carbaldehyde
+T374	SYSTEMATIC 111247 111341	4-[(2-Bromo-4-methyl-thiazole-5-carbonyl)-amino]-piperidine-1-carboxylic acid tert-butyl ester
+T375	SYSTEMATIC 111364 111380	sodium carbonate
+T376	SYSTEMATIC 111403 111440	tetrakis(triphenylphosphine)palladium
+T377	ABBREVIATION 111496 111499	DMF
+T378	TRIVIAL 111509 111514	water
+T379	SYSTEMATIC 111566 111571	argon
+T380	SYSTEMATIC 111674 111684	chloroform
+T381	TRIVIAL 111689 111694	brine
+T382	SYSTEMATIC 111780 111790	chloroform
+T383	SYSTEMATIC 111836 111850	sodium sulfate
+T384	SYSTEMATIC 111932 111942	chloroform
+T385	SYSTEMATIC 111992 112005	diethyl ether
+T386	SYSTEMATIC 112076 112084	methanol
+T387	SYSTEMATIC 112090 112103	ethyl acetate
+T388	FORMULA 112115 112118	HCl
+T389	SYSTEMATIC 112275 112288	diethyl ether
+T390	ABBREVIATION 112381 112388	DMSO-d6
+T391	SYSTEMATIC 113121 113193	2-Hydroxy-6-(3-morpholin-4-yl-3-oxo-propenyl)-naphthalene-1-carbaldehyde
+T392	SYSTEMATIC 113199 113262	3-(5-formyl-6-hydroxy-naphthalen-2-yl)-acrylic acid ethyl ester
+T393	SYSTEMATIC 113285 113329	6-bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T394	SYSTEMATIC 113355 113372	dimethylformamide
+T395	SYSTEMATIC 113374 113388	ethyl acrylate
+T396	SYSTEMATIC 113409 113422	triethylamine
+T397	SYSTEMATIC 113446 113483	tetrakis(triphenylphosphine)palladium
+T398	SYSTEMATIC 113548 113556	nitrogen
+T399	TRIVIAL 113662 113667	water
+T400	SYSTEMATIC 113696 113711	dichloromethane
+T401	SYSTEMATIC 113767 113784	magnesium sulfate
+T402	TRIVIAL 113871 113881	silica gel
+T403	SYSTEMATIC 113896 113903	toluene
+T404	FORMULA 114014 114019	CDCl3
+T405	SYSTEMATIC 114235 114286	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-acrylic acid
+T406	SYSTEMATIC 114292 114355	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-acrylic acid ethyl ester
+T407	SYSTEMATIC 114417 114424	dioxane
+T408	SYSTEMATIC 114441 114457	sodium hydroxide
+T409	SYSTEMATIC 114543 114553	chloroform
+T410	SYSTEMATIC 114603 114620	hydrochloric acid
+T411	TRIVIAL 114700 114705	water
+T412	ABBREVIATION 114765 114772	DMSO-d6
+T413	SYSTEMATIC 114977 115049	2-Hydroxy-6-(3-morpholin-4-yl-3-oxo-propenyl)-naphthalene-1-carbaldehyde
+T414	SYSTEMATIC 115055 115106	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-acrylic acid
+T415	SYSTEMATIC 115131 115153	1-hydroxybenzotriazole
+T416	SYSTEMATIC 115174 115184	morpholine
+T417	SYSTEMATIC 115208 115221	triethylamine
+T418	ABBREVIATION 115264 115267	THF
+T419	SYSTEMATIC 115269 115328	1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T420	SYSTEMATIC 115424 115441	hydrochloric acid
+T421	SYSTEMATIC 115605 115615	chloroform
+T422	SYSTEMATIC 115639 115657	sodium bicarbonate
+T423	SYSTEMATIC 115727 115737	chloroform
+T424	TRIVIAL 115787 115792	brine
+T425	SYSTEMATIC 115805 115819	sodium sulfate
+T426	TRIVIAL 115903 115909	silica
+T427	SYSTEMATIC 115916 115926	chloroform
+T428	FORMULA 115995 116000	CDCl3
+T429	FORMULA 116312 116317	CDCl3
+T430	ABBREVIATION 116574 116581	DMSO-d6
+T431	FORMULA 116824 116829	CDCl3
+T432	FORMULA 117092 117097	CDCl3
+T433	SYSTEMATIC 117345 117415	2-Hydroxy-6-(3-morpholin-4-yl-3-oxo-propyl)-naphthalene-1-carbaldehyde
+T434	SYSTEMATIC 117421 117484	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-acrylic acid ethyl ester
+T435	SYSTEMATIC 117534 117547	ethyl acetate
+T436	FORMULA 117561 117565	Pd/C
+T437	SYSTEMATIC 117642 117650	hydrogen
+T438	TRIVIAL 117814 117824	silica gel
+T439	SYSTEMATIC 117857 117864	toluene
+T440	SYSTEMATIC 117865 117873	methanol
+T441	FORMULA 117977 117982	CDCl3
+T442	SYSTEMATIC 118230 118295	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-propionic acid ethyl ester
+T443	SYSTEMATIC 118360 118367	dioxane
+T444	SYSTEMATIC 118368 118384	sodium hydroxide
+T445	SYSTEMATIC 118441 118456	Dichloromethane
+T446	SYSTEMATIC 118525 118540	dichloromethane
+T447	SYSTEMATIC 118582 118599	hydrochloric acid
+T448	TRIVIAL 118662 118667	water
+T449	ABBREVIATION 118805 118812	DMSO-d6
+T450	SYSTEMATIC 119039 119092	3-(5-Formyl-6-hydroxy-naphthalen-2-yl)-propionic acid
+T451	SYSTEMATIC 119119 119141	1-hydroxybenzotriazole
+T452	SYSTEMATIC 119162 119172	morpholine
+T453	SYSTEMATIC 119193 119206	triethylamine
+T454	SYSTEMATIC 119231 119291	1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride
+T455	SYSTEMATIC 119329 119346	dimethylformamide
+T456	SYSTEMATIC 119474 119491	hydrochloric acid
+T457	SYSTEMATIC 119540 119550	chloroform
+T458	SYSTEMATIC 119628 119646	sodium bicarbonate
+T459	SYSTEMATIC 119681 119698	magnesium sulfate
+T460	ABBREVIATION 119866 119873	DMSO-d6
+T461	SYSTEMATIC 120311 120371	4-Chloro-3-(5-formyl-6-hydroxy-naphthalen-2-yl)-benzoic acid
+T462	SYSTEMATIC 120377 120437	4-Chloro-3-(5-formyl-6-hydroxy-naphthalen-2-yl)-benzoic acid
+T463	SYSTEMATIC 120443 120487	6-Bromo-2-hydroxy-naphthalene-1-carbaldehyde
+T464	SYSTEMATIC 120510 120546	2-chloro-5-carboxyphenylboronic acid
+T465	SYSTEMATIC 120567 120583	sodium carbonate
+T466	SYSTEMATIC 120607 120644	tetrakis(triphenylphosphine)palladium
+T467	ABBREVIATION 120703 120706	DMF
+T468	TRIVIAL 120718 120723	water
+T469	SYSTEMATIC 120775 120780	argon
+T470	SYSTEMATIC 120850 120866	sodium hydroxide
+T471	SYSTEMATIC 120937 120947	chloroform
+T472	SYSTEMATIC 121036 121053	hydrochloric acid
+T473	TRIVIAL 121129 121134	water
+T474	SYSTEMATIC 121139 121152	diethyl ether
+T475	TRIVIAL 121226 121232	silica
+T476	SYSTEMATIC 121251 121261	chloroform
+T477	SYSTEMATIC 121262 121270	methanol
+T478	ABBREVIATION 121347 121354	DMSO-d6
+T479	ABBREVIATION 121711 121718	DMSO-d6
+T480	ABBREVIATION 122024 122031	DMSO-d6
+T481	ABBREVIATION 122227 122234	DMSO-d6
+T482	SYSTEMATIC 122541 122616	5-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiophene-2-carboxylic acid
+T483	SYSTEMATIC 122622 122710	5-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiophene-2-carboxylic acid methyl ester
+T484	SYSTEMATIC 122715 122800	2-Hydroxy-6-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-naphthalene-1-carbaldehyde
+T485	SYSTEMATIC 122825 122882	5-bromo-4-methyl-thiophene-2-carboxylic acid methyl ester
+T486	SYSTEMATIC 122904 122920	sodium carbonate
+T487	SYSTEMATIC 122946 122983	tetrakis(triphenylphosphine)palladium
+T488	ABBREVIATION 123042 123045	DMF
+T489	TRIVIAL 123057 123062	water
+T490	SYSTEMATIC 123114 123119	argon
+T491	SYSTEMATIC 123222 123232	chloroform
+T492	TRIVIAL 123237 123242	water
+T493	SYSTEMATIC 123287 123298	acetic acid
+T494	SYSTEMATIC 123392 123402	chloroform
+T495	SYSTEMATIC 123448 123462	sodium sulfate
+T496	SYSTEMATIC 123593 123668	5-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiophene-2-carboxylic acid
+T497	SYSTEMATIC 123674 123762	5-(5-Formyl-6-hydroxy-naphthalen-2-yl)-4-methyl-thiophene-2-carboxylic acid methyl ester
+T498	SYSTEMATIC 123823 123830	dioxane
+T499	SYSTEMATIC 123847 123863	sodium hydroxide
+T500	TRIVIAL 123899 123907	Charcoal
+T501	SYSTEMATIC 124035 124045	chloroform
+T502	SYSTEMATIC 124092 124109	hydrochloric acid
+T503	TRIVIAL 124190 124195	water
+T504	ABBREVIATION 124255 124262	DMSO-d6
+T505	SYSTEMATIC 124498 124580	6-[2-Chloro-5-(morpholine-4-carbonyl)-phenyl]-2-hydroxy-naphthalene-1-carbaldehyde
+T506	SYSTEMATIC 124586 124668	6-[2-Chloro-5-(morpholine-4-carbonyl)-phenyl]-2-hydroxy-naphthalene-1-carbaldehyde
+T507	SYSTEMATIC 124680 124754	5-chloro-6-(5-formyl-6-hydroxy-naphthalen-2-yl)-pyridine-2-carboxylic acid
+T508	SYSTEMATIC 124792 124814	1-hydroxybenzotriazole
+T509	SYSTEMATIC 124835 124855	2-methoxy-ethylamine
+T510	SYSTEMATIC 124879 124892	triethylamine
+T511	ABBREVIATION 124938 124941	THF
+T512	SYSTEMATIC 124943 125003	1-Ethyl-3-(3-dimethyllaminopropyl)carbodiimide hydrochloride
+T513	SYSTEMATIC 125109 125126	hydrochloric acid
+T514	SYSTEMATIC 125290 125300	chloroform
+T515	SYSTEMATIC 125324 125342	sodium bicarbonate
+T516	SYSTEMATIC 125412 125422	chloroform
+T517	TRIVIAL 125472 125477	brine
+T518	SYSTEMATIC 125490 125504	sodium sulfate
+T519	SYSTEMATIC 125576 125586	2-propanol
+T520	FORMULA 125645 125650	CDCl3
+T521	FORMULA 126001 126006	CDCl3
+T522	FORMULA 126311 126316	CDCl3
+T523	FORMULA 126687 126692	CDCl3
+T524	FORMULA 127003 127008	CDCl3
+T525	ABBREVIATION 127309 127316	DMSO-d6
+T526	ABBREVIATION 127686 127693	DMSO-d6
+T527	ABBREVIATION 127981 127988	DMSO-d6
+T528	ABBREVIATION 128333 128340	DMSO-d6
+T529	ABBREVIATION 128650 128657	DMSO-d6
+T530	ABBREVIATION 128989 128996	DMSO-d6
+T531	FORMULA 129363 129368	CDCl3
+T532	ABBREVIATION 129647 129654	DMSO-d6
+T533	FORMULA 129966 129971	CDCl3
+T534	FORMULA 130253 130258	CDCl3
+T535	ABBREVIATION 130524 130531	DMSO-d6
+T536	ABBREVIATION 130843 130850	DMSO-d6
+T537	ABBREVIATION 131170 131177	DMSO-d6
+T538	FORMULA 131451 131456	CDCl3
+T539	ABBREVIATION 131704 131711	DMSO-d6
+T540	ABBREVIATION 131980 131987	DMSO-d6
+T541	FORMULA 132350 132355	CDCl3
+T542	SYSTEMATIC 133157 133238	2-Hydroxy-6-[2-(4-methyl-piperazin-1-yl)-thiazol-5-yl]-naphthalene-1-carbaldehyde
+T543	SYSTEMATIC 133244 133325	2-Hydroxy-6-[2-(4-methyl-piperazin-1-yl)-thiazol-5-yl]-naphthalene-1-carbaldehyde
+T544	SYSTEMATIC 133331 133416	2-Hydroxy-6-(4,4,5,5-tetramethyl-[1,3,2]dioxaborolan-2-yl)-naphthalene-1-carbaldehyde
+T545	SYSTEMATIC 133442 133486	1-(5-bromo-thiazol-2-yl)-4-methyl-piperazine
+T546	SYSTEMATIC 133508 133524	sodium carbonate
+T547	SYSTEMATIC 133550 133587	tetrakis(triphenylphosphine)palladium
+T548	ABBREVIATION 133645 133648	DMF
+T549	TRIVIAL 133658 133663	water
+T550	SYSTEMATIC 133715 133720	argon
+T551	SYSTEMATIC 133823 133833	chloroform
+T552	TRIVIAL 133838 133843	water
+T553	SYSTEMATIC 133888 133899	acetic acid
+T554	SYSTEMATIC 133999 134009	chloroform
+T555	SYSTEMATIC 134055 134069	sodium sulfate
+T556	SYSTEMATIC 134164 134174	chloroform
+T557	SYSTEMATIC 134175 134183	methanol
+T558	SYSTEMATIC 134223 134236	diethyl ether
+T559	FORMULA 134357 134362	CDCl3

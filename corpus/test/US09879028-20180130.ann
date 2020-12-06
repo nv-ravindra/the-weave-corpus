@@ -1,0 +1,513 @@
+T1	SYSTEMATIC 117500 117540	thieno[3,2-d]pyrimidine-2,4(1H,3H)-dione
+T2	SYSTEMATIC 117545 117581	Methy 3-aminothiophene-2-carboxylate
+T3	TRIVIAL 117606 117610	urea
+T4	FORMULA 117726 117730	NaOH
+T5	FORMULA 117809 117812	HCl
+T6	SYSTEMATIC 117922 117962	thieno[3,2-d]pyrimidine-2,4(1H,3H)-dione
+T7	ABBREVIATION 117991 117998	DMSO-d6
+T8	SYSTEMATIC 118084 118119	2,4-dichlorothieno[3,2-d]pyrimidine
+T9	SYSTEMATIC 118124 118164	Thieno[3,2-d]pyrimidine-2,4(1H,3H)-dione
+T10	FORMULA 118199 118204	POCl3
+T11	SYSTEMATIC 118232 118257	N,N-diisopropylethylamine
+T12	ABBREVIATION 118259 118263	DIEA
+T13	FORMULA 118418 118423	POCl3
+T14	ABBREVIATION 118428 118432	DIEA
+T15	TRIVIAL 118482 118487	Water
+T16	SYSTEMATIC 118574 118589	dichloromethane
+T17	ABBREVIATION 118591 118594	DCM
+T18	FORMULA 118652 118656	NaOH
+T19	ABBREVIATION 118676 118679	DCM
+T20	ABBREVIATION 118694 118697	DCM
+T21	FORMULA 118728 118734	Na2SO4
+T22	SYSTEMATIC 118779 118814	2,4-dichlorothieno[3,2-d]pyrimidine
+T23	FORMULA 118843 118848	CDCl3
+T24	SYSTEMATIC 118902 118933	2-chlorothieno[3,2-d]pyrimidine
+T25	SYSTEMATIC 118938 118973	2,4-dichlorothieno[3,2-d]pyrimidine
+T26	SYSTEMATIC 119012 119019	ethanol
+T27	SYSTEMATIC 119032 119045	ethyl acetate
+T28	FORMULA 119073 119079	NaHCO3
+T29	FORMULA 119116 119120	Pd—C
+T30	SYSTEMATIC 119192 119200	hydrogen
+T31	TRIVIAL 119368 119374	celite
+T32	SYSTEMATIC 119424 119455	2-chlorothieno[3,2-d]pyrimidine
+T33	FORMULA 119491 119496	CDCl3
+T34	SYSTEMATIC 119574 119613	7-bromo-2-chlorothieno[3,2-d]pyrimidine
+T35	SYSTEMATIC 119618 119649	2-chlorothieno[3,2-d]pyrimidine
+T36	SYSTEMATIC 119685 119697	acetonitrile
+T37	SYSTEMATIC 119725 119732	Bromine
+T38	FORMULA 119765 119769	HIO4
+T39	SYSTEMATIC 120015 120028	ethyl acetate
+T40	TRIVIAL 120048 120053	Water
+T41	SYSTEMATIC 120077 120095	sodium thiosulfate
+T42	SYSTEMATIC 120276 120287	bicarbonate
+T43	TRIVIAL 120292 120297	brine
+T44	FORMULA 120310 120316	Na2SO4
+T45	SYSTEMATIC 120344 120383	7-bromo-2-chlorothieno[3,2-d]pyrimidine
+T46	FORMULA 120409 120414	CDCl3
+T47	SYSTEMATIC 120468 120517	2-chloro-7-(3-nitrophenyl)thieno[3,2-d]pyrimidine
+T48	SYSTEMATIC 120522 120561	7-bromo-2-chlorothieno[3,2-d]pyrimidine
+T49	SYSTEMATIC 120602 120609	toluene
+T50	ABBREVIATION 120618 120621	IPA
+T51	SYSTEMATIC 120648 120674	3-Nitro phenylboronic acid
+T52	FORMULA 120697 120706	Pd(PPh3)4
+T53	FORMULA 120737 120743	Na2CO3
+T54	SYSTEMATIC 120973 120986	ethyl acetate
+T55	FORMULA 121008 121014	NaHCO3
+T56	FORMULA 121036 121042	Na2SO4
+T57	TRIVIAL 121116 121126	Silica gel
+T58	SYSTEMATIC 121134 121147	ethyl acetate
+T59	SYSTEMATIC 121151 121157	hexane
+T60	SYSTEMATIC 121186 121235	2-chloro-7-(3-nitrophenyl)thieno[3,2-d]pyrimidine
+T61	FORMULA 121263 121268	CDCl3
+T62	SYSTEMATIC 121393 121436	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T63	SYSTEMATIC 121449 121495	1-(3-methoxy-4-nitrophenyl)-4-methylpiperazine
+T64	SYSTEMATIC 121518 121539	1-methyl-4-piperazine
+T65	ABBREVIATION 121560 121563	DMF
+T66	FORMULA 121583 121588	K2CO3
+T67	SYSTEMATIC 121635 121668	4-fluoro-2-methoxy-1-nitrobenzene
+T68	TRIVIAL 121816 121821	water
+T69	SYSTEMATIC 121841 121854	ethyl acetate
+T70	TRIVIAL 121892 121897	brine
+T71	SYSTEMATIC 121920 121934	sodium sulfate
+T72	SYSTEMATIC 122018 122031	diethyl ether
+T73	SYSTEMATIC 122085 122131	1-(3-methoxy-4-nitrophenyl)-4-methylpiperazine
+T74	FORMULA 122175 122180	CDCl3
+T75	SYSTEMATIC 122309 122352	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T76	SYSTEMATIC 122357 122403	1-(3-methoxy-4-nitrophenyl)-4-methylpiperazine
+T77	SYSTEMATIC 122443 122450	ethanol
+T78	FORMULA 122482 122486	Pd—C
+T79	SYSTEMATIC 122546 122554	hydrogen
+T80	TRIVIAL 122704 122710	celite
+T81	SYSTEMATIC 122738 122781	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T82	FORMULA 122817 122822	CDCl3
+T83	SYSTEMATIC 122966 123060	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-7-(3-nitrophenyl)thieno[3,2-d]pyrimidin-2-amine
+T84	SYSTEMATIC 123065 123114	2-chloro-7-(3-nitrophenyl)thieno[3,2-d]pyrimidine
+T85	SYSTEMATIC 123140 123183	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T86	SYSTEMATIC 123223 123245	2,2,2 trifluoroethanol
+T87	SYSTEMATIC 123264 123286	p-toluenesulfonic acid
+T88	SYSTEMATIC 123288 123293	p-TSA
+T89	FORMULA 123522 123526	NaOH
+T90	FORMULA 123531 123536	CH3OH
+T91	TRIVIAL 123556 123561	Water
+T92	SYSTEMATIC 123634 123647	ethyl acetate
+T93	FORMULA 123660 123666	Na2SO4
+T94	TRIVIAL 123750 123760	Silica gel
+T95	FORMULA 123765 123770	CH3OH
+T96	ABBREVIATION 123774 123777	DCM
+T97	SYSTEMATIC 123807 123901	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-7-(3-nitrophenyl)thieno[3,2-d]pyrimidin-2-amine
+T98	FORMULA 123928 123933	CDCl3
+T99	SYSTEMATIC 124144 124238	7-(3-aminophenyl)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)thieno[3,2-d]pyrimidin-2-amine
+T100	SYSTEMATIC 124243 124337	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-7-(3-nitrophenyl)thieno[3,2-d]pyrimidin-2-amine
+T101	SYSTEMATIC 124376 124384	methanol
+T102	FORMULA 124416 124420	Pd—C
+T103	SYSTEMATIC 124500 124508	hydrogen
+T104	TRIVIAL 124657 124663	celite
+T105	SYSTEMATIC 124708 124802	7-(3-aminophenyl)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)thieno[3,2-d]pyrimidin-2-amine
+T106	FORMULA 124831 124836	CDCl3
+T107	SYSTEMATIC 125074 125178	N-(3-(2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)thieno[3,2-d]pyrimidin-7-yl)phenyl)acrylamide
+T108	SYSTEMATIC 125197 125291	7-(3-aminophenyl)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)thieno[3,2-d]pyrimidin-2-amine
+T109	ABBREVIATION 125331 125334	DCM
+T110	ABBREVIATION 125397 125401	DIEA
+T111	SYSTEMATIC 125488 125505	Acryloyl chloride
+T112	ABBREVIATION 125542 125545	DCM
+T113	ABBREVIATION 125659 125662	DCM
+T114	SYSTEMATIC 125675 125689	sodium sulfate
+T115	TRIVIAL 125768 125778	silica gel
+T116	FORMULA 125793 125798	CH3OH
+T117	ABBREVIATION 125802 125805	DCM
+T118	SYSTEMATIC 125817 125921	N-(3-(2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)thieno[3,2-d]pyrimidin-7-yl)phenyl)acrylamide
+T119	FORMULA 125964 125969	CDCl3
+T120	SYSTEMATIC 126302 126325	2,4-Dichloroquinazoline
+T121	SYSTEMATIC 126357 126377	quinazoline-2,4-diol
+T122	ABBREVIATION 126403 126407	DIEA
+T123	FORMULA 126430 126435	POCl3
+T124	FORMULA 126587 126593	NaHCO3
+T125	SYSTEMATIC 126623 126636	ethyl acetate
+T126	SYSTEMATIC 126683 126697	sodium sulfate
+T127	SYSTEMATIC 126734 126757	2,4-Dichloroquinazoline
+T128	FORMULA 126799 126804	CDCl3
+T129	SYSTEMATIC 126889 126927	2-Chloro-4-(3-nitrophenoxy)quinazoline
+T130	SYSTEMATIC 126949 126963	3-nitro phenol
+T131	SYSTEMATIC 126987 127005	dimethyl formamide
+T132	ABBREVIATION 127007 127010	DMF
+T133	FORMULA 127030 127035	K2CO3
+T134	SYSTEMATIC 127083 127106	2,4-Dichloroquinazoline
+T135	SYSTEMATIC 127265 127278	ethyl acetate
+T136	TRIVIAL 127295 127300	water
+T137	TRIVIAL 127401 127406	brine
+T138	SYSTEMATIC 127429 127443	sodium sulfate
+T139	SYSTEMATIC 127480 127518	2-Chloro-4-(3-nitrophenoxy)quinazoline
+T140	FORMULA 127560 127565	CDCl3
+T141	SYSTEMATIC 127669 127752	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)quinazolin-2-amine
+T142	SYSTEMATIC 127774 127812	2-Chloro-4-(3-nitrophenoxy)quinazoline
+T143	SYSTEMATIC 127839 127850	isopropanol
+T144	ABBREVIATION 127852 127855	IPA
+T145	SYSTEMATIC 127875 127880	p-TSA
+T146	TRIVIAL 128122 128127	water
+T147	SYSTEMATIC 128148 128161	ethyl acetate
+T148	SYSTEMATIC 128208 128222	sodium sulfate
+T149	FORMULA 128339 128344	CH3OH
+T150	ABBREVIATION 128345 128348	DCM
+T151	SYSTEMATIC 128359 128442	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)quinazolin-2-amine
+T152	FORMULA 128487 128492	CDCl3
+T153	SYSTEMATIC 128672 128755	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)quinazolin-2-amine
+T154	SYSTEMATIC 128777 128860	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)quinazolin-2-amine
+T155	SYSTEMATIC 128886 128893	ethanol
+T156	FORMULA 128916 128920	Pd—C
+T157	SYSTEMATIC 128964 128972	hydrogen
+T158	TRIVIAL 129072 129078	celite
+T159	SYSTEMATIC 129092 129099	ethanol
+T160	SYSTEMATIC 129139 129222	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)quinazolin-2-amine
+T161	FORMULA 129251 129256	CDCl3
+T162	SYSTEMATIC 129464 129561	N-(3-((2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)quinazolin-4-yl)oxy)phenyl)acrylamide
+T163	SYSTEMATIC 129578 129661	4-(3-Aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)quinazolin-2-amine
+T164	ABBREVIATION 129701 129704	DCM
+T165	ABBREVIATION 129732 129736	DIEA
+T166	SYSTEMATIC 129832 129849	Acryloyl chloride
+T167	FORMULA 130066 130072	NaHCO3
+T168	SYSTEMATIC 130101 130116	dichloromethane
+T169	FORMULA 130277 130282	CH3OH
+T170	ABBREVIATION 130283 130286	DCM
+T171	SYSTEMATIC 130453 130550	N-(3-((2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)quinazolin-4-yl)oxy)phenyl)acrylamide
+T172	FORMULA 130615 130620	CDCl3
+T173	SYSTEMATIC 130911 130952	4,6-dichloro-1H-pyrazolo[3,4-d]pyrimidine
+T174	FORMULA 130957 130962	POCl3
+T175	SYSTEMATIC 130988 131007	N,N-diethyl aniline
+T176	SYSTEMATIC 131044 131089	1H-pyrazolo[3,4-d]pyrimidine-4,6(5H,7H)-dione
+T177	TRIVIAL 131345 131348	ice
+T178	TRIVIAL 131423 131429	celite
+T179	SYSTEMATIC 131514 131527	diethyl ether
+T180	FORMULA 131710 131715	CDCl3
+T181	SYSTEMATIC 131755 131825	4,6-dichloro-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T182	SYSTEMATIC 131830 131871	4,6-dichloro-1H-pyrazolo[3,4-d]pyrimidine
+T183	SYSTEMATIC 131895 131907	dihydropyran
+T184	ABBREVIATION 131909 131912	DHP
+T185	SYSTEMATIC 131927 131932	p-TSA
+T186	SYSTEMATIC 131957 131970	ethyl acetate
+T187	SYSTEMATIC 132177 132190	ethyl acetate
+T188	TRIVIAL 132204 132209	water
+T189	SYSTEMATIC 132232 132246	sodium sulfate
+T190	FORMULA 132366 132371	EtOAc
+T191	SYSTEMATIC 132372 132378	hexane
+T192	SYSTEMATIC 132389 132459	4,6-dichloro-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T193	FORMULA 132495 132500	CDCl3
+T194	SYSTEMATIC 132692 132777	6-chloro-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T195	SYSTEMATIC 132782 132852	4,6-dichloro-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T196	SYSTEMATIC 132876 132895	potassium carbonate
+T197	ABBREVIATION 132925 132928	DMF
+T198	SYSTEMATIC 132965 132979	3-nitro phenol
+T199	TRIVIAL 133221 133226	water
+T200	SYSTEMATIC 133305 133318	ethyl acetate
+T201	TRIVIAL 133366 133371	brine
+T202	SYSTEMATIC 133394 133408	sodium sulfate
+T203	TRIVIAL 133496 133506	silica gel
+T204	FORMULA 133517 133522	EtOAc
+T205	SYSTEMATIC 133523 133529	hexane
+T206	SYSTEMATIC 133540 133625	6-chloro-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T207	FORMULA 133661 133666	CDCl3
+T208	SYSTEMATIC 133896 134026	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T209	SYSTEMATIC 134031 134116	6-chloro-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidine
+T210	SYSTEMATIC 134140 134183	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T211	FORMULA 134206 134214	Pd(OAc)2
+T212	IDENTIFIER 134234 134240	X-phos
+T213	FORMULA 134264 134270	Cs2CO3
+T214	SYSTEMATIC 134307 134322	tetrahydrofuran
+T215	ABBREVIATION 134324 134327	THF
+T216	TRIVIAL 134559 134564	water
+T217	SYSTEMATIC 134622 134635	ethyl acetate
+T218	SYSTEMATIC 134685 134699	sodium sulfate
+T219	FORMULA 134815 134819	MeOH
+T220	ABBREVIATION 134820 134823	DCM
+T221	SYSTEMATIC 134834 134965	N-(2-methoxy-4-(4-methyl piperazin-1-yl)phenyl)-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T222	FORMULA 135000 135005	CDCl3
+T223	SYSTEMATIC 135306 135436	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T224	SYSTEMATIC 135441 135571	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T225	FORMULA 135622 135627	EtOAC
+T226	FORMULA 135628 135633	CH3OH
+T227	FORMULA 135670 135674	PtO2
+T228	SYSTEMATIC 135772 135780	hydrogen
+T229	TRIVIAL 135920 135926	celite
+T230	SYSTEMATIC 135940 135953	ethyl acetate
+T231	SYSTEMATIC 136002 136132	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T232	FORMULA 136197 136202	CDCl3
+T233	SYSTEMATIC 136552 136696	N-(3-((6-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl)oxy)phenyl)acrylamide
+T234	SYSTEMATIC 136718 136848	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine
+T235	ABBREVIATION 136879 136882	DCM
+T236	SYSTEMATIC 136902 136928	N,N,-diisopropylethylamine
+T237	ABBREVIATION 136930 136934	DIEA
+T238	SYSTEMATIC 137075 137092	acryloyl chloride
+T239	ABBREVIATION 137129 137132	DCM
+T240	SYSTEMATIC 137354 137372	sodium bicarbonate
+T241	SYSTEMATIC 137401 137416	dichloromethane
+T242	SYSTEMATIC 137473 137487	sodium sulfate
+T243	FORMULA 137564 137568	MeOH
+T244	ABBREVIATION 137569 137572	DCM
+T245	SYSTEMATIC 137584 137728	N-(3-((6-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl)oxy)phenyl)acrylamide
+T246	ABBREVIATION 137783 137787	DMSO
+T247	SYSTEMATIC 138193 138308	N-(3-((6-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1H-pyrazolo[3,4-d]pyrimidin-4-yl)oxy)phenyl)acrylamide
+T248	SYSTEMATIC 138342 138486	N-(3-((6-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl)oxy)phenyl)acrylamide
+T249	SYSTEMATIC 138513 138521	methanol
+T250	FORMULA 138542 138545	HCl
+T251	SYSTEMATIC 138549 138556	dioxane
+T252	SYSTEMATIC 138797 138810	diethyl ether
+T253	SYSTEMATIC 138830 138945	N-(3-((6-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1H-pyrazolo[3,4-d]pyrimidin-4-yl)oxy)phenyl)acrylamide
+T254	FORMULA 138949 138952	HCl
+T255	SYSTEMATIC 139003 139010	ammonia
+T256	ABBREVIATION 139170 139173	TFA
+T257	FORMULA 139266 139271	CD3OD
+T258	SYSTEMATIC 139543 139599	2-chloro-4-(3-nitrophenoxy)pyrrolo[2,1-f][1,2,4]triazine
+T259	SYSTEMATIC 139604 139645	2,4-dichloropyrrolo[2,1-f][1,2,4]triazine
+T260	ABBREVIATION 139682 139685	DMF
+T261	FORMULA 139717 139722	K2CO3
+T262	SYSTEMATIC 139747 139761	3-nitro phenol
+T263	TRIVIAL 139953 139956	ice
+T264	SYSTEMATIC 140047 140103	2-chloro-4-(3-nitrophenoxy)pyrrolo[2,1-f][1,2,4]triazine
+T265	FORMULA 140160 140165	CDCl3
+T266	SYSTEMATIC 140281 140383	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitro phenoxy)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T267	SYSTEMATIC 140405 140461	2-chloro-4-(3-nitrophenoxy)pyrrolo[2,1-f][1,2,4]triazine
+T268	FORMULA 140485 140491	2-BuOH
+T269	SYSTEMATIC 140510 140553	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T270	FORMULA 140578 140587	Pd2(dba)3
+T271	IDENTIFIER 140609 140615	X-phos
+T272	FORMULA 140639 140644	K2CO3
+T273	TRIVIAL 140863 140868	water
+T274	SYSTEMATIC 140889 140902	ethyl acetate
+T275	SYSTEMATIC 140959 140973	sodium sulfate
+T276	SYSTEMATIC 141089 141102	ethyl acetate
+T277	SYSTEMATIC 141113 141214	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T278	FORMULA 141264 141269	CDCl3
+T279	SYSTEMATIC 141457 141558	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T280	SYSTEMATIC 141580 141681	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T281	SYSTEMATIC 141707 141714	ethanol
+T282	FORMULA 141737 141741	Pd—C
+T283	SYSTEMATIC 141811 141819	hydrogen
+T284	TRIVIAL 141970 141976	celite
+T285	SYSTEMATIC 141993 142000	ethanol
+T286	SYSTEMATIC 142006 142013	ethanol
+T287	SYSTEMATIC 142067 142168	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T288	FORMULA 142228 142233	CDCl3
+T289	SYSTEMATIC 142416 142531	N-(3-((2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)pyrrolo[2,1-f][1,2,4]triazin-4-yl)oxy)phenyl)acrylamide
+T290	SYSTEMATIC 142565 142666	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrrolo[2,1-f][1,2,4]triazin-2-amine
+T291	ABBREVIATION 142696 142699	DCM
+T292	ABBREVIATION 142708 142712	DIEA
+T293	SYSTEMATIC 142853 142870	acryloyl chloride
+T294	ABBREVIATION 142908 142911	DCM
+T295	SYSTEMATIC 143131 143149	sodium bicarbonate
+T296	SYSTEMATIC 143178 143193	dichloromethane
+T297	SYSTEMATIC 143240 143254	sodium sulfate
+T298	FORMULA 143308 143312	MeOH
+T299	ABBREVIATION 143313 143316	DCM
+T300	FORMULA 143405 143410	CD3OD
+T301	SYSTEMATIC 143744 143790	ethyl 5-chloro-1,3,4-thiadiazole-2-carboxylate
+T302	SYSTEMATIC 143798 143816	Ethyl diazoacetate
+T303	SYSTEMATIC 143854 143866	acetonitrile
+T304	SYSTEMATIC 143917 143929	Thiophosgene
+T305	FORMULA 144285 144290	EtOAc
+T306	SYSTEMATIC 144291 144297	hexane
+T307	SYSTEMATIC 144308 144354	ethyl 5-chloro-1,3,4-thiadiazole-2-carboxylate
+T308	FORMULA 144390 144395	CDCl3
+T309	SYSTEMATIC 144449 144540	ethyl 5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylate
+T310	SYSTEMATIC 144545 144591	Ethyl 5-chloro-1,3,4-thiadiazole-2-carboxylate
+T311	SYSTEMATIC 144613 144657	2-methoxy-4-(4-methyl piperazin-1-yl)aniline
+T312	SYSTEMATIC 144684 144689	p-TSA
+T313	ABBREVIATION 144724 144727	IPA
+T314	FORMULA 145006 145012	NaHCO3
+T315	SYSTEMATIC 145041 145054	ethyl acetate
+T316	SYSTEMATIC 145101 145115	sodium sulfate
+T317	FORMULA 145230 145234	MeOH
+T318	ABBREVIATION 145235 145238	DCM
+T319	SYSTEMATIC 145249 145340	ethyl 5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylate
+T320	FORMULA 145375 145380	CDCl3
+T321	SYSTEMATIC 145548 145637	5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylic acid
+T322	SYSTEMATIC 145642 145733	Ethyl 5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylate
+T323	ABBREVIATION 145769 145772	THF
+T324	FORMULA 145800 145808	LiOH.H2O
+T325	TRIVIAL 145840 145845	water
+T326	TRIVIAL 146132 146137	water
+T327	FORMULA 146161 146164	HCl
+T328	SYSTEMATIC 146225 146314	5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylic acid
+T329	ABBREVIATION 146349 146353	DMSO
+T330	SYSTEMATIC 146502 146606	N-methoxy-5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-N-methyl-1,3,4-thiadiazole-2-carboxamide
+T331	SYSTEMATIC 146611 146700	5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carboxylic acid
+T332	ABBREVIATION 146743 146746	DCM
+T333	SYSTEMATIC 146774 146789	Oxalyl chloride
+T334	ABBREVIATION 146926 146929	DMF
+T335	SYSTEMATIC 147039 147079	N,O-dimethyl hydroxylamine hydrochloride
+T336	ABBREVIATION 147117 147120	DCM
+T337	SYSTEMATIC 147177 147190	triethylamine
+T338	SYSTEMATIC 147274 147289	oxalyl chloride
+T339	SYSTEMATIC 147370 147378	chloride
+T340	ABBREVIATION 147395 147398	DCM
+T341	SYSTEMATIC 147447 147460	Weinrib amide
+T342	TRIVIAL 147643 147648	water
+T343	ABBREVIATION 147668 147671	DCM
+T344	SYSTEMATIC 147718 147732	sodium sulfate
+T345	SYSTEMATIC 147781 147885	N-methoxy-5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-N-methyl-1,3,4-thiadiazole-2-carboxamide
+T346	FORMULA 147946 147951	CDCl3
+T347	SYSTEMATIC 148090 148191	(3-aminophenyl)(5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazol-2-yl)methanone
+T348	SYSTEMATIC 148196 148300	N-methoxy-5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-N-methyl-1,3,4-thiadiazole-2-carboxamide
+T349	ABBREVIATION 148337 148340	THF
+T350	SYSTEMATIC 148401 148455	(3-(bis(trimethylsilyl)amino)phenyl)magnesium chloride
+T351	TRIVIAL 148706 148711	water
+T352	SYSTEMATIC 148731 148744	ethyl acetate
+T353	SYSTEMATIC 148791 148805	sodium sulfate
+T354	SYSTEMATIC 148915 149016	(3-aminophenyl)(5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazol-2-yl)methanone
+T355	FORMULA 149050 149055	CDCl3
+T356	SYSTEMATIC 149241 149347	N-(3-(5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazole-2-carbonyl)phenyl)acrylamide
+T357	SYSTEMATIC 149364 149466	(3-aminophenyl) (5-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-1,3,4-thiadiazol-2-yl)methanone
+T358	ABBREVIATION 149506 149509	DCM
+T359	ABBREVIATION 149536 149540	DIEA
+T360	SYSTEMATIC 149633 149650	Acryloyl chloride
+T361	TRIVIAL 149881 149886	water
+T362	SYSTEMATIC 149906 149921	dichloromethane
+T363	SYSTEMATIC 149968 149982	sodium sulfate
+T364	FORMULA 150091 150095	MeOH
+T365	ABBREVIATION 150096 150099	DCM
+T366	FORMULA 150155 150160	CDCl3
+T367	SYSTEMATIC 150426 150531	2,5-dichloro-4-(3-fluoro-5-nitrophenoxy)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidine
+T368	SYSTEMATIC 150557 150637	2,4,5-trichloro-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidine
+T369	ABBREVIATION 150663 150666	DMF
+T370	SYSTEMATIC 150684 150707	3-fluoro-5-nitro phenol
+T371	SYSTEMATIC 150728 150747	potassium carbonate
+T372	TRIVIAL 150865 150870	water
+T373	SYSTEMATIC 150897 150910	ethyl acetate
+T374	TRIVIAL 150942 150947	brine
+T375	SYSTEMATIC 150970 150984	sodium sulfate
+T376	FORMULA 151073 151078	EtOAc
+T377	SYSTEMATIC 151079 151085	hexane
+T378	SYSTEMATIC 151096 151201	2,5-dichloro-4-(3-fluoro-5-nitrophenoxy)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidine
+T379	FORMULA 151249 151254	CDCl3
+T380	SYSTEMATIC 151411 151567	5-chloro-4-(3-fluoro-5-nitrophenoxy)-N-(2-methoxy-4-(4-methyl piperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T381	SYSTEMATIC 151593 151698	2,5-dichloro-4-(3-fluoro-5-nitrophenoxy)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidine
+T382	SYSTEMATIC 151724 151730	t-BuOH
+T383	SYSTEMATIC 151740 151783	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T384	FORMULA 151808 151817	Pd2(dba)3
+T385	IDENTIFIER 151838 151844	X-PHOS
+T386	FORMULA 151865 151870	K2CO3
+T387	TRIVIAL 152066 152071	water
+T388	SYSTEMATIC 152098 152111	ethyl acetate
+T389	TRIVIAL 152143 152148	brine
+T390	SYSTEMATIC 152171 152185	sodium sulfate
+T391	FORMULA 152274 152278	MeOH
+T392	ABBREVIATION 152279 152282	DCM
+T393	SYSTEMATIC 152293 152448	5-chloro-4-(3-fluoro-5-nitrophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T394	FORMULA 152485 152490	CDCl3
+T395	SYSTEMATIC 152760 152916	4-(3-amino-5-fluorophenoxy)-5-chloro-N-(2-methoxy-4-(4-methyl piperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T396	SYSTEMATIC 152942 153098	5-chloro-4-(3-fluoro-5-nitrophenoxy)-N-(2-methoxy-4-(4-methyl piperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T397	SYSTEMATIC 153126 153133	ethanol
+T398	FORMULA 153152 153157	SnCl2
+T399	SYSTEMATIC 153341 153359	sodium bicarbonate
+T400	SYSTEMATIC 153385 153398	ethyl acetate
+T401	SYSTEMATIC 153439 153453	sodium sulfate
+T402	SYSTEMATIC 153502 153658	4-(3-amino-5-fluorophenoxy)-5-chloro-N-(2-methoxy-4-(4-methyl piperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T403	FORMULA 153694 153699	CDCl3
+T404	SYSTEMATIC 153903 154073	N-(3-((5-chloro-2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl)oxy)-5-fluoro phenyl)acrylamide
+T405	SYSTEMATIC 154091 154246	4-(3-amino-5-fluorophenoxy)-5-chloro-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+T406	ABBREVIATION 154273 154276	DCM
+T407	ABBREVIATION 154295 154299	DIEA
+T408	SYSTEMATIC 154351 154368	Acryloyl chloride
+T409	ABBREVIATION 154392 154395	DCM
+T410	SYSTEMATIC 154579 154597	sodium bicarbonate
+T411	SYSTEMATIC 154623 154638	dichloromethane
+T412	SYSTEMATIC 154679 154693	sodium sulfate
+T413	FORMULA 154782 154786	MeOH
+T414	ABBREVIATION 154787 154790	DCM
+T415	SYSTEMATIC 154801 154970	N-(3-((5-chloro-2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl)oxy)-5-fluorophenyl)acrylamide
+T416	FORMULA 155024 155029	CDCl3
+T417	SYSTEMATIC 155320 155452	N-(3-((5-chloro-2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl)oxy)-5-fluorophenyl)acrylamide
+T418	SYSTEMATIC 155470 155639	N-(3-((5-chloro-2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)-7-((2-(trimethylsilyl)ethoxy)methyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl)oxy)-5-fluorophenyl)acrylamide
+T419	ABBREVIATION 155665 155668	DCM
+T420	ABBREVIATION 155686 155689	TFA
+T421	SYSTEMATIC 155877 155895	sodium bicarbonate
+T422	SYSTEMATIC 155921 155934	ethyl acetate
+T423	SYSTEMATIC 155975 155989	sodium sulfate
+T424	ABBREVIATION 156051 156054	DCM
+T425	FORMULA 156153 156158	CDCl3
+T426	SYSTEMATIC 156507 156552	ethyl 1H-pyrazol-5-yl carbamothioyl carbamate
+T427	SYSTEMATIC 156553 156583	Ethoxy carbonyl isothiocyanate
+T428	SYSTEMATIC 156619 156635	3-amino pyrazole
+T429	SYSTEMATIC 156659 156666	acetone
+T430	TRIVIAL 156782 156787	water
+T431	TRIVIAL 156882 156887	water
+T432	SYSTEMATIC 156908 156953	ethyl 1H-pyrazol-5-yl carbamothioyl carbamate
+T433	SYSTEMATIC 157026 157085	2-thioxo-2,3-dihydropyrazolo[1,5-a][1,3,5]triazin-4(1H)-one
+T434	SYSTEMATIC 157086 157131	Ethyl 1H-pyrazol-5-yl carbamothioyl carbamate
+T435	FORMULA 157167 157171	NaOH
+T436	FORMULA 157253 157260	2NH2SO4
+T437	TRIVIAL 157339 157344	water
+T438	SYSTEMATIC 157357 157370	diethyl ether
+T439	SYSTEMATIC 157391 157450	2-thioxo-2,3-dihydropyrazolo[1,5-a][1,3,5]triazin-4(1H)-one
+T440	ABBREVIATION 157483 157487	DMSO
+T441	SYSTEMATIC 157541 157594	2-(methylthio)pyrazolo[1,5-a][1,3,5]triazin-4(3H)-one
+T442	FORMULA 157598 157602	NaOH
+T443	SYSTEMATIC 157649 157708	2-thioxo-2,3-dihydropyrazolo[1,5-a][1,3,5]triazin-4(1H)-one
+T444	SYSTEMATIC 157732 157739	ethanol
+T445	SYSTEMATIC 157749 157762	Methyl iodide
+T446	TRIVIAL 157904 157909	water
+T447	FORMULA 157938 157945	2NH2SO4
+T448	TRIVIAL 158064 158069	water
+T449	SYSTEMATIC 158095 158148	2-(methylthio)pyrazolo[1,5-a][1,3,5]triazin-4(3H)-one
+T450	ABBREVIATION 158181 158185	DMSO
+T451	SYSTEMATIC 158253 158306	4-chloro-2-(methylthio)pyrazolo[1,5-a][1,3,5]triazine
+T452	SYSTEMATIC 158307 158327	N,N-dimethyl aniline
+T453	SYSTEMATIC 158367 158420	2-(methylthio)pyrazolo[1,5-a][1,3,5]triazin-4(3H)-one
+T454	FORMULA 158443 158448	POCl3
+T455	TRIVIAL 158625 158630	water
+T456	TRIVIAL 158713 158718	water
+T457	SYSTEMATIC 158720 158726	hexane
+T458	SYSTEMATIC 158747 158800	4-chloro-2-(methylthio)pyrazolo[1,5-a][1,3,5]triazine
+T459	FORMULA 158835 158840	CDCl3
+T460	SYSTEMATIC 158908 158971	2-(methylthio)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T461	SYSTEMATIC 158972 159025	4-chloro-2-(methylthio)pyrazolo[1,5-a][1,3,5]triazine
+T462	SYSTEMATIC 159046 159060	3-nitro phenol
+T463	SYSTEMATIC 159084 159103	potassium carbonate
+T464	ABBREVIATION 159141 159144	DMF
+T465	TRIVIAL 159244 159249	water
+T466	SYSTEMATIC 159279 159292	ethyl acetate
+T467	TRIVIAL 159324 159329	brine
+T468	SYSTEMATIC 159352 159366	sodium sulfate
+T469	SYSTEMATIC 159415 159478	2-(methylthio)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T470	ABBREVIATION 159514 159518	DMSO
+T471	SYSTEMATIC 159643 159710	2-(methylsulfonyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T472	ABBREVIATION 159711 159717	m-CPBA
+T473	SYSTEMATIC 159749 159812	2-(methylthio)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T474	ABBREVIATION 159837 159840	DCE
+T475	SYSTEMATIC 160022 160035	diethyl ether
+T476	SYSTEMATIC 160086 160153	2-(methylsulfonyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T477	FORMULA 160204 160209	CDCl3
+T478	SYSTEMATIC 160334 160436	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T479	SYSTEMATIC 160437 160504	2-(methylsulfonyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazine
+T480	SYSTEMATIC 160529 160572	2-methoxy-4-(4-methylpiperazin-1-yl)aniline
+T481	FORMULA 160598 160601	CuI
+T482	SYSTEMATIC 160623 160632	L-proline
+T483	FORMULA 160656 160661	K3PO4
+T484	ABBREVIATION 160685 160688	DMF
+T485	TRIVIAL 160807 160812	water
+T486	SYSTEMATIC 160842 160855	ethyl acetate
+T487	TRIVIAL 160887 160892	brine
+T488	SYSTEMATIC 160915 160929	sodium sulfate
+T489	FORMULA 161030 161034	MeOH
+T490	ABBREVIATION 161035 161038	DCM
+T491	SYSTEMATIC 161049 161151	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T492	FORMULA 161187 161192	CD3OD
+T493	SYSTEMATIC 161383 161485	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T494	SYSTEMATIC 161486 161588	N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)-4-(3-nitrophenoxy)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T495	SYSTEMATIC 161615 161632	stannous chloride
+T496	SYSTEMATIC 161664 161671	ethanol
+T497	FORMULA 161845 161851	NaHCO3
+T498	SYSTEMATIC 161877 161890	ethyl acetate
+T499	SYSTEMATIC 161931 161945	sodium sulfate
+T500	SYSTEMATIC 161994 162096	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T501	FORMULA 162167 162172	CDCl3
+T502	SYSTEMATIC 162363 162479	N-(3-((2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino)pyrazolo[1,5-a][1,3,5]triazin-4-yl)oxy)phenyl)acrylamide
+T503	SYSTEMATIC 162480 162582	4-(3-aminophenoxy)-N-(2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)pyrazolo[1,5-a][1,3,5]triazin-2-amine
+T504	ABBREVIATION 162619 162622	DCM
+T505	ABBREVIATION 162632 162636	DIEA
+T506	SYSTEMATIC 162699 162716	Acryloyl chloride
+T507	ABBREVIATION 162742 162745	DCM
+T508	FORMULA 162895 162901	NaHCO3
+T509	SYSTEMATIC 162972 162986	sodium sulfate
+T510	FORMULA 163076 163080	MeOH
+T511	ABBREVIATION 163082 163085	DCM
+T512	SYSTEMATIC 163096 163213	N-(3-((2-((2-methoxy-4-(4-methylpiperazin-1-yl)phenyl)amino) pyrazolo[1,5-a][1,3,5]triazin-4-yl)oxy)phenyl)acrylamide
+T513	FORMULA 163260 163265	CD3OD

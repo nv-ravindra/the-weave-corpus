@@ -1,0 +1,186 @@
+T1	SYSTEMATIC 19665 19754	(Z)-6-Fluoro-3-((1-methyl-1H-1,2,4-triazol-5-yl)methylene)-4-nitroisobenzofuran-1(3H)-one
+T2	SYSTEMATIC 19855 19863	nitrogen
+T3	SYSTEMATIC 19902 19926	2-methyl-tetrahydrofuran
+T4	SYSTEMATIC 19938 19977	6-fluoro-4-nitroisobenzofuran-1(3H)-one
+T5	SYSTEMATIC 20016 20057	2-methyl-2H-1,2,4-triazole-3-carbaldehyde
+T6	SYSTEMATIC 20087 20102	dichloromethane
+T7	SYSTEMATIC 20172 20185	Triethylamine
+T8	SYSTEMATIC 20323 20339	Acetic anhydride
+T9	SYSTEMATIC 20893 20906	ethyl acetate
+T10	SYSTEMATIC 21001 21090	(Z)-6-fluoro-3-((1-methyl-1H-1,2,4-triazol-3-yl)methylene)-4-nitroisobenzofuran-1(3H)-one
+T11	ABBREVIATION 21212 21219	DMSO-d6
+T12	SYSTEMATIC 21366 21442	Methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T13	SYSTEMATIC 21458 21547	(Z)-6-Fluoro-3-((l-methyl-1H-1,2,4-triazol-3-yl)methylene)-4-nitroisobenzofuran-1(3H)-one
+T14	FORMULA 21583 21586	HCl
+T15	SYSTEMATIC 21595 21603	methanol
+T16	SYSTEMATIC 21713 21721	nitrogen
+T17	SYSTEMATIC 21963 22054	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazole-3-yl)acetyl)-3-nitrobenzoate hydrochloride
+T18	ABBREVIATION 22219 22226	DMSO-d6
+T19	ABBREVIATION 22598 22601	THF
+T20	SYSTEMATIC 22626 22633	heptane
+T21	SYSTEMATIC 22744 22833	(Z)-6-fluoro-3-((1-methyl-1H-1,2,4-triazol-3-yl)methylene)-4-nitroisobenzofuran-1 (3M-one
+T22	SYSTEMATIC 22887 22978	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazole-3-yl)acetyl)-3-nitrobenzoate hydrochloride
+T23	SYSTEMATIC 22994 23111	Methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T24	SYSTEMATIC 23146 23222	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T25	SYSTEMATIC 23255 23275	4-fluorobenzaldehyde
+T26	SYSTEMATIC 23328 23343	tetrahydrofuran
+T27	FORMULA 23356 23360	MeOH
+T28	SYSTEMATIC 23378 23400	titanium(III) chloride
+T29	SYSTEMATIC 23425 23442	Hydrochloric acid
+T30	TRIVIAL 23604 23609	water
+T31	SYSTEMATIC 23666 23679	ethyl acetate
+T32	FORMULA 23747 23753	NaHCO3
+T33	FORMULA 23776 23782	NaHSO3
+T34	FORMULA 23804 23810	Na2SO4
+T35	FAMILY 23892 23907	petroleum ether
+T36	FORMULA 24044 24049	CDCl3
+T37	SYSTEMATIC 24390 24407	isopropyl acetate
+T38	TRIVIAL 24431 24436	water
+T39	SYSTEMATIC 24495 24512	isopropyl acetate
+T40	FAMILY 24518 24526	heptanes
+T41	ABBREVIATION 24554 24558	MTBE
+T42	SYSTEMATIC 24599 24675	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T43	SYSTEMATIC 24780 24856	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T44	SYSTEMATIC 24882 24902	4-fluorobenzaldehyde
+T45	SYSTEMATIC 24923 24931	methanol
+T46	SYSTEMATIC 24946 24961	tetrahydrofuran
+T47	FORMULA 24994 24997	HCl
+T48	FORMULA 25048 25050	Fe
+T49	SYSTEMATIC 25349 25362	ethyl acetate
+T50	TRIVIAL 25375 25380	water
+T51	SYSTEMATIC 25430 25443	ethyl acetate
+T52	FORMULA 25497 25503	Na2SO4
+T53	SYSTEMATIC 25566 25579	ethyl acetate
+T54	FAMILY 25580 25595	petroleum ether
+T55	FORMULA 25722 25727	CDCl3
+T56	SYSTEMATIC 25903 25979	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T57	SYSTEMATIC 26005 26025	4-fluorobenzaldehyde
+T58	SYSTEMATIC 26046 26054	methanol
+T59	SYSTEMATIC 26069 26084	tetrahydrofuran
+T60	FORMULA 26104 26109	SnCl2
+T61	FORMULA 26145 26148	HCl
+T62	SYSTEMATIC 26374 26387	ethyl acetate
+T63	TRIVIAL 26400 26405	water
+T64	SYSTEMATIC 26455 26468	ethyl acetate
+T65	FORMULA 26522 26528	Na2SO4
+T66	SYSTEMATIC 26591 26604	ethyl acetate
+T67	FAMILY 26605 26620	petroleum ether
+T68	FORMULA 26747 26752	CDCl3
+T69	SYSTEMATIC 26917 26993	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T70	SYSTEMATIC 27019 27039	4-fluorobenzaldehyde
+T71	SYSTEMATIC 27060 27068	methanol
+T72	SYSTEMATIC 27081 27092	acetic acid
+T73	SYSTEMATIC 27151 27159	hydrogen
+T74	FORMULA 27214 27218	Pd/C
+T75	TRIVIAL 27328 27334	Celite
+T76	SYSTEMATIC 27425 27438	ethyl acetate
+T77	FAMILY 27439 27454	petroleum ether
+T78	ABBREVIATION 27578 27585	DMSO-d6
+T79	SYSTEMATIC 27722 27836	5-Fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T80	SYSTEMATIC 27841 27958	Methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T81	SYSTEMATIC 27994 28002	methanol
+T82	SYSTEMATIC 28101 28109	nitrogen
+T83	SYSTEMATIC 28196 28213	Hydrazine hydrate
+T84	SYSTEMATIC 28555 28563	methanol
+T85	SYSTEMATIC 28679 28687	methanol
+T86	ABBREVIATION 28911 28918	DMSO-d6
+T87	SYSTEMATIC 29132 29211	5-Amino-7-fluoro-4-((l-methyl-1H-1,2,4-triazol-5-yl)methyl)phthalazin-1(2H)-one
+T88	SYSTEMATIC 29229 29315	6-fluoro-3-((1-methyl-1H-1,2,4-triazol-3-yl)methylene)-4-nitroiso-benzofuran-1(3H)-one
+T89	ABBREVIATION 29341 29344	THF
+T90	SYSTEMATIC 29364 29385	hydrazine monohydrate
+T91	SYSTEMATIC 29425 29433	nitrogen
+T92	SYSTEMATIC 29488 29499	acetic acid
+T93	TRIVIAL 29619 29624	water
+T94	SYSTEMATIC 29653 29666	ethyl acetate
+T95	FORMULA 29722 29728	Na2SO4
+T96	SYSTEMATIC 29861 29965	(E)-7-fluoro-5-(4-fluorobenzylideneamino)-4-((1-methyl-1H-1,2,4-triazol-5-yl)methyl)phthalazin-1(2H)-one
+T97	SYSTEMATIC 29984 30064	5-amino-7-fluoro-4-((l-methyl-1H-1,2,4-triazol-3-yl)methyl) phthalazin-1(2H)-one
+T98	SYSTEMATIC 30090 30102	acetonitrile
+T99	SYSTEMATIC 30121 30141	4-fluorobenzaldehyde
+T100	SYSTEMATIC 30205 30213	nitrogen
+T101	SYSTEMATIC 30296 30309	ethyl acetate
+T102	SYSTEMATIC 30310 30316	hexane
+T103	SYSTEMATIC 30463 30577	5-Fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T104	SYSTEMATIC 30601 30705	(E)-7-fluoro-5-(4-fluorobenzylideneamino)-4-((1-methyl-1H-1,2,4-triazol-5-yl)methyl)phthalazin-1(2H)-one
+T105	ABBREVIATION 30731 30734	THF
+T106	SYSTEMATIC 30753 30769	cesium carbonate
+T107	TRIVIAL 30911 30916	water
+T108	SYSTEMATIC 30944 30957	ethyl acetate
+T109	FORMULA 31023 31029	Na2SO4
+T110	ABBREVIATION 31168 31175	DMSO-d6
+T111	SYSTEMATIC 31389 31490	(E)-Methyl 5-fluoro-2-(3-(4-fluorophenyl)-2-(1-methyl-1H-1,2,4-triazol-5-yl)acryloyl)-3-nitrobenzoate
+T112	SYSTEMATIC 31520 31596	methyl 5-fluoro-2-(2-(1-methyl-1H-1,2,4-triazol-5-yl)acetyl)-3-nitrobenzoate
+T113	SYSTEMATIC 31622 31642	4-fluorobenzaldehyde
+T114	SYSTEMATIC 31663 31680	dimethylsulfoxide
+T115	SYSTEMATIC 31698 31707	L-proline
+T116	SYSTEMATIC 31844 31857	ethyl acetate
+T117	TRIVIAL 31870 31875	water
+T118	TRIVIAL 31923 31928	water
+T119	FORMULA 31951 31957	Na2SO4
+T120	SYSTEMATIC 32021 32034	ethyl acetate
+T121	FAMILY 32035 32050	petroleum ether
+T122	ABBREVIATION 32176 32183	DMSO-d6
+T123	SYSTEMATIC 32321 32448	Methyl 7-fluoro-2-(4-fluorophenyl)-1-hydroxy-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T124	SYSTEMATIC 32471 32572	(E)-Methyl 5-fluoro-2-(3-(4-fluorophenyl)-2-(1-methyl-1H-1,2,4-triazol-5-yl)acryloyl)-3-nitrobenzoate
+T125	SYSTEMATIC 32601 32609	methanol
+T126	FORMULA 32632 32636	Pd/C
+T127	FORMULA 32696 32698	H2
+T128	SYSTEMATIC 32859 32872	ethyl acetate
+T129	FAMILY 32873 32888	petroleum ether
+T130	ABBREVIATION 33014 33021	DMSO-d6
+T131	SYSTEMATIC 33187 33304	Methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T132	SYSTEMATIC 33334 33461	methyl 7-fluoro-2-(4-fluorophenyl)-1-hydroxy-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T133	SYSTEMATIC 33490 33498	methanol
+T134	FORMULA 33529 33532	HCl
+T135	FORMULA 33581 33583	Fe
+T136	SYSTEMATIC 33756 33769	ethyl acetate
+T137	TRIVIAL 33782 33787	water
+T138	SYSTEMATIC 33842 33855	ethyl acetate
+T139	FORMULA 33909 33915	Na2SO4
+T140	SYSTEMATIC 33978 33991	ethyl acetate
+T141	FAMILY 33992 34007	petroleum ether
+T142	FORMULA 34133 34138	CDCl3
+T143	SYSTEMATIC 34289 34406	Methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T144	SYSTEMATIC 34428 34529	(E)-Methyl 5-fluoro-2-(3-(4-fluorophenyl)-2-(1-methyl-1H-1,2,4-triazol-5-yl)acryloyl)-3-nitrobenzoate
+T145	SYSTEMATIC 34556 34564	methanol
+T146	FORMULA 34595 34598	HCl
+T147	FORMULA 34640 34642	Fe
+T148	FORMULA 34872 34878	NaHCO3
+T149	SYSTEMATIC 34907 34920	ethyl acetate
+T150	SYSTEMATIC 34976 34989	ethyl acetate
+T151	FAMILY 34990 35005	petroleum ether
+T152	ABBREVIATION 35129 35136	DMSO-d6
+T153	SYSTEMATIC 35274 35396	(8R,9S)-5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T154	SYSTEMATIC 35406 35528	(8S,9R)-5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T155	SYSTEMATIC 35557 35671	5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T156	FORMULA 35776 35779	CO2
+T157	SYSTEMATIC 35780 35788	methanol
+T158	SYSTEMATIC 35789 35801	diethylamine
+T159	FORMULA 36034 36037	CO2
+T160	SYSTEMATIC 36038 36046	methanol
+T161	SYSTEMATIC 36047 36059	diethylamine
+T162	SYSTEMATIC 36131 36256	(2R,3R)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T163	SYSTEMATIC 36266 36391	(2S,3S)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T164	FORMULA 36535 36538	CO2
+T165	FORMULA 36539 36543	MeOH
+T166	SYSTEMATIC 36742 36750	methanol
+T167	FORMULA 36996 36999	CO2
+T168	FORMULA 37000 37004	MeOH
+T169	FORMULA 37200 37203	CO2
+T170	FORMULA 37204 37208	MeOH
+T171	SYSTEMATIC 37413 37421	methanol
+T172	SYSTEMATIC 37647 37659	acetonitrile
+T173	SYSTEMATIC 37856 37978	(8R,9S)-5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T174	SYSTEMATIC 37988 38110	(8S,9R)-5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-8,9-dihydro-2H-pyrido[4,3,2-de]phthalazin-3(7H)-one
+T175	SYSTEMATIC 38145 38270	(2R,3R)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T176	SYSTEMATIC 38279 38404	(2S,3S)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T177	SYSTEMATIC 38432 38439	ethanol
+T178	SYSTEMATIC 38459 38480	hydrazine monohydrate
+T179	SYSTEMATIC 38668 38675	ethanol
+T180	ABBREVIATION 38835 38842	DMSO-d6
+T181	SYSTEMATIC 39046 39171	(2R,3R)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T182	SYSTEMATIC 39180 39305	(2S,3S)-methyl 7-fluoro-2-(4-fluorophenyl)-3-(1-methyl-1H-1,2,4-triazol-5-yl)-4-oxo-1,2,3,4-tetrahydroquinoline-5-carboxylate
+T183	SYSTEMATIC 39322 39334	acetonitrile
+T184	SYSTEMATIC 39357 39378	hydrazine monohydrate
+T185	TRIVIAL 39566 39571	water
+T186	ABBREVIATION 39763 39770	DMSO-d6

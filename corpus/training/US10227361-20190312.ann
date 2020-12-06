@@ -1,0 +1,214 @@
+T1	SYSTEMATIC 62531 62602	ethyl 7-(2-formylphenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T2	SYSTEMATIC 62617 62678	Ethyl 7-methoxyimidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T3	SYSTEMATIC 62733 62794	ethyl 7-hydroxyimidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T4	FORMULA 62852 62856	BBr3
+T5	ABBREVIATION 62857 62860	DCM
+T6	SYSTEMATIC 62887 62948	ethyl 7-hydroxyimidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T7	ABBREVIATION 62970 62973	DMF
+T8	SYSTEMATIC 62984 63003	potassium carbonate
+T9	SYSTEMATIC 63027 63047	2-fluorobenzaldehyde
+T10	ABBREVIATION 63246 63249	DMF
+T11	TRIVIAL 63288 63293	water
+T12	TRIVIAL 63372 63377	water
+T13	SYSTEMATIC 63421 63429	methanol
+T14	ABBREVIATION 63598 63605	DMSO-d6
+T15	SYSTEMATIC 63779 63859	ethyl 7-[2-(hydroxymethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T16	SYSTEMATIC 63908 63979	ethyl 7-(2-formylphenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T17	SYSTEMATIC 64001 64009	methanol
+T18	SYSTEMATIC 64020 64038	sodium borohydride
+T19	SYSTEMATIC 64139 64147	Methanol
+T20	TRIVIAL 64200 64205	water
+T21	FORMULA 64256 64259	HCl
+T22	TRIVIAL 64307 64312	water
+T23	FORMULA 64334 64339	EtOAc
+T24	SYSTEMATIC 64340 64346	Hexane
+T25	SYSTEMATIC 64451 64463	methyl ester
+T26	SYSTEMATIC 64545 64552	ethanol
+T27	SYSTEMATIC 64572 64583	ethyl ester
+T28	ABBREVIATION 64614 64621	DMSO-d6
+T29	SYSTEMATIC 64794 64872	ethyl 7-[2-(azidomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T30	SYSTEMATIC 64921 65001	ethyl 7-[2-(hydroxymethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T31	ABBREVIATION 65023 65026	DCM
+T32	SYSTEMATIC 65037 65053	thionyl chloride
+T33	SYSTEMATIC 65244 65323	ethyl 7-[2-(chloromethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T34	ABBREVIATION 65366 65369	DMF
+T35	SYSTEMATIC 65402 65414	Sodium azide
+T36	TRIVIAL 65558 65563	water
+T37	SYSTEMATIC 65583 65596	ethyl acetate
+T38	TRIVIAL 65650 65655	water
+T39	SYSTEMATIC 65668 65682	sodium sulfate
+T40	SYSTEMATIC 65761 65853	ethyl 7-[2-(aminomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate Hydrochloride
+T41	SYSTEMATIC 65902 65980	ethyl 7-[2-(azidomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T42	ABBREVIATION 66002 66005	THF
+T43	SYSTEMATIC 66016 66034	triphenylphosphine
+T44	TRIVIAL 66085 66090	water
+T45	TRIVIAL 66233 66238	water
+T46	SYSTEMATIC 66268 66281	ethyl acetate
+T47	SYSTEMATIC 66323 66337	sodium sulfate
+T48	ABBREVIATION 66449 66452	THF
+T49	FORMULA 66473 66476	HCl
+T50	SYSTEMATIC 66565 66578	ethyl acetate
+T51	SYSTEMATIC 66592 66598	hexane
+T52	SYSTEMATIC 66681 66693	methyl ester
+T53	SYSTEMATIC 66709 66787	ethyl 7-[2-(azidomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T54	SYSTEMATIC 66821 66833	methyl ester
+T55	ABBREVIATION 66852 66859	DMSO-d6
+T56	SYSTEMATIC 67077 67157	ethyl 7-[2-(hydroxymethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T57	ABBREVIATION 67178 67182	DPPA
+T58	ABBREVIATION 67184 67187	DBU
+T59	ABBREVIATION 67192 67195	TPP
+T60	FORMULA 67199 67206	THF-H2O
+T61	SYSTEMATIC 67271 67389	ethyl 7-[2-({[(2-hydroxy-1-phenylethyl) carbamoyl]amino}methyl) phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T62	SYSTEMATIC 67429 67521	ethyl 7-[2-(aminomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate hydrochloride
+T63	ABBREVIATION 67543 67546	THF
+T64	SYSTEMATIC 67559 67567	pyridine
+T65	SYSTEMATIC 67591 67622	4-nitrophenyl carbonochloridate
+T66	SYSTEMATIC 67793 67802	carbamate
+T67	SYSTEMATIC 67851 67858	toluene
+T68	SYSTEMATIC 67877 67896	(R)-phenyl glycinol
+T69	ABBREVIATION 67924 67928	DIEA
+T70	TRIVIAL 68052 68057	water
+T71	SYSTEMATIC 68077 68090	ethyl acetate
+T72	SYSTEMATIC 68135 68149	sodium sulfate
+T73	ABBREVIATION 68300 68307	DMSO-d6
+T74	SYSTEMATIC 68541 68642	ethyl 7-(2-{[(cyclohexylcarbamoyl)amino]methyl}phenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T75	SYSTEMATIC 68682 68774	ethyl 7-[2-(aminomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate hydrochloride
+T76	ABBREVIATION 68797 68800	THF
+T77	SYSTEMATIC 68810 68831	isocyanatocyclohexane
+T78	TRIVIAL 69038 69043	water
+T79	SYSTEMATIC 69063 69076	ethyl acetate
+T80	FORMULA 69251 69256	CDCl3
+T81	SYSTEMATIC 69571 69721	ethyl 7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T82	SYSTEMATIC 69744 69832	2,2,2-trichloroethyl[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamate
+T83	SYSTEMATIC 69875 69930	4-(5-amino-3-tert-butyl-1H-pyrazol-1-yl)-2-chlorophenol
+T84	SYSTEMATIC 69954 69967	ethyl acetate
+T85	SYSTEMATIC 69989 70007	sodium bicarbonate
+T86	SYSTEMATIC 70027 70055	trichloro ethylchloroformate
+T87	SYSTEMATIC 70169 70182	Ethyl acetate
+T88	SYSTEMATIC 70215 70229	sodium sulfate
+T89	SYSTEMATIC 70327 70333	hexane
+T90	FORMULA 70470 70475	CDCl3
+T91	SYSTEMATIC 70662 70753	1, 2,2,2-trichloroethyl[3-tert-butyl-1-(3-chloro-4-methoxyphenyl)-1H-pyrazol-5-yl]carbamate
+T92	SYSTEMATIC 70772 70851	2,2,2-trichloroethyl[3-tert-butyl-1-(4-methoxyphenyl)-1H-pyrazol-5-yl]carbamate
+T93	SYSTEMATIC 70873 70951	2,2,2-trichloroethyl[3-tert-butyl-1-(4-methylphenyl)-1H-pyrazol-5-yl]carbamate
+T94	SYSTEMATIC 71004 71017	aminopyrazole
+T95	SYSTEMATIC 71036 71186	ethyl 7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T96	SYSTEMATIC 71226 71318	ethyl 7-[2-(aminomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate hydrochloride
+T97	ABBREVIATION 71354 71357	THF
+T98	SYSTEMATIC 71368 71393	N,N-diisopropylethylamine
+T99	TRIVIAL 71590 71595	water
+T100	FORMULA 71630 71633	HCl
+T101	SYSTEMATIC 71687 71693	hexane
+T102	FORMULA 71749 71754	EtOAc
+T103	ABBREVIATION 71816 71823	DMSO-d6
+T104	SYSTEMATIC 72115 72127	methyl ester
+T105	SYSTEMATIC 72174 72186	methyl ester
+T106	SYSTEMATIC 72199 72347	7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylic Acid
+T107	SYSTEMATIC 72387 72537	ethyl 7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T108	FORMULA 72560 72564	MeOH
+T109	SYSTEMATIC 72574 72603	lithium hydroxide monohydrate
+T110	TRIVIAL 72653 72658	water
+T111	TRIVIAL 72769 72774	water
+T112	ABBREVIATION 72913 72920	DMSO-d6
+T113	SYSTEMATIC 73169 73333	7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}-N-(2-hydroxyethyl) imidazo[2,1-b][1,3]benzothiazole-3-carboxamide
+T114	SYSTEMATIC 73373 73521	7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylic acid
+T115	ABBREVIATION 73545 73548	THF
+T116	SYSTEMATIC 73558 73583	N,N-diisopropylethylamine
+T117	SYSTEMATIC 73605 73628	1-hydroxy benzotriazole
+T118	SYSTEMATIC 73655 73715	1-ethyl-3-(3-dimethylamino) propylcarbodiimide hydrochloride
+T119	SYSTEMATIC 73799 73811	Ethanolamine
+T120	TRIVIAL 73949 73954	water
+T121	SYSTEMATIC 74009 74022	ethyl acetate
+T122	ABBREVIATION 74188 74195	DMSO-d6
+T123	TRIVIAL 74460 74465	water
+T124	SYSTEMATIC 74513 74650	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]3-(2-{[3-(hydroxymethyl)imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)urea
+T125	SYSTEMATIC 74690 74840	ethyl 7-{2-[({[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)methyl]phenoxy}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T126	ABBREVIATION 74864 74867	THF
+T127	SYSTEMATIC 74878 74897	lithium borohydride
+T128	TRIVIAL 75043 75048	water
+T129	FORMULA 75076 75079	HBr
+T130	SYSTEMATIC 75083 75094	acetic acid
+T131	TRIVIAL 75202 75207	water
+T132	FORMULA 75225 75230	EtOAc
+T133	TRIVIAL 75273 75278	brine
+T134	SYSTEMATIC 75294 75308	sodium sulfate
+T135	FORMULA 75390 75395	EtOAc
+T136	ABBREVIATION 75488 75495	DMSO-d6
+T137	SYSTEMATIC 75718 75856	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(methoxymethyl)imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)urea
+T138	SYSTEMATIC 75896 76034	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(hydroxymethyl)imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)urea
+T139	ABBREVIATION 76068 76071	DCM
+T140	SYSTEMATIC 76085 76095	chloroform
+T141	SYSTEMATIC 76105 76121	thionyl chloride
+T142	SYSTEMATIC 76256 76272	Thionyl chloride
+T143	SYSTEMATIC 76318 76452	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(chloromethyl) imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)
+T144	SYSTEMATIC 76477 76485	methanol
+T145	SYSTEMATIC 76629 76637	methanol
+T146	ABBREVIATION 76726 76733	DMSO-d6
+T147	SYSTEMATIC 77015 77162	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(morpholin-4-ylmethyl) imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl) urea
+T148	SYSTEMATIC 77202 77340	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(hydroxymethyl)imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)urea
+T149	ABBREVIATION 77374 77377	DCM
+T150	SYSTEMATIC 77390 77400	chloroform
+T151	SYSTEMATIC 77412 77428	thionyl chloride
+T152	SYSTEMATIC 77564 77580	Thionyl chloride
+T153	SYSTEMATIC 77626 77760	1-[3-tert-butyl-1-(3-chloro-4-hydroxyphenyl)-1H-pyrazol-5-yl]-3-(2-{[3-(chloromethyl) imidazo[2,1-b][1,3]benzothiazol-7-yl]oxy}benzyl)
+T154	ABBREVIATION 77785 77788	DMF
+T155	SYSTEMATIC 77801 77811	morpholine
+T156	TRIVIAL 77978 77983	water
+T157	SYSTEMATIC 78075 78093	methylene chloride
+T158	ABBREVIATION 78154 78161	DMSO-d6
+T159	SYSTEMATIC 78445 78524	ethyl 7-[(4-aminophenyl)sulfanyl]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T160	SYSTEMATIC 78564 78643	ethyl 7-[(4-nitrophenyl)sulfanyl]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T161	SYSTEMATIC 78679 78687	methanol
+T162	SYSTEMATIC 78697 78724	stannous chloride dihydrate
+T163	TRIVIAL 78888 78893	water
+T164	SYSTEMATIC 78920 78933	ethyl acetate
+T165	SYSTEMATIC 78946 78960	sodium sulfate
+T166	SYSTEMATIC 79064 79098	4-[(4-nitrophenyl)sulfanyl]aniline
+T167	SYSTEMATIC 79224 79237	benzothiazole
+T168	SYSTEMATIC 79351 79493	ethyl 7-{[4-({[3-tert-butyl-1-(4-methoxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)phenyl]sulfanyl}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T169	SYSTEMATIC 79557 79636	ethyl 7-[(4-aminophenyl)sulfanyl]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T170	SYSTEMATIC 79752 79892	7-{[4-({[3-tert-butyl-1-(4-methoxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)phenyl]sulfanyl}imidazo[2,1-b][1,3]benzothiazole-3-carboxylic Acid
+T171	SYSTEMATIC 79958 80100	ethyl 7-{[4-({[3-tert-butyl-1-(4-methoxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino)phenyl]sulfanyl}imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T172	ABBREVIATION 80207 80214	DMSO-d6
+T173	SYSTEMATIC 80384 80454	ethyl 7-(4-aminophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T174	SYSTEMATIC 80477 80547	ethyl 7-(4-nitrophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T175	SYSTEMATIC 80595 80656	ethyl 7-hydroxyimidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T176	SYSTEMATIC 80661 80682	4-nitro fluorobenzene
+T177	SYSTEMATIC 80779 80849	ethyl 7-(4-aminophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T178	SYSTEMATIC 80910 80980	ethyl 7-(4-nitrophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T179	SYSTEMATIC 81083 81226	ethyl 7-[4-({[3-tert-butyl-1-(3-chloro-4-methoxyphenyl)-1H-pyrazol-5-yl]carbamoyl}amino) phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T180	SYSTEMATIC 81288 81358	ethyl 7-(4-aminophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T181	ABBREVIATION 81484 81491	DMSO-d6
+T182	FORMULA 81511 81516	CDCl3
+T183	SYSTEMATIC 81757 81875	ethyl 7-(4-{[(5-methyl-3-phenyl-1,2-oxazol-4-yl)carbamoyl]amino}phenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T184	SYSTEMATIC 81915 81985	ethyl 7-(4-aminophenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T185	SYSTEMATIC 82011 82018	toluene
+T186	SYSTEMATIC 82028 82070	4-isocyanato-5-methyl-3-phenyl-1,2-oxazole
+T187	TRIVIAL 82241 82246	water
+T188	SYSTEMATIC 82267 82280	ethyl acetate
+T189	SYSTEMATIC 82350 82366	diisopropylether
+T190	ABBREVIATION 82438 82445	DMSO-d6
+T191	SYSTEMATIC 82640 82738	ethyl 7-(2-{[(phenoxycarbonyl)amino]methyl}phenoxy) imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T192	SYSTEMATIC 82778 82856	ethyl 7-[2-(aminomethyl)phenoxy]imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T193	ABBREVIATION 82892 82895	THF
+T194	ABBREVIATION 82905 82909	DIEA
+T195	SYSTEMATIC 83014 83033	phenylchloroformate
+T196	TRIVIAL 83162 83167	water
+T197	SYSTEMATIC 83184 83197	ethyl acetate
+T198	SYSTEMATIC 83210 83224	sodium sulfate
+T199	SYSTEMATIC 83325 83423	ethyl 7-(2-{[(propylcarbamoyl)amino]methyl}phenoxy) imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T200	SYSTEMATIC 83463 83560	ethyl 7-(2-{[(phenoxycarbonyl)amino]methyl}phenoxy)imidazo[2,1-b][1,3]benzothiazole-3-carboxylate
+T201	SYSTEMATIC 83598 83605	toluene
+T202	ABBREVIATION 83615 83619	DIEA
+T203	SYSTEMATIC 83645 83658	n-propylamine
+T204	TRIVIAL 83791 83796	water
+T205	SYSTEMATIC 83813 83826	ethyl acetate
+T206	SYSTEMATIC 83839 83853	sodium sulfate
+T207	ABBREVIATION 84196 84203	DMSO-d6
+T208	ABBREVIATION 84451 84455	DMSO
+T209	FORMULA 84498 84503	CDCl3
+T210	ABBREVIATION 85479 85486	DMSO-d6
+T211	FORMULA 85489 85492	D2O
+T212	FORMULA 86266 86271	CDCl3
+T213	ABBREVIATION 87680 87687	DMSO-d6
+T214	FORMULA 87690 87693	D2O

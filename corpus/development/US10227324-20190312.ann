@@ -1,0 +1,569 @@
+T1	SYSTEMATIC 34690 34708	N-bromosuccinimide
+T2	SYSTEMATIC 34778 34794	trichloromethane
+T3	SYSTEMATIC 34966 34981	dichloromethane
+T4	SYSTEMATIC 35260 35279	bis(pinacol)diboron
+T5	SYSTEMATIC 35302 35319	potassium acetate
+T6	FORMULA 35344 35355	Pd(dppt)Cl2
+T7	SYSTEMATIC 35406 35417	1,4-dioxane
+T8	TRIVIAL 35575 35580	water
+T9	SYSTEMATIC 35585 35598	ethyl acetate
+T10	SYSTEMATIC 35921 35936	sodium sulphite
+T11	TRIVIAL 35968 35973	water
+T12	SYSTEMATIC 36047 36065	sodium bicarbonate
+T13	SYSTEMATIC 36283 36290	ethanol
+T14	SYSTEMATIC 38010 38021	acetic acid
+T15	SYSTEMATIC 38049 38056	bromine
+T16	SYSTEMATIC 38071 38082	acetic acid
+T17	SYSTEMATIC 38202 38215	ethyl acetate
+T18	SYSTEMATIC 38230 38248	sodium bicarbonate
+T19	SYSTEMATIC 38293 38307	sodium sulfate
+T20	SYSTEMATIC 38850 38862	formaldehyde
+T21	SYSTEMATIC 38888 38904	sodium methoxide
+T22	SYSTEMATIC 38948 38956	methanol
+T23	SYSTEMATIC 39039 39057	sodium borohydride
+T24	TRIVIAL 39265 39270	brine
+T25	SYSTEMATIC 39275 39288	ethyl acetate
+T26	SYSTEMATIC 39681 39697	Sodium methoxide
+T27	SYSTEMATIC 39791 39799	methanol
+T28	SYSTEMATIC 41224 41323	5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T29	SYSTEMATIC 41338 41378	4-(4,6-dichloropyrimidin-2-yl)morpholine
+T30	SYSTEMATIC 41431 41444	triethylamine
+T31	SYSTEMATIC 41474 41489	dichloromethane
+T32	SYSTEMATIC 41526 41536	morpholine
+T33	SYSTEMATIC 41567 41582	dichloromethane
+T34	SYSTEMATIC 41705 41720	dichloromethane
+T35	SYSTEMATIC 41977 42040	Methyl 2-(6-chloro-2-morpholin-4-yl)-2-(methylsulfonyl) acetate
+T36	SYSTEMATIC 42084 42117	methyl 2-(methylsulfonyl) acetate
+T37	SYSTEMATIC 42137 42151	sodium hydride
+T38	SYSTEMATIC 42174 42191	dimethylsulfoxide
+T39	SYSTEMATIC 42372 42385	ethyl acetate
+T40	SYSTEMATIC 42637 42698	4-(4-chloro-6-(methylsulfonylmethyl)pyrimidin-2-yl)morpholine
+T41	SYSTEMATIC 42735 42751	sodium hydroxide
+T42	SYSTEMATIC 42785 42793	methanol
+T43	TRIVIAL 42794 42799	water
+T44	SYSTEMATIC 42936 42949	ethyl acetate
+T45	TRIVIAL 42963 42968	water
+T46	SYSTEMATIC 43142 43212	4-(4-chloro-6-(1-(methylsulfonyl)cyclopropyl)pyrimidin-2-yl)morpholine
+T47	SYSTEMATIC 43213 43230	1,2-dibromoethane
+T48	SYSTEMATIC 43251 43265	sodium hydride
+T49	SYSTEMATIC 43357 43374	dimethylformamide
+T50	TRIVIAL 43491 43496	water
+T51	SYSTEMATIC 43501 43514	ethyl acetate
+T52	SYSTEMATIC 43579 43593	sodium sulfate
+T53	SYSTEMATIC 43757 43856	5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T54	FORMULA 43923 43934	Pd(dppf)Cl2
+T55	SYSTEMATIC 43936 43991	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T56	SYSTEMATIC 44013 44029	sodium carbonate
+T57	SYSTEMATIC 44052 44064	acetonitrile
+T58	TRIVIAL 44065 44070	water
+T59	FORMULA 44484 44489	CDCl3
+T60	SYSTEMATIC 44820 44837	1,2-dibromoethane
+T61	SYSTEMATIC 44864 44882	1,3-dibromopropane
+T62	SYSTEMATIC 44884 44901	1,4-dibromobutane
+T63	SYSTEMATIC 44903 44921	1,5-dibromopentane
+T64	SYSTEMATIC 44923 44936	methyl iodide
+T65	SYSTEMATIC 44942 44955	2-iodopropane
+T66	SYSTEMATIC 45107 45117	morpholine
+T67	SYSTEMATIC 45144 45166	(R)-3-methylmorpholine
+T68	SYSTEMATIC 45171 45193	(S)-3-methylmorpholine
+T69	SYSTEMATIC 45321 45331	morpholine
+T70	SYSTEMATIC 45358 45380	(S)-3-methylmorpholine
+T71	SYSTEMATIC 45385 45402	1,2-dibromoethane
+T72	SYSTEMATIC 45429 45447	1,3-dibromopropane
+T73	SYSTEMATIC 45612 45622	morpholine
+T74	SYSTEMATIC 45649 45671	(S)-3-methylmorpholine
+T75	SYSTEMATIC 45673 45690	1,2-dibromoethane
+T76	SYSTEMATIC 45717 45735	1,3-dibromopropane
+T77	SYSTEMATIC 46167 46184	1,2-dibromoethane
+T78	SYSTEMATIC 46211 46224	methyl iodide
+T79	SYSTEMATIC 46398 46408	morpholine
+T80	SYSTEMATIC 46435 46457	(S)-3-methylmorpholine
+T81	SYSTEMATIC 46462 46479	1,2-dibromoethane
+T82	SYSTEMATIC 46506 46523	1,4-dibromobutane
+T83	FORMULA 46593 46598	CDCl3
+T84	FORMULA 46823 46828	CDCl3
+T85	FORMULA 47213 47218	CDCl3
+T86	FORMULA 47604 47609	CDCl3
+T87	FORMULA 48033 48038	CDCl3
+T88	FORMULA 48262 48267	CDCl3
+T89	FORMULA 48491 48496	CDCl3
+T90	FORMULA 48658 48663	CDCl3
+T91	FORMULA 48864 48869	CDCl3
+T92	FORMULA 49278 49283	CDCl3
+T93	ABBREVIATION 49707 49711	DMSO
+T94	ABBREVIATION 50133 50137	DMSO
+T95	ABBREVIATION 50507 50511	DMSO
+T96	FORMULA 50936 50941	CDCl3
+T97	FORMULA 51159 51164	CDCl3
+T98	FORMULA 51382 51387	CDCl3
+T99	FORMULA 51643 51648	CDCl3
+T100	FORMULA 52052 52057	CDCl3
+T101	SYSTEMATIC 52449 52537	4-chloro-5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)pyridin-2-amine
+T102	SYSTEMATIC 52551 52640	4-chloro-5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl) pyridin-2-amine
+T103	FORMULA 52723 52734	Pd(dppt)Cl2
+T104	SYSTEMATIC 52736 52791	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T105	SYSTEMATIC 52816 52832	sodium carbonate
+T106	SYSTEMATIC 52858 52870	acetonitrile
+T107	TRIVIAL 52871 52876	water
+T108	TRIVIAL 53075 53080	water
+T109	SYSTEMATIC 53085 53098	ethyl acetate
+T110	SYSTEMATIC 53147 53161	sodium sulfate
+T111	FORMULA 53438 53443	CDCl3
+T112	SYSTEMATIC 53630 53716	4-chloro-5-(6-(2-(methylsulfonyl)prop-2-yl)-2-morpholinopyrimidin-4-yl)pyridin-2-amine
+T113	SYSTEMATIC 53732 53800	4-(4-chloro-6-(2-(methylsulfonyl)prop-2-yl)pyrimidin-2-yl)morpholine
+T114	SYSTEMATIC 53836 53849	methyl iodide
+T115	SYSTEMATIC 53875 53889	sodium hydride
+T116	SYSTEMATIC 53932 53949	dimethylformamide
+T117	TRIVIAL 54053 54058	water
+T118	SYSTEMATIC 54063 54076	ethyl acetate
+T119	SYSTEMATIC 54311 54398	4-chloro-5-(6-(2-(methylsulfonyl)prop-2-yl)-2-morpholinopyrimidin-4-yl) pyridin-2-amine
+T120	FORMULA 54482 54493	Pd(dppf)Cl2
+T121	SYSTEMATIC 54495 54550	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T122	SYSTEMATIC 54575 54591	sodium carbonate
+T123	SYSTEMATIC 54617 54629	acetonitrile
+T124	TRIVIAL 54630 54635	water
+T125	FORMULA 55054 55059	CDCl3
+T126	SYSTEMATIC 55218 55319	1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl)cyclopropanecarboxylic acid
+T127	SYSTEMATIC 55334 55379	diethyl 2-(6-chloro-2-morpholin-4-yl)malonate
+T128	SYSTEMATIC 55553 55586	methyl 2-(methylsulfonyl) acetate
+T129	SYSTEMATIC 55603 55619	diethyl malonate
+T130	SYSTEMATIC 55726 55741	Sodium chloride
+T131	SYSTEMATIC 55825 55843	dimethyl sulfoxide
+T132	TRIVIAL 55844 55849	water
+T133	TRIVIAL 55992 55997	water
+T134	SYSTEMATIC 56002 56015	ethyl acetate
+T135	SYSTEMATIC 56207 56248	1-(6-chloro-2-morpholin-4-yl)cyclopropane
+T136	SYSTEMATIC 56472 56574	1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl) cyclopropanecarboxylic acid
+T137	FORMULA 56801 56806	CDCl3
+T138	SYSTEMATIC 56985 57090	(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl)cyclopropyl)(morpholino)ketone
+T139	SYSTEMATIC 57105 57161	1-(6-chloro-2-morpholin-4-yl)cyclopropanecarboxylic acid
+T140	SYSTEMATIC 57162 57178	Sodium hydroxide
+T141	SYSTEMATIC 57256 57264	methanol
+T142	TRIVIAL 57370 57375	water
+T143	SYSTEMATIC 57380 57393	ethyl acetate
+T144	SYSTEMATIC 57569 57629	(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)(morpholino)ketone
+T145	SYSTEMATIC 57630 57640	Morpholine
+T146	SYSTEMATIC 57661 57674	triethylamine
+T147	SYSTEMATIC 57695 57718	4-dimethylaminopyridine
+T148	ABBREVIATION 57743 57747	HATU
+T149	SYSTEMATIC 57749 57820	2-(7-azobenzotriazole)-N,N,N′,N′-tetramethyluronium hexafluorophosphate
+T150	SYSTEMATIC 57908 57923	dichloromethane
+T151	TRIVIAL 58028 58033	water
+T152	SYSTEMATIC 58038 58053	dichloromethane
+T153	SYSTEMATIC 58228 58334	(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl) cyclopropyl)(morpholino)ketone
+T154	FORMULA 58557 58562	CDCl3
+T155	SYSTEMATIC 58891 58901	morpholine
+T156	SYSTEMATIC 58918 58928	piperidine
+T157	FORMULA 58999 59004	CDCl3
+T158	SYSTEMATIC 59205 59306	5-(2-morpholino-6-(1-(morpholinomethyl)cyclopropyl)pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T159	SYSTEMATIC 59319 59325	borane
+T160	SYSTEMATIC 59406 59421	tetrahydrofuran
+T161	SYSTEMATIC 59513 59521	methanol
+T162	TRIVIAL 59604 59609	water
+T163	SYSTEMATIC 59614 59627	ethyl acetate
+T164	FORMULA 59910 59915	CDCl3
+T165	SYSTEMATIC 60124 60219	5-(6-(1-(methylsulfonylmethyl)cyclopropyl)-2-morpholin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T166	SYSTEMATIC 60235 60285	(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)methanol
+T167	SYSTEMATIC 60286 60310	Lithium aluminum hydride
+T168	SYSTEMATIC 60402 60417	tetrahydrofuran
+T169	TRIVIAL 60523 60528	water
+T170	SYSTEMATIC 60530 60546	sodium hydroxide
+T171	TRIVIAL 60574 60579	water
+T172	SYSTEMATIC 60859 60923	(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)methylmethanesulfonate
+T173	SYSTEMATIC 60924 60948	Methanesulfonyl chloride
+T174	SYSTEMATIC 60972 60985	triethylamine
+T175	SYSTEMATIC 61079 61094	dichloromethane
+T176	TRIVIAL 61225 61230	water
+T177	SYSTEMATIC 61235 61250	dichloromethane
+T178	SYSTEMATIC 61267 61281	sodium sulfate
+T179	SYSTEMATIC 61452 61518	4-(4-chloro-6-(1-(iodomethyl)cyclopropyl)pyrimidin-2-yl)morpholine
+T180	SYSTEMATIC 61519 61532	Sodium iodide
+T181	SYSTEMATIC 61625 61632	acetone
+T182	TRIVIAL 61740 61745	water
+T183	SYSTEMATIC 61750 61763	ethyl acetate
+T184	SYSTEMATIC 61780 61794	sodium sulfate
+T185	SYSTEMATIC 61966 62043	4-(4-chloro-6-(1-(methylsulfonylmethyl)cyclopropyl)pyrimidin-2-yl) morpholine
+T186	SYSTEMATIC 62044 62067	Sodium methanesulfinate
+T187	SYSTEMATIC 62160 62177	dimethylformamide
+T188	TRIVIAL 62286 62291	water
+T189	SYSTEMATIC 62296 62309	ethyl acetate
+T190	SYSTEMATIC 62326 62340	sodium sulfate
+T191	SYSTEMATIC 62511 62606	5-(6-(1-(methylsulfonylmethyl)cyclopropyl)-2-morpholin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T192	FORMULA 62848 62853	CDCl3
+T193	SYSTEMATIC 63049 63164	(S)-5-(6-(1-(isopropylsulfonyl)cyclobutyl)-2-(3-methylmorpholino)pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T194	SYSTEMATIC 63180 63251	ethyl (S)-methyl-6-chloro-2-(3-methylmorpholino)pyrimidin-4-carboxylate
+T195	SYSTEMATIC 63252 63274	(S)-3-methylmorpholine
+T196	SYSTEMATIC 63365 63380	dichloromethane
+T197	TRIVIAL 63525 63530	water
+T198	SYSTEMATIC 63535 63550	dichloromethane
+T199	TRIVIAL 63607 63612	brine
+T200	SYSTEMATIC 63625 63639	sodium sulfate
+T201	SYSTEMATIC 63793 63852	(S)-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)methanol
+T202	SYSTEMATIC 63853 63871	Sodium borohydride
+T203	SYSTEMATIC 63954 63962	methanol
+T204	TRIVIAL 64126 64131	water
+T205	SYSTEMATIC 64136 64151	dichloromethane
+T206	TRIVIAL 64208 64213	brine
+T207	SYSTEMATIC 64226 64240	sodium sulfate
+T208	SYSTEMATIC 64421 64495	(S)-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)methylmethane sulfonate
+T209	SYSTEMATIC 64714 64778	(S)-4-(4-chloro-6-(iodomethyl)pyrimidin-2-yl)-3-methylmorpholine
+T210	SYSTEMATIC 64984 65062	(S)-4-(4-chloro-6-(isopropylsulfonylmethyl)pyrimidin-2-yl)-3-methyl morpholine
+T211	SYSTEMATIC 65229 65252	sodium methanesulfinate
+T212	SYSTEMATIC 65335 65421	(S)-4-(4-chloro-6-(1-(isopropylsulfonyl)cyclobutyl)pyrimidin-2-yl)-3-methyl morpholine
+T213	SYSTEMATIC 65610 65627	1,2-dibromoethane
+T214	SYSTEMATIC 65644 65661	1,3-dibromoethane
+T215	SYSTEMATIC 65742 65857	(S)-5-(6-(1-(isopropylsulfonyl)cyclobutyl)-2-(3-methylmorpholino)pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T216	ABBREVIATION 66120 66124	DMSO
+T217	SYSTEMATIC 66622 66645	sodium benzenesultinate
+T218	SYSTEMATIC 66650 66672	sodium ethanesulfinate
+T219	SYSTEMATIC 66827 66849	(S)-3-methylmorpholine
+T220	SYSTEMATIC 66876 66886	morpholine
+T221	SYSTEMATIC 66891 66909	1,3-dibromopropane
+T222	SYSTEMATIC 66936 66953	1,2-dibromoethane
+T223	SYSTEMATIC 66958 66971	methyl iodide
+T224	SYSTEMATIC 67115 67137	(S)-3-methylmorpholine
+T225	SYSTEMATIC 67164 67174	morpholine
+T226	SYSTEMATIC 67304 67326	(S)-3-methylmorpholine
+T227	SYSTEMATIC 67353 67363	morpholine
+T228	SYSTEMATIC 67369 67399	sodium propane-2-sulfonic acid
+T229	SYSTEMATIC 67426 67449	sodium benzenesulfinate
+T230	SYSTEMATIC 67603 67625	(S)-3-methylmorpholine
+T231	SYSTEMATIC 67652 67662	morpholine
+T232	SYSTEMATIC 67693 67716	sodium benzenesulfinate
+T233	SYSTEMATIC 67718 67741	sodium benzenesulfinate
+T234	SYSTEMATIC 67743 67765	sodium ethanesulfinate
+T235	SYSTEMATIC 67771 67793	sodium ethanesulfinate
+T236	SYSTEMATIC 67813 67831	1,3-dibromopropane
+T237	SYSTEMATIC 67858 67871	methyl iodide
+T238	SYSTEMATIC 67873 67890	1,2-dibromoethane
+T239	SYSTEMATIC 67892 67909	1,2-dibromoethane
+T240	SYSTEMATIC 67915 67928	methyl iodide
+T241	SYSTEMATIC 68100 68122	sodium methylsulfinate
+T242	SYSTEMATIC 68128 68146	1,3-dibromopropane
+T243	SYSTEMATIC 68173 68186	methyl iodide
+T244	ABBREVIATION 68260 68264	DMSO
+T245	FORMULA 68623 68628	CDCl3
+T246	FORMULA 68847 68852	CDCl3
+T247	FORMULA 69091 69096	CDCl3
+T248	FORMULA 69385 69390	CDCl3
+T249	FORMULA 69622 69627	CDCl3
+T250	ABBREVIATION 69824 69828	DMSO
+T251	FORMULA 70178 70183	CDCl3
+T252	ABBREVIATION 70435 70439	DMSO
+T253	ABBREVIATION 70666 70670	DMSO
+T254	FORMULA 70871 70876	CDCl3
+T255	SYSTEMATIC 71249 71365	N-(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl)cyclopropyl)-N-methylmethanesulfonamide
+T256	SYSTEMATIC 71381 71455	tert-butyl−1-(6-chloro-2-morpholinopyrimidin-4-yl)cyclopropyl aminoformate
+T257	SYSTEMATIC 71456 71469	Triethylamine
+T258	SYSTEMATIC 71495 71518	diphenyl azidophosphate
+T259	SYSTEMATIC 71616 71623	toluene
+T260	SYSTEMATIC 71665 71677	Tert-butanol
+T261	TRIVIAL 71818 71823	water
+T262	SYSTEMATIC 71828 71841	ethyl acetate
+T263	TRIVIAL 71892 71897	brine
+T264	SYSTEMATIC 71914 71928	sodium sulfate
+T265	SYSTEMATIC 72197 72242	1-(6-chloro-2-morpholin-4-yl)cyclopropylamine
+T266	SYSTEMATIC 72251 72271	trifluoroacetic acid
+T267	SYSTEMATIC 72348 72363	dichloromethane
+T268	SYSTEMATIC 72438 72458	trifluoroacetic acid
+T269	SYSTEMATIC 72520 72535	Dichloromethane
+T270	SYSTEMATIC 72550 72568	sodium bicarbonate
+T271	SYSTEMATIC 72641 72655	sodium sulfate
+T272	SYSTEMATIC 72862 72924	N-(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)methanesulfonamide
+T273	SYSTEMATIC 73159 73230	N-(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)-N-methylmethanesulfonamide
+T274	SYSTEMATIC 73231 73245	Sodium hydride
+T275	SYSTEMATIC 73409 73422	Methyl iodide
+T276	SYSTEMATIC 73537 73554	ammonium chloride
+T277	SYSTEMATIC 73568 73581	ethyl acetate
+T278	SYSTEMATIC 73864 73981	N-(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholino pyrimidin-4-yl)cyclopropyl)-N-methylmethanesulfonamide
+T279	ABBREVIATION 74244 74248	DMSO
+T280	SYSTEMATIC 74402 74510	N-(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl)cyclopropyl)methanesulfon amide
+T281	FORMULA 74737 74742	CDCl3
+T282	SYSTEMATIC 74946 75044	N-(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholinopyrimidin-4-yl)cyclopropyl)acetamide
+T283	SYSTEMATIC 75060 75113	N-(1-(6-chloro-2-morpholin-4-yl)cyclopropyl)acetamide
+T284	SYSTEMATIC 75297 75321	methanesulfonyl chloride
+T285	SYSTEMATIC 75350 75365	acetyl chloride
+T286	SYSTEMATIC 75432 75531	N-(1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholino pyrimidin-4-yl)cyclopropyl)acetamide
+T287	SYSTEMATIC 75762 75769	Acetone
+T288	SYSTEMATIC 75965 76074	(S)-5-(6-(1-(methylamino)cyclobutyl)-2-(3-methylmorpholino)pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T289	SYSTEMATIC 76090 76143	(S)-4-(4,6-dichloropyrimidin-2-yl)-3-methylmorpholine
+T290	SYSTEMATIC 76325 76335	morpholine
+T291	SYSTEMATIC 76364 76386	(S)-3-methylmorpholine
+T292	SYSTEMATIC 76467 76536	(S)-diethyl 2-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)malonate
+T293	SYSTEMATIC 76537 76553	Diethyl malonate
+T294	SYSTEMATIC 76579 76593	sodium hydride
+T295	SYSTEMATIC 76677 76695	dimethyl sulfoxide
+T296	FORMULA 76702 76704	Ar
+T297	SYSTEMATIC 76803 76819	diethyl malonate
+T298	SYSTEMATIC 76844 76858	sodium hydride
+T299	SYSTEMATIC 77023 77040	ammonium chloride
+T300	SYSTEMATIC 77045 77058	ethyl acetate
+T301	TRIVIAL 77131 77136	brine
+T302	SYSTEMATIC 77153 77167	sodium sulfate
+T303	SYSTEMATIC 77449 77515	(S)-ethyl 2-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)acetate
+T304	SYSTEMATIC 77753 77835	(S)-ethyl 1-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)cyclobutane carboxylate
+T305	SYSTEMATIC 78016 78033	1,2-dibromoethane
+T306	SYSTEMATIC 78062 78080	1,3-dibromopropane
+T307	SYSTEMATIC 78144 78224	(S)-1-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)cyclobutane carboxylic acid
+T308	SYSTEMATIC 78225 78242	Lithium hydroxide
+T309	SYSTEMATIC 78320 78327	dioxane
+T310	FORMULA 78341 78343	Ar
+T311	SYSTEMATIC 78418 78431	ethyl acetate
+T312	SYSTEMATIC 78518 78535	hydrochloric acid
+T313	SYSTEMATIC 78568 78581	ethyl acetate
+T314	TRIVIAL 78635 78640	brine
+T315	SYSTEMATIC 78830 78921	(S)-tert-butyl 1-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)cyclobutyl aminocarboxylate
+T316	SYSTEMATIC 79174 79272	(S)-tert-butyl 1-(6-chloro-2-(3-methylmorpholino)pyrimidin-4-yl)cyclobutyl(methyl)aminoformic acid
+T317	SYSTEMATIC 79312 79325	methyl iodide
+T318	SYSTEMATIC 79379 79393	sodium hydride
+T319	SYSTEMATIC 79428 79445	dimethylformamide
+T320	FORMULA 79452 79454	Ar
+T321	TRIVIAL 79574 79579	water
+T322	SYSTEMATIC 79600 79613	ethyl acetate
+T323	TRIVIAL 79667 79672	brine
+T324	SYSTEMATIC 79956 80089	(S)-tert-butyl 1-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-(3-methylmorpholino)pyrimidin-4-yl)cyclobutyl(methyl)aminoformic acid
+T325	SYSTEMATIC 80324 80433	(S)-5-(6-(1-(methylamino)cyclobutyl)-2-(3-methylmorpholino)pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T326	ABBREVIATION 80755 80759	DMSO
+T327	SYSTEMATIC 81121 81233	N,N-dimethyl-5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T328	SYSTEMATIC 81267 81282	sodium hydrogen
+T329	SYSTEMATIC 81287 81300	methyl iodide
+T330	SYSTEMATIC 81375 81392	dimethylformamide
+T331	SYSTEMATIC 81399 81404	argon
+T332	TRIVIAL 81480 81485	water
+T333	SYSTEMATIC 81490 81503	ethyl acetate
+T334	FORMULA 81773 81778	CDCl3
+T335	SYSTEMATIC 81962 82061	5-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-3-(trifluoromethyl)pyridin-2-amine
+T336	ABBREVIATION 82346 82350	DMSO
+T337	SYSTEMATIC 82803 82820	1,2-dibromoethane
+T338	SYSTEMATIC 82847 82860	methyl iodide
+T339	FORMULA 82966 82971	CDCl3
+T340	FORMULA 83119 83124	CDCl3
+T341	SYSTEMATIC 83297 83401	5-(6-(1-(5-methyloxazol-2-yl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T342	SYSTEMATIC 83417 83485	1-(6-chloro-2-morpholin-4-yl)-N-(prop-2-ynyl)cyclopropanecarboxamide
+T343	ABBREVIATION 83486 83490	HATU
+T344	SYSTEMATIC 83492 83563	2-(7-azobenzotriazole)-N,N,N′,N′-tetramethyluronium hexafluorophosphate
+T345	SYSTEMATIC 83585 83610	N,N-diisopropylethylamine
+T346	SYSTEMATIC 83636 83653	prop-2-yn-1-amine
+T347	SYSTEMATIC 83754 83769	dichloromethane
+T348	TRIVIAL 83842 83847	water
+T349	SYSTEMATIC 83913 83927	sodium sulfate
+T350	SYSTEMATIC 84126 84202	4-(4-chloro-6-(1-(5-methyloxazol-2-yl)cyclopropyl)pyrimidin-2-yl) morpholine
+T351	SYSTEMATIC 84203 84232	Trifluoromethanesulfonic acid
+T352	SYSTEMATIC 84332 84343	1,4-dioxane
+T353	SYSTEMATIC 84494 84509	Dichloromethane
+T354	SYSTEMATIC 84524 84542	sodium bicarbonate
+T355	SYSTEMATIC 84618 84632	sodium sulfate
+T356	SYSTEMATIC 84903 85007	5-(6-(1-(5-methyloxazol-2-yl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T357	ABBREVIATION 85269 85273	DMSO
+T358	SYSTEMATIC 85492 85590	5-(6-(1-(ethylsulfonyl)cyclobutyl)-2-morpholino pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T359	SYSTEMATIC 85606 85645	6-chloro-2-morpholino-4-carboxylic acid
+T360	SYSTEMATIC 85828 85850	(S)-3-methylmorpholine
+T361	SYSTEMATIC 85879 85889	morpholine
+T362	SYSTEMATIC 85969 86004	(6-chloro-2-morpholin-4-yl)methanol
+T363	SYSTEMATIC 86242 86291	(6-chloro-2-morpholin-4-yl)methylmethanesulfonate
+T364	SYSTEMATIC 86526 86577	4-(4-chloro-6-(iodomethyl)pyrimidin-2-yl)morpholine
+T365	SYSTEMATIC 86816 86870	4-(4-chloro-6-(ethylsulfonyl)pyrimidin-2-yl)morpholine
+T366	SYSTEMATIC 87052 87076	sodium methanesulphinate
+T367	SYSTEMATIC 87105 87127	sodium ethanesulfinate
+T368	SYSTEMATIC 87204 87272	4-(4-chloro-6-(1-(ethylsulfonyl)cyclobutyl)pyrimidin-2-yl)morpholine
+T369	SYSTEMATIC 87273 87291	1,3-dibromopropane
+T370	SYSTEMATIC 87316 87332	sodium hydroxide
+T371	SYSTEMATIC 87346 87372	tetrabutylammonium bromide
+T372	SYSTEMATIC 87476 87483	toluene
+T373	TRIVIAL 87612 87617	water
+T374	SYSTEMATIC 87622 87635	ethyl acetate
+T375	TRIVIAL 87675 87680	brine
+T376	SYSTEMATIC 87717 87731	sodium sulfate
+T377	SYSTEMATIC 88004 88101	5-(6-(1-(ethylsulfonyl)cyclobutyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T378	ABBREVIATION 88360 88364	DMSO
+T379	SYSTEMATIC 88594 88669	2-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholin-4-yl)propan-2-ol
+T380	SYSTEMATIC 88685 88725	2-(6-chloro-2-morpholin-4-yl)propan-2-ol
+T381	SYSTEMATIC 88726 88749	Methylmagnesium bromide
+T382	SYSTEMATIC 88847 88862	tetrahydrofuran
+T383	SYSTEMATIC 88931 88936	argon
+T384	TRIVIAL 89004 89009	water
+T385	SYSTEMATIC 89014 89027	ethyl acetate
+T386	TRIVIAL 89073 89078	brine
+T387	SYSTEMATIC 89102 89116	sodium sulfate
+T388	SYSTEMATIC 89282 89357	2-(6-(6-amino-4-(trifluoromethyl)pyridin-3-yl)-2-morpholin-4-yl)propan-2-ol
+T389	FORMULA 89612 89617	CDCl3
+T390	SYSTEMATIC 89775 89874	5-(6-(fluoro(methylsulfonyl)methyl)-2-morpholino pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T391	SYSTEMATIC 89890 89959	4-(4-chloro-6-(fluoro(methylsulfonyl)methyl)pyrimidin-2-yl)morpholine
+T392	SYSTEMATIC 89960 89991	Sodium bis(trimethylsilyl)amide
+T393	SYSTEMATIC 90000 90015	tetrahydrofuran
+T394	SYSTEMATIC 90109 90124	tetrahydrofuran
+T395	SYSTEMATIC 90131 90136	argon
+T396	SYSTEMATIC 90176 90205	N-fluorobisbenzenesulfonamide
+T397	SYSTEMATIC 90262 90293	Sodium bis(trimethylsilyl)amide
+T398	SYSTEMATIC 90330 90335	argon
+T399	SYSTEMATIC 90375 90404	N-fluorobisbenzenesulfonamide
+T400	SYSTEMATIC 90545 90562	ammonium chloride
+T401	SYSTEMATIC 90617 90630	ethyl acetate
+T402	TRIVIAL 90700 90705	brine
+T403	SYSTEMATIC 90728 90742	sodium sulfate
+T404	SYSTEMATIC 90883 90981	5-(6-(fluoro(methylsulfonyl)methyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T405	FORMULA 91207 91212	CDCl3
+T406	FORMULA 91558 91563	CDCl3
+T407	SYSTEMATIC 91707 91796	4-chloro-5-(6-(difluoro(methylsulfonyl)methyl)-2-morpholinopyrimidin-4-yl)pyridin-2-amine
+T408	SYSTEMATIC 91812 91883	4-(4-chloro-6-(difluoro(methylsulfonyl)methyl)pyrimidin-2-yl)morpholine
+T409	SYSTEMATIC 91884 91912	Lithium hexamethyldisilazide
+T410	SYSTEMATIC 91921 91936	tetrahydrofuran
+T411	SYSTEMATIC 92030 92045	tetrahydrofuran
+T412	SYSTEMATIC 92056 92085	N-fluorobisbenzenesulfonamide
+T413	TRIVIAL 92250 92255	water
+T414	SYSTEMATIC 92260 92273	ethyl acetate
+T415	TRIVIAL 92343 92348	brine
+T416	SYSTEMATIC 92371 92385	sodium sulfate
+T417	SYSTEMATIC 92526 92616	4-chloro-5-(6-(difluoro(methylsulfonyl)methyl)-2-morpholinopyrimidin-4-yl) pyridin-2-amine
+T418	FORMULA 92885 92890	CDCl3
+T419	SYSTEMATIC 93039 93128	4-chloro-5-(2-morpholinyl-6-(2-(phenylsulfonyl)propan-2-yl)pyrimidin-4-yl)pyridin-2-amine
+T420	SYSTEMATIC 93144 93196	4-(4-chloro-6-(cloromethyl)pyrimidin-2-yl)morpholine
+T421	SYSTEMATIC 93197 93213	Thionyl chloride
+T422	SYSTEMATIC 93305 93320	dichloromethane
+T423	SYSTEMATIC 93565 93627	4-(4-chloro-6-(benzenesulfonylmethyl)pyrimidin-2-yl)morpholine
+T424	SYSTEMATIC 93795 93818	sodium methanesulfinate
+T425	SYSTEMATIC 93847 93870	sodium benzenesulfinate
+T426	SYSTEMATIC 93919 93989	4-(4-chloro-6-(2-(phenylsulfonyl)propan-2-yl)pyrimidin-2-yl)morpholine
+T427	SYSTEMATIC 94156 94173	1,2-dibromoethane
+T428	SYSTEMATIC 94202 94215	methyl iodide
+T429	SYSTEMATIC 94264 94354	4-chloro-5-(2-morpholinyl-6-(2-(phenylsulfonyl)propan-2-yl)pyrimidin-4-yl) pyridin-2-amine
+T430	ABBREVIATION 94614 94618	DMSO
+T431	SYSTEMATIC 94836 94936	5-(6-(2-(1H-indazol-1-yl)propan-2-yl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T432	SYSTEMATIC 94952 95016	4-(4-((1H-indazol-1-yl)methyl)-6-chloropyrimidin-2-yl)morpholine
+T433	SYSTEMATIC 95017 95028	1H-indazole
+T434	SYSTEMATIC 95053 95072	potassium carbonate
+T435	SYSTEMATIC 95168 95185	dimethylformamide
+T436	TRIVIAL 95296 95301	water
+T437	SYSTEMATIC 95306 95319	ethyl acetate
+T438	TRIVIAL 95355 95360	water
+T439	TRIVIAL 95375 95380	brine
+T440	SYSTEMATIC 95407 95421	sodium sulfate
+T441	SYSTEMATIC 95587 95658	4-(4-(2-(1H-indazol-1-yl)propan-2-yl)-6-chloropyrimidin-2-yl)morpholine
+T442	SYSTEMATIC 95825 95842	1,2-dibromoethane
+T443	SYSTEMATIC 95871 95884	methyl iodide
+T444	SYSTEMATIC 95934 96034	5-(6-(2-(1H-indazol-1-yl)propan-2-yl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T445	FORMULA 96245 96250	CDCl3
+T446	SYSTEMATIC 96505 96612	5-(6-(1-(3-fluorophenylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T447	SYSTEMATIC 96628 96691	4-(4-chloro-6-((3-fluorophenyl)methyl)pyrimidin-2-yl)morpholine
+T448	SYSTEMATIC 96692 96712	3-fluorobenzenethiol
+T449	SYSTEMATIC 96762 96785	potassium tert-butoxide
+T450	SYSTEMATIC 96817 96829	acetonitrile
+T451	SYSTEMATIC 96836 96841	argon
+T452	SYSTEMATIC 96899 96911	acetonitrile
+T453	TRIVIAL 97031 97036	water
+T454	SYSTEMATIC 97041 97054	ethyl acetate
+T455	SYSTEMATIC 97100 97118	sodium bicarbonate
+T456	SYSTEMATIC 97152 97166	sodium sulfate
+T457	SYSTEMATIC 97339 97410	4-(4-chloro-6-((3-fluorophenylsulfonyl)methyl)pyrimidin-2-yl)morpholine
+T458	SYSTEMATIC 97411 97437	m-chloroperoxybenzoic acid
+T459	SYSTEMATIC 97533 97548	dichloromethane
+T460	TRIVIAL 97660 97665	water
+T461	SYSTEMATIC 97670 97685	dichloromethane
+T462	TRIVIAL 97731 97736	brine
+T463	SYSTEMATIC 97760 97774	sodium sulfate
+T464	SYSTEMATIC 97889 97968	4-(4-chloro-6-(1-(3-fluorophenylsulfonyl)cyclopropyl)pyrimidin-2-yl) morpholine
+T465	SYSTEMATIC 98136 98154	1,3-dibromopropane
+T466	SYSTEMATIC 98183 98200	1,2-dibromoethane
+T467	SYSTEMATIC 98249 98356	5-(6-(1-(3-fluorophenylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T468	FORMULA 98567 98572	CDCl3
+T469	SYSTEMATIC 98913 98933	3-fluorobenzenethiol
+T470	SYSTEMATIC 98960 98980	2-fluorobenzenethiol
+T471	SYSTEMATIC 98985 99005	4-fluorobenzenethiol
+T472	SYSTEMATIC 99160 99177	1,2-dibromoethane
+T473	SYSTEMATIC 99204 99217	methyl iodide
+T474	FORMULA 99288 99293	CDCl3
+T475	FORMULA 99557 99562	CDCl3
+T476	FORMULA 99801 99806	CDCl3
+T477	SYSTEMATIC 99989 100080	5-(6-(methylsulfonylmethyl)-2-morpholino pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T478	FORMULA 100232 100237	CDCl3
+T479	SYSTEMATIC 100381 100472	5-(6-(methylsulfonylmethyl)-2-morpholino pyrimidin-4-yl)-4-(trifluoromethyl)pyridin-2-amine
+T480	SYSTEMATIC 100488 100548	4-(4-chloro-6-(2-methoxypropan-2-yl)pyrimidin-2-yl)morpholin
+T481	SYSTEMATIC 100550 100563	Methyl iodide
+T482	SYSTEMATIC 100586 100600	sodium hydride
+T483	SYSTEMATIC 100692 100709	dimethylformamide
+T484	TRIVIAL 100817 100822	water
+T485	SYSTEMATIC 100827 100840	ethyl acetate
+T486	TRIVIAL 100876 100881	water
+T487	TRIVIAL 100896 100901	brine
+T488	SYSTEMATIC 100928 100942	sodium sulfate
+T489	SYSTEMATIC 101112 101203	5-(6-(2-methoxypropan-2-yl)-2-morpholinopyrimidin-4-yl)-4-(trifluoromethyl) pyridin-2-amine
+T490	FORMULA 101457 101462	CDCl3
+T491	FORMULA 101988 101993	CDCl3
+T492	FORMULA 102155 102160	CDCl3
+T493	ABBREVIATION 102309 102313	DMSO
+T494	FORMULA 102641 102646	CDCl3
+T495	ABBREVIATION 103313 103317	DMSO
+T496	FORMULA 103642 103647	CDCl3
+T497	FORMULA 103945 103950	CDCl3
+T498	FORMULA 104477 104482	CDCl3
+T499	ABBREVIATION 104704 104708	DMSO
+T500	ABBREVIATION 104877 104881	DMSO
+T501	ABBREVIATION 105074 105078	DMSO
+T502	ABBREVIATION 105259 105263	DMSO
+T503	FORMULA 105451 105456	CDCl3
+T504	ABBREVIATION 105661 105665	DMSO
+T505	ABBREVIATION 105845 105849	DMSO
+T506	ABBREVIATION 106436 106440	DMSO
+T507	ABBREVIATION 106654 106658	DMSO
+T508	ABBREVIATION 107213 107217	DMSO
+T509	ABBREVIATION 107538 107542	DMSO
+T510	FORMULA 107886 107891	CDCl3
+T511	FORMULA 108079 108084	CDCl3
+T512	FORMULA 108310 108315	CDCl3
+T513	FORMULA 108747 108752	CDCl3
+T514	FORMULA 109146 109151	CDCl3
+T515	FORMULA 109428 109433	CDCl3
+T516	ABBREVIATION 109704 109708	DMSO
+T517	FORMULA 109939 109944	CDCl3
+T518	SYSTEMATIC 110235 110248	Hydrochloride
+T519	SYSTEMATIC 110342 110349	acetone
+T520	SYSTEMATIC 110430 110447	hydrochloric acid
+T521	SYSTEMATIC 110717 110724	acetone
+T522	SYSTEMATIC 110974 110981	Sulfate
+T523	SYSTEMATIC 111075 111082	acetone
+T524	SYSTEMATIC 111163 111176	sulfuric acid
+T525	SYSTEMATIC 111448 111455	acetone
+T526	SYSTEMATIC 111705 111712	Maleate
+T527	SYSTEMATIC 111806 111813	acetone
+T528	SYSTEMATIC 111894 111905	maleic acid
+T529	SYSTEMATIC 112175 112182	acetone
+T530	SYSTEMATIC 112432 112440	Fumarate
+T531	SYSTEMATIC 112534 112541	acetone
+T532	SYSTEMATIC 112642 112654	fumaric acid
+T533	ABBREVIATION 112658 112662	DMSO
+T534	ABBREVIATION 112783 112787	DMSO
+T535	TRIVIAL 112792 112797	water
+T536	SYSTEMATIC 112994 113001	acetone
+T537	SYSTEMATIC 113251 113259	Mesylate
+T538	SYSTEMATIC 113353 113360	acetone
+T539	SYSTEMATIC 113449 113469	methanesulfonic acid
+T540	SYSTEMATIC 113739 113746	acetone
+T541	SYSTEMATIC 113972 113982	L-Tartrate
+T542	SYSTEMATIC 114075 114082	acetone
+T543	SYSTEMATIC 114171 114186	L-tartaric acid
+T544	SYSTEMATIC 114456 114463	acetone
+T545	SYSTEMATIC 114684 114774	4-(1-(methylsulfonyl)cyclopropyl)-6-morpholino-4′-(trifluoromethyl)-2,3′bipyridyl-6′-amine
+T546	SYSTEMATIC 114808 114818	morpholine
+T547	SYSTEMATIC 114843 114862	potassium carbonate
+T548	SYSTEMATIC 114956 114968	acetonitrile
+T549	TRIVIAL 115137 115142	water
+T550	SYSTEMATIC 115147 115160	ethyl acetate
+T551	TRIVIAL 115217 115222	brine
+T552	SYSTEMATIC 115235 115249	sodium sulfate
+T553	SYSTEMATIC 115402 115445	(2-chloro-6-morpholinopyridin-4-yl)methanol
+T554	SYSTEMATIC 115660 115717	(2-chloro-6-morpholinopyridin-4-yl)methylmethanesulfonate
+T555	SYSTEMATIC 115932 115981	4-(6-chloro-4-(iodomethyl)pyridin-2-yl)morpholine
+T556	SYSTEMATIC 116196 116255	4-(6-chloro-4-(methylsulfonylmethyl)pyridin-2-yl)morpholine
+T557	SYSTEMATIC 116472 116540	4-(6-chloro-4-(1-(methylsulfonyl)cyclopropyl)pyridin-2-yl)morpholine
+T558	SYSTEMATIC 116702 116792	4-(1-(methylsulfonyl)cyclopropyl)-6-morpholino-4′-(trifluoromethyl)-2,3′bipyridyl-6′-amine
+T559	FORMULA 117064 117069	CDCl3
+T560	SYSTEMATIC 117276 117373	5-(4-(1-(methylsulfonyl)cyclopropyl)-6-morpholinopyridin-2-yl)-4-(trifluoromethyl)pyridin-2-amine
+T561	SYSTEMATIC 117407 117454	methyl 2-chloro-6-morpholinyl-4-carboxylic acid
+T562	SYSTEMATIC 117667 117712	(2-chloro-6-morpholinopyrimidin-4-yl)methanol
+T563	SYSTEMATIC 117929 117982	4-(2-chloro-6-(chloromethyl)pyrimidin-4-yl)morpholine
+T564	SYSTEMATIC 118147 118208	4-(2-chloro-6-(methylsulfonylmethyl)pyrimidin-4-yl)morpholine
+T565	SYSTEMATIC 118425 118495	4-(2-chloro-6-(1-(methylsulfonyl)cyclopropyl)pyrimidin-4-yl)morpholine
+T566	SYSTEMATIC 118710 118807	5-(4-(1-(methylsulfonyl)cyclopropyl)-6-morpholinopyridin-2-yl)-4-(trifluoromethyl)pyridin-2-amine
+T567	FORMULA 119041 119046	CDCl3
+T568	SYSTEMATIC 119239 119330	4-(6-(1-(methylsulfonyl)cyclopropyl)-2-morpholinopyrimidin-4-yl)-3-(trifluoromethyl)aniline
+T569	FORMULA 119501 119506	CDCl3

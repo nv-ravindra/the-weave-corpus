@@ -1,0 +1,97 @@
+T1	SYSTEMATIC 9730 9778	6-cyano-1H-indole-3-carboxylic acid methyl ester
+T2	SYSTEMATIC 9802 9872	4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)-α,α-dimethylphenylcarbinol
+T3	SYSTEMATIC 9906 9921	dichloromethane
+T4	SYSTEMATIC 10002 10022	trifluoroacetic acid
+T5	TRIVIAL 10234 10239	water
+T6	SYSTEMATIC 10245 10263	sodium bicarbonate
+T7	TRIVIAL 10287 10291	salt
+T8	SYSTEMATIC 10341 10355	sodium sulfate
+T9	SYSTEMATIC 10474 10482	n-hexane
+T10	SYSTEMATIC 10487 10500	ethyl acetate
+T11	SYSTEMATIC 10565 10683	6-cyano-2-[2-[4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)phenyl]propane-2-yl]-1H-indole-3-carboxylic acid methyl ester
+T12	SYSTEMATIC 10771 10819	6-cyano-1H-indole-3-carboxylic acid methyl ester
+T13	SYSTEMATIC 10843 10913	4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)-α,α-dimethylphenylcarbinol
+T14	SYSTEMATIC 10947 10962	tetrahydrofuran
+T15	SYSTEMATIC 11043 11048	ether
+T16	SYSTEMATIC 11061 11078	boron trifluoride
+T17	TRIVIAL 11298 11303	water
+T18	SYSTEMATIC 11342 11357	dichloromethane
+T19	SYSTEMATIC 11409 11427	sodium bicarbonate
+T20	TRIVIAL 11451 11455	salt
+T21	SYSTEMATIC 11523 11537	sodium sulfate
+T22	SYSTEMATIC 11635 11643	n-hexane
+T23	SYSTEMATIC 11648 11661	ethyl acetate
+T24	SYSTEMATIC 11726 11844	6-cyano-2-[2-[4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)phenyl]propane-2-yl]-1H-indole-3-carboxylic acid methyl ester
+T25	SYSTEMATIC 11934 12052	6-cyano-2-[2-[4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)phenyl]propane-2-yl]-1H-indole-3-carboxylic acid methyl ester
+T26	SYSTEMATIC 12085 12101	trifluoroethanol
+T27	SYSTEMATIC 12133 12141	nitrogen
+T28	SYSTEMATIC 12172 12193	trimethylchlorosilane
+T29	SYSTEMATIC 12286 12293	acetone
+T30	SYSTEMATIC 12314 12330	sodium hydroxide
+T31	SYSTEMATIC 12352 12382	potassium dihydrogen phosphate
+T32	TRIVIAL 12505 12510	water
+T33	SYSTEMATIC 12515 12522	acetone
+T34	SYSTEMATIC 12577 12682	6-cyano-2-[2-[4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)phenyl]propane-2-yl]-1H-indole-3-carboxylic acid
+T35	SYSTEMATIC 12770 12875	6-cyano-2-[2-[4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)phenyl]propane-2-yl]-1H-indole-3-carboxylic acid
+T36	SYSTEMATIC 12902 12927	N,N-diisopropylethylamine
+T37	SYSTEMATIC 12938 12959	N,N-dimethylacetamide
+T38	SYSTEMATIC 12991 12999	nitrogen
+T39	SYSTEMATIC 13106 13120	methyl alcohol
+T40	TRIVIAL 13131 13136	water
+T41	SYSTEMATIC 13242 13256	methyl alcohol
+T42	TRIVIAL 13279 13288	Alectinib
+T43	SYSTEMATIC 13374 13391	6-cyano-1H-indole
+T44	SYSTEMATIC 13425 13432	dioxane
+T45	SYSTEMATIC 13501 13509	pyridine
+T46	SYSTEMATIC 13534 13559	trichloro-acetic chloride
+T47	TRIVIAL 13834 13839	water
+T48	SYSTEMATIC 13874 13887	ethyl acetate
+T49	TRIVIAL 13957 13962	water
+T50	SYSTEMATIC 14033 14047	sodium sulfate
+T51	SYSTEMATIC 14116 14130	methyl alcohol
+T52	SYSTEMATIC 14145 14161	sodium hydroxide
+T53	SYSTEMATIC 14280 14293	ethyl acetate
+T54	SYSTEMATIC 14353 14367	sodium sulfate
+T55	SYSTEMATIC 14441 14449	n-hexane
+T56	SYSTEMATIC 14454 14467	ethyl acetate
+T57	SYSTEMATIC 14495 14543	6-cyano-1H-indole-3-carboxylic acid methyl ester
+T58	SYSTEMATIC 14632 14649	6-cyano-1H-indole
+T59	SYSTEMATIC 14683 14690	dioxane
+T60	SYSTEMATIC 14759 14767	pyridine
+T61	SYSTEMATIC 14792 14817	trichloro-acetic chloride
+T62	TRIVIAL 15092 15097	water
+T63	SYSTEMATIC 15132 15145	ethyl acetate
+T64	TRIVIAL 15215 15220	water
+T65	TRIVIAL 15235 15239	salt
+T66	SYSTEMATIC 15291 15305	sodium sulfate
+T67	SYSTEMATIC 15374 15387	ethyl alcohol
+T68	SYSTEMATIC 15402 15421	potassium hydroxide
+T69	SYSTEMATIC 15540 15553	ethyl acetate
+T70	TRIVIAL 15568 15573	water
+T71	SYSTEMATIC 15613 15627	sodium sulfate
+T72	SYSTEMATIC 15701 15709	n-hexane
+T73	SYSTEMATIC 15714 15727	ethyl acetate
+T74	SYSTEMATIC 15755 15803	6-cyano-1H-indole-3-carboxylic acid methyl ester
+T75	SYSTEMATIC 15893 15922	4-acetyl-2-bromo-ethylbenzene
+T76	SYSTEMATIC 15948 15976	4-(morpholin-4-yl) piperidin
+T77	SYSTEMATIC 16003 16026	potassium tert-butoxide
+T78	SYSTEMATIC 16055 16073	dimethyl sulfoxide
+T79	TRIVIAL 16294 16299	water
+T80	SYSTEMATIC 16421 16434	ethyl acetate
+T81	SYSTEMATIC 16520 16537	ammonium chloride
+T82	TRIVIAL 16552 16556	salt
+T83	SYSTEMATIC 16608 16622	sodium sulfate
+T84	SYSTEMATIC 16690 16698	n-hexane
+T85	SYSTEMATIC 16703 16716	ethyl acetate
+T86	SYSTEMATIC 16744 16799	4-acetyl-2-(4-morpholin-4-yl-1-piperidinyl)ethylbenzene
+T87	SYSTEMATIC 16893 16948	4-acetyl-2-(4-morpholin-4-yl-1-piperidinyl)ethylbenzene
+T88	SYSTEMATIC 16981 16996	tetrahydrofuran
+T89	SYSTEMATIC 17073 17088	tetrahydrofuran
+T90	SYSTEMATIC 17101 17125	methylmagnesium chloride
+T91	TRIVIAL 17290 17300	salt water
+T92	SYSTEMATIC 17335 17348	ethyl acetate
+T93	TRIVIAL 17418 17423	water
+T94	TRIVIAL 17438 17442	salt
+T95	SYSTEMATIC 17494 17508	sodium sulfate
+T96	SYSTEMATIC 17576 17584	n-hexane
+T97	SYSTEMATIC 17612 17682	4-ethyl-3-(4-morpholin-4-yl-piperidin-1-yl)-α,α-dimethylphenylcarbinol

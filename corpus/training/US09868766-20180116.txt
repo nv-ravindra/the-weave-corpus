@@ -1,0 +1,344 @@
+Peptides as oxytocin agonists
+The invention relates to compounds of formula wherein variables are defined herein.
+It has been found that the present compounds are oxytocin receptor agonists for the treatment of autism, stress, including post traumatic stress disorder, anxiety, including anxiety disorders and depression, schizophrenia, psychiatric disorders and memory loss, alcohol withdrawal, drug addiction and for the treatment of Prader-Willi Syndrom.
+description="Other Patent Relations" end="lead"
+This application is a continuation of International Application PCT/EP2013/076783, filed Dec. 17, 2013, which claims the benefit of priority to European Application 12199012.1, filed Dec. 21, 2012, each of which is incorporated herein by reference in its entirety.
+description="Other Patent Relations" end="tail"
+description="Brief Summary" end="lead"
+The invention relates to compounds of formula wherein
+R1 is hydroxy or amino;
+R2 is sec-butyl or isobutyl;
+R3 is lower alkyl, lower alkyl substituted by hydroxy, —(CH2)2C(O)—NH2, —(CH2)3—NH2 or —CH2-five membered aromatic heterocyclic group;
+R4 is hydrogen or lower alkyl;
+R5 is hydrogen or lower alkyl; or
+R4 and R5 may form together with the N and C atom to which they are attached a pyrrolidine ring, optionally substituted by hydroxy or halogen, a piperidine ring or an azetidine ring;
+R6 is hydrogen, lower alkyl, lower alkyl substituted by hydroxy, —(CH2)2C(O)OH, —(CH2)2C(O)NH2, benzyl optionally substituted by amino or hydroxy, —CH2-five membered aromatic heterocyclic group, indolyl, —CH2-cycloalkyl, cycloalkyl, —(CH2)2—S— lower alkyl or is —(CH2)1-4—NH2;
+R6′ is hydrogen or lower alkyl; or
+R6 and R6′ are together cycloalkyl;
+X is —C(O)—CHR—NR′—C(O)—;
+R/R′ are independently from each other hydrogen or lower alkyl;
+m is 2;
+o is 0 or 1;  or a to pharmaceutically acceptable acid addition salt, to a racemic mixture or to its corresponding enantiomer and/or optical isomers thereof.
+It has been found that the present compounds are oxytocin receptor agonists, which compounds are oxytocin analogs that retain oxytocin bioactivity. Such analog molecules are capable of acting in a manner similar to endogenous oxytocin, including binding the oxytocin receptor. Analogs of oxytocin have completely new molecular structures.
+Oxytocin is a nine amino acid cyclic peptide hormone with two cysteine residues that form a disulfide bridge between position 1 and 6. Human oxytocin comprises the sequence Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly.
+Peptides have emerged as a commercially relevant class of drugs that offer the advantage of greater specifity and potency and lower toxicity profiles over traditional small molecule pharmaceuticals. They offer promising treatment options for numerous diseases, such as diabetes, HIV, hepatitis, cancer and others, with physicians and patents becoming more accepting of peptide-based medicines. The present invention relates to peptidic oxytocin receptor agonists, which also include the natural hormone oxytocin and carbetocin.
+Oxytocin is a potent uterotonic agent for the control of uterine atony and excessive bleeding, clinically used to induce labour, and has been shown to enhance the onset and maintenance of lactation (Gimpl et al., Physiol. Rev., 81, (2001), 629-683, Ruis et al., BMJ, 283, (1981), 340-342). Carbetocin (1-deamino-1-carba-2-tyrosine (O-methyl)-oxytocin) is also a potent uterotonic agent clinically used for the control of uterine atony and excessive bleeding.
+Peptidic oxytocin agonists may be used for the treatment of Prader-Willi Syndrom, which is a rare genetic disorder which affects one child in 25.000.
+Further research indicates that oxytocin agonists are useful for the treatment of inflammation and pain, including abdominal and back pain (Yang, Spine, 19, 1994, 867-71), sexual dysfunction in both male (Lidberg et al., Pharmakopsychiat., 10, 1977, 21-25) and female (Anderson-Hunt, et al., BMJ, 309, 1994, 929), irritable bowel syndrome (IBS, Louvel et al., Gut, 39, 1996, 741-47), constipation and gastrointestinal obstruction (Ohlsson et al., Neurogastroenterol. Motil., 17, 2005, 697-704), autism (Hollander et al., Neuropsychopharm., 28, 2008, 193-98), stress, including post traumatic stress disorder (PTSD) (Pitman et al., Psychiatry Research, 48, 107-117), anxiety, including anxiety disorders and depression (Kirsch et al., J. Neurosci., 25, 49, 11489-93, Waldherr et al., PNAS, 104, 2007, 16681-84), surgical blood loss or control of post-partum haemorrhage (Fujimoto et al., Acta Obstet. Gynecol., 85, 2006, 1310-14), labor induction and maintenance (Flamm et al., Obstet. Gynecol., 70, 1987, 70-12), wound healing and infection, mastitis and placenta delivery, and osteoporosis. Additionally, oxytocin agonists may be useful for the diagnosis of both cancer and placental insufficiency.
+Furthermore, the Articles “Intranasal Oxytocin blocks alcohol withdrawal in human subjects” (Alcohol Clin Exp Res, Vol, No. 2012) and “Breaking the loop: Oxytocin as a potential treatment for drug addiction” (Hormones and Behavior, 61, 2012, 331-339) propose to treat alcohol withdrawal and drug addiction with a oxytocin agonist.
+Oxytocin and its receptors exists in areas of the brain implicated in the symptoms of schizophrenia, such as the nucleus accumbens and the hippocampus. The oxytocin receptor agonists may be used for the treatment of autism, stress, including post traumatic stress disorder, anxiety, including anxiety disorders and depression, schizophrenia, Alzheimer's disease, psychiatric disorders, memory loss and metabolic diseases (WO2012/016229).
+Objects of the present invention are novel compounds of formula I and the use of compounds of formula I and their pharmaceutically acceptable salts for the treatment of CNS diseases related to the oxytocin receptor, which diseases are autism, stress, including post traumatic stress disorder, anxiety, including anxiety disorders and depression, schizophrenia, psychiatric disorders and memory loss, alcohol withdrawal, drug addiction and for the treatment of Prader-Willi Syndrom.
+Further objects are the preparation of novel compounds of formula I and medicaments, containing them.
+The present invention may provide selective, efficacious compounds, providing alternatives and/or improvements in the treatment of certain CNS diseases including autism, stress, including post traumatic stress disorder, anxiety, including anxiety disorders and depression, schizophrenia, psychiatric disorders and memory loss, alcohol withdrawal, drug addiction and for the treatment of Prader-Willi Syndrom.
+It has been shown that the present peptides have a very good selectivity to the vasopressin receptors V1a and V2 as shown in the table. This may have a major advantage for use as medicament to avoid side effects. These physiological effects may be considered to be undesirable side effects in the case of medicines aimed at treating diseases of the central nervous system. Therefore it is desirable to obtain medicines having selectivity for the oxytocin receptor vs. vasopressin receptor.
+As used herein, the term “lower alkyl” denotes a saturated straight- or branchedchain group containing from 1 to 7 carbon atoms, for example, methyl, ethyl, propyl, isopropyl, n-butyl, i-butyl, 2-butyl, t-butyl and the like.
+The term “lower alkyl substituted by hydroxy” denotes a lower alkyl group as defined above, wherein at least one hydrogen atom is replaced by a hydroxy group.
+The term “cycloalkyl” denotes a cyclic alkyl chain, containing from 3 to 6 carbon atoms.
+As used herein, the term “five-membered aromatic heterocyclic group” denotes an imidazolyl, thiophenyl, furanyl, pyrrolyl, pyrazolyl, oxazolyl, oxadiazolyl or isoxazolyl group.
+The term “pharmaceutically acceptable acid addition salts” embraces salts with inorganic and organic acids, such as hydrochloric acid, nitric acid, sulfuric acid, phosphoric acid, citric acid, formic acid, fumaric acid, maleic acid, acetic acid, succinic acid, tartaric acid, methane-sulfonic acid, p-toluenesulfonic acid and the like.
+The preferred five-membered heterocyclic ring is an imidazole ring.
+Preferred are compounds of formula I, wherein o is 0 and m is 2.
+The following specific compounds have been prepared and tested for their agonistic activity on the oxytocin receptor:
+The preparation of compounds of formula I of the present invention may be carried out in sequential or convergent synthetic routes. The skills required for carrying out the reaction and purification of the resulting products are known to those skilled in the art.
+The compounds herein were synthesized by standard methods in solid phase peptide chemistry utilizing both Fmoc and Boc methodology. Reactions carried out manually were performed at room temperature, while microwave assisted peptide synthesis was performed at elevated temperature.
+General Synthesis Description:
+Linear peptides were either synthesized manually or using microwave technology via state-of-the-art solid phase synthesis protocols (Fmoc-chemistry) as referenced by e.g.: Kates and Albericio, Eds., “Solid Phase Synthesis: A practical guide”, Marcel Decker, New York, Basel, 2000. As a solid support TentaGel-S-RAM resin (0.24 meq/g) was used. All Fmoc-amino acids were added in a 10-fold excess after activation with HOBT/HBTU 1:1 (0.5 mol/L in DMF) and 4 eq of DIPEA (2 mol/L in NMP). Fmoc-cleavage was achieved with 20% piperidine in DMF.
+Allyl/Aloc-Cleavage & Lactam-Cyclisation:
+The resin was treated manually with a solution of 20 eq phenylsilane in DCM and 0.05 eq of tetrakis triphenylphosphine palladium for 30 min at RT. This procedure was repeated. The resin was washed with a solution of 0.5% sodium dithiocarbamate in DMF. For the on-bead lactam formation, again activation reagent was added to the resin and shaken for additional 8 h at RT. Completion of cyclisation was verified via Ninhydrin-test. Crude peptides were treated with standard peptide activation regents in DMF. The cyclisation was monitored via HPLC.
+Cleavage:
+A cleavage-cocktail of trifluoroacetic acid, triisopropylsilane and water (95/2.5/2.5) was added to the resin and shaken for 1 h at RT. Cleaved peptide was precipitated in cold Ether (−18° C.). The peptide was centrifuged and the residue washed twice with cold ether. The residue was dissolved in water/acetonitrile and lyophilized.
+Purification:
+Peptides were purified using reversed phase high performance liquid chromatography (RP-HPLC) using a Reprospher 100 C18-T Column (100×4.6 mm, 5 u particle size) as a stationary phase and water/acetonitrile as eluent (Gradient 1-50% MeCN over 30 min). Fractions were collected and analyzed by LC/MS. Pure product samples were combined and lyophilized. All peptides were obtained as white powders with a purity >85%. Product identification was obtained via mass spectrometry.
+All standard amino acids were purchased from CEM. Fmoc-Glu(Allyl)-OH, Fmoc-Phe(4-NHBoc)-OH, Fmoc-DAP(Aloc)-OH, Fmoc-DAB(Aloc)-OH and Fmoc-SAR-OH were purchased from Bachem. Fmoc-β-Homoproline was purchased from Chem-Impax. Fmoc-β-Ala-OH and Mono-tBu-Succinate were purchased from Sigma-Aldrich
+The detailed description for the synthesis of example 6 is provided to further illustrate the synthesis conditions:
+Peptide Synthesis:
+The peptide was synthesized using CEM Microwave technology with coupling times of 5 minutes per amino acid at elevated temperature (78° C.) and a 0.25 mmol scale. The synthesis is carried out using the TentalGel-S RAM resin as a solid support (0.24 meq/g). All amino acids used were dissolved in DMF to 0.2 mol concentration. A mixture of HOBT/HBTU 1:1 (0.5 mol/L) 4 eq. and DIPEA 4 eq. was used to activate the amino acids. Fmoc-Cleavage was achieved with Piperidine in DMF (20%) for 3 min. Fmoc-cleavage was repeated.
+Aloc-& Allyl-Cleavage:
+The resin was treated manually with a solution of 20 eq. phenylsilane and 0.05 eq. of tetrakis triphenylphosphine palladium in DCM (5 ml) for 30 min at RT. This procedure was repeated. The resin was washed with a solution of 0.5% sodium dithiocarbamate in DMF twice. The washing step was repeated with DCM.
+On-Bead Cyclisation:
+Again coupling-reagent (4 ml of an 0.5 mol/L solution HOBT/HBTU (1:1) and 1 ml of DIPEA (4 eq.) in DMF was added to the resin. The slurry was shaken for about 8 h at RT. The resin was washed with DMF and DCM twice. Completion of cyclisation was verified via Ninhydrin test.
+Cleavage from Resin:
+10 ml of the cleavage-cocktail (TFA; TIS; water (95/2.5/2.5)) was added to the resin and shaken for 1 h at RT. Cleaved peptide was precipitated in cold ether (−18° C.). The peptide was centrifuged and the precipitates washed twice with cold ether. The precipitate was dissolved in H2O/Acetonitrile and lyophilized to yield 210 mg white powder.
+Purification:
+The crude peptide was purified by preparative HPLC on a Reprospher 100 C18-T Column (100×4.6 mm, Sum particle size). As eluent system a mixture of 0.1% TFA/water/acetonitrile was used with a gradient of 0-50% acetonitrile within 0-30 min. The fractions were collected and checked by analytical HPLC. Fractions containing pure product were combined and lyophilized. 7.2 mg of white powder were obtained.
+All other peptides listed below were synthesized accordingly.
+Abbreviations:
+Fmoc: 9-Fluorenylmethoxycarbonyl
+Gly: Glycine
+His(Trt): Trityl-protected Histidine
+Sar: Sarcosine
+Glu: Glutamic Acid
+Asn(Trt): Trityl-protected Asparagine
+Gln(Trt): Trityl-protected Glutamine
+Ile: Isoleucine
+Tyr: Tyrosine
+Leu: Leucine
+Pro: Proline
+Ala: Alanine
+Orn: Ornithine
+Thr: Treonine
+Val: Valine
+Dab: Diaminobutyric acid
+Dap: Diaminopropionicic acid
+D-Pro: D-Proline
+MeLeu: α-Methyl-Leucine
+Cha: β-Cyclohewxyl-Alanine
+Nle: Norleucine
+Chg: Cyclohexylglycine
+HoLeu: Homoleucine
+Tle: tert. Butyl-glycine
+Hyp: Trans-4-Hydroxy-L-Proline
+FluoroPro: Trans-4-Fluoro-L-Proline
+Hpr: Homoproline
+Aib: Aminoisobutyric Acid
+Aze: (S)—N-Azetidine-2-Carboxylic Acid
+Ser: Serine
+2AOC-OH: L-Aminooctanoic Acid
+2ADC-OH: L-Aminodecanoic Acid
+cyLeu: Cycloleucine
+Aloc: Allyloxycarbonyl
+HOBT: N-Hydroxybenzotriazol
+HBTU: O-Benzotriazole-N,N,N′,N′-tetramethyl-uronium-hexafluorophosphate
+DMF: N,N-Dimethylformamide
+NMP: N-Methylpyrrolidone
+DIPEA: N,N-Diisopropylamine
+DCM: Dichlormethane
+MeCN: Acetonitril
+description="Brief Summary" end="tail"
+description="Detailed Description" end="lead"
+EXAMPLE 1
+The following amino acids were used: Fmoc-Gly-OH, FMOC-Phe(4-NHBoc)-OH, Fmoc-SAR-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 994.1; observed 994.9
+EXAMPLE 2
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-SAR-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, FMOC-Phe(4-NHBoc)-OH
+MS (M+H+): expected 944.1; observed 944.4
+EXAMPLE 3
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH, Fmoc-Ala-OH
+MS (M+H+): expected 985.1; observed 986.3
+EXAMPLE 4
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-β-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 984.5; observed 984.9
+EXAMPLE 5
+The following amino acids were used: Fmoc-SAR-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH, Fmoc-Gly-OH
+MS (M+H+): expected 984.5; observed 984.9
+EXAMPLE 6
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 931.0; observed 932.0
+EXAMPLE 7
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 914.9; observed 915.9
+EXAMPLE 8
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.5
+EXAMPLE 9
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-His(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 980.1; observed 981.5
+EXAMPLE 10
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, FMOC-Phe(4-NHBoc)-OH
+MS (M+H+): expected 970.1; observed 970.8
+EXAMPLE 11
+The following amino acids were used: Fmoc-Gly-OH, FMOC-Phe(4-NHBoc)-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 1020.0; observed 1021.0
+EXAMPLE 12
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH, Fmoc-SAR-OH
+MS (M+H+): expected 985.1; observed 985.4
+EXAMPLE 13
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-SAR-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 945.1; observed 945.4
+EXAMPLE 14
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-D-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.5
+EXAMPLE 15
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-D-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.3
+EXAMPLE 16
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Ala-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 902.9; observed 903.8
+EXAMPLE 17
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Ala-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 944.5; observed 945.0
+EXAMPLE 18
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Ala-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 928.9; observed 929.7
+EXAMPLE 19
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Val-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 957.1; observed 957.8
+EXAMPLE 20
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Orn(Boc)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 957.1; observed 957.9
+EXAMPLE 21
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Lys(Boc)-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 986.1; observed 986.9
+EXAMPLE 22
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-D-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.5
+EXAMPLE 23
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-D-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.5
+EXAMPLE 24
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 971.1; observed 971.8
+EXAMPLE 25
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Thr(tBu)-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 932.9; observed 933.6
+EXAMPLE 26
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Val-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 931.0; observed 931.6.
+EXAMPLE 27
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Phe-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 979.0; observed 979.5
+EXAMPLE 28
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Ser(tBu)-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 918.9; observed 919.7
+EXAMPLE 29
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Glu(tBu)-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 960.9; observed 962.1
+EXAMPLE 30
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Dab(Boc)-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 932.0; observed 932.6
+EXAMPLE 31
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 960.0; observed 960.9
+EXAMPLE 32
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 995.0; observed 996.0
+EXAMPLE 33
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OH
+MS (M+H+): expected 945.0; observed 945.0
+EXAMPLE 34
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-His(Trt)-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 969.0; observed 969.7
+EXAMPLE 35
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Met-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 995.0; observed 996.0
+EXAMPLE 36
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-MeLeu-OH, Fmoc-Pro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 955.1; observed 985.1
+EXAMPLE 37
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Ala-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 888.0; observed 888.6
+EXAMPLE 38
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Trp-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 1018.1; observed 1018.8
+EXAMPLE 39
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Cha-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 985.1; observed 985.6
+EXAMPLE 40
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Nle-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 945.0; observed 945.5
+EXAMPLE 41
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Chg-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 971.1; observed 971.9
+EXAMPLE 42
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Dap-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 918.0; observed 918.7
+EXAMPLE 43
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-HoLeu-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 959.1; observed 959.9
+EXAMPLE 44
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Tle-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 945.0; observed 944.7
+EXAMPLE 45
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Hyp-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 987.1; observed 988.0
+EXAMPLE 46
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-FluoroPro-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 989.1; observed 989.3
+EXAMPLE 47
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Hpr-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 985.1; observed 985.1
+EXAMPLE 48
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-cyLeu-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 943.0; observed 943.1
+EXAMPLE 49
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Aib-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 917.0; observed 917.8
+EXAMPLE 50
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu-OH, Fmoc-Aze-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 957.0; observed 957.1
+EXAMPLE 51
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-MeLeu-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 959.1; observed 959.7
+EXAMPLE 52
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-MeLeu-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 903.0; observed 903.2
+EXAMPLE 53
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-2AOC-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 973.0; observed 973.5
+EXAMPLE 54
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-2ADC-OH, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Gln(Trt)-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 1001.1; observed 1000.5
+EXAMPLE 55
+The following amino acids were used: Fmoc-Gly-OH, Fmoc-Leu, Fmoc-Sar-OH, Fmoc-Glu(Allyl)-OH, Fmoc-Asn(Trt)-OH, Fmoc-Val-OH, Fmoc-Ile-OH, Fmoc-Tyr(tBu)-OHMS
+(M+H+): expected 916.0; observed 917.2
+Material and Methods
+Cell Culture and Stable Clone Production
+Chines Hamster Ovary (CHO) cells were transfected with expression plasmids encoding either the human V1a, the human Oxytocin (OTR) or the humanV2 receptor, the later in combination with the chimeric Gqs5 G protein to redirect the signal to Calcium flux. Stable cells were cloned by limiting dilution to yield monoclonal cell lines expressing either human V1a, human V2+Gqs5 or human OTR receptors and selected based on functional responses detected on a fluorometric imaging plate reader (FLIPR) detecting Calcium flux in the cell after receptor activation. The stable cell lines were grown in F-12 K Nutrient Mixture (Kaighns Modification), containing 10% foetal bovine serum (FBS), 1% penicillin-streptomycin, 1% L-glutamate, 200 ug/ml Geneticin at 37° C. in a 10% CO2 incubator at 95% humidity.
+Calcium Flux Assays Using Fluorescent Imaging (Fluorometric Imaging Plate Reader, FLIPR)
+On the afternoon before the assay, cells were plated at a density of 50,000 cells/well into black 96 well plates with clear bottoms to allow cell inspection and fluorescence measurements from the bottom of each well. The density of cells was sufficient to yield a confluent monolayer the next day. Hanks balanced salt solution, without phenol red, containing 20 mM HEPES (pH 7.3) and 2.5 mM probenecid (assay buffer) was prepared fresh for each experiment. Compound dilutions were made using a Beckman Biomek 2000 laboratory automation workstation, in assay buffer containing 1% DMSO. The dye-loading buffer consisted of a final concentration of 2 μM Fluo-4-AM (dissolved in DMSO and pluronic acid) in assay buffer. The existing culture media was removed from the wells and 100 μl of the dye-loading buffer was added to each well and incubated for approximately 60 min at 37° C. in a 5% CO2 incubator at 95% humidity. Once dye-loaded, the cells were washed thoroughly on an Embla cell washer with the assay buffer to remove any unincorporated dye. Exactly 100 μl assay buffer was left in each well.
+Each 96 well plate containing dye-loaded cells was placed into the FLIPR machine and the laser intensity set to a suitable level to detect low basal fluorescence. To test compounds as agonists, 25 μl diluted compound was added to the plate 10 seconds into the fluorescent measurements and fluorescent response was recorded for 5 minutes. The fluorescence data was normalized to the endogenous full agonist dose-response set at 100% for the maximum response and 0% for the minimum. Each agonist concentration-response curve was constructed using a four parameter logistic equation with Microsoft Excel XLFit as follows: Y=Minimum+((Maximum−Minimum)/(1+10(Log EC50-X)nH)), where y is the % normalized fluorescence, minimum is the minimum y, maximum is the maximum y, log EC50 is the log10 concentration which produces 50% of the maximum induced fluorescence, x is the log10 of the concentration of the agonist compound and H is the slope of the curve (the Hill Coefficient). The maximum value gives the efficacy of the agonist test compound in percentage. The concentration of agonist that produced a half-maximal response is represented by the EC50 value, the logarithm of which yielded the pEC50 value.
+The following EC50 (nM), and efficacy (%) for the specific peptides may be provided, together with comparative data for hV1a and hV2:
+hOT  hV2  hOT  hV1a  hV2
+EC50(nM)/  hV1a  EC50 (nM)/  EC50(nM)/  EC50 (nM)/  EC50 (nM)
+efficacy  EC50  efficacy  efficacy  efficacy  efficacy
+Expl.  (%)  (nM)  (%)  Expl.  (%)  (%)  (%)
+1   10/111  >27000  4800/107  29   32/130  >10000  10682/39 
+2   9/112  >27000  7906/74   30   6/119  >10000   142/104
+3   4/94  31   9/131  >10000  2708/91 
+4   31/102  32   4/119  >10000  1985/106
+5  181/108  33   2/119  >27000  3821/101
+6  11/95  >27000  34   10/136  >10000   145/120
+7  124/87   35   3/111  >10000  1672/104
+8  100/92   36   41/138
+9  118/93   37   4/137
+10  17/91  >2700  38   1/126
+11  11/94  >27000  39  0.4/122  >27000  3707/111
+12  48/82  40  0.4/124  >27000  2194/117
+13   0.2/111  >27000  5110/97   41   69/117
+14  250/92   42   1/119
+15   52/102  >12000  43   26/124
+16   30/105  >12000  44  0.5/117  >27000  1230/112
+17  45/92  >12000  45  0.6/113  >27000  3806/91 
+18  24/91  >12000  46   10/104
+19   1.5/122  127/33   47  1.5/111
+20  40  >12000  48  3.6/108
+21   12/105  32/55  49  5.9/97 
+22   98/116  50  3.6/99   >27000
+23  88/64  51  13/97   >27000
+24   2.2/152  >27000  2505/98   52  4.3/121
+25   3/125  >10000  3823/103  53  1.1/127
+26   2/124  >10000  2624/102  54  0.8/134
+27   5/128  >10000  1498/101  55   20/104
+28   5/122  >10000  4173/87 
+The compounds of formula I and the pharmaceutically acceptable salts of the compounds of formula I can be used as medicaments, e.g. in the form of pharmaceutical preparations. The pharmaceutical preparations can be administered preferably transdermal, intranasal, subcutaneous or intra venous (iv).
+Transdermal is a route of administration wherein active ingredients are delivered across the skin for systematic distribution. Examples include transdermal patches used for medicine delivery, and transdermal implants used for medical or aesthetic purposes.
+Nasal administration can be used to deliver drugs for either local or systemic effects, nasal sprays for local effect are quite common. Peptide drugs may be administered as nasal sprays to avoid drug degradation after oral administration.
+Subcutaneous injections are also common for the administration of peptide drugs. An intramuscular injection is the injection of a substance directly into the muscle. It is one of several alternative methods for the administration of medications. It is often used for particular forms of medication that are administered in small amounts. The injections should be given under the skin.
+The intravenous route is the infusion of liquid substances directly into a vein. Compared with other routes of administration, the intravenous route is the fastest way to deliver fluids and medications throughout the body.
+The pharmaceutical preparations can, moreover, contain preservatives, solubilizers, stabilizers, wetting agents, emulsifiers, sweeteners, colorants, flavorants, salts for varying the osmotic pressure, buffers, masking agents or antioxidants. They can also contain still other therapeutically valuable substances.
+Medicaments containing a compound of formula I or a pharmaceutically acceptable salt thereof and a therapeutically inert carrier are also an object of the present invention, as is a process for their production, which comprises bringing one or more compounds of formula I and/or pharmaceutically acceptable acid addition salts and, if desired, one or more other therapeutically valuable substances into a galenical administration form together with one or more therapeutically inert carriers.
+The most preferred indications in accordance with the present invention are those which include disorders of the central nervous system, for example the treatment or prevention of autism, stress, including post traumatic stress disorder, anxiety, including anxiety disorders and depression, schizophrenia, psychiatric disorders and memory, loss alcohol withdrawal, drug addiction and for the treatment of Prader-Willi Syndrom.
+The dosage can vary within wide limits and will, of course, have to be adjusted to the individual requirements in each particular case. The dosage for adults can vary from about 0.01 mg to about 1000 mg per day of a compound of general formula I or of the corresponding amount of a pharmaceutically acceptable salt thereof. The daily dosage may be administered as single dose or in divided doses and, in addition, the upper limit can also be exceeded when this is found to be indicated.
+description="Detailed Description" end="tail"
+The invention claimed is:
+1. A compound of formula
+wherein
+R1 is hydroxy or amino;
+R2 is sec-butyl or isobutyl;
+R3 is lower alkyl, lower alkyl substituted by hydroxy, —(CH2)2C(O)—NH2, —(CH2)3—NH2 or —CH2-five membered aromatic heterocyclic group;
+R4 is hydrogen or lower alkyl;
+R5 is hydrogen or lower alkyl; or
+R4 and R5 may form together with the N and C atom to which they are attached a pyrrolidine ring, optionally substituted by hydroxy or halogen, a piperidine ring or an azetidine ring;
+R6 is hydrogen, lower alkyl, lower alkyl substituted by hydroxy, —(CH2)2C(O)OH, —(CH2)2C(O)NH2, benzyl optionally substituted by amino or hydroxy, —CH2-five membered aromatic heterocyclic group, indolyl, —CH2-cycloalkyl, cycloalkyl, —(CH2)2—S— lower alkyl or is —(CH2)1-4—NH2;
+R6′ is hydrogen or lower alkyl; or
+R6 and R6′ are together cycloalkyl;
+X is —C(O)—CHR—NR′—C(O)—;
+R/R′ are independently from each other hydrogen or lower alkyl;
+m is 2;
+o is 0 or 1;
+or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof.
+2. A compound of formula I according to claim 1 or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof, wherein R2 is sec-butyl.
+3. A compound of formula I according to claim 1 or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof, wherein the five-membered heterocyclic ring is an imidazole ring.
+4. A compound of formula I according to claim 1 or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof, wherein o is 0.
+5. A compound of formula I according to claim 1 or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof, wherein the compound is selected from
+6. A pharmaceutical composition comprising a compound according to claim 1 , or a pharmaceutically acceptable acid addition salt, a racemic mixture or its corresponding enantiomer thereof, and a pharmaceutical acceptable carrier and/or adjuvant.

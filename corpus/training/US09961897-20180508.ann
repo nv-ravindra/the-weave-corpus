@@ -1,0 +1,146 @@
+T1	SYSTEMATIC 98792 98898	α-(2-chloro-4-fluorophenyl)-5-[2,6-difluoro-4-(1H-pyrazol-1-yl)phenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T2	SYSTEMATIC 98935 98971	4-bromo-2,6-difluorobenzoyl chloride
+T3	SYSTEMATIC 98985 99017	4-bromo-2,6-difluorobenzoic acid
+T4	SYSTEMATIC 99040 99056	thionyl chloride
+T5	SYSTEMATIC 99169 99176	toluene
+T6	SYSTEMATIC 99283 99342	(2Z)-1-(4-bromo-2,6-difluorophenyl)-3-hydroxy-2-buten-1-one
+T7	SYSTEMATIC 99359 99375	2,4-pentanedione
+T8	SYSTEMATIC 99399 99411	acetonitrile
+T9	SYSTEMATIC 99430 99448	magnesium chloride
+T10	SYSTEMATIC 99531 99544	triethylamine
+T11	SYSTEMATIC 99585 99621	4-bromo-2,6-difluorobenzoyl chloride
+T12	SYSTEMATIC 99672 99684	acetonitrile
+T13	SYSTEMATIC 99781 99798	hydrochloric acid
+T14	TRIVIAL 99930 99935	water
+T15	SYSTEMATIC 100000 100013	ethyl acetate
+T16	SYSTEMATIC 100087 100102	sodium chloride
+T17	SYSTEMATIC 100132 100146	sodium sulfate
+T18	TRIVIAL 100262 100272	silica gel
+T19	SYSTEMATIC 100289 100302	ethyl acetate
+T20	FAMILY 100306 100321	petroleum ether
+T21	FORMULA 100386 100391	CDCl3
+T22	SYSTEMATIC 100476 100531	5-(4-bromo-2,6-difluorophenyl)-1,3-dimethyl-1H-pyrazole
+T23	SYSTEMATIC 100545 100558	triethylamine
+T24	SYSTEMATIC 100582 100597	methylhydrazine
+T25	SYSTEMATIC 100653 100712	(2Z)-1-(4-bromo-2,6-difluorophenyl)-3-hydroxy-2-buten-1-one
+T26	SYSTEMATIC 100763 100770	ethanol
+T27	TRIVIAL 100888 100893	Water
+T28	SYSTEMATIC 100973 100986	ethyl acetate
+T29	SYSTEMATIC 101009 101023	sodium sulfate
+T30	TRIVIAL 101118 101128	silica gel
+T31	SYSTEMATIC 101145 101158	ethyl acetate
+T32	FAMILY 101162 101177	petroleum ether
+T33	FORMULA 101248 101253	CDCl3
+T34	SYSTEMATIC 101342 101437	[5-(4-bromo-2,6-difluorophenyl)-1,3-dimethyl-1H-pyrazol-4-yl](2-chloro-4-fluorophenyl)methanone
+T35	SYSTEMATIC 101454 101509	5-(4-bromo-2,6-difluorophenyl)-1,3-dimethyl-1H-pyrazole
+T36	SYSTEMATIC 101560 101577	tetrachloroethane
+T37	SYSTEMATIC 101604 101621	aluminum chloride
+T38	SYSTEMATIC 101651 101684	2-chloro-4-fluorobenzoyl chloride
+T39	TRIVIAL 101835 101840	water
+T40	SYSTEMATIC 101865 101878	ethyl acetate
+T41	SYSTEMATIC 101935 101949	sodium sulfate
+T42	TRIVIAL 102055 102065	silica gel
+T43	SYSTEMATIC 102083 102096	ethyl acetate
+T44	FAMILY 102100 102115	petroleum ether
+T45	ABBREVIATION 102185 102192	DMSO-d6
+T46	SYSTEMATIC 102296 102403	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(1H-pyrazol-1-yl)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T47	SYSTEMATIC 102421 102516	[5-(4-bromo-2,6-difluorophenyl)-1,3-dimethyl-1H-pyrazol-4-yl](2-chloro-4-fluorophenyl)methanone
+T48	SYSTEMATIC 102569 102580	1,4-dioxane
+T49	SYSTEMATIC 102600 102611	1H-pyrazole
+T50	SYSTEMATIC 102633 102652	potassium carbonate
+T51	SYSTEMATIC 102678 102691	copper iodide
+T52	SYSTEMATIC 102750 102755	argon
+T53	SYSTEMATIC 102784 102825	trans-N,N-dimethyl-1,2-cyclohexanediamine
+T54	TRIVIAL 102991 102998	Celite®
+T55	TRIVIAL 103084 103089	water
+T56	SYSTEMATIC 103122 103135	ethyl acetate
+T57	SYSTEMATIC 103191 103205	sodium sulfate
+T58	TRIVIAL 103321 103331	silica gel
+T59	SYSTEMATIC 103349 103362	ethyl acetate
+T60	FAMILY 103366 103381	petroleum ether
+T61	ABBREVIATION 103452 103459	DMSO-d6
+T62	SYSTEMATIC 103628 103734	α-(2-chloro-4-fluorophenyl)-5-[2,6-difluoro-4-(1H-pyrazol-1-yl)phenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T63	SYSTEMATIC 103751 103858	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(1H-pyrazol-1-yl)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T64	SYSTEMATIC 103911 103918	ethanol
+T65	SYSTEMATIC 103946 103964	sodium borohydride
+T66	TRIVIAL 104040 104045	water
+T67	SYSTEMATIC 104065 104078	ethyl acetate
+T68	SYSTEMATIC 104134 104148	sodium sulfate
+T69	TRIVIAL 104264 104274	silica gel
+T70	SYSTEMATIC 104292 104305	ethyl acetate
+T71	FAMILY 104309 104324	petroleum ether
+T72	ABBREVIATION 104428 104435	DMSO-d6
+T73	SYSTEMATIC 104630 104739	α-(2-chloro-4-fluorophenyl)-5-[4-(cyclopropylmethoxy)-2,6-difluorophenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T74	SYSTEMATIC 104777 104912	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T75	SYSTEMATIC 104927 105022	[5-(4-bromo-2,6-difluorophenyl)-1,3-dimethyl-1H-pyrazol-4-yl](2-chloro-4-fluorophenyl)methanone
+T76	SYSTEMATIC 105084 105107	bis(pinacolato)diborane
+T77	SYSTEMATIC 105128 105135	dioxane
+T78	SYSTEMATIC 105173 105178	argon
+T79	SYSTEMATIC 105208 105268	[1,1′-bis(diphenylphosphino)ferrocene]-dichloropalladium(II)
+T80	SYSTEMATIC 105292 105309	potassium acetate
+T81	TRIVIAL 105478 105485	Celite®
+T82	TRIVIAL 105638 105643	water
+T83	SYSTEMATIC 105663 105676	ethyl acetate
+T84	TRIVIAL 105734 105739	water
+T85	SYSTEMATIC 105754 105769	sodium chloride
+T86	SYSTEMATIC 105800 105814	sodium sulfate
+T87	SYSTEMATIC 105940 106037	(2-chloro-4-fluorophenyl)[5-(2,6-difluoro-4-hydroxyphenyl)-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T88	SYSTEMATIC 106054 106189	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T89	SYSTEMATIC 106242 106257	dichloromethane
+T90	SYSTEMATIC 106275 106309	N,N,4-trimethylbenzenamine N-oxide
+T91	TRIVIAL 106441 106446	water
+T92	SYSTEMATIC 106466 106481	dichloromethane
+T93	SYSTEMATIC 106527 106541	sodium sulfate
+T94	TRIVIAL 106657 106667	silica gel
+T95	SYSTEMATIC 106685 106698	ethyl acetate
+T96	FAMILY 106702 106717	petroleum ether
+T97	ABBREVIATION 106789 106796	DMSO-d6
+T98	SYSTEMATIC 106919 107029	(2-chloro-4-fluorophenyl)[5-[4-(cyclopropylmethoxy)-2,6-difluorophenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T99	SYSTEMATIC 107046 107143	(2-chloro-4-fluorophenyl)[5-(2,6-difluoro-4-hydroxyphenyl)-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T100	SYSTEMATIC 107198 107217	potassium carbonate
+T101	SYSTEMATIC 107242 107263	N,N-dimethylformamide
+T102	SYSTEMATIC 107281 107305	(iodomethyl)cyclopropane
+T103	TRIVIAL 107377 107382	water
+T104	SYSTEMATIC 107402 107415	ethyl acetate
+T105	SYSTEMATIC 107471 107485	sodium sulfate
+T106	TRIVIAL 107601 107611	silica gel
+T107	SYSTEMATIC 107629 107642	ethyl acetate
+T108	FAMILY 107646 107661	petroleum ether
+T109	ABBREVIATION 107733 107740	DMSO-d6
+T110	SYSTEMATIC 107915 108024	α-(2-chloro-4-fluorophenyl)-5-[4-(cyclopropylmethoxy)-2,6-difluorophenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T111	SYSTEMATIC 108041 108151	(2-chloro-4-fluorophenyl)[5-[4-(cyclopropylmethoxy)-2,6-difluorophenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T112	SYSTEMATIC 108204 108212	methanol
+T113	SYSTEMATIC 108230 108248	sodium borohydride
+T114	TRIVIAL 108329 108334	water
+T115	SYSTEMATIC 108348 108356	methanol
+T116	SYSTEMATIC 108434 108447	ethyl acetate
+T117	SYSTEMATIC 108506 108520	sodium sulfate
+T118	TRIVIAL 108648 108658	silica gel
+T119	SYSTEMATIC 108683 108696	ethyl acetate
+T120	FAMILY 108700 108715	petroleum ether
+T121	ABBREVIATION 108823 108830	DMSO-d6
+T122	SYSTEMATIC 109055 109160	α-(2-chloro-4-fluorophenyl)-5-[2,6-difluoro-4-(3-methylbutoxy)phenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T123	SYSTEMATIC 109197 109303	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(3-methylbutoxy)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T124	SYSTEMATIC 109320 109417	(2-chloro-4-fluorophenyl)[5-(2,6-difluoro-4-hydroxyphenyl)-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T125	SYSTEMATIC 109483 109502	potassium carbonate
+T126	SYSTEMATIC 109527 109548	N,N-dimethylformamide
+T127	SYSTEMATIC 109566 109587	1-iodo-3-methylbutane
+T128	TRIVIAL 109660 109665	water
+T129	SYSTEMATIC 109685 109698	ethyl acetate
+T130	SYSTEMATIC 109754 109768	sodium sulfate
+T131	TRIVIAL 109884 109894	silica gel
+T132	SYSTEMATIC 109912 109925	ethyl acetate
+T133	FAMILY 109929 109944	petroleum ether
+T134	FORMULA 110014 110019	CDCl3
+T135	SYSTEMATIC 110208 110313	α-(2-chloro-4-fluorophenyl)-5-[2,6-difluoro-4-(3-methylbutoxy)phenyl]-1,3-dimethyl-1H-pyrazole-4-methanol
+T136	SYSTEMATIC 110328 110434	(2-chloro-4-fluorophenyl)[5-[2,6-difluoro-4-(3-methylbutoxy)phenyl]-1,3-dimethyl-1H-pyrazol-4-yl]methanone
+T137	SYSTEMATIC 110488 110496	methanol
+T138	SYSTEMATIC 110514 110532	sodium borohydride
+T139	TRIVIAL 110610 110615	water
+T140	SYSTEMATIC 110629 110637	methanol
+T141	SYSTEMATIC 110715 110728	ethyl acetate
+T142	SYSTEMATIC 110787 110801	sodium sulfate
+T143	TRIVIAL 110929 110939	silica gel
+T144	SYSTEMATIC 110964 110977	ethyl acetate
+T145	FAMILY 110981 110996	petroleum ether
+T146	ABBREVIATION 111103 111110	DMSO-d6

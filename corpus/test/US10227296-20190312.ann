@@ -1,0 +1,395 @@
+T1	SYSTEMATIC 38302 38341	N-tert-butyl-2-fluorobenzenesulfonamide
+T2	SYSTEMATIC 38342 38357	tert-Butylamine
+T3	SYSTEMATIC 38430 38462	2-fluorobenzenesulfonyl chloride
+T4	SYSTEMATIC 38488 38503	dichloromethane
+T5	TRIVIAL 38600 38605	Water
+T6	SYSTEMATIC 38610 38623	ethyl acetate
+T7	SYSTEMATIC 38675 38688	ethyl acetate
+T8	TRIVIAL 38735 38740	water
+T9	TRIVIAL 38745 38750	brine
+T10	SYSTEMATIC 38763 38777	sodium sulfate
+T11	ABBREVIATION 38871 38878	DMSO-d6
+T12	SYSTEMATIC 39053 39109	N-tert-butyl-2-[(methylsulfonyl)amino]benzenesulfonamide
+T13	SYSTEMATIC 39123 39162	N-tert-butyl-2-fluorobenzenesulfonamide
+T14	SYSTEMATIC 39188 39206	Methanesulfonamide
+T15	SYSTEMATIC 39252 39271	potassium carbonate
+T16	SYSTEMATIC 39300 39309	sulfolane
+T17	TRIVIAL 39351 39356	Water
+T18	SYSTEMATIC 39466 39483	hydrochloric acid
+T19	SYSTEMATIC 39509 39522	ethyl acetate
+T20	TRIVIAL 39558 39563	water
+T21	TRIVIAL 39565 39570	water
+T22	TRIVIAL 39571 39576	brine
+T23	TRIVIAL 39587 39592	brine
+T24	SYSTEMATIC 39605 39622	magnesium sulfate
+T25	TRIVIAL 39689 39695	silica
+T26	FORMULA 39723 39728	EtOAc
+T27	SYSTEMATIC 39732 39739	heptane
+T28	ABBREVIATION 39804 39811	DMSO-d6
+T29	SYSTEMATIC 39942 39997	4-Chloro-2-{[tert-butyl(dimethyl)silyl]oxy}benzaldehyde
+T30	SYSTEMATIC 39998 40028	Tert-Butyldimethylchlorosilane
+T31	SYSTEMATIC 40078 40108	4-chloro-2-hydroxybenzaldehyde
+T32	SYSTEMATIC 40132 40141	Imidazole
+T33	ABBREVIATION 40166 40169	DMF
+T34	TRIVIAL 40345 40351	silica
+T35	FORMULA 40362 40367	EtOAc
+T36	SYSTEMATIC 40371 40378	heptane
+T37	SYSTEMATIC 40438 40450	CHLOROFORM-d
+T38	SYSTEMATIC 40560 40619	(2-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorophenyl)methanol
+T39	SYSTEMATIC 40649 40704	2-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorobenzaldehyde
+T40	SYSTEMATIC 40749 40757	methanol
+T41	SYSTEMATIC 40836 40854	Sodium borohydride
+T42	SYSTEMATIC 41096 41113	ammonium chloride
+T43	SYSTEMATIC 41214 41227	ethyl acetate
+T44	TRIVIAL 41232 41237	brine
+T45	SYSTEMATIC 41286 41299	ethyl acetate
+T46	TRIVIAL 41348 41353	water
+T47	TRIVIAL 41355 41360	brine
+T48	SYSTEMATIC 41373 41390	magnesium sulfate
+T49	ABBREVIATION 41515 41522	DMSO-d6
+T50	SYSTEMATIC 41637 41696	[2-(bromomethyl)-5-chlorophenoxy](tert-butyl)dimethylsilane
+T51	SYSTEMATIC 41697 41756	(2-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorophenyl)methanol
+T52	ABBREVIATION 41791 41794	DMF
+T53	SYSTEMATIC 41860 41867	bromine
+T54	SYSTEMATIC 41963 41981	triphenylphosphine
+T55	ABBREVIATION 42006 42009	DMF
+T56	SYSTEMATIC 42025 42030	argon
+T57	TRIVIAL 42043 42048	Water
+T58	FORMULA 42094 42099	EtOAc
+T59	FORMULA 42142 42149	Na2S2O2
+T60	FORMULA 42171 42176	MgSO4
+T61	TRIVIAL 42229 42235	silica
+T62	FORMULA 42263 42268	EtOAc
+T63	SYSTEMATIC 42272 42279	heptane
+T64	ABBREVIATION 42285 42288	TEA
+T65	SYSTEMATIC 42346 42358	CHLOROFORM-d
+T66	SYSTEMATIC 42491 42618	N-tert-butyl-2-({[2-(6-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorocyclohexa-1,5-dien-1-yl)ethyl]sulfonyl}amino)benzenesulfonamide
+T67	SYSTEMATIC 42633 42689	N-tert-butyl-2-[(methylsulfonyl)amino]benzenesulfonamide
+T68	SYSTEMATIC 42739 42763	lithium diisopropylamide
+T69	SYSTEMATIC 42819 42878	[2-(bromomethyl)-5-chlorophenoxy](tert-butyl)dimethylsilane
+T70	ABBREVIATION 42902 42905	THF
+T71	TRIVIAL 43036 43041	brine
+T72	SYSTEMATIC 43046 43059	ethyl acetate
+T73	TRIVIAL 43135 43140	brine
+T74	SYSTEMATIC 43153 43170	magnesium sulfate
+T75	TRIVIAL 43256 43262	silica
+T76	FORMULA 43293 43298	EtOAc
+T77	SYSTEMATIC 43302 43309	heptane
+T78	ABBREVIATION 43364 43371	DMSO-d6
+T79	SYSTEMATIC 43637 43722	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T80	SYSTEMATIC 43723 43750	Tetrabutylammonium fluoride
+T81	ABBREVIATION 43770 43773	THF
+T82	SYSTEMATIC 43831 43916	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T83	ABBREVIATION 43941 43944	THF
+T84	TRIVIAL 44042 44047	brine
+T85	SYSTEMATIC 44076 44088	ethylacetate
+T86	FORMULA 44133 44138	NH4Cl
+T87	SYSTEMATIC 44151 44168	magnesium sulfate
+T88	TRIVIAL 44231 44237	silica
+T89	FORMULA 44268 44273	EtOAc
+T90	SYSTEMATIC 44277 44284	heptane
+T91	ABBREVIATION 44345 44352	DMSO-d6
+T92	SYSTEMATIC 44608 44647	2-(2-cyanophenyl)ethyl Methanesulfonate
+T93	SYSTEMATIC 44648 44672	Methanesulfonyl chloride
+T94	SYSTEMATIC 44733 44763	2-(2-hydroxyethyl)benzonitrile
+T95	SYSTEMATIC 44789 44802	triethylamine
+T96	SYSTEMATIC 44828 44843	dichloromethane
+T97	TRIVIAL 44958 44963	water
+T98	FORMULA 44975 44981	Na2CO3
+T99	FORMULA 45003 45008	MgSO4
+T100	SYSTEMATIC 45164 45176	CHLOROFORM-d
+T101	SYSTEMATIC 45285 45333	2-(1-methyl-1H-indol-4-yl)ethyl Methanesulfonate
+T102	SYSTEMATIC 45334 45358	Methanesulfonyl chloride
+T103	SYSTEMATIC 45419 45452	2-(1-methyl-1H-indol-4-yl)ethanol
+T104	SYSTEMATIC 45478 45491	triethylamine
+T105	SYSTEMATIC 45517 45532	dichloromethane
+T106	TRIVIAL 45659 45664	water
+T107	FORMULA 45678 45684	Na2CO3
+T108	FORMULA 45706 45711	MgSO4
+T109	SYSTEMATIC 45882 45894	CHLOROFORM-d
+T110	SYSTEMATIC 46051 46145	N-tert-butyl-2-[({2-[4-chloro-2-(2-phenylethoxy)phenyl]ethyl}sulfonyl)amino]benzenesulfonamide
+T111	SYSTEMATIC 46146 46165	Potassium carbonate
+T112	SYSTEMATIC 46191 46212	(2-bromoethyl)benzene
+T113	SYSTEMATIC 46263 46349	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}-amino)benzenesulfonamide
+T114	ABBREVIATION 46374 46377	DMF
+T115	SYSTEMATIC 46441 46462	(2-bromoethyl)benzene
+T116	SYSTEMATIC 46489 46508	potassium carbonate
+T117	SYSTEMATIC 46615 46636	(2-bromoethyl)benzene
+T118	SYSTEMATIC 46915 46934	potassium carbonate
+T119	SYSTEMATIC 46960 46981	(2-bromoethyl)benzene
+T120	SYSTEMATIC 47039 47124	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T121	ABBREVIATION 47149 47152	DMF
+T122	TRIVIAL 47326 47332	celite
+T123	SYSTEMATIC 47363 47375	ethylacetate
+T124	TRIVIAL 47451 47457	silica
+T125	FORMULA 47488 47493	EtOAc
+T126	SYSTEMATIC 47497 47504	heptane
+T127	ABBREVIATION 47565 47572	DMSO-d6
+T128	SYSTEMATIC 47852 47957	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(2-methoxyphenyl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T129	SYSTEMATIC 47992 48078	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)-ethyl]sulfonyl}amino)benzenesulfonamide
+T130	SYSTEMATIC 48100 48116	cesium carbonate
+T131	SYSTEMATIC 48138 48164	2-methoxyphenethyl bromide
+T132	SYSTEMATIC 48191 48212	N,N-dimethylformamide
+T133	SYSTEMATIC 48302 48318	cesium carbonate
+T134	SYSTEMATIC 48343 48369	2-methoxyphenethyl bromide
+T135	TRIVIAL 48462 48467	Water
+T136	SYSTEMATIC 48519 48532	ethyl acetate
+T137	TRIVIAL 48593 48598	brine
+T138	TRIVIAL 48600 48605	brine
+T139	SYSTEMATIC 48618 48635	magnesium sulfate
+T140	SYSTEMATIC 48797 48902	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(3-methoxyphenyl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T141	SYSTEMATIC 48937 49023	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]-sulfonyl}amino)benzenesulfonamide
+T142	SYSTEMATIC 49045 49061	cesium carbonate
+T143	SYSTEMATIC 49083 49109	3-methoxyphenethyl bromide
+T144	SYSTEMATIC 49136 49157	N,N-dimethylformamide
+T145	SYSTEMATIC 49237 49253	cesium carbonate
+T146	SYSTEMATIC 49363 49389	3-methoxyphenethyl bromide
+T147	TRIVIAL 49472 49477	Water
+T148	SYSTEMATIC 49529 49542	ethyl acetate
+T149	TRIVIAL 49603 49608	brine
+T150	TRIVIAL 49610 49615	brine
+T151	SYSTEMATIC 49628 49645	magnesium sulfate
+T152	SYSTEMATIC 49833 49938	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(4-methoxyphenyl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T153	SYSTEMATIC 49939 50024	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T154	SYSTEMATIC 50050 50085	4-methoxyphenethyl methanesulfonate
+T155	IDENTIFIER 50087 50101	CAS 73735-36-1
+T156	SYSTEMATIC 50141 50153	acetonitrile
+T157	SYSTEMATIC 50166 50185	Potassium carbonate
+T158	FORMULA 50314 50319	EtOAc
+T159	TRIVIAL 50358 50363	Brine
+T160	FORMULA 50376 50381	MgSO4
+T161	TRIVIAL 50434 50440	silica
+T162	FORMULA 50471 50476	EtOAc
+T163	SYSTEMATIC 50480 50487	heptane
+T164	ABBREVIATION 50548 50555	DMSO-d6
+T165	SYSTEMATIC 50867 50970	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(2-cyanophenyl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T166	SYSTEMATIC 51068 51153	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T167	SYSTEMATIC 51179 51212	2-cyanophenethyl methanesulfonate
+T168	SYSTEMATIC 51237 51249	acetonitrile
+T169	SYSTEMATIC 51262 51281	potassium carbonate
+T170	TRIVIAL 51338 51344	silica
+T171	FORMULA 51375 51380	EtOAc
+T172	SYSTEMATIC 51384 51391	heptane
+T173	ABBREVIATION 51453 51460	DMSO-d6
+T174	SYSTEMATIC 51761 51865	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(3-cyanophenyl)ethoxyl]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T175	SYSTEMATIC 51963 52048	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T176	SYSTEMATIC 52074 52107	3-cyanophenethyl methanesulfonate
+T177	IDENTIFIER 52109 52124	CAS 655250-92-3
+T178	SYSTEMATIC 52164 52176	acetonitrile
+T179	SYSTEMATIC 52189 52208	potassium carbonate
+T180	TRIVIAL 52264 52270	silica
+T181	FORMULA 52301 52306	EtOAc
+T182	SYSTEMATIC 52310 52317	heptane
+T183	SYSTEMATIC 52444 52547	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(4-cyanophenyl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T184	SYSTEMATIC 52548 52633	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T185	SYSTEMATIC 52657 52696	2-(4-cyanophenyl)ethyl methanesulfonate
+T186	IDENTIFIER 52698 52713	CAS 119744-42-2
+T187	SYSTEMATIC 52753 52765	acetonitrile
+T188	SYSTEMATIC 52778 52797	potassium carbonate
+T189	SYSTEMATIC 52880 52913	4-cyanophenethyl methanesulfonate
+T190	SYSTEMATIC 52937 52949	acetonitrile
+T191	FORMULA 53061 53066	EtOAc
+T192	TRIVIAL 53105 53110	brine
+T193	FORMULA 53123 53128	MgSO4
+T194	TRIVIAL 53181 53187	silica
+T195	FORMULA 53217 53222	EtOAc
+T196	SYSTEMATIC 53226 53233	heptane
+T197	SYSTEMATIC 53354 53466	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(1-methyl-1H-indol-4-yl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T198	SYSTEMATIC 53467 53552	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T199	SYSTEMATIC 53578 53626	2-(1-methyl-1H-indol-4-yl)ethyl methanesulfonate
+T200	SYSTEMATIC 53665 53677	acetonitrile
+T201	SYSTEMATIC 53690 53709	potassium carbonate
+T202	FORMULA 53873 53878	EtOAc
+T203	TRIVIAL 53917 53922	brine
+T204	FORMULA 53935 53940	MgSO4
+T205	TRIVIAL 53993 53999	silica
+T206	FORMULA 54030 54035	EtOAc
+T207	SYSTEMATIC 54039 54046	heptane
+T208	SYSTEMATIC 54142 54263	N-tert-butyl-2-{[(2-{4-chloro-2-[2-(2-oxo-2,3-dihydro-1H-indol-4-yl)ethoxy]phenyl}ethyl)sulfonyl]amino}benzenesulfonamide
+T209	SYSTEMATIC 54264 54345	N-tert-butyl-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfone
+T210	SYSTEMATIC 54370 54427	2-(2-oxo-2,3-dihydro-1H-indol-4-yl)ethyl methanesulfonate
+T211	IDENTIFIER 54429 54444	CAS 139122-21-7
+T212	SYSTEMATIC 54483 54495	acetonitrile
+T213	SYSTEMATIC 54508 54527	potassium carbonate
+T214	FORMULA 54747 54752	EtOAc
+T215	TRIVIAL 54791 54796	brine
+T216	FORMULA 54809 54814	MgSO4
+T217	TRIVIAL 54890 54896	silica
+T218	FORMULA 54926 54931	EtOAc
+T219	SYSTEMATIC 54935 54942	heptane
+T220	ABBREVIATION 55004 55011	DMSO-d6
+T221	SYSTEMATIC 55410 55479	2-(2-(4-chloro-2-phenethoxyphenyl)ethylsulfonamido)benzenesulfonamide
+T222	SYSTEMATIC 55480 55562	N-tert-butyl-2-(2-(4-chloro-2-phenethoxyphenyl)ethylsulfonamido)benzenesulfonamide
+T223	SYSTEMATIC 55601 55627	2,2,2-trifluoroacetic acid
+T224	SYSTEMATIC 55714 55721	toluene
+T225	ABBREVIATION 55812 55819	DMSO-d6
+T226	SYSTEMATIC 56047 56127	2-(2-(4-chloro-2-(2-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T227	SYSTEMATIC 56131 56224	N-tert-butyl-2-(2-(4-chloro-2-(2-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T228	SYSTEMATIC 56244 56264	trifluoroacetic acid
+T229	SYSTEMATIC 56410 56417	toluene
+T230	ABBREVIATION 56518 56525	DMSO-d6
+T231	SYSTEMATIC 56771 56851	2-(2-(4-chloro-2-(3-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T232	SYSTEMATIC 56855 56948	N-tert-butyl-2-(2-(4-chloro-2-(3-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T233	SYSTEMATIC 56972 56992	trifluoroacetic acid
+T234	SYSTEMATIC 57134 57142	methanol
+T235	ABBREVIATION 57236 57243	DMSO-d6
+T236	SYSTEMATIC 57490 57570	2-(2-(4-chloro-2-(4-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T237	SYSTEMATIC 57571 57664	N-tert-butyl-2-(2-(4-chloro-2-(4-methoxyphenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T238	SYSTEMATIC 57703 57723	trifluoroacetic acid
+T239	SYSTEMATIC 57810 57817	toluene
+T240	ABBREVIATION 57909 57916	DMSO-d6
+T241	SYSTEMATIC 58182 58260	2-(2-(4-chloro-2-(2-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T242	SYSTEMATIC 58261 58352	N-tert-butyl-2-(2-(4-chloro-2-(2-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T243	SYSTEMATIC 58391 58411	trifluoroacetic acid
+T244	SYSTEMATIC 58497 58504	toluene
+T245	ABBREVIATION 58596 58603	DMSO-d6
+T246	SYSTEMATIC 58842 58920	2-(2-(4-chloro-2-(3-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T247	SYSTEMATIC 58921 59012	N-tert-butyl-2-(2-(4-chloro-2-(3-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T248	SYSTEMATIC 59051 59071	trifluoroacetic acid
+T249	SYSTEMATIC 59158 59165	toluene
+T250	ABBREVIATION 59245 59252	DMSO-d6
+T251	SYSTEMATIC 59514 59592	2-(2-(4-chloro-2-(4-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T252	SYSTEMATIC 59593 59613	Trifluoroacetic acid
+T253	SYSTEMATIC 59645 59736	N-tert-butyl-2-(2-(4-chloro-2-(4-cyanophenethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T254	ABBREVIATION 59905 59912	DMSO-d6
+T255	SYSTEMATIC 60261 60354	2-(2-(4-chloro-2-(2-(1-methyl-1H-indol-4-yl)ethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T256	SYSTEMATIC 60355 60462	N-tert-butyl-2-(2-(4-chloro-2-(2-(1-methyl-1H-indol-4-yl)ethoxy)phenyl)ethylsulfonamido)-benzenesulfonamide
+T257	SYSTEMATIC 60501 60521	trifluoroacetic acid
+T258	ABBREVIATION 60654 60661	DMSO-d6
+T259	SYSTEMATIC 60932 61020	2-(2-(4-chloro-2-(2-(2-oxoindolin-4-yl)ethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T260	SYSTEMATIC 61021 61041	Trifluoroacetic acid
+T261	SYSTEMATIC 61073 61174	N-tert-butyl-2-(2-(4-chloro-2-(2-(2-oxoindolin-4-yl)ethoxy)phenyl)ethylsulfonamido)benzenesulfonamide
+T262	ABBREVIATION 61343 61350	DMSO-d6
+T263	SYSTEMATIC 61755 61796	3-(benzylsulfanyl)-4-nitrophenyl]methanol
+T264	SYSTEMATIC 61797 61818	Diisopropylethylamine
+T265	SYSTEMATIC 61841 61857	benzyl mercaptan
+T266	SYSTEMATIC 61914 61946	(3-fluoro-4-nitrophenyl)methanol
+T267	ABBREVIATION 61967 61971	DMSO
+T268	TRIVIAL 62082 62091	ice-water
+T269	TRIVIAL 62157 62162	water
+T270	SYSTEMATIC 62255 62267	CHLOROFORM-d
+T271	SYSTEMATIC 62388 62453	{[3-(benzylsulfanyl)-4-nitrobenzyl]oxy}(tert-butyl)diphenylsilane
+T272	SYSTEMATIC 62467 62509	[3-(benzylsulfanyl)-4-nitrophenyl]methanol
+T273	SYSTEMATIC 62528 62558	tert-butyldiphenylchlorosilane
+T274	SYSTEMATIC 62583 62592	imidazole
+T275	ABBREVIATION 62620 62623	DMF
+T276	TRIVIAL 62721 62726	water
+T277	SYSTEMATIC 62740 62753	ethyl acetate
+T278	TRIVIAL 62810 62815	brine
+T279	SYSTEMATIC 62849 62863	sodium sulfate
+T280	TRIVIAL 62939 62945	silica
+T281	FORMULA 62975 62980	EtOAc
+T282	SYSTEMATIC 62984 62991	heptane
+T283	SYSTEMATIC 63051 63063	CHLOROFORM-d
+T284	SYSTEMATIC 63179 63253	5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-nitrobenzenesulfonyl Chloride
+T285	SYSTEMATIC 63279 63344	{[3-(benzylsulfanyl)-4-nitrobenzyl]oxy}(tert-butyl)diphenylsilane
+T286	SYSTEMATIC 63367 63382	dichloromethane
+T287	SYSTEMATIC 63403 63414	formic acid
+T288	SYSTEMATIC 63442 63457	sodium chloride
+T289	TRIVIAL 63481 63486	water
+T290	SYSTEMATIC 63497 63516	N-Chlorosuccinimide
+T291	SYSTEMATIC 63726 63740	sodium sulfate
+T292	SYSTEMATIC 63904 63916	CHLOROFORM-d
+T293	SYSTEMATIC 64059 64141	N-(tert-Butyl)-5-(((tert-butyldiphenylsilyl)oxy)methyl)-2-nitrobenzene-sulfonamide
+T294	SYSTEMATIC 64142 64157	Tert-Butylamine
+T295	SYSTEMATIC 64222 64296	5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-nitrobenzenesulfonyl chloride
+T296	ABBREVIATION 64318 64321	DCM
+T297	TRIVIAL 64405 64410	water
+T298	SYSTEMATIC 64485 64499	sodium sulfate
+T299	TRIVIAL 64575 64581	silica
+T300	FORMULA 64611 64616	EtOAc
+T301	FAMILY 64620 64628	heptanes
+T302	SYSTEMATIC 64691 64756	{[3-(benzylsulfanyl)-4-nitrobenzyl]oxy}(tert-butyl)diphenylsilane
+T303	SYSTEMATIC 64794 64805	Methanol-d4
+T304	SYSTEMATIC 64945 65026	2-amino-N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T305	SYSTEMATIC 65052 65134	N-(tert-Butyl)-5-(((tert-butyldiphenylsilyl)oxy)methyl)-2-nitrobenzene-sulfonamide
+T306	SYSTEMATIC 65165 65182	ammonium chloride
+T307	SYSTEMATIC 65216 65220	zinc
+T308	TRIVIAL 65362 65368	Celite
+T309	SYSTEMATIC 65463 65478	dichloromethane
+T310	TRIVIAL 65492 65497	water
+T311	TRIVIAL 65552 65557	brine
+T312	SYSTEMATIC 65588 65602	sodium sulfate
+T313	SYSTEMATIC 65701 65713	CHLOROFORM-d
+T314	SYSTEMATIC 65936 66038	2-[bis(methylsulfonyl)amino]-N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T315	SYSTEMATIC 66039 66063	Methanesulfonyl chloride
+T316	SYSTEMATIC 66126 66207	2-amino-N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T317	SYSTEMATIC 66229 66242	triethylamine
+T318	ABBREVIATION 66265 66268	DCM
+T319	ABBREVIATION 66427 66430	DCM
+T320	TRIVIAL 66453 66458	water
+T321	SYSTEMATIC 66479 66497	sodium bicarbonate
+T322	TRIVIAL 66511 66516	brine
+T323	SYSTEMATIC 66581 66595	sodium sulfate
+T324	SYSTEMATIC 66697 66709	CHLOROFORM-d
+T325	SYSTEMATIC 66861 66960	N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-[(methylsulfonyl)amino]benzenesulfonamide
+T326	FORMULA 66972 66976	NaOH
+T327	SYSTEMATIC 67031 67133	2-[bis(methylsulfonyl)amino]-N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T328	ABBREVIATION 67157 67160	THF
+T329	SYSTEMATIC 67255 67272	hydrochloric acid
+T330	ABBREVIATION 67292 67295	DCM
+T331	TRIVIAL 67347 67352	water
+T332	TRIVIAL 67366 67371	brine
+T333	SYSTEMATIC 67403 67417	sodium sulfate
+T334	SYSTEMATIC 67516 67528	CHLOROFORM-d
+T335	SYSTEMATIC 67708 67861	N-tert-butyl-2-({[2-(2-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorophenyl)ethyl]sulfonyl}amino)-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T336	SYSTEMATIC 67876 67976	N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-[(methylsulfonyl)-amino]benzenesulfonamide
+T337	SYSTEMATIC 68026 68050	lithium diisopropylamide
+T338	SYSTEMATIC 68102 68161	[2-(bromomethyl)-5-chlorophenoxy](tert-butyl)dimethylsilane
+T339	ABBREVIATION 68185 68188	THF
+T340	TRIVIAL 68370 68375	brine
+T341	SYSTEMATIC 68392 68405	ethyl acetate
+T342	TRIVIAL 68441 68446	brine
+T343	SYSTEMATIC 68459 68476	magnesium sulfate
+T344	TRIVIAL 68562 68568	silica
+T345	FORMULA 68599 68604	EtOAc
+T346	SYSTEMATIC 68608 68615	heptane
+T347	ABBREVIATION 68676 68683	DMSO-d6
+T348	SYSTEMATIC 68964 69092	N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-({[2-(4-chloro-2-hydroxyphenyl)ethyl]sulfonyl}amino)benzenesulfonamide
+T349	SYSTEMATIC 69123 69277	N-tert-butyl-2-({[2-(2-{[tert-butyl(dimethyl)silyl]oxy}-4-chlorophenyl)-ethyl]sulfonyl}amino)-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)benzenesulfonamide
+T350	ABBREVIATION 69301 69304	THF
+T351	SYSTEMATIC 69317 69344	tetrabutylammonium fluoride
+T352	SYSTEMATIC 69449 69476	tetrabutylammonium fluoride
+T353	SYSTEMATIC 69515 69542	tetrabutylammonium fluoride
+T354	TRIVIAL 69670 69675	Brine
+T355	SYSTEMATIC 69692 69704	ethylacetate
+T356	FORMULA 69749 69754	NH4Cl
+T357	SYSTEMATIC 69767 69784	magnesium sulfate
+T358	TRIVIAL 69870 69876	silica
+T359	FORMULA 69907 69912	EtOAc
+T360	SYSTEMATIC 69916 69923	heptane
+T361	FORMULA 69936 69941	EtOAc
+T362	ABBREVIATION 70006 70013	DMSO-d6
+T363	SYSTEMATIC 70273 70410	N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-[({2-[4-chloro-2-(2-phenylethoxy)phenyl]ethyl}sulfonyl)amino]benzenesulfonamide
+T364	SYSTEMATIC 70424 70542	N-tert-butyl-5-((tert-butyldiphenylsilyloxy)methyl)-2-(2-(4-chloro-2-hydroxyphenyl)ethylsulfonamido)benzenesulfonamide
+T365	SYSTEMATIC 70563 70579	cesium carbonate
+T366	SYSTEMATIC 70605 70626	(2-bromoethyl)benzene
+T367	SYSTEMATIC 70652 70673	N,N-dimethylformamide
+T368	TRIVIAL 70791 70796	water
+T369	SYSTEMATIC 70797 70810	ethyl acetate
+T370	SYSTEMATIC 70855 70868	ethyl acetate
+T371	TRIVIAL 70929 70934	brine
+T372	TRIVIAL 70936 70941	brine
+T373	SYSTEMATIC 70954 70971	magnesium sulfate
+T374	TRIVIAL 71071 71077	silica
+T375	FORMULA 71107 71112	EtOAc
+T376	SYSTEMATIC 71116 71123	heptane
+T377	ABBREVIATION 71187 71194	DMSO-d6
+T378	SYSTEMATIC 71477 71589	N-tert-butyl-2-[({2-[4-chloro-2-(2-phenylethoxy)phenyl]ethyl}sulfonyl)amino]-5-(hydroxymethyl)benzenesulfonamide
+T379	SYSTEMATIC 71590 71617	Tetrabutylammonium fluoride
+T380	ABBREVIATION 71625 71628	THF
+T381	SYSTEMATIC 71664 71802	N-tert-butyl-5-({[tert-butyl(diphenyl)silyl]oxy}methyl)-2-[({2-[4-chloro-2-(2-phenylethoxy)phenyl]ethyl}-sulfonyl)amino]benzenesulfonamide
+T382	SYSTEMATIC 71836 71851	tetrahydrofuran
+T383	SYSTEMATIC 71983 71996	ethyl acetate
+T384	TRIVIAL 72032 72037	water
+T385	TRIVIAL 72039 72044	brine
+T386	SYSTEMATIC 72057 72074	magnesium sulfate
+T387	TRIVIAL 72174 72180	silica
+T388	FORMULA 72211 72216	EtOAc
+T389	SYSTEMATIC 72220 72227	heptane
+T390	ABBREVIATION 72289 72296	DMSO-d6
+T391	SYSTEMATIC 72579 72667	2-(2-(4-chloro-2-phenethoxyphenyl)ethylsulfonamido)-5-(hydroxymethyl)-benzenesulfonamide
+T392	SYSTEMATIC 72668 72769	N-tert-butyl-2-(2-(4-chloro-2-phenethoxyphenyl)ethylsulfonamido)-5-(hydroxymethyl)-benzenesulfonamide
+T393	SYSTEMATIC 72807 72827	trifluoroacetic acid
+T394	SYSTEMATIC 72915 72922	toluene
+T395	ABBREVIATION 73015 73022	DMSO-d6

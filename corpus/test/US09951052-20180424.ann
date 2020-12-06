@@ -1,0 +1,746 @@
+T1	SYSTEMATIC 62577 62626	(1-Oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T2	SYSTEMATIC 62635 62685	5-(1,3-Dioxolan-2-ylmethyl)-2-benzofuran-1(3H)-one
+T3	SYSTEMATIC 62827 62868	tri-t-butyl phosphonium tetrafluoroborate
+T4	SYSTEMATIC 62890 62912	palladium (II) acetate
+T5	SYSTEMATIC 62936 62966	5-bromo-2-benzofuran-1(3H)-one
+T6	ABBREVIATION 62986 62989	DMF
+T7	SYSTEMATIC 63090 63098	nitrogen
+T8	SYSTEMATIC 63129 63163	bromo(1,3-dioxolan-2-ylmethyl)zinc
+T9	SYSTEMATIC 63491 63502	2-methylTHF
+T10	TRIVIAL 63513 63518	brine
+T11	SYSTEMATIC 63643 63654	2-methylTHF
+T12	TRIVIAL 63714 63719	brine
+T13	FORMULA 63743 63748	MgSO4
+T14	TRIVIAL 63841 63847	silica
+T15	SYSTEMATIC 63879 63892	ethyl acetate
+T16	SYSTEMATIC 63896 63910	dichlromethane
+T17	SYSTEMATIC 63921 63972	5-(1,3-dioxolan-2-ylmethyl)-2-benzofuran-1 (3H)-one
+T18	SYSTEMATIC 64011 64060	(1-Oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T19	SYSTEMATIC 64061 64111	5-(1,3-Dioxolan-2-ylmethyl)-2-benzofuran-1(3H)-one
+T20	TRIVIAL 64147 64152	water
+T21	SYSTEMATIC 64251 64259	nitrogen
+T22	FORMULA 64277 64280	HCl
+T23	SYSTEMATIC 64489 64502	ethyl acetate
+T24	SYSTEMATIC 64558 64607	(1-oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T25	SYSTEMATIC 64653 64692	5-bromo-4-methyl-2-benzofuran-1(3H)-one
+T26	SYSTEMATIC 64701 64733	(3-bromo-2-methylphenyl)methanol
+T27	SYSTEMATIC 64751 64780	3-bromo-2-methyl benzoic acid
+T28	ABBREVIATION 64801 64804	THF
+T29	ABBREVIATION 64831 64834	THF
+T30	TRIVIAL 64979 64984	water
+T31	ABBREVIATION 64998 65001	THF
+T32	SYSTEMATIC 65075 65088	ethyl acetate
+T33	FORMULA 65114 65117	HCl
+T34	SYSTEMATIC 65119 65135	sodium carbonate
+T35	TRIVIAL 65141 65146	brine
+T36	SYSTEMATIC 65181 65195	sodium sulfate
+T37	SYSTEMATIC 65223 65255	(3-bromo-2-methylphenyl)methanol
+T38	FORMULA 65274 65279	CDCl3
+T39	SYSTEMATIC 65367 65406	5-bromo-4-methyl-2-benzofuran-1(3H)-one
+T40	SYSTEMATIC 65431 65463	(3-bromo-2-methylphenyl)methanol
+T41	ABBREVIATION 65496 65499	TFA
+T42	SYSTEMATIC 65512 65537	Thallium Trifluoroacetate
+T43	ABBREVIATION 65779 65782	TFA
+T44	SYSTEMATIC 65814 65836	Palladium(II) Chloride
+T45	SYSTEMATIC 65858 65874	Lithium Chloride
+T46	SYSTEMATIC 65896 65911	Magnesium Oxide
+T47	FORMULA 65937 65941	MeOH
+T48	FORMULA 65982 65984	CO
+T49	FORMULA 66007 66009	CO
+T50	SYSTEMATIC 66115 66128	ethyl acetate
+T51	TRIVIAL 66191 66197	CELITE
+T52	FORMULA 66216 66221	EtOAc
+T53	TRIVIAL 66237 66243	silica
+T54	TRIVIAL 66260 66270	silica gel
+T55	SYSTEMATIC 66296 66335	5-bromo-4-methyl-2-benzofuran-1(3H)-one
+T56	FORMULA 66354 66359	CDCl3
+T57	SYSTEMATIC 66458 66516	(4-Methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T58	SYSTEMATIC 66525 66574	4-Methyl-5-prop-2-en-1-yl-2-benzofuran-1 (3H)-one
+T59	SYSTEMATIC 66599 66638	5-bromo-4-methyl-2-benzofuran-1(3H)-one
+T60	SYSTEMATIC 66685 66705	allyl tri-n-butyltin
+T61	FORMULA 66729 66738	Pd(PPh3)4
+T62	SYSTEMATIC 66761 66777	lithium chloride
+T63	SYSTEMATIC 66803 66810	toluene
+T64	SYSTEMATIC 66849 66857	nitrogen
+T65	TRIVIAL 66934 66944	silica gel
+T66	SYSTEMATIC 66968 67017	4-methyl-5-prop-2-en-1-yl-2-benzofuran-1 (3H)-one
+T67	SYSTEMATIC 67027 67085	(4-Methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T68	FAMILY 67110 67116	olefin
+T69	FORMULA 67139 67143	MeOH
+T70	SYSTEMATIC 67241 67249	Nitrogen
+T71	TRIVIAL 67303 67308	ozone
+T72	ABBREVIATION 67334 67337	DMS
+T73	SYSTEMATIC 67469 67527	(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)acetaldehyde
+T74	FORMULA 67546 67551	CDCl3
+T75	SYSTEMATIC 67678 67724	4-methyl-5-oxiran-2-yl-2-benzofuran-1 (3H)-one
+T76	SYSTEMATIC 67733 67775	5-ethenyl-4-methyl-2-benzofuran-1 (3H)-one
+T77	SYSTEMATIC 67776 67815	5-Bromo-4-methyl-2-benzofuran-1(3H)-one
+T78	SYSTEMATIC 67837 67868	potassium vinyl trifluoroborate
+T79	FORMULA 67891 67909	PdCl2(dppf)-CH2Cl2
+T80	ABBREVIATION 67944 67947	TEA
+T81	SYSTEMATIC 67990 67997	ethanol
+T82	SYSTEMATIC 68171 68184	ethyl acetate
+T83	TRIVIAL 68198 68203	brine
+T84	FORMULA 68338 68343	ETOAC
+T85	SYSTEMATIC 68344 68350	Hexane
+T86	SYSTEMATIC 68375 68416	5-ethenyl-4-methyl-2-benzofuran-1(3H)-one
+T87	FORMULA 68435 68440	CDCl3
+T88	SYSTEMATIC 68596 68641	4-methyl-5-oxiran-2-yl-2-benzofuran-1(3H)-one
+T89	SYSTEMATIC 68642 68683	5-ethenyl-4-methyl-2-benzofuran-1(3H)-one
+T90	ABBREVIATION 68717 68720	DCM
+T91	SYSTEMATIC 68743 68748	mCPBA
+T92	FORMULA 68889 68896	Na2S2O3
+T93	FORMULA 68898 68904	NaHCO3
+T94	TRIVIAL 68910 68915	brine
+T95	FORMULA 68950 68956	Na2SO4
+T96	FORMULA 69099 69104	EtOAc
+T97	SYSTEMATIC 69105 69111	hexane
+T98	SYSTEMATIC 69136 69181	4-methyl-5-oxiran-2-yl-2-benzofuran-1(3H)-one
+T99	FORMULA 69200 69205	CDCl3
+T100	SYSTEMATIC 69408 69460	4-methyl-5-[(2S)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T101	SYSTEMATIC 69465 69517	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T102	SYSTEMATIC 69526 69571	4-methyl-5-oxiran-2-yl-2-benzofuran-1(3H)-one
+T103	ABBREVIATION 69771 69774	DCM
+T104	FORMULA 69775 69779	MeOH
+T105	FORMULA 69823 69827	EtOH
+T106	FORMULA 69828 69831	CO2
+T107	SYSTEMATIC 69935 69988	(4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T108	SYSTEMATIC 70029 70082	(4-methyl-5-[(2S)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T109	FORMULA 70183 70187	MeOH
+T110	FORMULA 70192 70195	CO2
+T111	SYSTEMATIC 70282 70290	methanol
+T112	FAMILY 70589 70601	Mosher ester
+T113	FAMILY 70606 70617	Trost ester
+T114	FAMILY 70635 70641	esters
+T115	SYSTEMATIC 70692 70744	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T116	SYSTEMATIC 70753 70784	3-hydroxymethyl-2-methyl phenol
+T117	FORMULA 70847 70852	NaBH4
+T118	ABBREVIATION 70876 70879	THF
+T119	SYSTEMATIC 70963 70994	3-hydroxy-2-methyl benzoic acid
+T120	FORMULA 71142 71150	BF3—OEt2
+T121	FORMULA 71363 71367	MeOH
+T122	FORMULA 71505 71508	HCl
+T123	TRIVIAL 71934 71939	water
+T124	SYSTEMATIC 71962 71993	3-hydroxymethyl-2-methyl phenol
+T125	SYSTEMATIC 72003 72042	4-Bromo-3-hydroxymethyl-2-methyl phenol
+T126	SYSTEMATIC 72043 72074	3-Hydroxymethyl-2-methyl phenol
+T127	SYSTEMATIC 72127 72139	acetonitrile
+T128	SYSTEMATIC 72153 72173	trifluoroacetic acid
+T129	SYSTEMATIC 72225 72233	nitrogen
+T130	SYSTEMATIC 72278 72296	N-bromosuccinimide
+T131	SYSTEMATIC 72565 72584	potassium carbonate
+T132	TRIVIAL 72620 72625	water
+T133	ABBREVIATION 72723 72727	MTBE
+T134	TRIVIAL 72874 72879	water
+T135	ABBREVIATION 72908 72912	MTBE
+T136	FORMULA 72919 72924	EtOAc
+T137	ABBREVIATION 72944 72948	MTBE
+T138	FORMULA 72958 72963	EtOAc
+T139	TRIVIAL 73019 73024	water
+T140	SYSTEMATIC 73049 73063	sodium sulfate
+T141	SYSTEMATIC 73069 73083	sodium sulfate
+T142	ABBREVIATION 73134 73138	MTBE
+T143	ABBREVIATION 73180 73184	MTBE
+T144	SYSTEMATIC 73360 73367	heptane
+T145	SYSTEMATIC 73487 73494	heptane
+T146	ABBREVIATION 73496 73500	MTBE
+T147	SYSTEMATIC 73523 73530	heptane
+T148	SYSTEMATIC 73585 73624	4-bromo-3-hydroxymethyl-2-methyl phenol
+T149	SYSTEMATIC 73634 73675	5-Hydroxy-4-methyl-3H-isobenzofuran-1-one
+T150	FORMULA 73730 73732	N2
+T151	SYSTEMATIC 73767 73806	4-bromo-3-hydroxymethyl-2-methyl phenol
+T152	FORMULA 73826 73830	CuCN
+T153	ABBREVIATION 73855 73858	DMF
+T154	FORMULA 73899 73901	N2
+T155	TRIVIAL 74067 74072	water
+T156	FORMULA 74097 74099	N2
+T157	IDENTIFIER 74197 74208	SOLKA FLOC®
+T158	ABBREVIATION 74240 74243	DMF
+T159	FORMULA 74275 74280	EtOAc
+T160	ABBREVIATION 74295 74298	DMF
+T161	ABBREVIATION 74362 74365	DMF
+T162	FORMULA 74366 74371	EtOAc
+T163	IDENTIFIER 74404 74415	SOLKA FLOC®
+T164	FORMULA 74452 74457	EtOAc
+T165	TRIVIAL 74501 74506	brine
+T166	FORMULA 74574 74579	EtOAc
+T167	FORMULA 74622 74627	MgSO4
+T168	ABBREVIATION 74689 74693	MTBE
+T169	ABBREVIATION 74737 74741	MTBE
+T170	SYSTEMATIC 74795 74836	5-hydroxy-4-methyl-3H-isobenzofuran-1-one
+T171	SYSTEMATIC 74846 74927	Trifluoromethanesulfonic acid 4-methyl-1-oxo-1,3-dihydro-isobenzofuran-5-yl ester
+T172	SYSTEMATIC 74928 74969	5-Hydroxy-4-methyl-3H-isobenzofuran-1-one
+T173	SYSTEMATIC 75006 75021	dichloromethane
+T174	SYSTEMATIC 75094 75102	nitrogen
+T175	SYSTEMATIC 75104 75117	Triethylamine
+T176	SYSTEMATIC 75211 75245	Trifluoromethanesulfonic anhydride
+T177	TRIVIAL 75442 75447	water
+T178	IDENTIFIER 75476 75485	DARCO® KB
+T179	SYSTEMATIC 75497 75503	carbon
+T180	IDENTIFIER 75562 75573	SOLKA FLOC®
+T181	SYSTEMATIC 75599 75614	dichloromethane
+T182	TRIVIAL 75697 75702	water
+T183	TRIVIAL 75778 75783	water
+T184	TRIVIAL 75801 75806	brine
+T185	SYSTEMATIC 75821 75836	dichloromethane
+T186	SYSTEMATIC 75861 75875	sodium sulfate
+T187	TRIVIAL 75930 75940	silica gel
+T188	TRIVIAL 75978 75988	silica gel
+T189	SYSTEMATIC 76006 76019	ethyl acetate
+T190	FAMILY 76020 76027	hexanes
+T191	SYSTEMATIC 76186 76193	heptane
+T192	SYSTEMATIC 76221 76229	nitrogen
+T193	SYSTEMATIC 76269 76319	5-(1-Butoxy-vinyl)-4-methyl-3H-isobenzofuran-1-one
+T194	SYSTEMATIC 76348 76429	trifluoromethanesulfonic acid 4-methyl-1-oxo-1,3-dihydro-isobenzofuran-5-yl ester
+T195	ABBREVIATION 76450 76453	DMF
+T196	SYSTEMATIC 76464 76481	butyl vinyl ether
+T197	FORMULA 76507 76511	Et3N
+T198	FORMULA 76563 76565	N2
+T199	FORMULA 76604 76612	Pd(OAc)2
+T200	ABBREVIATION 76638 76642	DPPP
+T201	FORMULA 76802 76807	EtOAc
+T202	FORMULA 76827 76832	NH4Cl
+T203	TRIVIAL 76849 76854	brine
+T204	FORMULA 76878 76883	MgSO4
+T205	FORMULA 76947 76952	EtOAc
+T206	SYSTEMATIC 76981 76998	butyl vinyl ether
+T207	SYSTEMATIC 77016 77066	5-(1-butoxy-vinyl)-4-methyl-3H-isobenzofuran-1-one
+T208	SYSTEMATIC 77076 77126	5-(2-Bromo-acetyl)-4-methyl-3H-isobenzofuran-1-one
+T209	SYSTEMATIC 77196 77246	5-(1-butoxy-vinyl)-4-methyl-3H-isobenzofuran-1-one
+T210	ABBREVIATION 77260 77263	THF
+T211	TRIVIAL 77320 77325	water
+T212	ABBREVIATION 77386 77389	NBS
+T213	FORMULA 77507 77510	HBr
+T214	TRIVIAL 77610 77615	water
+T215	TRIVIAL 77711 77716	water
+T216	ABBREVIATION 77752 77755	THF
+T217	TRIVIAL 77756 77761	water
+T218	ABBREVIATION 77859 77862	THF
+T219	TRIVIAL 77863 77868	water
+T220	SYSTEMATIC 77988 78038	5-(2-bromo-acetyl)-4-methyl-3H-isobenzofuran-1-one
+T221	SYSTEMATIC 78048 78100	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T222	SYSTEMATIC 78101 78151	5-(2-Bromo-acetyl)-4-methyl-3H-isobenzofuran-1-one
+T223	SYSTEMATIC 78275 78285	2-Propanol
+T224	SYSTEMATIC 78338 78357	potassium phosphate
+T225	ABBREVIATION 78440 78444	NADP
+T226	SYSTEMATIC 78903 78916	triethylamine
+T227	FORMULA 79061 79065	NaCl
+T228	SYSTEMATIC 79132 79149	isopropyl acetate
+T229	FORMULA 79151 79155	IPAc
+T230	FORMULA 79205 79209	IPAc
+T231	TRIVIAL 79264 79269	brine
+T232	FORMULA 79291 79296	MgSO4
+T233	FORMULA 79392 79396	IPAc
+T234	FAMILY 79413 79420	Hexanes
+T235	FAMILY 79503 79510	Hexanes
+T236	FORMULA 79511 79515	IPAc
+T237	SYSTEMATIC 79587 79640	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1 (3H)-one
+T238	FORMULA 79659 79664	CDCl3
+T239	SYSTEMATIC 79840 79939	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T240	SYSTEMATIC 79948 80054	(R)-tert-butyl 1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T241	SYSTEMATIC 80068 80103	tert-butyl piperidine-4-carboxylate
+T242	SYSTEMATIC 80127 80178	(R)-4-methyl-5-(oxiran-2-yl)isobenzofuran-1(3H)-one
+T243	FORMULA 80201 80205	EtOH
+T244	TRIVIAL 80349 80359	silica gel
+T245	SYSTEMATIC 80431 80530	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T246	SYSTEMATIC 80555 80661	(R)-tert-butyl 1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T247	ABBREVIATION 80680 80683	TFA
+T248	ABBREVIATION 80824 80827	DCE
+T249	SYSTEMATIC 80923 80999	1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T250	SYSTEMATIC 81008 81059	1-benzyl 4-tert-butyl piperidine-1, 4-dicarboxylate
+T251	SYSTEMATIC 81060 81111	1-((Benzyloxy)carbonyl)piperidine-4-carboxylic acid
+T252	SYSTEMATIC 81147 81154	toluene
+T253	SYSTEMATIC 81193 81232	N,N dimethylformamide-di-t-butyl acetal
+T254	FORMULA 81350 81353	HCl
+T255	FORMULA 81373 81378	EtOAc
+T256	TRIVIAL 81424 81429	brine
+T257	FORMULA 81446 81452	Na2SO4
+T258	SYSTEMATIC 81479 81529	1-benzyl 4-tert-butyl piperidine-1,4-dicarboxylate
+T259	FORMULA 81548 81553	CDCl3
+T260	SYSTEMATIC 81703 81738	tert-butyl piperidine-4-carboxylate
+T261	SYSTEMATIC 81739 81789	1-Benzyl 4-tert-butyl piperidine-1,4-dicarboxylate
+T262	SYSTEMATIC 81827 81840	ethyl acetate
+T263	FORMULA 81851 81855	Pd/C
+T264	SYSTEMATIC 82011 82046	tert-butyl piperidine-4-carboxylate
+T265	FORMULA 82065 82070	CDCl3
+T266	SYSTEMATIC 82233 82316	tert-butyl 1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T267	SYSTEMATIC 82317 82352	tert-Butyl piperidine-4-carboxylate
+T268	SYSTEMATIC 82378 82429	2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)acetaldehyde
+T269	ABBREVIATION 82469 82472	DCE
+T270	SYSTEMATIC 82487 82515	sodium triacetoxyborohydride
+T271	FORMULA 82635 82641	NaHCO3
+T272	ABBREVIATION 82670 82673	DCM
+T273	FORMULA 82722 82728	Na2SO4
+T274	FORMULA 82852 82857	NH4OH
+T275	FORMULA 82859 82863	MeOH
+T276	ABBREVIATION 82876 82879	DCM
+T277	SYSTEMATIC 82889 82972	tert-butyl 1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T278	FORMULA 83020 83025	CDCl3
+T279	SYSTEMATIC 83322 83405	tert-Butyl 1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T280	SYSTEMATIC 83444 83451	dioxane
+T281	FORMULA 83466 83469	HCl
+T282	SYSTEMATIC 83594 83612	methylene chloride
+T283	SYSTEMATIC 83658 83734	1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T284	SYSTEMATIC 83779 83864	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T285	SYSTEMATIC 83873 83965	tert-butyl 1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T286	SYSTEMATIC 83980 84040	2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)acetaldehyde
+T287	SYSTEMATIC 84062 84097	tert-butyl piperidine-4-carboxylate
+T288	FORMULA 84122 84126	AcOH
+T289	FORMULA 84140 84144	MeOH
+T290	FORMULA 84192 84199	NaCNBH3
+T291	SYSTEMATIC 84447 84532	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T292	SYSTEMATIC 84547 84639	tert-butyl 1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylate
+T293	FORMULA 84662 84665	HCl
+T294	SYSTEMATIC 84666 84673	dioxane
+T295	SYSTEMATIC 84816 84884	3-(tert-butoxycarbonyl)-3-aza-bicyclo[3.1.0]hexane-6-carboxylic acid
+T296	SYSTEMATIC 84893 84977	ethyl 5-benzyl-4,6-dioxo-1,3a,4,5,6,6a-hexahydropyrrolo[3,4-c]pyrazole-3-carboxylate
+T297	SYSTEMATIC 85042 85071	1-benzyl-1H-pyrrole-2,5-dione
+T298	FORMULA 85113 85117	Et2O
+T299	SYSTEMATIC 85190 85208	ethyl diazoacetate
+T300	FORMULA 85250 85254	Et2O
+T301	SYSTEMATIC 85428 85512	ethyl 5-benzyl-4,6-dioxo-1,3a,4,5,6,6a-hexahydropyrrolo[3,4-c]pyrazole-3-carboxylate
+T302	SYSTEMATIC 85551 85616	ethyl 3-benzyl-2,4-dioxo-3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T303	SYSTEMATIC 85617 85701	Ethyl 5-benzyl-4,6-dioxo-1,3a,4,5,6,6a-hexahydropyrrolo[3,4-c]pyrazole-3-carboxylate
+T304	FORMULA 85879 85883	Et2O
+T305	FORMULA 86036 86040	Et2O
+T306	SYSTEMATIC 86084 86139	ethyl 3-benzyl-3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T307	SYSTEMATIC 86228 86236	nitrogen
+T308	SYSTEMATIC 86262 86327	ethyl 3-benzyl-2,4-dioxo-3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T309	SYSTEMATIC 86370 86385	tetrahydrofuran
+T310	FORMULA 86408 86413	NaBH4
+T311	SYSTEMATIC 86457 86472	tetrahydrofuran
+T312	FORMULA 86521 86529	BF3.Et2O
+T313	TRIVIAL 86711 86716	water
+T314	FORMULA 86731 86736	NH4Cl
+T315	SYSTEMATIC 86854 86867	ethyl acetate
+T316	TRIVIAL 86928 86933	brine
+T317	SYSTEMATIC 86956 86970	sodium sulfate
+T318	SYSTEMATIC 87073 87119	ethyl 3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T319	SYSTEMATIC 87133 87188	ethyl 3-benzyl-3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T320	FORMULA 87229 87236	NH4COOH
+T321	SYSTEMATIC 87274 87290	palladium carbon
+T322	SYSTEMATIC 87309 87317	methanol
+T323	FORMULA 87527 87531	EtOH
+T324	SYSTEMATIC 87552 87563	oxalic acid
+T325	FORMULA 87567 87571	EtOH
+T326	SYSTEMATIC 87660 87667	ethanol
+T327	SYSTEMATIC 87683 87729	ethyl 3-aza-bicyclo[3.1.0]hexane-6-carboxylate
+T328	SYSTEMATIC 87739 87804	3-tert-butyl 6-ethyl 3-aza-bicyclo[3.1.0]hexane-3,6-dicarboxylate
+T329	SYSTEMATIC 87872 87926	ethyl 3-aza-bicyclo[3.1.0]hexane-6-carboxylate oxalate
+T330	TRIVIAL 87968 87973	water
+T331	SYSTEMATIC 88014 88030	sodium carbonate
+T332	TRIVIAL 88074 88079	water
+T333	FORMULA 88201 88207	Boc)2O
+T334	ABBREVIATION 88249 88252	THF
+T335	TRIVIAL 88424 88429	water
+T336	SYSTEMATIC 88462 88475	ethyl acetate
+T337	SYSTEMATIC 88532 88546	sodium sulfate
+T338	SYSTEMATIC 88592 88657	3-tert-butyl 6-ethyl 3-aza-bicyclo[3.1.0]hexane-3,6-dicarboxylate
+T339	SYSTEMATIC 88794 88862	3-(tert-butoxycarbonyl)-3-aza-bicyclo[3.1.0]hexane-6-carboxylic acid
+T340	SYSTEMATIC 88931 88996	3-tert-butyl 6-ethyl 3-aza-bicyclo[3.1.0]hexane-3,6-dicarboxylate
+T341	SYSTEMATIC 89044 89051	ethanol
+T342	SYSTEMATIC 89124 89140	sodium hydroxide
+T343	TRIVIAL 89186 89191	water
+T344	TRIVIAL 89381 89386	water
+T345	SYSTEMATIC 89417 89432	dichloromethane
+T346	SYSTEMATIC 89478 89491	sulfuric acid
+T347	SYSTEMATIC 89554 89567	ethyl acetate
+T348	SYSTEMATIC 89624 89638	sodium sulfate
+T349	TRIVIAL 89721 89726	water
+T350	SYSTEMATIC 89743 89751	n-hexane
+T351	ABBREVIATION 89840 89847	DMSO-d6
+T352	SYSTEMATIC 89950 90081	(R)-1-(2-Hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)-N-(3-methoxy-1,2,4-thiadiazol-5-yl)piperidine-4-carboxamide
+T353	SYSTEMATIC 90106 90205	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T354	SYSTEMATIC 90227 90261	3-methoxy-1,2,4-thiadiazol-5-amine
+T355	ABBREVIATION 90282 90286	HATU
+T356	ABBREVIATION 90332 90335	DMF
+T357	SYSTEMATIC 90348 90361	triethylamine
+T358	TRIVIAL 90466 90471	water
+T359	FORMULA 90492 90497	EtOAc
+T360	TRIVIAL 90542 90547	brine
+T361	SYSTEMATIC 90660 90768	N-(5-cyano-2-methylphenyl)-1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T362	SYSTEMATIC 90783 90868	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T363	FORMULA 90891 90896	SOCl2
+T364	SYSTEMATIC 90995 91082	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carbonyl chloride
+T365	FAMILY 91088 91101	acid chloride
+T366	SYSTEMATIC 91120 91148	3-amino-4-methylbenzonitrile
+T367	ABBREVIATION 91170 91173	TEA
+T368	ABBREVIATION 91197 91200	DCM
+T369	SYSTEMATIC 91427 91535	N-(5-cyano-2-methylphenyl)-1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T370	SYSTEMATIC 91562 91647	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T371	FAMILY 91672 91678	amines
+T372	SYSTEMATIC 91720 91725	Amine
+T373	SYSTEMATIC 91762 91805	N-(4-cyanophenyl)-1-(2-(4-methyl-1-oxo-1,3-
+T374	SYSTEMATIC 91807 91852	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T375	SYSTEMATIC 91854 91865	carboxamide
+T376	SYSTEMATIC 91884 91933	N-(6-cyanopyridin-3-yl)-1-(2-(4-methyl-1-oxo-1,3-
+T377	SYSTEMATIC 91935 91980	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T378	SYSTEMATIC 91982 91993	carboxamide
+T379	SYSTEMATIC 92004 92112	N-(4-cyano-3-fluorophenyl)-1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T380	SYSTEMATIC 92121 92202	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T381	SYSTEMATIC 92217 92302	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T382	FORMULA 92326 92331	SOCl2
+T383	SYSTEMATIC 92430 92517	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carbonyl chloride
+T384	FAMILY 92526 92539	acid chloride
+T385	ABBREVIATION 92543 92546	THF
+T386	FORMULA 92564 92571	NH3.H2O
+T387	TRIVIAL 92744 92749	brine
+T388	FORMULA 92762 92767	MgSO4
+T389	SYSTEMATIC 92883 92991	N-(4-cyano-3-fluorophenyl)-1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T390	SYSTEMATIC 93005 93086	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T391	SYSTEMATIC 93108 93136	4-bromo-2-fluorobenzonitrile
+T392	FORMULA 93157 93166	Pd2(dba)3
+T393	IDENTIFIER 93188 93196	Xantphos
+T394	FORMULA 93217 93223	Cs2CO3
+T395	SYSTEMATIC 93247 93254	dioxane
+T396	FORMULA 93300 93302	N2
+T397	SYSTEMATIC 93518 93626	N-(4-cyano-3-fluorophenyl)-1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T398	SYSTEMATIC 93653 93738	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T399	FAMILY 93763 93771	bromides
+T400	SYSTEMATIC 93844 93954	N-(4-cyanonaphthalen-1-yl)-1-(2-(4-methyl-1-oxo- 1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4- carboxamide
+T401	SYSTEMATIC 93987 94035	N-(5-cyano-6-methylpyridin-2-yl)-1-(2-(4-methyl-
+T402	SYSTEMATIC 94037 94070	1-oxo-1,3-dihydroisobenzofuran-5-
+T403	SYSTEMATIC 94072 94105	yl)ethyl)piperidine-4-carboxamide
+T404	SYSTEMATIC 94124 94172	N-(4-cyano-2-methylphenyl)-1-(2-(4-methyl-1-oxo-
+T405	SYSTEMATIC 94174 94223	1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T406	SYSTEMATIC 94225 94236	carboxamide
+T407	SYSTEMATIC 94255 94303	N-(5-cyano-2-fluorophenyl)-1-(2-(4-methyl-1-oxo-
+T408	SYSTEMATIC 94305 94354	1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T409	SYSTEMATIC 94356 94367	carboxamide
+T410	SYSTEMATIC 94387 94435	1-(2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T411	SYSTEMATIC 94437 94483	yl)ethyl)-N-(1-oxo-1,3-dihydroisobenzofuran-5-
+T412	SYSTEMATIC 94485 94512	yl)piperidine-4-carboxamide
+T413	SYSTEMATIC 94763 94839	1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T414	SYSTEMATIC 94864 94892	4-amino-2-ethoxybenzonitrile
+T415	ABBREVIATION 94928 94931	DMF
+T416	SYSTEMATIC 94963 94989	propylphosphonic anhydride
+T417	SYSTEMATIC 95010 95023	ethyl acetate
+T418	SYSTEMATIC 95051 95073	diisopropyl ethylamine
+T419	SYSTEMATIC 95222 95235	ethyl acetate
+T420	ABBREVIATION 95289 95293	DMSO
+T421	TRIVIAL 95511 95516	Water
+T422	SYSTEMATIC 95522 95540	Ammonium Hydroxide
+T423	FORMULA 95557 95561	MeCN
+T424	SYSTEMATIC 95567 95585	Ammonium Hydroxide
+T425	FORMULA 95611 95615	MeCN
+T426	FORMULA 95730 95734	MeCN
+T427	TRIVIAL 95739 95744	water
+T428	SYSTEMATIC 95755 95773	ammonium hydroxide
+T429	FORMULA 95824 95828	MeCN
+T430	SYSTEMATIC 95960 96059	N-(4-cyano-3-ethoxyphenyl)-1-[2-(1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]piperidine-4-carboxamide
+T431	SYSTEMATIC 96087 96163	1-(2-(1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T432	FAMILY 96188 96194	amines
+T433	SYSTEMATIC 96239 96244	Amine
+T434	SYSTEMATIC 96282 96326	N-(4-cyano-3-methoxyphenyl)-1-(2-(1-oxo-1,3-
+T435	SYSTEMATIC 96328 96373	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T436	SYSTEMATIC 96375 96386	carboxamide
+T437	SYSTEMATIC 96406 96453	N-(4-cyano-2,5-difluorophenyl)-1-(2-(1-oxo-1,3-
+T438	SYSTEMATIC 96455 96500	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T439	SYSTEMATIC 96502 96513	carboxamide
+T440	SYSTEMATIC 96533 96580	N-(4-cyano-2-(trifluoromethoxy)phenyl)-1-(2-(1-
+T441	SYSTEMATIC 96582 96633	oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-
+T442	SYSTEMATIC 96635 96648	4-carboxamide
+T443	SYSTEMATIC 96668 96711	N-(4-chloro-3-cyanophenyl)-1-(2-(1-oxo-1,3-
+T444	SYSTEMATIC 96713 96758	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T445	SYSTEMATIC 96760 96771	carboxamide
+T446	SYSTEMATIC 96883 96894	carboxamide
+T447	SYSTEMATIC 96914 96950	N-(1H-indazol-6-yl)-1-(2-(1-oxo-1,3-
+T448	SYSTEMATIC 96952 96997	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T449	SYSTEMATIC 96999 97010	carboxamide
+T450	SYSTEMATIC 97030 97081	N-(1H-benzo[d][1,2,3]triazol-5-yl)-1-(2-(1-oxo-1,3-
+T451	SYSTEMATIC 97083 97128	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T452	SYSTEMATIC 97130 97141	carboxamide
+T453	SYSTEMATIC 97161 97205	N-(benzo[d]isothiazol-5-yl)-1-(2-(1-oxo-1,3-
+T454	SYSTEMATIC 97207 97252	dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T455	SYSTEMATIC 97254 97265	carboxamide
+T456	SYSTEMATIC 97285 97336	N-(4-cyano-1-(4-fluorophenyl)-1H-pyrrol-2-yl)-1-(2-
+T457	SYSTEMATIC 97338 97372	(1-oxo-1,3-dihydroisobenzofuran-5-
+T458	SYSTEMATIC 97374 97407	yl)ethyl)piperidine-4-carboxamide
+T459	SYSTEMATIC 97419 97535	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide
+T460	SYSTEMATIC 97578 97599	N,N dimethylacetamide
+T461	SYSTEMATIC 97610 97709	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T462	ABBREVIATION 97733 97737	HBTU
+T463	SYSTEMATIC 97761 97779	isothiazol-5-amine
+T464	SYSTEMATIC 97807 97829	diisopropyl ethylamine
+T465	FORMULA 98253 98258	CD3OD
+T466	SYSTEMATIC 98550 98666	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide
+T467	SYSTEMATIC 98694 98793	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxylic acid
+T468	FAMILY 98850 98856	amines
+T469	SYSTEMATIC 98901 98906	Amine
+T470	SYSTEMATIC 98930 98957	4-(1H-pyrazol-1- yl)aniline
+T471	SYSTEMATIC 98973 99025	(R)-N-(4-(1H-pyrazol-1-yl)phenyl)-1-(2-hydroxy-2-(4-
+T472	SYSTEMATIC 99027 99067	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T473	SYSTEMATIC 99069 99102	yl)ethyl)piperidine-4-carboxamide
+T474	SYSTEMATIC 99108 99136	3-(1H-tetrazol-1- yl)aniline
+T475	SYSTEMATIC 99152 99205	(R)-N-(3-(1H-tetrazol-1-yl)phenyl)-1-(2-hydroxy-2-(4-
+T476	SYSTEMATIC 99207 99247	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T477	SYSTEMATIC 99249 99282	yl)ethyl)piperidine-4-carboxamide
+T478	SYSTEMATIC 99288 99319	4-amino-2- ethoxybenzo- nitrile
+T479	SYSTEMATIC 99335 99384	(R)-N-(4-cyano-3-ethoxyphenyl)-1-(2-hydroxy-2-(4-
+T480	SYSTEMATIC 99386 99426	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T481	SYSTEMATIC 99428 99461	yl)ethyl)piperidine-4-carboxamide
+T482	SYSTEMATIC 99467 99499	4-amino-2- methoxybenzo- nitrile
+T483	SYSTEMATIC 99515 99565	(R)-N-(4-cyano-3-methoxyphenyl)-1-(2-hydroxy-2-(4-
+T484	SYSTEMATIC 99567 99607	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T485	SYSTEMATIC 99609 99642	yl)ethyl)piperidine-4-carboxamide
+T486	SYSTEMATIC 99648 99664	isoxazol-4-amine
+T487	SYSTEMATIC 99680 99719	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T488	SYSTEMATIC 99721 99768	dihydroisobenzofuran-5-yl)ethyl)-N-(isoxazol-4-
+T489	SYSTEMATIC 99770 99797	yl)piperidine-4-carboxamide
+T490	SYSTEMATIC 99803 99822	isothiazol-4- amine
+T491	SYSTEMATIC 99838 99877	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T492	SYSTEMATIC 99879 99928	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-4-
+T493	SYSTEMATIC 99930 99957	yl)piperidine-4-carboxamide
+T494	SYSTEMATIC 99963 99994	2-aminothiazole- 4-carbonitrile
+T495	SYSTEMATIC 100010 100065	(R)-N-(4-cyanothiazol-2-yl)-1-(2-hydroxy-2-(4-methyl-1-
+T496	SYSTEMATIC 100067 100120	oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T497	SYSTEMATIC 100122 100133	carboxamide
+T498	SYSTEMATIC 100139 100174	isothiazolo[4,3- c]pyridin-3- amine
+T499	SYSTEMATIC 100190 100229	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T500	SYSTEMATIC 100231 100283	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazolo[4,3-
+T501	SYSTEMATIC 100285 100324	c]pyridin-3-yl)piperidine-4-carboxamide
+T502	SYSTEMATIC 100330 100365	3-methyl-1,2,4- thiadiazol-5- amine
+T503	SYSTEMATIC 100381 100420	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T504	SYSTEMATIC 100422 100473	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methyl-1,2,4-
+T505	SYSTEMATIC 100475 100515	thiadiazol-5-yl)piperidine-4-carboxamide
+T506	SYSTEMATIC 100521 100561	3-cyclopropyl- 1,2,4-thiadiazol- 5-amine
+T507	SYSTEMATIC 100577 100634	(R)-N-(3-cyclopropyl-1,2,4-thiadiazol-5-yl)-1-(2-hydroxy-
+T508	SYSTEMATIC 100636 100681	2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T509	SYSTEMATIC 100683 100716	yl)ethyl)piperidine-4-carboxamide
+T510	SYSTEMATIC 100722 100756	4-(1,2,3- thiadiazol-4- yl)aniline
+T511	SYSTEMATIC 100772 100830	(R)-N-(4-(1,2,3-thiadiazol-4-yl)phenyl)-1-(2-hydroxy-2-(4-
+T512	SYSTEMATIC 100832 100872	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T513	SYSTEMATIC 100874 100907	yl)ethyl)piperidine-4-carboxamide
+T514	SYSTEMATIC 100913 100937	5-fluoropyridin- 3-amine
+T515	SYSTEMATIC 100953 101009	(R)-N-(5-fluoropyridin-3-yl)-1-(2-hydroxy-2-(4-methyl-1-
+T516	SYSTEMATIC 101011 101064	oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-
+T517	SYSTEMATIC 101066 101077	carboxamide
+T518	SYSTEMATIC 101083 101098	pyridin-4-amine
+T519	SYSTEMATIC 101114 101153	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T520	SYSTEMATIC 101155 101201	dihydroisobenzofuran-5-yl)ethyl)-N-(pyridin-4-
+T521	SYSTEMATIC 101203 101230	yl)piperidine-4-carboxamide
+T522	SYSTEMATIC 101236 101264	3- methylisothiazol- 5-amine
+T523	SYSTEMATIC 101280 101319	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T524	SYSTEMATIC 101321 101378	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methylisothiazol-5-
+T525	SYSTEMATIC 101380 101407	yl)piperidine-4-carboxamide
+T526	SYSTEMATIC 101419 101548	(R)-N-(5-cyanopyridin-2-yl)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T527	SYSTEMATIC 101557 101636	tert-butyl 4-((5-cyanopyridin-2-yl)carbamoyl)-4-hydroxypiperidine-1-carboxylate
+T528	SYSTEMATIC 101637 101698	1-(tert-Butoxycarbonyl)-4-hydroxypiperidine-4-carboxylic acid
+T529	SYSTEMATIC 101724 101746	6-aminonicotinonitrile
+T530	ABBREVIATION 101783 101786	DMF
+T531	ABBREVIATION 101795 101799	DIEA
+T532	ABBREVIATION 101860 101864	HATU
+T533	FORMULA 102014 102018	AcCN
+T534	FORMULA 102019 102022	H2O
+T535	ABBREVIATION 102027 102030	TFA
+T536	SYSTEMATIC 102145 102274	(R)-N-(5-cyanopyridin-2-yl)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T537	SYSTEMATIC 102275 102354	tert-Butyl 4-((5-cyanopyridin-2-yl)carbamoyl)-4-hydroxypiperidine-1-carboxylate
+T538	ABBREVIATION 102392 102395	TFA
+T539	ABBREVIATION 102399 102402	DCM
+T540	SYSTEMATIC 102540 102547	ethanol
+T541	ABBREVIATION 102560 102564	DIEA
+T542	SYSTEMATIC 102609 102660	(R)-4-methyl-5-(oxiran-2-yl)isobenzofuran-1(3H)-one
+T543	SYSTEMATIC 103001 103130	(R)-N-(5-cyanopyridin-2-yl)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)piperidine-4-carboxamide
+T544	SYSTEMATIC 103158 103219	1-(tert-butoxycarbonyl)-4-hydroxypiperidine-4-carboxylic acid
+T545	SYSTEMATIC 103276 103325	(R)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T546	SYSTEMATIC 103327 103376	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-5-
+T547	SYSTEMATIC 103378 103405	yl)piperidine-4-carboxamide
+T548	SYSTEMATIC 103425 103474	(R)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T549	SYSTEMATIC 103476 103531	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methylisothiazol-
+T550	SYSTEMATIC 103533 103562	5-yl)piperidine-4-carboxamide
+T551	SYSTEMATIC 103582 103631	(R)-4-hydroxy-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T552	SYSTEMATIC 103633 103684	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methyl-1,2,4-
+T553	SYSTEMATIC 103686 103726	thiadiazol-5-yl)piperidine-4-carboxamide
+T554	SYSTEMATIC 103738 103863	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-methylpiperidine-4-carboxamide
+T555	SYSTEMATIC 103872 103885	hydrochloride
+T556	SYSTEMATIC 103907 103970	tert-butyl 4-(isothiazol-5-ylcarbamoyl)piperidine-1-carboxylate
+T557	SYSTEMATIC 104025 104104	tert-butyl 4-((5-cyanopyridin-2-yl)carbamoyl)-4-hydroxypiperidine-1-carboxylate
+T558	SYSTEMATIC 104144 104195	1-(tert-butoxycarbonyl)piperidine-4-carboxylic acid
+T559	SYSTEMATIC 104200 104218	isothiazol-5-amine
+T560	SYSTEMATIC 104228 104299	tert-butyl 4-[isothiazol-5-yl(methyl)carbamoyl]piperidine-1-carboxylate
+T561	SYSTEMATIC 104329 104343	sodium hydride
+T562	ABBREVIATION 104370 104373	DMF
+T563	SYSTEMATIC 104385 104448	tert-butyl 4-(isothiazol-5-ylcarbamoyl)piperidine-1-carboxylate
+T564	ABBREVIATION 104475 104478	DMF
+T565	SYSTEMATIC 104499 104510	iodomethane
+T566	TRIVIAL 104658 104663	water
+T567	SYSTEMATIC 104705 104718	ethyl acetate
+T568	SYSTEMATIC 104779 104793	sodium sulfate
+T569	FORMULA 104879 104884	EtOAc
+T570	ABBREVIATION 104885 104888	Hex
+T571	SYSTEMATIC 104909 104980	tert-butyl 4-[isothiazol-5-yl(methyl)carbamoyl]piperidine-1-carboxylate
+T572	SYSTEMATIC 105007 105089	N-(isothiazol-5-yl)-N-methyl-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T573	SYSTEMATIC 105107 105178	tert-butyl 4-[isothiazol-5-yl(methyl)carbamoyl]piperidine-1-carboxylate
+T574	FORMULA 105182 105186	MeOH
+T575	FORMULA 105221 105224	HCl
+T576	SYSTEMATIC 105228 105235	dioxane
+T577	SYSTEMATIC 105445 105584	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-methylpiperidine-4-carboxamide hydrochloride
+T578	SYSTEMATIC 105585 105667	N-(isothiazol-5-yl)-N-methyl-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T579	FORMULA 105683 105687	EtOH
+T580	SYSTEMATIC 105705 105718	triethylamine
+T581	SYSTEMATIC 105769 105821	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T582	FORMULA 106087 106090	HCl
+T583	FORMULA 106094 106098	Et2O
+T584	FORMULA 106122 106125	HCl
+T585	SYSTEMATIC 106293 106418	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-methylpiperidine-4-carboxamide
+T586	SYSTEMATIC 106439 106452	hydrochloride
+T587	SYSTEMATIC 106486 106537	1-(tert-butoxycarbonyl)piperidine-4-carboxylic acid
+T588	FAMILY 106590 106596	amines
+T589	FAMILY 106641 106657	secondary amides
+T590	SYSTEMATIC 106663 106674	iodomethane
+T591	FAMILY 106684 106697	alkyl halides
+T592	SYSTEMATIC 106822 106835	hydrochloride
+T593	SYSTEMATIC 106898 106948	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-
+T594	SYSTEMATIC 106950 106995	benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-
+T595	SYSTEMATIC 106997 107037	trideuteromethylpiperidine-4-carboxamide
+T596	SYSTEMATIC 107047 107060	hydrochloride
+T597	SYSTEMATIC 107093 107140	(R)-N-ethyl-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T598	SYSTEMATIC 107142 107191	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-5-
+T599	SYSTEMATIC 107193 107220	yl)piperidine-4-carboxamide
+T600	SYSTEMATIC 107240 107279	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T601	SYSTEMATIC 107281 107328	dihydroisobenzofuran-5-yl)ethyl)-N-methyl-N-(3-
+T602	SYSTEMATIC 107330 107376	methylisothiazol-5-yl)piperidine-4-carboxamide
+T603	SYSTEMATIC 107396 107435	(R)-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T604	SYSTEMATIC 107437 107489	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methoxy-1,2,4-
+T605	SYSTEMATIC 107491 107540	thiadiazol-5-yl)-N-methylpiperidine-4-carboxamide
+T606	SYSTEMATIC 107552 107690	4-amino-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T607	SYSTEMATIC 107699 107833	methyl 4-[(tert-butoxycarbonyl)amino]-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]piperidine-4-carboxylate
+T608	SYSTEMATIC 107834 107895	Methyl 4-[(tert-butoxycarbonyl)amino]piperidine-4-carboxylate
+T609	SYSTEMATIC 107920 107972	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T610	FORMULA 108009 108013	EtOH
+T611	FORMULA 108165 108170	EtOAc
+T612	ABBREVIATION 108171 108174	Hex
+T613	SYSTEMATIC 108241 108372	4-[(tert-butoxycarbonyl)amino]-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]piperidine-4-carboxylic acid
+T614	SYSTEMATIC 108402 108536	methyl 4-[(tert-butoxycarbonyl)amino]-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]piperidine-4-carboxylate
+T615	ABBREVIATION 108562 108565	THF
+T616	SYSTEMATIC 108577 108606	potassium trimethylsilanolate
+T617	SYSTEMATIC 108861 108998	tert-butyl {1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-4-(isothiazol-5-ylcarbamoyl)piperidin-4-yl}carbamate
+T618	SYSTEMATIC 109053 109132	tert-butyl 4-((5-cyanopyridin-2-yl)carbamoyl)-4-hydroxypiperidine-1-carboxylate
+T619	ABBREVIATION 109157 109161	HATU
+T620	SYSTEMATIC 109213 109351	4-amino-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T621	SYSTEMATIC 109369 109506	tert-butyl {1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-4-(isothiazol-5-ylcarbamoyl)piperidin-4-yl}carbamate
+T622	FORMULA 109510 109514	MeOH
+T623	FORMULA 109551 109554	HCl
+T624	SYSTEMATIC 109558 109565	dioxane
+T625	FORMULA 109727 109730	HCl
+T626	SYSTEMATIC 109765 109890	4-fluoro-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide
+T627	SYSTEMATIC 109899 109912	hydrochloride
+T628	SYSTEMATIC 109934 110006	tert-butyl 4-fluoro-4-(isothiazol-5-ylcarbamoyl)piperidine-1-carboxylate
+T629	SYSTEMATIC 110061 110140	tert-butyl 4-((5-cyanopyridin-2-yl)carbamoyl)-4-hydroxypiperidine-1-carboxylate
+T630	ABBREVIATION 110165 110169	HATU
+T631	SYSTEMATIC 110221 110281	1-(tert-butoxycarbonyl)-4-fluoropiperidine-4-carboxylic acid
+T632	FAMILY 110298 110302	acid
+T633	SYSTEMATIC 110330 110396	4-fluoro-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T634	SYSTEMATIC 110414 110486	tert-butyl 4-fluoro-4-(isothiazol-5-ylcarbamoyl)piperidine-1-carboxylate
+T635	FORMULA 110490 110494	MeOH
+T636	FORMULA 110531 110534	HCl
+T637	SYSTEMATIC 110538 110545	dioxane
+T638	SYSTEMATIC 110710 110849	4-fluoro-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T639	SYSTEMATIC 110904 111043	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-methylpiperidine-4-carboxamide hydrochloride
+T640	SYSTEMATIC 111071 111137	4-fluoro-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T641	SYSTEMATIC 111142 111194	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1(3H)-one
+T642	SYSTEMATIC 111297 111436	4-fluoro-1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)piperidine-4-carboxamide hydrochloride
+T643	SYSTEMATIC 111464 111524	1-(tert-butoxycarbonyl)-4-fluoropiperidine-4-carboxylic acid
+T644	FAMILY 111563 111569	amines
+T645	SYSTEMATIC 111647 111695	(R)-4-fluoro-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T646	SYSTEMATIC 111697 111752	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methylisothiazol-
+T647	SYSTEMATIC 111754 111783	5-yl)piperidine-4-carboxamide
+T648	SYSTEMATIC 111792 111805	hydrochloride
+T649	SYSTEMATIC 111839 111892	(R)-5-(2-(4-(2,3-dihydro-1H-pyrrolo[3,2-c]pyridine-1-
+T650	SYSTEMATIC 111894 111946	carbonyl)-4-fluoropiperidin-1-yl)-1-hydroxyethyl)-4-
+T651	SYSTEMATIC 111948 111977	methylisobenzofuran-1(3H)-one
+T652	SYSTEMATIC 111986 111999	hydrochloride
+T653	SYSTEMATIC 112033 112081	(R)-4-fluoro-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T654	SYSTEMATIC 112083 112132	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-4-
+T655	SYSTEMATIC 112134 112161	yl)piperidine-4-carboxamide
+T656	SYSTEMATIC 112170 112183	hydrochloride
+T657	SYSTEMATIC 112212 112263	(R)-N-(5-cyano-6-methylpyridin-2-yl)-4-fluoro-1-(2-
+T658	SYSTEMATIC 112265 112318	hydroxy-2-(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T659	SYSTEMATIC 112320 112353	yl)ethyl)piperidine-4-carboxamide
+T660	SYSTEMATIC 112362 112375	hydrochloride
+T661	SYSTEMATIC 112409 112464	(R)-N-(5-cyanopyridin-2-yl)-4-fluoro-1-(2-hydroxy-2-(4-
+T662	SYSTEMATIC 112466 112506	methyl-1-oxo-1,3-dihydroisobenzofuran-5-
+T663	SYSTEMATIC 112508 112541	yl)ethyl)piperidine-4-carboxamide
+T664	SYSTEMATIC 112550 112563	hydrochloride
+T665	SYSTEMATIC 112597 112645	(R)-4-fluoro-1-(2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T666	SYSTEMATIC 112647 112702	dihydroisobenzofuran-5-yl)ethyl)-N-(1,2,3-thiadiazol-5-
+T667	SYSTEMATIC 112704 112731	yl)piperidine-4-carboxamide
+T668	SYSTEMATIC 112740 112753	hydrochloride
+T669	SYSTEMATIC 112779 112911	3-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide
+T670	SYSTEMATIC 112920 112933	hydrochloride
+T671	SYSTEMATIC 112955 113034	tert-butyl 6-(isothiazol-5-ylcarbamoyl)-3-azabicyclo[3.1.0]hexane-3-carboxylate
+T672	SYSTEMATIC 113052 113119	3-(tert-butoxycarbonyl)-3-azabicyclo[3.1.0]hexane-6-carboxylic acid
+T673	ABBREVIATION 113146 113149	DMF
+T674	ABBREVIATION 113161 113165	HATU
+T675	SYSTEMATIC 113188 113201	triethylamine
+T676	SYSTEMATIC 113249 113267	isothiazol-5-amine
+T677	ABBREVIATION 113293 113296	DMF
+T678	TRIVIAL 113446 113451	water
+T679	SYSTEMATIC 113493 113506	ethyl acetate
+T680	SYSTEMATIC 113567 113581	sodium sulfate
+T681	FORMULA 113667 113672	EtOAc
+T682	ABBREVIATION 113673 113676	Hex
+T683	SYSTEMATIC 113736 113809	N-(isothiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T684	SYSTEMATIC 113827 113906	tert-butyl 6-(isothiazol-5-ylcarbamoyl)-3-azabicyclo[3.1.0]hexane-3-carboxylate
+T685	FORMULA 113933 113937	MeOH
+T686	FORMULA 113975 113978	HCl
+T687	SYSTEMATIC 113982 113989	dioxane
+T688	SYSTEMATIC 114194 114340	3-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T689	SYSTEMATIC 114341 114414	N-(isothiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T690	FORMULA 114451 114455	EtOH
+T691	SYSTEMATIC 114480 114493	triethylamine
+T692	SYSTEMATIC 114548 114601	4-methyl-5-[(2R)-oxiran-2-yl]-2-benzofuran-1 (3H)-one
+T693	SYSTEMATIC 114768 114781	ethyl acetate
+T694	SYSTEMATIC 114782 114794	acetonitrile
+T695	SYSTEMATIC 114795 114803	methanol
+T696	ABBREVIATION 114804 114807	IPA
+T697	FORMULA 114889 114892	HCl
+T698	FORMULA 114896 114900	Et2O
+T699	SYSTEMATIC 114945 114958	hydrochloride
+T700	SYSTEMATIC 114996 115063	3-(tert-butoxycarbonyl)-3-azabicyclo[3.1.0]hexane-6-carboxylic acid
+T701	SYSTEMATIC 115218 115364	3-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide hydrochloride
+T702	SYSTEMATIC 115392 115459	3-(tert-butoxycarbonyl)-3-azabicyclo[3.1.0]hexane-6-carboxylic acid
+T703	FAMILY 115498 115504	amines
+T704	SYSTEMATIC 115574 115586	cyclopropane
+T705	SYSTEMATIC 115594 115611	azabicyclo hexane
+T706	SYSTEMATIC 115691 115704	hydrochloride
+T707	SYSTEMATIC 115794 115833	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T708	SYSTEMATIC 115835 115890	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methylisothiazol-
+T709	SYSTEMATIC 115892 115937	5-yl)-3-azabicyclo[3.1.0]hexane-6-carboxamide
+T710	SYSTEMATIC 115947 115960	hydrochloride
+T711	SYSTEMATIC 115993 116032	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T712	SYSTEMATIC 116034 116085	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methyl-1,2,4-
+T713	SYSTEMATIC 116087 116132	thiadiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-
+T714	SYSTEMATIC 116134 116145	carboxamide
+T715	SYSTEMATIC 116154 116167	hydrochloride
+T716	SYSTEMATIC 116200 116239	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T717	SYSTEMATIC 116241 116293	dihydroisobenzofuran-5-yl)ethyl)-N-(3-methoxy-1,2,4-
+T718	SYSTEMATIC 116295 116339	thiadiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6
+T719	SYSTEMATIC 116342 116353	carboxamide
+T720	SYSTEMATIC 116362 116375	hydrochloride
+T721	SYSTEMATIC 116408 116447	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T722	SYSTEMATIC 116449 116504	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-4-yl)-3-
+T723	SYSTEMATIC 116506 116543	azabicyclo[3.1.0]hexane-6-carboxamide
+T724	SYSTEMATIC 116553 116566	hydrochloride
+T725	SYSTEMATIC 116599 116654	N-(5-cyanopyridin-2-yl)-3-((R)-2-hydroxy-2-(4-methyl-1-
+T726	SYSTEMATIC 116656 116699	oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)-3-
+T727	SYSTEMATIC 116701 116738	azabicyclo[3.1.0]hexane-6-carboxamide
+T728	SYSTEMATIC 116748 116761	hydrochloride
+T729	SYSTEMATIC 116794 116850	N-(5-(1H-tetrazol-1-yl)pyridin-2-yl)-3-((R)-2-hydroxy-2-
+T730	SYSTEMATIC 116852 116907	(4-methyl-1-oxo-1,3-dihydroisobenzofuran-5-yl)ethyl)-3-
+T731	SYSTEMATIC 116909 116946	azabicyclo[3.1.0]hexane-6-carboxamide
+T732	SYSTEMATIC 116956 116969	hydrochloride
+T733	SYSTEMATIC 117066 117205	1-[(2R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-dihydro-2-benzofuran-5-yl)ethyl]-N-(isothiazol-5-yl)-N-methylpiperidine-4-carboxamide hydrochloride
+T734	SYSTEMATIC 117233 117300	3-(tert-butoxycarbonyl)-3-azabicyclo[3.1.0]hexane-6-carboxylic acid
+T735	FAMILY 117339 117345	amines
+T736	FAMILY 117390 117406	secondary amides
+T737	SYSTEMATIC 117412 117423	iodomethane
+T738	SYSTEMATIC 117480 117519	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T739	SYSTEMATIC 117521 117576	dihydroisobenzofuran-5-yl)ethyl)-N-(isothiazol-5-yl)-N-
+T740	SYSTEMATIC 117578 117624	methyl-3-azabicyclo[3.1.0]hexane-6-carboxamide
+T741	SYSTEMATIC 117634 117647	hydrochloride
+T742	SYSTEMATIC 117680 117719	3-((R)-2-hydroxy-2-(4-methyl-1-oxo-1,3-
+T743	SYSTEMATIC 117721 117775	dihydroisobenzofuran-5-yl)ethyl)-N-methyl-N-(3-methyl-
+T744	SYSTEMATIC 117777 117828	1,2,4-thiadiazol-5-yl)-3-azabicyclo[3.1.0]hexane-6-
+T745	SYSTEMATIC 117830 117841	carboxamide
+T746	SYSTEMATIC 117850 117863	hydrochloride

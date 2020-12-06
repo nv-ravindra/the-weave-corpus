@@ -1,0 +1,107 @@
+T1	SYSTEMATIC 16212 16255	1-(4-amidogen-2,6-difluoro-phenyl) ethanone
+T2	SYSTEMATIC 16293 16382	1-chloromethyl-4-fluorine-1,4-diazotization bicyclic [2.2.2] octane di(tetrafluoroborate)
+T3	FORMULA 16384 16394	F-TEDA-BF4
+T4	SYSTEMATIC 16418 16426	methanol
+T5	SYSTEMATIC 16589 16597	methanol
+T6	SYSTEMATIC 16639 16653	dichlormethane
+T7	TRIVIAL 16731 16736	water
+T8	SYSTEMATIC 16799 16813	dichlormethane
+T9	SYSTEMATIC 16820 16840	trifluoroacetic acid
+T10	TRIVIAL 16850 16855	water
+T11	SYSTEMATIC 16983 17001	sodium bicarbonate
+T12	SYSTEMATIC 17038 17052	dichlormethane
+T13	SYSTEMATIC 17099 17113	sodium sulfate
+T14	SYSTEMATIC 17195 17203	n-hexane
+T15	SYSTEMATIC 17208 17221	ethyl acetate
+T16	SYSTEMATIC 17286 17340	1-(4-amidogen-2,6-difluoro-phenyl)-2-fluorine-ethanone
+T17	SYSTEMATIC 17470 17489	2,6-difluoroaniline
+T18	SYSTEMATIC 17511 17531	fluorineacetonitrile
+T19	SYSTEMATIC 17532 17546	dichlormethane
+T20	SYSTEMATIC 17601 17630	trifluoromethanesulfonic acid
+T21	TRIVIAL 17800 17805	water
+T22	SYSTEMATIC 17871 17885	dichlormethane
+T23	TRIVIAL 17921 17926	water
+T24	SYSTEMATIC 17932 17950	sodium bicarbonate
+T25	SYSTEMATIC 18020 18034	sodium sulfate
+T26	SYSTEMATIC 18152 18160	n-hexane
+T27	SYSTEMATIC 18165 18178	ethyl acetate
+T28	SYSTEMATIC 18239 18291	1-(4-amidogen-2,6-difluoro-phenyl)-2-fluoro-ethanone
+T29	SYSTEMATIC 18417 18469	1-(4-amidogen-2,6-difluoro-phenyl)-2-fluoro-ethanone
+T30	ABBREVIATION 18494 18497	DMF
+T31	ABBREVIATION 18498 18501	DMA
+T32	ABBREVIATION 18531 18534	DMF
+T33	SYSTEMATIC 18572 18580	nitrogen
+T34	SYSTEMATIC 18816 18829	ethyl acetate
+T35	SYSTEMATIC 18834 18842	n-hexane
+T36	SYSTEMATIC 18901 18981	1-(4-amidogen-2,6-difluoro-phenyl)-3-N,N-dimethylammonium-2-fluoro-2-acrylketone
+T37	FORMULA 19027 19032	CDCl3
+T38	SYSTEMATIC 19175 19183	nitrogen
+T39	SYSTEMATIC 19200 19280	1-(4-amidogen-2,6-difluoro-phenyl)-3-N,N-dimethylammonium-2-fluoro-2-acrylketone
+T40	SYSTEMATIC 19304 19324	N-isopropylacetamide
+T41	SYSTEMATIC 19343 19365	phosphorus trichloride
+T42	SYSTEMATIC 19387 19400	methylbenzene
+T43	SYSTEMATIC 19425 19438	triethylamine
+T44	SYSTEMATIC 19643 19657	dichlormethane
+T45	SYSTEMATIC 19690 19708	sodium bicarbonate
+T46	TRIVIAL 19713 19718	water
+T47	SYSTEMATIC 19738 19752	sodium sulfate
+T48	SYSTEMATIC 19807 19910	N-[2,6-difluoro-4-(3-N,N-dimethylammonium-2-fluoro-2-acrylketone-1-yl)phenyl]-N′-isopropyl-ethanamidine
+T49	SYSTEMATIC 20031 20133	N-[2,6-difluoro4-(3-N,N-dimethylammonium-2-fluoro-2-acrylketone-1-yl)phenyl]-N′-isopropyl-ethanamidine
+T50	ABBREVIATION 20167 20170	DMF
+T51	SYSTEMATIC 20214 20237	potassium tert-butoxide
+T52	TRIVIAL 20475 20480	water
+T53	SYSTEMATIC 20490 20504	dichlormethane
+T54	TRIVIAL 20582 20587	water
+T55	SYSTEMATIC 20643 20657	sodium sulfate
+T56	SYSTEMATIC 20785 20793	n-hexane
+T57	SYSTEMATIC 20826 20927	6-(3-N,N-dimethylammonium-2-fluoro-2-acrylketone-1-yl)-4-fluoro-1-isopropyl-2-methyl-1H-benzimidazole
+T58	FORMULA 20973 20978	CDCl3
+T59	SYSTEMATIC 21149 21157	nitrogen
+T60	SYSTEMATIC 21174 21226	1-(4-amidogen-2,6-difluoro-phenyl)-2-fluoro-ethanone
+T61	SYSTEMATIC 21251 21271	N-isopropylacetamide
+T62	SYSTEMATIC 21290 21312	phosphorus trichloride
+T63	SYSTEMATIC 21334 21341	dioxane
+T64	SYSTEMATIC 21390 21415	N,N-diisopropylethylamine
+T65	SYSTEMATIC 21619 21632	ethyl acetate
+T66	SYSTEMATIC 21665 21683	sodium bicarbonate
+T67	TRIVIAL 21688 21693	water
+T68	SYSTEMATIC 21713 21727	sodium sulfate
+T69	SYSTEMATIC 21791 21867	N-[2,6-difluoro4-(2-fluorine-ethanone-1-yl)phenyl]-N′-isopropyl-ethanamidine
+T70	SYSTEMATIC 21995 22003	nitrogen
+T71	SYSTEMATIC 22020 22094	N-[2,6-difluoro4-(2-fluoro-ethanone-1-yl)phenyl]-N′-isopropyl-ethanamidine
+T72	SYSTEMATIC 22129 22142	methylbenzene
+T73	SYSTEMATIC 22222 22235	sodium hydrid
+T74	SYSTEMATIC 22236 22244	kerosene
+T75	TRIVIAL 22478 22483	water
+T76	TRIVIAL 22549 22554	water
+T77	SYSTEMATIC 22566 22579	methylbenzene
+T78	TRIVIAL 22622 22627	water
+T79	SYSTEMATIC 22683 22697	sodium sulfate
+T80	SYSTEMATIC 22772 22845	6-(2-fluoro-ethanone-1-yl)-4-fluoro-1-isopropyl-2-methyl-1H-benzimidazole
+T81	SYSTEMATIC 22974 23047	6-(2-fluoro-ethanone-1-yl)-4-fluoro-1-isopropyl-2-methyl-1H-benzimidazole
+T82	ABBREVIATION 23072 23075	DMF
+T83	ABBREVIATION 23076 23079	DMA
+T84	SYSTEMATIC 23109 23115	xylene
+T85	SYSTEMATIC 23201 23209	nitrogen
+T86	SYSTEMATIC 23408 23421	ethyl acetate
+T87	SYSTEMATIC 23426 23434	n-hexane
+T88	SYSTEMATIC 23500 23601	6-(3-N,N-dimethylammonium-2-fluoro-2-acrylketone-1-yl)-4-fluoro-1-isopropyl-2-methyl-1H-benzimidazole
+T89	FORMULA 23647 23652	CDCl3
+T90	SYSTEMATIC 23817 23867	5-(4-ethyl-piperazine-1-yl methyl)-2-aminopyridine
+T91	SYSTEMATIC 23906 23919	ethyl alcohol
+T92	SYSTEMATIC 23993 24004	nitric acid
+T93	SYSTEMATIC 24021 24030	cyanamide
+T94	SYSTEMATIC 24223 24234	nitric acid
+T95	SYSTEMATIC 24251 24260	cyanamide
+T96	SYSTEMATIC 24586 24599	ethyl acetate
+T97	SYSTEMATIC 24604 24612	n-hexane
+T98	SYSTEMATIC 24694 24762	N-[5-(4-ethyl-piperazine-1-yl methyl)pyridine-2-yl]guanidine nitrate
+T99	SYSTEMATIC 24885 24953	N-[5-(4-ethyl-piperazine-1-yl-methyl)pyridine-2-yl]guanidine nitrate
+T100	SYSTEMATIC 24977 25078	6-(3-N,N-dimethylammonium-2-fluoro-2-acrylketone-1-yl)-4-fluoro-1-isopropyl-2-methyl-1H-benzimidazole
+T101	SYSTEMATIC 25102 25118	sodium hydroxide
+T102	SYSTEMATIC 25148 25157	n-butanol
+T103	SYSTEMATIC 25199 25207	nitrogen
+T104	SYSTEMATIC 25455 25468	ethyl alcohol
+T105	TRIVIAL 25473 25478	water
+T106	TRIVIAL 25541 25551	Bemaciclib
+T107	ABBREVIATION 25596 25600	DMSO

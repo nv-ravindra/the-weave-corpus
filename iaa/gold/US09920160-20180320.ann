@@ -1,0 +1,198 @@
+T1	SYSTEMATIC 9039 9047	nitrogen
+T2	SYSTEMATIC 9051 9056	argon
+T3	SYSTEMATIC 9058 9076	1,3-propanedithiol
+T4	FAMILY 9096 9118	alkynyl glycidyl ether
+T5	SYSTEMATIC 9213 9235	benzoin dimethyl ether
+T6	SYSTEMATIC 9271 9290	N-methylpyrrolidone
+T7	FAMILY 9499 9539	polymer containing multiple epoxy groups
+T8	FAMILY 9765 9809	polymer containing the multiple epoxy groups
+T9	SYSTEMATIC 9838 9856	1,3-propanedithiol
+T10	FAMILY 9865 9887	alkynyl glycidyl ether
+T11	SYSTEMATIC 10463 10471	nitrogen
+T12	SYSTEMATIC 10475 10480	argon
+T13	SYSTEMATIC 10482 10507	2,3-dimercapto-1-propanol
+T14	FAMILY 10527 10549	alkynyl glycidyl ether
+T15	SYSTEMATIC 10645 10667	benzoin dimethyl ether
+T16	SYSTEMATIC 10703 10714	1,4-dioxane
+T17	FAMILY 10923 10963	polymer containing multiple epoxy groups
+T18	FAMILY 11189 11233	polymer containing the multiple epoxy groups
+T19	SYSTEMATIC 11262 11287	2,3-dimercapto-1-propanol
+T20	FAMILY 11296 11318	alkynyl glycidyl ether
+T21	FAMILY 11633 11640	polymer
+T22	SYSTEMATIC 11963 11971	nitrogen
+T23	SYSTEMATIC 11975 11980	argon
+T24	SYSTEMATIC 11982 12009	3,6-dioxa-1,8-octanedithiol
+T25	FAMILY 12029 12051	alkynyl glycidyl ether
+T26	SYSTEMATIC 12148 12179	2-hydroxy-2-methylpropiophenone
+T27	SYSTEMATIC 12213 12224	1,4-dioxane
+T28	FAMILY 12433 12473	polymer containing multiple epoxy groups
+T29	SYSTEMATIC 12518 12526	nitrogen
+T30	SYSTEMATIC 12530 12535	argon
+T31	SYSTEMATIC 12537 12554	1,8-octanedithiol
+T32	FAMILY 12574 12596	alkynyl glycidyl ether
+T33	SYSTEMATIC 12691 12722	2-hydroxy-2-methylpropiophenone
+T34	SYSTEMATIC 12758 12773	tetrahydrofuran
+T35	FAMILY 12982 13022	polymer containing multiple epoxy groups
+T36	SYSTEMATIC 13067 13075	nitrogen
+T37	SYSTEMATIC 13079 13084	argon
+T38	SYSTEMATIC 13086 13103	1,8-octanedithiol
+T39	FAMILY 13123 13145	alkynyl glycidyl ether
+T40	SYSTEMATIC 13242 13273	2-hydroxy-2-methylpropiophenone
+T41	SYSTEMATIC 13308 13324	trichloromethane
+T42	FAMILY 13533 13573	polymer containing multiple epoxy groups
+T43	SYSTEMATIC 13618 13626	nitrogen
+T44	SYSTEMATIC 13630 13635	argon
+T45	SYSTEMATIC 13637 13649	1,4-threitol
+T46	FAMILY 13669 13691	alkynyl glycidyl ether
+T47	SYSTEMATIC 13786 13817	2-hydroxy-2-methylpropiophenone
+T48	SYSTEMATIC 13853 13866	butyl acetate
+T49	FAMILY 14075 14115	polymer containing multiple epoxy groups
+T50	SYSTEMATIC 14454 14462	nitrogen
+T51	SYSTEMATIC 14466 14471	argon
+T52	SYSTEMATIC 14473 14491	1,3-propanedithiol
+T53	SYSTEMATIC 14511 14528	1,8-octanedithiol
+T54	FAMILY 14548 14570	alkynyl glycidyl ether
+T55	SYSTEMATIC 14667 14698	2-hydroxy-2-methylpropiophenone
+T56	SYSTEMATIC 14733 14754	N,N-dimethylacetamide
+T57	FAMILY 14963 15003	polymer containing multiple epoxy groups
+T58	SYSTEMATIC 15048 15056	nitrogen
+T59	SYSTEMATIC 15060 15065	argon
+T60	SYSTEMATIC 15067 15085	1,3-propanedithiol
+T61	SYSTEMATIC 15105 15122	1,8-octanedithiol
+T62	FAMILY 15142 15164	alkynyl glycidyl ether
+T63	SYSTEMATIC 15260 15282	benzoin dimethyl ether
+T64	SYSTEMATIC 15318 15339	N,N-dimethylformamide
+T65	FAMILY 15548 15588	polymer containing multiple epoxy groups
+T66	SYSTEMATIC 15633 15641	nitrogen
+T67	SYSTEMATIC 15645 15650	argon
+T68	SYSTEMATIC 15652 15670	1,3-propanedithiol
+T69	SYSTEMATIC 15690 15715	2,3-dimercapto-1-propanol
+T70	FAMILY 15735 15757	alkynyl glycidyl ether
+T71	SYSTEMATIC 15853 15884	2-hydroxy-2-methylpropiophenone
+T72	SYSTEMATIC 15915 15926	1,4-dioxane
+T73	SYSTEMATIC 15943 15964	N,N-dimethylformamide
+T74	FAMILY 16173 16213	polymer containing multiple epoxy groups
+T75	SYSTEMATIC 16259 16267	nitrogen
+T76	SYSTEMATIC 16271 16276	argon
+T77	SYSTEMATIC 16278 16296	1,3-propanedithiol
+T78	FAMILY 16316 16338	alkynyl glycidyl ether
+T79	SYSTEMATIC 16369 16391	benzoin dimethyl ether
+T80	SYSTEMATIC 16416 16447	2-hydroxy-2-methylpropiophenone
+T81	SYSTEMATIC 16470 16481	1,4-dioxane
+T82	SYSTEMATIC 16498 16519	N,N-dimethylformamide
+T83	FAMILY 16728 16768	polymer containing multiple epoxy groups
+T84	SYSTEMATIC 16814 16822	nitrogen
+T85	SYSTEMATIC 16826 16831	argon
+T86	SYSTEMATIC 16833 16851	1,3-propanedithiol
+T87	SYSTEMATIC 16871 16888	1,8-octanedithiol
+T88	FAMILY 16908 16930	alkynyl glycidyl ether
+T89	SYSTEMATIC 17039 17061	benzoin dimethyl ether
+T90	SYSTEMATIC 17092 17103	1,4-dioxane
+T91	SYSTEMATIC 17120 17133	methylbenzene
+T92	FAMILY 17342 17382	polymer containing multiple epoxy groups
+T93	SYSTEMATIC 17428 17436	nitrogen
+T94	SYSTEMATIC 17440 17445	argon
+T95	SYSTEMATIC 17447 17465	1,3-propanedithiol
+T96	SYSTEMATIC 17485 17503	1,5-pentanedithiol
+T97	FAMILY 17522 17544	alkynyl glycidyl ether
+T98	SYSTEMATIC 17564 17572	1-octyne
+T99	SYSTEMATIC 17668 17690	benzoin dimethyl ether
+T100	SYSTEMATIC 17726 17732	xylene
+T101	FAMILY 17941 17981	polymer containing multiple epoxy groups
+T102	SYSTEMATIC 18027 18035	nitrogen
+T103	SYSTEMATIC 18039 18044	argon
+T104	SYSTEMATIC 18046 18064	1,3-propanedithiol
+T105	SYSTEMATIC 18084 18102	1,5-pentanedithiol
+T106	FAMILY 18122 18144	alkynyl glycidyl ether
+T107	SYSTEMATIC 18164 18172	1-hexyne
+T108	SYSTEMATIC 18205 18236	2-hydroxy-2-methylpropiophenone
+T109	SYSTEMATIC 18260 18266	xylene
+T110	SYSTEMATIC 18283 18294	isopropanol
+T111	FAMILY 18503 18543	polymer containing multiple epoxy groups
+T112	SYSTEMATIC 18589 18597	nitrogen
+T113	SYSTEMATIC 18601 18606	argon
+T114	SYSTEMATIC 18608 18635	3,6-dioxa-1,8-octanedithiol
+T115	SYSTEMATIC 18655 18673	1,5-pentanedithiol
+T116	FAMILY 18692 18714	alkynyl glycidyl ether
+T117	SYSTEMATIC 18734 18742	1-hexyne
+T118	SYSTEMATIC 18774 18805	2-hydroxy-2-methylpropiophenone
+T119	SYSTEMATIC 18829 18840	1,4-dioxane
+T120	SYSTEMATIC 18857 18870	butyl acetate
+T121	FAMILY 19079 19119	polymer containing multiple epoxy groups
+T122	SYSTEMATIC 19165 19173	nitrogen
+T123	SYSTEMATIC 19177 19182	argon
+T124	SYSTEMATIC 19184 19202	1,3-propanedithiol
+T125	SYSTEMATIC 19222 19249	3,6-dioxa-1,8-octanedithiol
+T126	FAMILY 19269 19291	alkynyl glycidyl ether
+T127	SYSTEMATIC 19310 19318	1-octyne
+T128	SYSTEMATIC 19414 19436	benzoin dimethyl ether
+T129	SYSTEMATIC 19472 19487	tetrahydrofuran
+T130	FAMILY 19696 19736	polymer containing multiple epoxy groups
+T131	SYSTEMATIC 19782 19790	nitrogen
+T132	SYSTEMATIC 19794 19799	argon
+T133	SYSTEMATIC 19801 19826	2,3-dimercapto-1-propanol
+T134	SYSTEMATIC 19846 19864	1,5-pentanedithiol
+T135	FAMILY 19884 19906	alkynyl glycidyl ether
+T136	SYSTEMATIC 19926 19934	1-hexyne
+T137	SYSTEMATIC 20031 20053	benzoin dimethyl ether
+T138	SYSTEMATIC 20085 20096	1,4-dioxane
+T139	SYSTEMATIC 20113 20134	N,N-dimethylacetamide
+T140	FAMILY 20343 20383	polymer containing multiple epoxy groups
+T141	SYSTEMATIC 20429 20437	nitrogen
+T142	SYSTEMATIC 20441 20446	argon
+T143	SYSTEMATIC 20448 20466	1,3-propanedithiol
+T144	FAMILY 20486 20508	alkynyl glycidyl ether
+T145	SYSTEMATIC 20603 20625	benzoin dimethyl ether
+T146	SYSTEMATIC 20661 20680	N-methylpyrrolidone
+T147	SYSTEMATIC 20876 20884	nitrogen
+T148	SYSTEMATIC 20892 20897	argon
+T149	SYSTEMATIC 20899 20917	1,3-propanedithiol
+T150	SYSTEMATIC 20937 20954	1,8-octanedithiol
+T151	FAMILY 20974 20996	alkynyl glycidyl ether
+T152	SYSTEMATIC 21105 21127	benzoin dimethyl ether
+T153	SYSTEMATIC 21163 21174	1,4-dioxane
+T154	FAMILY 21454 21494	polymer containing multiple epoxy groups
+T155	SYSTEMATIC 21540 21548	nitrogen
+T156	SYSTEMATIC 21552 21557	argon
+T157	SYSTEMATIC 21559 21576	1,8-octanedithiol
+T158	FAMILY 21596 21618	alkynyl glycidyl ether
+T159	SYSTEMATIC 21713 21744	2-hydroxy-2-methylpropiophenone
+T160	SYSTEMATIC 21780 21795	tetrahydrofuran
+T161	SYSTEMATIC 21991 21999	nitrogen
+T162	SYSTEMATIC 22007 22012	argon
+T163	SYSTEMATIC 22014 22032	1,3-propanedithiol
+T164	FAMILY 22052 22074	alkynyl glycidyl ether
+T165	SYSTEMATIC 22105 22127	benzoin dimethyl ether
+T166	SYSTEMATIC 22152 22183	2-hydroxy-2-methylpropiophenone
+T167	SYSTEMATIC 22206 22217	1,4-dioxane
+T168	SYSTEMATIC 22234 22255	N,N-dimethylformamide
+T169	FAMILY 22533 22573	polymer containing multiple epoxy groups
+T170	SYSTEMATIC 22619 22627	nitrogen
+T171	SYSTEMATIC 22631 22636	argon
+T172	SYSTEMATIC 22638 22656	1,3-propanedithiol
+T173	SYSTEMATIC 22676 22693	1,8-octanedithiol
+T174	FAMILY 22713 22735	alkynyl glycidyl ether
+T175	SYSTEMATIC 22844 22866	benzoin dimethyl ether
+T176	SYSTEMATIC 22897 22908	1,4-dioxane
+T177	SYSTEMATIC 22925 22938	methylbenzene
+T178	SYSTEMATIC 23134 23142	nitrogen
+T179	SYSTEMATIC 23150 23155	argon
+T180	SYSTEMATIC 23157 23183	2,3-dimercapto-1 -propanol
+T181	FAMILY 23203 23225	alkynyl glycidyl ether
+T182	SYSTEMATIC 23321 23343	benzoin dimethyl ether
+T183	SYSTEMATIC 23378 23389	1,4-dioxane
+T184	FAMILY 23669 23709	polymer containing multiple epoxy groups
+T185	SYSTEMATIC 23755 23763	nitrogen
+T186	SYSTEMATIC 23767 23772	argon
+T187	SYSTEMATIC 23774 23792	1,3-propanedithiol
+T188	SYSTEMATIC 23812 23829	1,8-octanedithiol
+T189	FAMILY 23849 23871	alkynyl glycidyl ether
+T190	SYSTEMATIC 23967 23989	benzoin dimethyl ether
+T191	SYSTEMATIC 24025 24036	1,4-dioxane
+T192	SYSTEMATIC 24232 24240	nitrogen
+T193	SYSTEMATIC 24248 24253	argon
+T194	SYSTEMATIC 24255 24267	1,4-threitol
+T195	FAMILY 24287 24309	alkynyl glycidyl ether
+T196	SYSTEMATIC 24404 24435	2-hydroxy-2-methylpropiophenone
+T197	SYSTEMATIC 24471 24484	methylbenzene
+T198	FAMILY 24764 24804	polymer containing multiple epoxy groups

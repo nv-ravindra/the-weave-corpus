@@ -1,0 +1,92 @@
+Method for preparing N-(1,3,4-oxadiazol-2-yl)arylcarboxamides
+A method for preparing N-(1,3,4-oxadiazol-2-yl)arylcarboxamides of formula (I) is described.
+The substituents therein are radicals such as hydrogen, alkyl, haloalkyl or aryl.
+description="Brief Summary" end="lead"
+CROSS REFERENCE TO RELATED APPLICATIONS
+This application is a National Stage entry of International Application No. PCT/EP2016/072629 filed 23 Sep. 2016, which claims priority to European Patent Application No. 15187023.5, filed 28 Sep. 2015.
+BACKGROUND
+Field
+The invention relates to a method for preparing herbicidally active N-(1,3,4-oxadiazol-2-yl)arylcarboxamides.
+Description of Related Art
+WO 2012/126932 A1 discloses herbicidally active N-(1,3,4-oxadiazol-2-yl)arylcarboxamides. A method for their preparation is also described therein. In this method, substituted benzoic acids are reacted with 2-amino-1,3,4-oxadiazoles, which are substituted in the 5-position, in the presence of activating reagents such as carbonylimidazole (CDI), dicyclohexylcarbodiimide or 2,4,6-tripropyl-1,3,5,2,4,6-trioxatriphosphorinane-2,4,6-trioxide. Such reagents however are unsuitable for reactions on a large scale since they are very expensive and cannot be reused. It is known from Zhur. Org Khim. V. 25, N. 10, 1989, 2216 that substituted benzoyl chlorides react with 2-amino-1,3,4-oxadiazole not only to give the desired 2-benzoylamino-1,3,4-oxadiazoles but also to give the isomeric 3-benzoyl-2-imino-1,3,4-oxadiazolines.
+SUMMARY
+It is an object of the present invention to provide a method for preparing N-(1,3,4-oxadiazol-2-yl)arylcarboxamides which overcomes the disadvantages of the methods known from the prior art.
+It has now been found that N-(1,3,4-oxadiazol-2-yl)arylcarboxamides may be prepared cost-effectively and in high yields by reaction of substituted benzoic acids with 2-amino-1,3,4-oxadiazoles, substituted in the 5-position, in the presence of an inexpensive activating reagent and a base.
+description="Brief Summary" end="tail"
+description="Detailed Description" end="lead"
+The present invention therefore relates to a method for preparing N-(1,3,4-oxadiazol-2-yl)arylcarboxamides of general formula (I) by reacting 2-amino-1,3,4-oxadiazoles of general formula (II) with benzoic acids of general formula (III), characterized in that said method is carried out
+a) in the presence of an activating reagent (activator) from the group consisting of thionyl chloride, phosgene, diphosgene, mesyl chloride, tosyl chloride, POCl3, PCl5, oxalyl chloride and C1-C8-alkyl-OC(O)Cl, and
+(b) in the presence of a base of general formula (IV),
+and
+c) where the substituents are as defined hereinbelow:
+R1 is hydrogen, C3-C12-cycloalkyl, C1-C8-alkyl, C1-C5-alkoxy, halogen, cyano or phenyl,
+R2 is hydrogen, C1-C5-alkyl or halogen,
+R3 is hydrogen, C1-C8-alkyl, C1-C8-alkylsulphenyl, C1-C8-alkylsulphinyl or C1-C8-alkylsulphonyl,
+R4 is C1-C5-alkyl or C1-C3-haloalkyl,
+R5 is C1-C12-alkyl or phenyl.
+DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT
+Key advantages of the method according to the invention are the high yield, the use of inexpensive reagents and the reusability of the base of formula (IV).
+The substituted benzoic acids of formula (III) are known, for example, from WO 2012/126932 A1. 2-Amino-1,3,4-oxadiazoles of formula (II) are either commercially available or may be prepared from carboxylic hydrazides by the methods described, for example, in Tetrahedron, 69, 2013 2075-2080. The bases of formula (IV) are likewise commercially available or obtainable by methods known to those skilled in the art.
+In the formulae (I), (II), (Ill) and (IV), alkyl radicals having more than two carbon atoms may be straight-chain or branched. Alkyl radicals are, for example, methyl, ethyl, n-propyl or isopropyl, n-, iso-, t- or 2-butyl, pentyls, hexyls such as n-hexyl, isohexyl and 1,3-dimethylbutyl. The same applies to alkoxy and cycloalkyl radicals.
+Halogen is fluorine, chlorine, bromine or iodine, preferably fluorine or chlorine.
+If a group is polysubstituted by radicals, this is to be understood as meaning that this group is substituted by one or more identical or different radicals selected from the radicals mentioned.
+The compounds of the formulae (II) and (III) are typically used in a molar ratio of 0.8 to 1.5. The compound of formula (II) is preferably used with an excess of 10% relative to the compound of formula (III).
+The activator and the compounds of the formula (III) are typically used in a molar ratio of 0.5 to 3, preferably of 1 to 2, particularly preferably of 1.2 to 1.9.
+The activator used is preferably thionyl chloride, phosgene or diphosgene, particularly preferably thionyl chloride.
+The base of the formula (IV) and the compounds of the formula (III) are typically used in a molar ratio of 0.5 to 10, preferably of 1 to 3, particularly preferably of 1 to 2.5.
+The method according to the invention is generally carried out in a solvent. Suitable solvents are inert organic solvents, preferably aliphatic, alicyclic or aromatic hydrocarbons such as petroleum ether, hexane, heptane, cyclohexane, methylcyclohexane, benzene, toluene, xylene and decaline; halogenated hydrocarbons such as chlorobenzene, dichlorobenzene, dichloromethane, chloroform, tetrachloromethane, dichloroethane and trichloroethane; esters such as ethyl acetate and isopropyl acetate; ethers such as diethyl ether, diisopropyl ether, methyl tert-butyl ether, methyl tert-amyl ether, dioxane, tetrahydrofuran, 1,2-dimethoxyethane, 1,2-diethoxyethane and anisole; ketones such as acetone, butanone, methyl isobutyl ketone and cyclohexanone; nitriles such as acetonitrile, propionitrile, n- or isobutyronitrile and benzonitrile; amides such as N,N-dimethylformamide, N,N-dimethylacetamide, N-methylformanilide, N-methylpyrrolidone and hexamethylphosphoramide; pyridines such as 2-methylpyridine, 3-methylpyridine, 4-methylpyridine, 2,3-dimethylpyridine, 2-methyl-5-ethylpyridine, 2,6-dimethylpyridine, 2,4-dimethylpyridine, 3,4-dimethylpyridine and 2,4,6-trimethylpyridine. Mixtures of the abovementioned solvents are also suitable.
+The solvent used in the method according to the invention is preferably tetrahydrofuran, acetonitrile, 3-methylpyridine or 2-methyl-5-ethylpyridine. Particular preference is given to 3-methylpyridine.
+The method according to the invention is typically carried out in a temperature range of −5° to 50° C., preferably 0° to 25° C.
+The method according to the invention is typically carried out such that the compounds of the formulae (II), (Ill) and (IV) are charged in a solvent and the activator is slowly added dropwise with stirring, or is introduced in the case of phosgene. The progress of the reaction can be monitored by HPLC. The reaction generally goes to completion after 10 to 20 hours.
+After the reaction is complete, the reaction mixture is cooled and the product generally precipitates out virtually quantitatively. Alternatively, the reaction mixture can be diluted with a polar solvent such as water or alcohols such as isopropanol. The reaction product of the formula (I) is obtained in high purity and may, if required, be further purified. It is particularly advantageous to add water to the reaction mixture at a temperature between 20 and 35° C. over 3 to 6 hours. In this case the product is obtained in a rapidly filterable form. After treating the mother liquor with aqueous sodium hydroxide solution, about 95% of the base of the formula (IV) can be recovered by distillation.
+The method according to the invention is preferably carried out with compounds of the formulae (II) and (III), where
+R1 is hydrogen, methyl, ethyl, n-propyl, isopropyl or phenyl,
+R2 is methyl or chlorine,
+R3 is methylsulphenyl, methylsulphinyl or methylsulphonyl,
+R4 is trifluoromethyl,
+R5 is methyl or n-butyl.
+The method according to the invention is particularly preferably carried out with compounds of the formulae (II) and (III), where
+R1 is methyl,
+R2 is methyl or chlorine,
+R3 is methylsulphonyl,
+R4 is trifluoromethyl,
+R5 is methyl.
+The preparation examples which follow more particularly elucidate the invention.
+Preparation of 2-methyl-N-(5-methyl-1,3,4-oxadiazol-2-yl)-3-(methylsulphonyl)-4-(trifluoromethyl)benzamide, (Variant 1)
+57 g (200 mmol) of 2-methyl-3-methylsulphonyl-4-trifluoromethylbenzoic acid, 21.8 g (220 mmol) of 2-amino-5-methyl-1,3,4-oxadiazole and 32.8 g (400 mmol) of N-methylimidazole were dissolved in 300 ml of 3-methylpyridine and stirred for 30 minutes. After cooling to 10° C., 38.2 g (320 mmol) of thionyl chloride were added dropwise over 60 minutes such that the temperature of the reaction mixture remained between 10° C. and 20° C. The reaction mixture was then stirred at 20° C. for another 18 hours. 200 ml of water were then added dropwise over 30 minutes such that the temperature of the reaction mixture remained between 25° C. and 30° C. The reaction mixture was stirred at 40 to 45° C. for 4 hours and was cooled to 20° C. After filtration, the product was washed with 200 ml of water and 100 ml of 5% hydrochloric acid. After drying the residue, 62.4 g of 2-methyl-N-(5-methyl-1,3,4-oxadiazol-2-yl)-3-(methylsulphonyl)-4-(trifluoromethyl)benzamide are obtained (yield 86%).
+Preparation of 2-methyl-N-(5-methyl-1,3,4-oxadiazol-2-yl)-3-(methylsulphonyl)-4-(trifluoromethyl)benzamide, (Variant 2)
+57 g (200 mmol) of 2-methyl-3-methylsulphonyl-4-trifluoromethylbenzoic acid, 21.8 g (220 mmol) of 2-amino-5-methyl-1,3,4-oxadiazole and 32.8 g (400 mmol) of N-methylimidazole were dissolved in 300 ml of 3-methylpyridine and stirred for 30 minutes. After cooling to 10° C., 38.2 g (320 mmol) of thionyl chloride were added dropwise over 60 minutes such that the temperature of the reaction mixture remained between 10° C. and 20° C. The reaction mixture was then stirred at 20° C. for another 18 hours. 200 ml of water were then added dropwise over 6 hours such that the temperature of the reaction mixture remained between 25° C. and 30° C. The resulting suspension was cooled to 15° C., filtered and the filter cake was washed with 200 ml of water and 100 ml of 5% hydrochloric acid. After drying the residue, 65.5 g of 2-methyl-N-(5-methyl-1,3,4-oxadiazol-2-yl)-3-(methylsulphonyl)-4-(trifluoromethyl)benzamide are obtained (yield 90%).
+For comparative purposes, the reaction as described above was carried out, under otherwise the same conditions and stoichiometirc ratios, using the reagents known from WO 2012/126932 A1 of oxalyl chloride (instead of thionyl chloride) and 4-dimethylaminopyridine (instead of N-methylimidazole). This gave 11.1 g of of 2-methyl-N-(5-methyl-1,3,4-oxadiazol-2-yl)-3-(methylsulphonyl)-4-(trifluoromethyl)benzamide, (yield 15%).
+description="Detailed Description" end="tail"
+The invention claimed is:
+1. A method for preparing N-(1,3,4-oxadiazol-2-yl)arylcarboxamide of formula (I) by reacting 2-amino-1,3,4-oxadiazoles of formula (II) with benzoic acids of formula (III),
+wherein said method is carried out
+a) in the presence of an activating reagent selected from the group consisting of thionyl chloride, phosgene, diphosgene, mesyl chloride, tosyl chloride, POCl3, PCl5, oxalyl chloride and C1-C8-alkyl-OC(O)C1, and
+(b) in the presence of a base of formula (IV),
+and
+c) where the substituents are as defined herein below:
+R1 is hydrogen, C3-C12-cycloalkyl, C1-C8-alkyl, C1-C5-alkoxy, halogen, cyano or phenyl,
+R2 is hydrogen, C1-C5-alkyl or halogen,
+R3 is hydrogen, C1-C8-alkyl, C1-C8-alkylsulphenyl, C1-C8-alkylsulphinyl or C1-C8-alkylsulphonyl,
+R4 is C1-C5-alkyl or C1-C3-haloalkyl, and
+R5 is C1-C12-alkyl or phenyl.
+2. The method according to claim 1 , wherein the compound of formula (II) is used with an excess of 10% relative to the compound of formula (III).
+3. The method according to claim 1 , wherein thionyl chloride, phosgene or diphosgene is used as the activating reagent.
+4. The method according to claim 1 , wherein thionyl chloride is used as the activating reagent.
+5. The method according to claim 1 , wherein the activating reagent and the compounds of formula (III) are used in a molar ratio of from 1.2 to 1.9.
+6. The method according to claim 1 , wherein the base of formula (IV) and the compounds of formula (III) are used in a molar ratio of from 1 to 2.5.
+7. The method according to claim 1 , wherein the method is carried out in the presence of a solvent which is tetrahydrofuran, acetonitrile, 2-methyl-5-ethylpyridine or 3-methylpyridine.
+8. The method according to claim 1 , wherein the solvent used is 3-methylpyridine.
+9. The method according to claim 1 , wherein
+R1 is hydrogen, methyl, ethyl, n-propyl, isopropyl or phenyl,
+R2 is methyl or chlorine,
+R3 is methylsulphenyl, methylsulphinyl or methylsulphonyl,
+R4 is trifluoromethyl, and
+R5 is methyl or n-butyl.
+10. The method according to claim 1 , wherein
+R1 is methyl,
+R2 is methyl or chlorine,
+R3 is methylsulphonyl,
+R4 is trifluoromethyl, and
+R5 is methyl.
+11. The method according to claim 1 , wherein the reaction is conducted in a range of 0° C. to 25° C.

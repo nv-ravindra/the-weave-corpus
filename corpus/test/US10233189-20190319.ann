@@ -1,0 +1,1005 @@
+T1	SYSTEMATIC 188762 188830	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T2	SYSTEMATIC 188852 188908	1-cyclopentyl-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T3	SYSTEMATIC 188934 188976	3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T4	SYSTEMATIC 189089 189105	iodocyclopentane
+T5	SYSTEMATIC 189120 189139	potassium carbonate
+T6	ABBREVIATION 189152 189155	DMF
+T7	TRIVIAL 189273 189278	water
+T8	TRIVIAL 189368 189373	water
+T9	SYSTEMATIC 189509 189577	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T10	SYSTEMATIC 189586 189642	1-cyclopentyl-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T11	SYSTEMATIC 189672 189693	2-diethylaminoethanol
+T12	FORMULA 189709 189721	Pd(PPh3)2Cl2
+T13	ABBREVIATION 189750 189753	NMP
+T14	SYSTEMATIC 189802 189817	carbon monoxide
+T15	SYSTEMATIC 189945 189953	methanol
+T16	SYSTEMATIC 189995 190011	sodium hydroxide
+T17	TRIVIAL 190093 190098	water
+T18	SYSTEMATIC 190134 190147	ethyl acetate
+T19	SYSTEMATIC 190196 190213	hydrochloric acid
+T20	TRIVIAL 190292 190297	water
+T21	SYSTEMATIC 190451 190532	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T22	SYSTEMATIC 190554 190623	1-(4,4-dimethylcyclohexyl)-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T23	SYSTEMATIC 190635 190663	diisopropyl azodicarboxylate
+T24	SYSTEMATIC 190698 190740	3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T25	SYSTEMATIC 190752 190776	4,4-dimethylcyclohexanol
+T26	SYSTEMATIC 190791 190809	triphenylphosphine
+T27	ABBREVIATION 190822 190825	THF
+T28	TRIVIAL 190928 190938	silica gel
+T29	SYSTEMATIC 190955 190961	hexane
+T30	SYSTEMATIC 190962 190968	hexane
+T31	SYSTEMATIC 190969 190982	ethyl acetate
+T32	SYSTEMATIC 191111 191192	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T33	SYSTEMATIC 191203 191272	1-(4,4-dimethylcyclohexyl)-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T34	SYSTEMATIC 191304 191325	2-diethylaminoethanol
+T35	FORMULA 191341 191353	Pd(PPh3)2Cl2
+T36	ABBREVIATION 191381 191384	NMP
+T37	SYSTEMATIC 191433 191448	carbon monoxide
+T38	SYSTEMATIC 191576 191584	methanol
+T39	SYSTEMATIC 191627 191643	sodium hydroxide
+T40	TRIVIAL 191725 191730	water
+T41	SYSTEMATIC 191766 191779	ethyl acetate
+T42	SYSTEMATIC 191828 191845	hydrochloric acid
+T43	TRIVIAL 191924 191929	water
+T44	SYSTEMATIC 192083 192152	4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T45	SYSTEMATIC 192174 192246	methyl 4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylate
+T46	SYSTEMATIC 192257 192270	triethylamine
+T47	SYSTEMATIC 192287 192364	1,1′-bis(diphenylphosphino)ferrocene-palladium(II) dichloride-dichloromethane
+T48	SYSTEMATIC 192413 192471	3-bromo-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T49	SYSTEMATIC 192484 192492	methanol
+T50	SYSTEMATIC 192523 192538	carbon monoxide
+T51	SYSTEMATIC 192649 192659	chloroform
+T52	TRIVIAL 192673 192678	water
+T53	SYSTEMATIC 192705 192719	sodium sulfate
+T54	TRIVIAL 192811 192821	silica gel
+T55	SYSTEMATIC 192845 192851	hexane
+T56	SYSTEMATIC 192852 192865	ethyl acetate
+T57	SYSTEMATIC 192921 192927	hexane
+T58	SYSTEMATIC 192928 192941	ethyl acetate
+T59	SYSTEMATIC 193145 193214	4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T60	SYSTEMATIC 193225 193297	methyl 4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylate
+T61	SYSTEMATIC 193366 193374	methanol
+T62	SYSTEMATIC 193404 193420	sodium hydroxide
+T63	SYSTEMATIC 193578 193595	hydrochloric acid
+T64	TRIVIAL 193630 193635	water
+T65	SYSTEMATIC 193888 193969	4-amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T66	SYSTEMATIC 193991 194060	1-(4,4-difluorocyclohexyl)-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T67	SYSTEMATIC 194071 194099	diisopropyl azodicarboxylate
+T68	SYSTEMATIC 194136 194178	3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T69	SYSTEMATIC 194189 194213	4,4-difluorocyclohexanol
+T70	SYSTEMATIC 194228 194246	triphenylphosphine
+T71	ABBREVIATION 194259 194262	THF
+T72	SYSTEMATIC 194379 194387	methanol
+T73	SYSTEMATIC 194592 194676	methyl 4 amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylate
+T74	SYSTEMATIC 194708 194777	1-(4,4-difluorocyclohexyl)-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+T75	SYSTEMATIC 194833 194910	1,1′-bis(diphenylphosphino)ferrocene-palladium(II) dichloride-dichloromethane
+T76	SYSTEMATIC 194932 194957	N,N-diisopropylethylamine
+T77	SYSTEMATIC 194970 194978	methanol
+T78	SYSTEMATIC 194996 195011	carbon monoxide
+T79	TRIVIAL 195139 195149	silica gel
+T80	SYSTEMATIC 195173 195179	hexane
+T81	SYSTEMATIC 195180 195193	ethyl acetate
+T82	TRIVIAL 195269 195279	silica gel
+T83	SYSTEMATIC 195296 195302	hexane
+T84	SYSTEMATIC 195303 195316	ethyl acetate
+T85	SYSTEMATIC 195372 195378	hexane
+T86	SYSTEMATIC 195379 195392	ethyl acetate
+T87	SYSTEMATIC 195580 195661	4-amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T88	SYSTEMATIC 195749 195833	methyl-4-amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylate
+T89	SYSTEMATIC 195871 195943	methyl 4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylate
+T90	SYSTEMATIC 196118 196171	tert-butyl 5-amino-3-methyl-1H-pyrazole-1-carboxylate
+T91	SYSTEMATIC 196180 196207	5-methyl-1H-pyrazol-3-amine
+T92	SYSTEMATIC 196235 196250	dichloromethane
+T93	FORMULA 196271 196275	NaOH
+T94	SYSTEMATIC 196323 196348	di-tert-butyl dicarbonate
+T95	TRIVIAL 196436 196441	Water
+T96	SYSTEMATIC 196497 196507	chloroform
+T97	TRIVIAL 196543 196548	water
+T98	SYSTEMATIC 196574 196591	magnesium sulfate
+T99	SYSTEMATIC 196694 196700	hexane
+T100	ABBREVIATION 196807 196814	DMSO-d6
+T101	SYSTEMATIC 196910 196975	4-amino-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T102	SYSTEMATIC 196997 197052	4-chloro-5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine
+T103	ABBREVIATION 197064 197068	DIAD
+T104	SYSTEMATIC 197105 197148	4-chloro-5-iodo-7H-pyrrolo[2,3-d]pyrimidine
+T105	SYSTEMATIC 197160 197171	propan-2-ol
+T106	SYSTEMATIC 197187 197205	triphenylphosphine
+T107	SYSTEMATIC 197218 197233	tetrahydrofuran
+T108	TRIVIAL 197364 197374	silica gel
+T109	SYSTEMATIC 197391 197397	hexane
+T110	SYSTEMATIC 197398 197404	hexane
+T111	SYSTEMATIC 197405 197418	ethyl acetate
+T112	SYSTEMATIC 197554 197607	5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T113	SYSTEMATIC 197617 197636	1,2-dimethoxyethane
+T114	TRIVIAL 197662 197667	water
+T115	SYSTEMATIC 197689 197744	4-chloro-5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine
+T116	TRIVIAL 197873 197878	water
+T117	TRIVIAL 197954 197959	water
+T118	SYSTEMATIC 198084 198149	4-amino-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T119	SYSTEMATIC 198159 198212	5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T120	SYSTEMATIC 198249 198271	2-diethylamino ethanol
+T121	FORMULA 198287 198299	Pd(PPh3)2Cl2
+T122	ABBREVIATION 198326 198329	NMP
+T123	SYSTEMATIC 198378 198393	carbon monoxide
+T124	SYSTEMATIC 198519 198527	methanol
+T125	SYSTEMATIC 198570 198586	sodium hydroxide
+T126	TRIVIAL 198677 198682	water
+T127	SYSTEMATIC 198718 198731	ethyl acetate
+T128	SYSTEMATIC 198750 198767	hydrochloric acid
+T129	TRIVIAL 198867 198872	water
+T130	SYSTEMATIC 199027 199095	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T131	SYSTEMATIC 199117 199168	7-(tert-butyl)-4-chloro-7H-pyrrolo[2,3-d]pyrimidine
+T132	SYSTEMATIC 199201 199243	2-(4,6-dichloropyrimidin-5-yl)acetaldehyde
+T133	SYSTEMATIC 199255 199270	tert-butylamine
+T134	SYSTEMATIC 199286 199311	N,N-diisopropylethylamine
+T135	SYSTEMATIC 199325 199332	ethanol
+T136	SYSTEMATIC 199467 199480	ethyl acetate
+T137	TRIVIAL 199494 199499	water
+T138	SYSTEMATIC 199542 199557	sodium chloride
+T139	SYSTEMATIC 199620 199634	sodium sulfate
+T140	TRIVIAL 199701 199711	silica gel
+T141	SYSTEMATIC 199856 199914	7-(tert-butyl)-4-chloro-5-iodo-7H-pyrrolo[2,3-d]pyrimidine
+T142	SYSTEMATIC 199925 199942	N-iodosuccinimide
+T143	SYSTEMATIC 199978 200029	7-(tert-butyl)-4-chloro-7H-pyrrolo[2,3-d]pyrimidine
+T144	ABBREVIATION 200062 200065	DMF
+T145	SYSTEMATIC 200156 200169	ethyl acetate
+T146	TRIVIAL 200186 200191	water
+T147	SYSTEMATIC 200246 200261	sodium chloride
+T148	SYSTEMATIC 200324 200338	sodium sulfate
+T149	SYSTEMATIC 200417 200423	hexane
+T150	SYSTEMATIC 200424 200437	ethyl acetate
+T151	SYSTEMATIC 200626 200682	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T152	SYSTEMATIC 200707 200765	7-(tert-butyl)-4-chloro-5-iodo-7H-pyrrolo[2,3-d]pyrimidine
+T153	ABBREVIATION 200798 200801	THF
+T154	TRIVIAL 200828 200833	water
+T155	TRIVIAL 200931 200936	water
+T156	SYSTEMATIC 201165 201236	methyl 4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T157	SYSTEMATIC 201261 201317	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T158	SYSTEMATIC 201350 201427	1,1′-bis(diphenylphosphino)ferrocene-palladium(II) dichloride-dichloromethane
+T159	SYSTEMATIC 201452 201465	triethylamine
+T160	SYSTEMATIC 201479 201487	methanol
+T161	SYSTEMATIC 201505 201520	carbon monoxide
+T162	TRIVIAL 201657 201667	silica gel
+T163	SYSTEMATIC 201684 201690	hexane
+T164	SYSTEMATIC 201691 201704	ethyl acetate
+T165	SYSTEMATIC 201756 201762	hexane
+T166	SYSTEMATIC 201763 201776	ethyl acetate
+T167	SYSTEMATIC 201937 202005	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T168	SYSTEMATIC 202030 202046	sodium hydroxide
+T169	SYSTEMATIC 202095 202166	methyl 4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T170	SYSTEMATIC 202198 202206	methanol
+T171	SYSTEMATIC 202324 202341	hydrochloric acid
+T172	TRIVIAL 202409 202414	water
+T173	SYSTEMATIC 202617 202682	7-(tert-butyl)-5-iodo-6-methyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T174	SYSTEMATIC 202704 202745	1-(4,6-dichloropyrimidin-5-yl)propan-2-ol
+T175	SYSTEMATIC 202753 202795	2-(4,6-dichloropyrimidin-5-yl)acetaldehyde
+T176	ABBREVIATION 202822 202825	THF
+T177	SYSTEMATIC 202878 202915	methylmagnesium bromide diethyl ether
+T178	SYSTEMATIC 203055 203072	ammonium chloride
+T179	SYSTEMATIC 203265 203278	ethyl acetate
+T180	SYSTEMATIC 203334 203349	sodium chloride
+T181	SYSTEMATIC 203380 203394	sodium sulfate
+T182	TRIVIAL 203452 203462	silica gel
+T183	SYSTEMATIC 203479 203485	hexane
+T184	SYSTEMATIC 203486 203499	ethyl acetate
+T185	SYSTEMATIC 203636 203678	1-(4,6-dichloropyrimidin-5-yl)propan-2-one
+T186	SYSTEMATIC 203689 203730	1-(4,6-dichloropyrimidin-5-yl)propan-2-ol
+T187	SYSTEMATIC 203777 203792	dichloromethane
+T188	TRIVIAL 203809 203828	Dess-Martin reagent
+T189	SYSTEMATIC 203907 203925	sodium thiosulfate
+T190	TRIVIAL 203976 203981	water
+T191	SYSTEMATIC 204111 204121	chloroform
+T192	TRIVIAL 204161 204166	water
+T193	SYSTEMATIC 204191 204206	sodium chloride
+T194	SYSTEMATIC 204241 204255	sodium sulfate
+T195	TRIVIAL 204326 204336	silica gel
+T196	SYSTEMATIC 204353 204359	hexane
+T197	SYSTEMATIC 204360 204373	ethyl acetate
+T198	SYSTEMATIC 204509 204567	1-(4-(tert-butylamino)-6-chloropyrimidin-5-yl)propan-2-one
+T199	SYSTEMATIC 204578 204620	1-(4,6-dichloropyrimidin-5-yl)propan-2-one
+T200	SYSTEMATIC 204651 204666	tert-butylamine
+T201	SYSTEMATIC 204682 204703	diisopropylethylamine
+T202	SYSTEMATIC 204730 204737	ethanol
+T203	TRIVIAL 204862 204872	silica gel
+T204	SYSTEMATIC 204889 204895	hexane
+T205	SYSTEMATIC 204896 204909	ethyl acetate
+T206	SYSTEMATIC 205045 205105	7-(tert-butyl)-4-chloro-6-methyl-7H-pyrrolo[2,3-d]pyrimidine
+T207	SYSTEMATIC 205115 205173	1-(4-(tert-butylamino)-6-chloropyrimidin-5-yl)propan-2-one
+T208	SYSTEMATIC 205206 205217	acetic acid
+T209	SYSTEMATIC 205246 205253	ethanol
+T210	TRIVIAL 205388 205398	silica gel
+T211	SYSTEMATIC 205415 205421	hexane
+T212	SYSTEMATIC 205422 205435	ethyl acetate
+T213	SYSTEMATIC 205571 205638	7-(tert-butyl)-4-chloro-5-iodo-6-methyl-7H-pyrrolo[2,3-d]pyrimidine
+T214	SYSTEMATIC 205639 205699	7-(tert-butyl)-4-chloro-6-methyl-7H-pyrrolo[2,3-d]pyrimidine
+T215	ABBREVIATION 205746 205749	DMF
+T216	SYSTEMATIC 205760 205777	N-iodosuccinimide
+T217	SYSTEMATIC 205870 205888	sodium thiosulfate
+T218	SYSTEMATIC 206005 206018	ethyl acetate
+T219	TRIVIAL 206054 206059	water
+T220	SYSTEMATIC 206084 206099	sodium chloride
+T221	SYSTEMATIC 206125 206139	sodium sulfate
+T222	TRIVIAL 206205 206215	silica gel
+T223	SYSTEMATIC 206232 206238	hexane
+T224	SYSTEMATIC 206239 206252	ethyl acetate
+T225	SYSTEMATIC 206367 206432	7-(tert-butyl)-5-iodo-6-methyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T226	SYSTEMATIC 206442 206509	7-(tert-butyl)-4-chloro-5-iodo-6-methyl-7H-pyrrolo[2,3-d]pyrimidine
+T227	ABBREVIATION 206556 206559	DME
+T228	TRIVIAL 206582 206587	water
+T229	TRIVIAL 206661 206666	water
+T230	SYSTEMATIC 206859 206951	4-amino-1-cyclopentyl-N-(5-ethyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T231	SYSTEMATIC 206961 207029	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T232	SYSTEMATIC 207082 207108	5-ethyl-1H-pyrazol-3-amine
+T233	ABBREVIATION 207123 207127	HATU
+T234	ABBREVIATION 207154 207157	DMF
+T235	SYSTEMATIC 207172 207193	diisopropylethylamine
+T236	TRIVIAL 207275 207280	water
+T237	SYSTEMATIC 207345 207355	chloroform
+T238	TRIVIAL 207391 207396	water
+T239	SYSTEMATIC 207423 207440	magnesium sulfate
+T240	TRIVIAL 207544 207554	silica gel
+T241	SYSTEMATIC 207571 207581	chloroform
+T242	SYSTEMATIC 207582 207592	chloroform
+T243	SYSTEMATIC 207593 207601	methanol
+T244	SYSTEMATIC 207696 207795	4-amino-1-cyclopentyl-N-(5-(furan-2-yl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T245	SYSTEMATIC 207853 207886	5-(furan-2-yl)-1H-pyrazol-3-amine
+T246	SYSTEMATIC 207898 207924	5-ethyl-1H-pyrazol-3-amine
+T247	SYSTEMATIC 208008 208107	4-amino-1-cyclopentyl-N-(5-(furan-3-yl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T248	SYSTEMATIC 208165 208198	5-(furan-3-yl)-1H-pyrazol-3-amine
+T249	SYSTEMATIC 208210 208236	5-ethyl-1H-pyrazol-3-amine
+T250	SYSTEMATIC 208320 208422	4-amino-1-cyclopentyl-N-(5-(thiophen-2-yl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T251	SYSTEMATIC 208480 208516	5-(thiophen-2-yl)-1H-pyrazol-3-amine
+T252	SYSTEMATIC 208528 208554	5-ethyl-1H-pyrazol-3-amine
+T253	SYSTEMATIC 208638 208731	4-amino-1-cyclopentyl-N-(5-phenyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T254	SYSTEMATIC 208789 208816	5-phenyl-1H-pyrazol-3-amine
+T255	SYSTEMATIC 208828 208854	5-ethyl-1H-pyrazol-3-amine
+T256	SYSTEMATIC 208938 209036	4-amino-1-cyclopentyl-N-(5-cyclopentyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T257	SYSTEMATIC 209094 209126	5-cyclopentyl-1H-pyrazol-3-amine
+T258	SYSTEMATIC 209138 209164	5-ethyl-1H-pyrazol-3-amine
+T259	SYSTEMATIC 209248 209346	4-amino-1-cyclopentyl-N-(5-cyclopropyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T260	SYSTEMATIC 209404 209436	5-cyclopropyl-1H-pyrazol-3-amine
+T261	SYSTEMATIC 209448 209474	5-ethyl-1H-pyrazol-3-amine
+T262	SYSTEMATIC 209558 209651	4-amino-1-cyclopentyl-N-(3-propyl-1H-pyrazol-5-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T263	SYSTEMATIC 209709 209736	5-propyl-1H-pyrazol-3-amine
+T264	SYSTEMATIC 209748 209774	5-ethyl-1H-pyrazol-3-amine
+T265	SYSTEMATIC 209858 209955	4-amino-1-cyclopentyl-N-(1,3-dimethyl-1H-pyrazol-5-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T266	SYSTEMATIC 210013 210044	1,3-dimethyl-1H-pyrazol-5-amine
+T267	SYSTEMATIC 210056 210082	5-ethyl-1H-pyrazol-3-amine
+T268	SYSTEMATIC 210164 210260	4-amino-1-cyclopentyl-N-(5-isopropyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T269	SYSTEMATIC 210318 210348	5-isopropyl-1H-pyrazol-3-amine
+T270	SYSTEMATIC 210360 210386	5-ethyl-1H-pyrazol-3-amine
+T271	SYSTEMATIC 210471 210563	4-amino-1-cyclobutyl-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T272	SYSTEMATIC 210649 210665	bromocyclobutane
+T273	SYSTEMATIC 210677 210693	iodocyclopentane
+T274	SYSTEMATIC 210695 210762	4-amino-1-cyclobutyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T275	SYSTEMATIC 210844 210911	4-amino-1-cyclobutyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T276	SYSTEMATIC 210923 210991	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T277	SYSTEMATIC 211003 211030	5-methyl-1H-pyrazol-3-amine
+T278	SYSTEMATIC 211042 211068	5-ethyl-1H-pyrazol-3-amine
+T279	SYSTEMATIC 211153 211264	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1-((1-methylcyclopropyl)methyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T280	SYSTEMATIC 211350 211394	(1-methylcyclopropyl)methyl methanesulfonate
+T281	SYSTEMATIC 211406 211422	iodocyclopentane
+T282	SYSTEMATIC 211424 211510	4-amino-7-((1-methylcyclopropyl)methyl)-7H-pyrazolo[3,4-d]pyrimidine-5-carboxylic acid
+T283	SYSTEMATIC 211592 211678	4-amino-7-((1-methylcyclopropyl)methyl)-7H-pyrazolo[3,4-d]pyrimidine-5-carboxylic acid
+T284	SYSTEMATIC 211690 211758	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T285	SYSTEMATIC 211769 211796	5-methyl-1H-pyrazol-3-amine
+T286	SYSTEMATIC 211808 211834	5-ethyl-1H-pyrazol-3-amine
+T287	SYSTEMATIC 211919 212023	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1-(2,2,2-trifluoroethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T288	SYSTEMATIC 212109 212146	2,2,2-trifluoroethyl methanesulfonate
+T289	SYSTEMATIC 212158 212174	iodocyclopentane
+T290	SYSTEMATIC 212176 212255	4-amino-1-(2,2,2-trifluoroethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T291	SYSTEMATIC 212337 212416	4-amino-1-(2,2,2-trifluoroethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T292	SYSTEMATIC 212428 212496	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T293	SYSTEMATIC 212508 212535	5-methyl-1H-pyrazol-3-amine
+T294	SYSTEMATIC 212547 212573	5-ethyl-1H-pyrazol-3-amine
+T295	SYSTEMATIC 212655 212760	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1-(3,3,3-trifluoropropyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T296	SYSTEMATIC 212846 212876	3-bromo-1,1,1-trifluoropropane
+T297	SYSTEMATIC 212888 212904	iodocyclopentane
+T298	SYSTEMATIC 212906 212986	4-amino-1-(3,3,3-trifluoropropyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T299	SYSTEMATIC 213065 213145	4-amino-1-(3,3,3-trifluoropropyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T300	SYSTEMATIC 213157 213225	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T301	SYSTEMATIC 213237 213264	5-methyl-1H-pyrazol-3-amine
+T302	SYSTEMATIC 213276 213302	5-ethyl-1H-pyrazol-3-amine
+T303	SYSTEMATIC 213384 213477	4-amino-1-(sec-butyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T304	SYSTEMATIC 213563 213575	2-brombutane
+T305	SYSTEMATIC 213587 213603	iodocyclopentane
+T306	SYSTEMATIC 213605 213673	4-amino-7-(sec-butyl)-7H-pyrazolo[2,3-d]pyrimidine-5-carboxylic acid
+T307	SYSTEMATIC 213752 213820	4-amino-7-(sec-butyl)-7H-pyrazolo[2,3-d]pyrimidine-5-carboxylic acid
+T308	SYSTEMATIC 213832 213900	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T309	SYSTEMATIC 213912 213939	5-methyl-1H-pyrazol-3-amine
+T310	SYSTEMATIC 213951 213977	5-ethyl-1H-pyrazol-3-amine
+T311	SYSTEMATIC 214062 214162	4-amino-1-(cyclobutylmethyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T312	SYSTEMATIC 214248 214272	(bromomethyl)cyclobutane
+T313	SYSTEMATIC 214284 214300	iodocyclopentane
+T314	SYSTEMATIC 214302 214377	4-amino-1-(cyclobutylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T315	SYSTEMATIC 214456 214531	4-amino-1-(cyclobutylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T316	SYSTEMATIC 214543 214611	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T317	SYSTEMATIC 214623 214650	5-methyl-1H-pyrazol-3-amine
+T318	SYSTEMATIC 214662 214688	5-ethyl-1H-pyrazol-3-amine
+T319	SYSTEMATIC 214773 214872	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-(cyclobutylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T320	SYSTEMATIC 214958 214982	(bromomethyl)cyclobutane
+T321	SYSTEMATIC 214994 215010	iodocyclopentane
+T322	SYSTEMATIC 215012 215087	4-amino-1-(cyclobutylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T323	SYSTEMATIC 215166 215192	5-bromo-1H-pyrazol-3-amine
+T324	SYSTEMATIC 215204 215230	5-ethyl-1H-pyrazol-3-amine
+T325	SYSTEMATIC 215242 215317	4-amino-1-(cyclobutylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T326	SYSTEMATIC 215329 215397	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T327	SYSTEMATIC 215482 215583	4-amino-1-(cyclopropylmethyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T328	SYSTEMATIC 215669 215694	(bromomethyl)cyclopropane
+T329	SYSTEMATIC 215706 215722	iodocyclopentane
+T330	SYSTEMATIC 215724 215800	4-amino-1-(cyclopropylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T331	SYSTEMATIC 215876 215952	4-amino-1-(cyclopropylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T332	SYSTEMATIC 215964 216032	4-amino-1-cyclopentyl 1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T333	SYSTEMATIC 216044 216071	5-methyl-1H-pyrazol-3-amine
+T334	SYSTEMATIC 216083 216109	5-ethyl-1H-pyrazol-3-amine
+T335	SYSTEMATIC 216194 216295	4-amino-1-(cyclopentylmethyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T336	SYSTEMATIC 216381 216406	(bromomethyl)cyclopentane
+T337	SYSTEMATIC 216418 216434	iodocyclopentane
+T338	SYSTEMATIC 216436 216512	4-amino-1-(cyclopentylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T339	SYSTEMATIC 216594 216670	4-amino-1-(cyclopentylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T340	SYSTEMATIC 216682 216751	4-amino-1-cyclopentyl-1H-pyrazolo [3,4-d]pyrimidine-3-carboxylic acid
+T341	SYSTEMATIC 216763 216790	5-methyl-1H-pyrazol-3-amine
+T342	SYSTEMATIC 216802 216828	5-ethyl-1H-pyrazol-3-amine
+T343	SYSTEMATIC 216910 217010	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-(cyclopentylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T344	SYSTEMATIC 217096 217121	(bromomethyl)cyclopentane
+T345	SYSTEMATIC 217133 217149	iodocyclopentane
+T346	SYSTEMATIC 217151 217227	4-amino-1-(cyclopentylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T347	SYSTEMATIC 217309 217335	5-bromo-1H-pyrazol-3-amine
+T348	SYSTEMATIC 217347 217373	5-ethyl-1H-pyrazol-3-amine
+T349	SYSTEMATIC 217385 217461	4-amino-1-(cyclopentylmethyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T350	SYSTEMATIC 217473 217541	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T351	SYSTEMATIC 217626 217728	4-amino-1-isopropyl-N-(5-(trifluoromethyl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T352	SYSTEMATIC 217814 217828	2-bromopropane
+T353	SYSTEMATIC 217840 217856	iodocyclopentane
+T354	SYSTEMATIC 217858 217924	4-amino-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T355	SYSTEMATIC 218003 218041	5-(trifluoromethyl)-1H-pyrazol-3-amine
+T356	SYSTEMATIC 218053 218079	5-ethyl-1H-pyrazol-3-amine
+T357	SYSTEMATIC 218091 218157	4-amino-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T358	SYSTEMATIC 218169 218237	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T359	SYSTEMATIC 218322 218412	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T360	SYSTEMATIC 218498 218512	2-bromopropane
+T361	SYSTEMATIC 218524 218540	iodocyclopentane
+T362	SYSTEMATIC 218542 218608	4-amino-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T363	SYSTEMATIC 218687 218713	5-bromo-1H-pyrazol-3-amine
+T364	SYSTEMATIC 218725 218751	5-ethyl-1H-pyrazol-3-amine
+T365	SYSTEMATIC 218763 218829	4-amino-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T366	SYSTEMATIC 218841 218909	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T367	SYSTEMATIC 218994 219104	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1-((1R,2R)-2-methylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T368	SYSTEMATIC 219190 219234	[(1S,2R)-2-methylcyclohexyl]methanesulfonate
+T369	SYSTEMATIC 219246 219262	iodocyclopentane
+T370	SYSTEMATIC 219264 219349	4-amino-1-((1R,2R)-2-methylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T371	SYSTEMATIC 219431 219516	4-amino-1-((1R,2R)-2-methylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T372	SYSTEMATIC 219528 219596	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T373	SYSTEMATIC 219607 219634	5-methyl-1H-pyrazol-3-amine
+T374	SYSTEMATIC 219646 219672	5-ethyl-1H-pyrazol-3-amine
+T375	SYSTEMATIC 219754 219860	4-amino-1-(4,4-dimethylcyclohexyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T376	SYSTEMATIC 219870 219951	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T377	SYSTEMATIC 220004 220031	5-methyl-1H-pyrazol-3-amine
+T378	ABBREVIATION 220046 220050	HATU
+T379	ABBREVIATION 220077 220080	DMF
+T380	SYSTEMATIC 220095 220116	diisopropylethylamine
+T381	TRIVIAL 220185 220190	water
+T382	SYSTEMATIC 220255 220265	chloroform
+T383	TRIVIAL 220301 220306	water
+T384	SYSTEMATIC 220332 220349	magnesium sulfate
+T385	TRIVIAL 220453 220463	silica gel
+T386	SYSTEMATIC 220480 220490	chloroform
+T387	SYSTEMATIC 220491 220501	chloroform
+T388	SYSTEMATIC 220502 220510	methanol
+T389	SYSTEMATIC 220606 220711	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T390	SYSTEMATIC 220760 220786	5-bromo-1H-pyrazol-3-amine
+T391	SYSTEMATIC 220798 220825	5-methyl-1H-pyrazol-3-amine
+T392	SYSTEMATIC 220910 221016	4-amino-1-(3,3-dimethylcyclobutyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T393	SYSTEMATIC 221102 221126	3,3-dimethylcyclobutanol
+T394	SYSTEMATIC 221138 221162	4,4-dimethylcyclohexanol
+T395	SYSTEMATIC 221164 221245	4-amino-1-(3,3-dimethylcyclobutyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T396	SYSTEMATIC 221326 221407	4-amino-1-(3,3-dimethylcyclobutyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T397	SYSTEMATIC 221419 221500	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T398	SYSTEMATIC 221585 221694	4-amino-1-(bicyclo[2.2.1]heptan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T399	SYSTEMATIC 221780 221805	bicyclo[2.2.1]heptan-2-ol
+T400	SYSTEMATIC 221817 221841	4,4-dimethylcyclohexanol
+T401	SYSTEMATIC 221843 221923	4-amino-1-(bicyclo[2.2.1]heptane)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T402	SYSTEMATIC 222006 222086	4-amino-1-(bicyclo[2.2.1]heptane)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T403	SYSTEMATIC 222098 222179	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T404	SYSTEMATIC 222264 222372	4-amino-1-(bicyclo[2.2.1]heptan-2-yl)-N-(5-bromo-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T405	SYSTEMATIC 222458 222483	bicyclo[2.2.1]heptan-2-ol
+T406	SYSTEMATIC 222495 222519	4,4-dimethylcyclohexanol
+T407	SYSTEMATIC 222521 222601	4-amino-1-(bicyclo[2.2.1]heptane)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T408	SYSTEMATIC 222683 222763	4-amino-1-(bicyclo[2.2.1]heptane)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T409	SYSTEMATIC 222775 222856	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T410	SYSTEMATIC 222868 222894	3-bromo-1H-pyrazol-5-amine
+T411	SYSTEMATIC 222906 222933	5-methyl-1H-pyrazol-3-amine
+T412	SYSTEMATIC 223018 223116	1-(adamantan-2-yl)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T413	SYSTEMATIC 223202 223216	adamantan-2-ol
+T414	SYSTEMATIC 223228 223252	4,4-dimethylcyclohexanol
+T415	SYSTEMATIC 223254 223356	1-(adamantan-2-yl)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T416	SYSTEMATIC 223439 223541	1-(adamantan-2-yl)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T417	SYSTEMATIC 223553 223634	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T418	SYSTEMATIC 223719 223851	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-1-((2S,3R)-2,6,6-trimethylbicyclo[3.1.1]heptan-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T419	SYSTEMATIC 223937 223973	(2S,3S)-2,6,6-trimethylnorpinan-3-ol
+T420	SYSTEMATIC 223985 224009	4,4-dimethylcyclohexanol
+T421	SYSTEMATIC 224011 224118	4-amino-1-((2S,3R)-2,6,6-trimethylbicyclo[3.1.1]heptan-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T422	SYSTEMATIC 224201 224308	4-amino-1-((2S,3R)-2,6,6-trimethylbicyclo[3.1.1]heptan-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T423	SYSTEMATIC 224320 224401	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T424	SYSTEMATIC 224486 224592	4-amino-1-(3-fluoroprop-1-en-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T425	SYSTEMATIC 224678 224701	1,3-difluoropropan-2-ol
+T426	SYSTEMATIC 224713 224737	4,4-dimethylcyclohexanol
+T427	SYSTEMATIC 224739 224820	4-amino-1-(3-fluoroprop-1-en-2-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T428	SYSTEMATIC 224903 224984	4-amino-1-(3-fluoroprop-1-en-2-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T429	SYSTEMATIC 224996 225077	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T430	SYSTEMATIC 225162 225253	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-cyclohexyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T431	SYSTEMATIC 225339 225351	cyclohexanol
+T432	SYSTEMATIC 225363 225387	4,4-dimethylcyclohexanol
+T433	SYSTEMATIC 225389 225456	4-amino-1-cyclohexyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T434	SYSTEMATIC 225539 225606	4-amino-1-cyclohexyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T435	SYSTEMATIC 225618 225699	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T436	SYSTEMATIC 225710 225736	3-bromo-1H-pyrazol-5-amine
+T437	SYSTEMATIC 225748 225775	5-methyl-1H-pyrazol-3-amine
+T438	SYSTEMATIC 225860 225962	4-amino-1-cyclohexyl-N-(5-(difluoromethyl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T439	SYSTEMATIC 226048 226060	cyclohexanol
+T440	SYSTEMATIC 226072 226096	4,4-dimethylcyclohexanol
+T441	SYSTEMATIC 226098 226165	4-amino-1-cyclohexyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T442	SYSTEMATIC 226248 226315	4-amino-1-cyclohexyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T443	SYSTEMATIC 226327 226408	4-amino-1-(4,4-dimethylcyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T444	SYSTEMATIC 226420 226457	5-(difluoromethyl)-1H-pyrazol-3-amine
+T445	SYSTEMATIC 226469 226496	5-methyl-1H-pyrazol-3-amine
+T446	SYSTEMATIC 226581 226675	4-amino-1-(tert-butyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T447	ABBREVIATION 226686 226690	HATU
+T448	SYSTEMATIC 226730 226799	4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T449	SYSTEMATIC 226853 226880	5-methyl-1H-pyrazol-3-amine
+T450	SYSTEMATIC 226898 226923	N,N-diisopropylethylamine
+T451	ABBREVIATION 226935 226938	DMF
+T452	SYSTEMATIC 227022 227038	sodium hydroxide
+T453	SYSTEMATIC 227158 227175	hydrochloric acid
+T454	SYSTEMATIC 227216 227226	chloroform
+T455	SYSTEMATIC 227265 227279	sodium sulfate
+T456	SYSTEMATIC 227360 227368	methanol
+T457	SYSTEMATIC 227516 227609	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T458	SYSTEMATIC 227658 227684	3-bromo-1H-pyrazol-5-amine
+T459	SYSTEMATIC 227696 227723	5-methyl-1H-pyrazol-3-amine
+T460	SYSTEMATIC 227813 227918	4-amino-1-(tert-butyl)-N-(5-(trifluoromethyl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T461	SYSTEMATIC 227967 228005	5-(trifluoromethyl)-1H-pyrazol-3-amine
+T462	SYSTEMATIC 228017 228044	5-methyl-1H-pyrazol-3-amine
+T463	SYSTEMATIC 228134 228234	4-amino-1-(tert-butyl)-N-(5-(furan-2-yl)-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T464	SYSTEMATIC 228283 228316	3-(furan-2-yl)-1H-pyrazol-5-amine
+T465	SYSTEMATIC 228328 228355	5-methyl-1H-pyrazol-3-amine
+T466	SYSTEMATIC 228445 228538	4-amino-1-(tert-butyl)-N-(5-cyano-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T467	SYSTEMATIC 228587 228621	5-amino-1H-pyrazole-3-carbonitrile
+T468	SYSTEMATIC 228633 228660	5-methyl-1H-pyrazol-3-amine
+T469	SYSTEMATIC 228745 228838	4-amino-1-(tert-butyl)-N-(5-ethyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T470	SYSTEMATIC 228897 228923	3-ethyl-1H-pyrazol-5-amine
+T471	SYSTEMATIC 228935 228962	5-methyl-1H-pyrazol-3-amine
+T472	SYSTEMATIC 229110 229207	4-amino-1-(tert-butyl)-N-(5-isopropyl-1H pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T473	SYSTEMATIC 229266 229296	3-isopropyl-1H-pyrazol-5-amine
+T474	SYSTEMATIC 229308 229335	5-methyl-1H-pyrazol-3-amine
+T475	SYSTEMATIC 229483 229582	4-amino-1-(tert-butyl)-N-(5-cyclopropyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T476	SYSTEMATIC 229641 229673	3-cyclopropyl-1H-pyrazol-5-amine
+T477	SYSTEMATIC 229685 229712	5-methyl-1H-pyrazol-3-amine
+T478	SYSTEMATIC 229860 229958	4-amino-1-(tert-butyl)-N-(5-cyclobutyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T479	SYSTEMATIC 230007 230038	3-cyclobutyl-1H-pyrazol-5-amine
+T480	SYSTEMATIC 230050 230077	5-methyl-1H-pyrazol-3-amine
+T481	SYSTEMATIC 230225 230329	4-amino-1-(4,4-difluorocyclohexyl)-N-(5-methyl-1H-pyrazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-carboxamide
+T482	SYSTEMATIC 230388 230469	4-amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T483	SYSTEMATIC 230523 230592	4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T484	SYSTEMATIC 230691 230796	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T485	SYSTEMATIC 230855 230936	4-amino-1-(4,4-difluorocyclohexyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T486	SYSTEMATIC 230990 231059	4-amino-1-(tert-butyl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T487	SYSTEMATIC 231085 231111	3-bromo-1H-pyrazol-5-amine
+T488	SYSTEMATIC 231123 231150	5-methyl-1H-pyrazol-3-amine
+T489	SYSTEMATIC 231236 231326	4-amino-7-isopropyl-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T490	SYSTEMATIC 231337 231390	5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T491	SYSTEMATIC 231444 231497	tert-butyl 5-amino-3-methyl-1H-pyrazole-1-carboxylate
+T492	SYSTEMATIC 231545 231579	1,8-diazabicyclo[5.4.0]undec-7-ene
+T493	ABBREVIATION 231606 231609	DMA
+T494	SYSTEMATIC 231620 231697	1,1′-bis(diphenylphosphino)ferrocene-palladium(II) dichloride-dichloromethane
+T495	SYSTEMATIC 231758 231773	carbon monoxide
+T496	TRIVIAL 231884 231894	silica gel
+T497	SYSTEMATIC 231911 231917	hexane
+T498	SYSTEMATIC 231918 231931	ethyl acetate
+T499	SYSTEMATIC 231936 231949	ethyl acetate
+T500	SYSTEMATIC 232059 232161	4-amino-7-(1-fluoropropan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T501	SYSTEMATIC 232247 232266	1-fluoropropan-2-ol
+T502	SYSTEMATIC 232278 232289	propan-2-ol
+T503	SYSTEMATIC 232436 232501	7-(1-fluoropropan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T504	SYSTEMATIC 232513 232566	5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T505	SYSTEMATIC 232651 232756	4-amino-7-(4,4-dimethylcyclohexyl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T506	SYSTEMATIC 232842 232866	4,4-dimethylcyclohexanol
+T507	SYSTEMATIC 232878 232889	propan-2-ol
+T508	SYSTEMATIC 233041 233109	7-(4,4-dimethylcyclohexyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T509	SYSTEMATIC 233121 233174	5-iodo-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T510	SYSTEMATIC 233259 233352	4-amino-7-(tert-butyl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T511	SYSTEMATIC 233376 233432	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T512	SYSTEMATIC 233486 233536	tert-butyl 5-amino-3-methyl-pyrazole-1-carboxylate
+T513	SYSTEMATIC 233581 233615	1,8-diazabicyclo[5.4.0]undec-7-ene
+T514	SYSTEMATIC 233633 233709	1,1′-bis(diphenylphosphino)ferrocene-palladium(II)dichloride-dichloromethane
+T515	ABBREVIATION 233731 233734	DMA
+T516	SYSTEMATIC 233752 233767	carbon monoxide
+T517	TRIVIAL 233863 233873	silica gel
+T518	SYSTEMATIC 233890 233896	hexane
+T519	SYSTEMATIC 233897 233910	ethyl acetate
+T520	SYSTEMATIC 233911 233919	methanol
+T521	TRIVIAL 233956 233966	silica gel
+T522	SYSTEMATIC 234075 234174	4-amino-7-(tert-butyl)-N-(5-(furan-2-yl)-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T523	SYSTEMATIC 234223 234256	5-(furan-2-yl)-1H-pyrazol-3-amine
+T524	SYSTEMATIC 234268 234318	tert-butyl 5-amino-3-methyl-pyrazole-1-carboxylate
+T525	SYSTEMATIC 234427 234538	4-amino-7-(1-fluoro-2-methylpropan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T526	SYSTEMATIC 234628 234674	1-fluoro-2-methylpropane-2-amine hydrochloride
+T527	SYSTEMATIC 234686 234701	tert-butylamine
+T528	SYSTEMATIC 234857 234931	7-(1-fluoro-2-methylpropan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T529	SYSTEMATIC 234943 234999	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T530	SYSTEMATIC 235084 235186	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T531	SYSTEMATIC 235276 235316	1-methylcyclopropane amine hydrochloride
+T532	SYSTEMATIC 235328 235343	tert-butylamine
+T533	SYSTEMATIC 235490 235555	5-iodo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T534	SYSTEMATIC 235567 235623	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T535	SYSTEMATIC 235708 235815	4-amino-7-(2-cyclopropylpropan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T536	SYSTEMATIC 235905 235947	2-cyclopropylpropane-2-amine hydrochloride
+T537	SYSTEMATIC 235959 235974	tert-butylamine
+T538	SYSTEMATIC 236126 236196	7-(2-cyclopropylpropan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T539	SYSTEMATIC 236208 236264	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T540	SYSTEMATIC 236349 236461	4-amino-7-(1-methoxy-2-methylpropan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T541	SYSTEMATIC 236551 236583	2-methoxy-2-methylpropan-2-amine
+T542	SYSTEMATIC 236595 236610	tert-butylamine
+T543	SYSTEMATIC 236767 236842	5-iodo-7-(1-methoxy-2-methylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T544	SYSTEMATIC 236854 236910	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T545	SYSTEMATIC 236995 237105	4-amino-7-(1-(fluoromethyl)cyclopropyl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T546	SYSTEMATIC 237195 237243	1-(fluoromethyl)cyclopropane amine hydrochloride
+T547	SYSTEMATIC 237255 237270	tert-butylamine
+T548	SYSTEMATIC 237425 237498	7-(1-(fluoromethyl)cyclopropyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T549	SYSTEMATIC 237510 237566	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T550	SYSTEMATIC 237651 237763	4-amino-7-(1-(difluoromethyl)cyclopropyl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T551	SYSTEMATIC 237853 237903	1-(difluoromethyl)cyclopropane amine hydrochloride
+T552	SYSTEMATIC 237915 237930	tert-butylamine
+T553	SYSTEMATIC 238088 238163	7-(1-(difluoromethyl)cyclopropyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T554	SYSTEMATIC 238175 238231	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T555	SYSTEMATIC 238316 238427	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(2-(thiophen-2-yl)propan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T556	SYSTEMATIC 238517 238548	2-(thiophen-2-yl)propan-2-amine
+T557	SYSTEMATIC 238560 238575	tert-butylamine
+T558	SYSTEMATIC 238732 238806	5-iodo-7-(2-(thiophen-2-yl)propan-2-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T559	SYSTEMATIC 238818 238874	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T560	SYSTEMATIC 238959 239065	4-amino-7-(3,3-difluorocyclopentyl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T561	SYSTEMATIC 239155 239199	3,3-difluorocyclopentane amine hydrochloride
+T562	SYSTEMATIC 239211 239226	tert-butylamine
+T563	SYSTEMATIC 239378 239447	7-(3,3-difluorocyclopentyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T564	SYSTEMATIC 239459 239515	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T565	SYSTEMATIC 239600 239708	4-amino-7-(bicyclo[1.1.1]pentan-1-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T566	SYSTEMATIC 239798 239841	bicyclo[1.1.1]pentane-1-amine hydrochloride
+T567	SYSTEMATIC 239853 239868	tert-butylamine
+T568	SYSTEMATIC 240006 240079	7-(bicyclo[1.1.1]pentan-1-yl)-4-chloro-5-iodo-7H-pyrrolo[2,3-d]pyrimidine
+T569	SYSTEMATIC 240091 240147	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T570	SYSTEMATIC 240233 240335	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopentyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T571	SYSTEMATIC 240425 240465	1-methylcyclopentane amine hydrochloride
+T572	SYSTEMATIC 240477 240492	tert-butylamine
+T573	SYSTEMATIC 240639 240704	5-iodo-7-(1-methylcyclopentyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T574	SYSTEMATIC 240716 240772	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T575	SYSTEMATIC 240857 240959	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(2-phenylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T576	SYSTEMATIC 241049 241071	2-phenylpropan-2-amine
+T577	SYSTEMATIC 241083 241098	tert-butylamine
+T578	SYSTEMATIC 241246 241311	5-iodo-7-(2-phenylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T579	SYSTEMATIC 241323 241379	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T580	SYSTEMATIC 241464 241572	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(2,3,3-trimethylbutan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T581	SYSTEMATIC 241662 241690	2,3,3-trimethylbutan-2-amine
+T582	SYSTEMATIC 241702 241717	tert-butylamine
+T583	SYSTEMATIC 241870 241941	5-iodo-7-(2,3,3-trimethylbutan-2-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T584	SYSTEMATIC 241953 242009	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T585	SYSTEMATIC 242094 242199	4-amino-7-(2,3-dimethylbutan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T586	SYSTEMATIC 242289 242329	2,3-dimethylbutane-2-amine hydrochloride
+T587	SYSTEMATIC 242341 242356	tert-butylamine
+T588	SYSTEMATIC 242503 242571	7-(2,3-dimethylbutan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T589	SYSTEMATIC 242583 242639	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T590	SYSTEMATIC 242724 242816	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T591	SYSTEMATIC 242826 242894	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T592	ABBREVIATION 242962 242965	DMF
+T593	SYSTEMATIC 242980 243006	3-bromo-1H-pyrazol-5-amine
+T594	SYSTEMATIC 243017 243038	diisopropylethylamine
+T595	ABBREVIATION 243053 243057	HATU
+T596	SYSTEMATIC 243149 243165	sodium hydroxide
+T597	SYSTEMATIC 243337 243350	ethyl acetate
+T598	TRIVIAL 243355 243360	water
+T599	TRIVIAL 243396 243401	water
+T600	SYSTEMATIC 243426 243441	sodium chloride
+T601	SYSTEMATIC 243467 243481	sodium sulfate
+T602	TRIVIAL 243532 243542	silica gel
+T603	SYSTEMATIC 243559 243572	ethyl acetate
+T604	SYSTEMATIC 243573 243581	methanol
+T605	SYSTEMATIC 243682 243784	4-amino-7-(tert-butyl)-N-(5-(methoxymethyl)-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T606	SYSTEMATIC 243833 243869	5-(methoxymethyl)-1H-pyrazol-3-amine
+T607	SYSTEMATIC 243881 243907	3-bromo-1H-pyrazol-5-amine
+T608	SYSTEMATIC 243989 244078	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T609	SYSTEMATIC 244127 244192	4-amino-7-isopropyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T610	SYSTEMATIC 244246 244314	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T611	SYSTEMATIC 244399 244509	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-7-(1-fluoro-2-methylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T612	SYSTEMATIC 244577 244651	7-(1-fluoro-2-methylpropan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T613	SYSTEMATIC 244682 244738	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T614	SYSTEMATIC 244740 244826	4-amino-7-(1-fluoro-2-methylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T615	SYSTEMATIC 244889 244975	4-amino-7-(1-fluoro-2-methylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T616	SYSTEMATIC 244987 245055	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T617	SYSTEMATIC 245137 245238	4-amino-N-(5-bromo-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T618	SYSTEMATIC 245306 245371	5-iodo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T619	SYSTEMATIC 245402 245458	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T620	SYSTEMATIC 245460 245537	4-amino-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T621	SYSTEMATIC 245600 245677	4-amino-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T622	SYSTEMATIC 245689 245757	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T623	SYSTEMATIC 245839 245940	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclobutyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T624	SYSTEMATIC 246025 246064	1-methylcyclobutane-amine hydrochloride
+T625	SYSTEMATIC 246076 246091	tert-butylamine
+T626	SYSTEMATIC 246093 246168	4-amino-7-(methyl cyclobutyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T627	SYSTEMATIC 246248 246322	4-amino-7-(methylcyclobutyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T628	SYSTEMATIC 246334 246402	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T629	SYSTEMATIC 246414 246441	5-methyl-1H-pyrazol-3-amine
+T630	SYSTEMATIC 246453 246479	3-bromo-1H-pyrazol-5-amine
+T631	SYSTEMATIC 246564 246655	4-amino-7-cyclobutyl-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T632	SYSTEMATIC 246740 246757	cyclobutane amine
+T633	SYSTEMATIC 246769 246784	tert-butylamine
+T634	SYSTEMATIC 246786 246852	4-amino-7-cyclobutyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T635	SYSTEMATIC 246915 246981	4-amino-7-cyclobutyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T636	SYSTEMATIC 246993 247061	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T637	SYSTEMATIC 247073 247100	5-methyl-1H-pyrazol-3-amine
+T638	SYSTEMATIC 247112 247138	3-bromo-1H-pyrazol-5-amine
+T639	SYSTEMATIC 247222 247316	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(tert-pentyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T640	SYSTEMATIC 247401 247422	2-methylbutan-2-amine
+T641	SYSTEMATIC 247434 247449	tert-butylamine
+T642	SYSTEMATIC 247451 247520	4-amino-7-(tert-pentyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T643	SYSTEMATIC 247600 247669	4-amino-7-(tert-pentyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T644	SYSTEMATIC 247681 247749	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T645	SYSTEMATIC 247761 247788	5-methyl-1H-pyrazol-3-amine
+T646	SYSTEMATIC 247800 247826	3-bromo-1H-pyrazol-5-amine
+T647	SYSTEMATIC 247911 248019	4-amino-7-(bicyclo[2.2.1]heptan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T648	SYSTEMATIC 248104 248132	bicyclo[2.2.1]heptan-2-amine
+T649	SYSTEMATIC 248144 248159	tert-butylamine
+T650	SYSTEMATIC 248161 248244	4-amino-7-(bicyclo[2.2.1]heptan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T651	SYSTEMATIC 248324 248407	4-amino-7-(bicyclo[2.2.1]heptan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T652	SYSTEMATIC 248419 248487	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T653	SYSTEMATIC 248499 248526	5-methyl-1H-pyrazol-3-amine
+T654	SYSTEMATIC 248538 248564	3-bromo-1H-pyrazol-5-amine
+T655	SYSTEMATIC 248644 248736	4-amino-7-cyclopentyl-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T656	SYSTEMATIC 248821 248834	cyclopentanol
+T657	SYSTEMATIC 248846 248857	propan-2-ol
+T658	SYSTEMATIC 248859 248926	4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T659	SYSTEMATIC 249006 249073	4-amino-7-cyclopentyl-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T660	SYSTEMATIC 249085 249153	4-amino-7-(tert-butyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T661	SYSTEMATIC 249165 249192	5-methyl-1H-pyrazol-3-amine
+T662	SYSTEMATIC 249204 249230	3-bromo-1H-pyrazol-5-amine
+T663	SYSTEMATIC 249311 249413	4-amino-7-(tert-butyl)-6-methyl-N-(3-methyl-1H-pyrazol-5-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T664	SYSTEMATIC 249462 249527	7-(tert-butyl)-5-iodo-6-methyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T665	SYSTEMATIC 249581 249637	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T666	SYSTEMATIC 249742 249852	7-([1,1′-bi(cyclopropan)]-1-yl)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T667	SYSTEMATIC 249942 249988	1-cyclopropyl cyclopropane amine hydrochloride
+T668	SYSTEMATIC 250000 250015	tert-butylamine
+T669	SYSTEMATIC 250173 250246	7-([1,1′-bi(cyclopropan)]-1-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T670	SYSTEMATIC 250258 250314	7-(tert-butyl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T671	SYSTEMATIC 250399 250510	4-amino-6-chloro-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T672	SYSTEMATIC 250532 250612	methyl 4-amino-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T673	SYSTEMATIC 250623 250636	triethylamine
+T674	SYSTEMATIC 250653 250731	[1,1′-bis(diphenylphosphino)ferrocene]palladium(II) dichloride dichloromethane
+T675	SYSTEMATIC 250781 250846	5-iodo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T676	SYSTEMATIC 250902 250910	methanol
+T677	SYSTEMATIC 250941 250956	carbon monoxide
+T678	SYSTEMATIC 251108 251118	chloroform
+T679	TRIVIAL 251128 251134	Celite
+T680	TRIVIAL 251288 251293	water
+T681	SYSTEMATIC 251318 251333	sodium chloride
+T682	SYSTEMATIC 251365 251382	magnesium sulfate
+T683	TRIVIAL 251462 251472	silica gel
+T684	SYSTEMATIC 251496 251506	chloroform
+T685	SYSTEMATIC 251507 251515	methanol
+T686	SYSTEMATIC 251607 251620	ethyl acetate
+T687	SYSTEMATIC 251690 251779	methyl 4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T688	SYSTEMATIC 251790 251870	methyl 4-amino-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T689	ABBREVIATION 251916 251919	DMF
+T690	SYSTEMATIC 251935 251954	N-chlorosuccinimide
+T691	SYSTEMATIC 252033 252051	sodium thiosulfate
+T692	TRIVIAL 252083 252088	water
+T693	TRIVIAL 252296 252301	water
+T694	SYSTEMATIC 252372 252458	4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T695	SYSTEMATIC 252469 252558	methyl 4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T696	ABBREVIATION 252605 252608	THF
+T697	SYSTEMATIC 252623 252631	methanol
+T698	SYSTEMATIC 252650 252667	lithium hydroxide
+T699	TRIVIAL 252775 252780	water
+T700	SYSTEMATIC 252790 252807	hydrochloric acid
+T701	SYSTEMATIC 253102 253213	4-amino-6-chloro-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T702	ABBREVIATION 253224 253227	DMF
+T703	SYSTEMATIC 253250 253336	4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T704	SYSTEMATIC 253370 253391	1-hydroxybenztriazole
+T705	SYSTEMATIC 253405 253465	1-(3-dimethylaminopropyl)-3-ethyl carbodiimide hydrochloride
+T706	SYSTEMATIC 253560 253613	tert-butyl 5-amino-3-methyl-1H pyrazole-1-carboxylate
+T707	SYSTEMATIC 253746 253774	lithium hexamethyldisilazide
+T708	ABBREVIATION 253788 253791	THF
+T709	SYSTEMATIC 253879 253895	sodium hydroxide
+T710	SYSTEMATIC 254047 254060	ethyl acetate
+T711	TRIVIAL 254065 254070	water
+T712	TRIVIAL 254106 254111	water
+T713	SYSTEMATIC 254160 254175	sodium chloride
+T714	SYSTEMATIC 254220 254234	sodium sulfate
+T715	TRIVIAL 254323 254333	silica gel
+T716	SYSTEMATIC 254342 254355	ethyl acetate
+T717	SYSTEMATIC 254356 254364	methanol
+T718	SYSTEMATIC 254446 254556	4-amino-6-bromo-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T719	SYSTEMATIC 254578 254666	methyl 4-amino-6-bromo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T720	SYSTEMATIC 254676 254756	methyl 4-amino-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T721	SYSTEMATIC 254816 254826	chloroform
+T722	SYSTEMATIC 254841 254859	N-bromosuccinimide
+T723	SYSTEMATIC 254978 254988	chloroform
+T724	SYSTEMATIC 254999 255018	sodium thio sulfate
+T725	TRIVIAL 255071 255076	water
+T726	SYSTEMATIC 255101 255116	sodium chloride
+T727	SYSTEMATIC 255152 255166	sodium sulfate
+T728	SYSTEMATIC 255217 255225	Methanol
+T729	TRIVIAL 255230 255235	water
+T730	SYSTEMATIC 255288 255296	methanol
+T731	SYSTEMATIC 255468 255553	4-amino-6-bromo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T732	SYSTEMATIC 255622 255710	methyl 4-amino-6-bromo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T733	SYSTEMATIC 255791 255901	4-amino-6-bromo-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T734	SYSTEMATIC 255970 256055	4-amino-6-bromo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T735	SYSTEMATIC 256139 256251	4-amino-6-methoxy-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T736	SYSTEMATIC 256273 256360	4-amino-6-methoxy-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T737	SYSTEMATIC 256371 256460	methyl 4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T738	ABBREVIATION 256520 256523	THF
+T739	SYSTEMATIC 256539 256563	4-dimethylamino pyridine
+T740	SYSTEMATIC 256578 256603	di-tert-butyl dicarbonate
+T741	SYSTEMATIC 256773 256786	ethyl acetate
+T742	TRIVIAL 256791 256796	water
+T743	TRIVIAL 256832 256837	water
+T744	SYSTEMATIC 256862 256877	sodium chloride
+T745	SYSTEMATIC 256898 256912	sodium sulfate
+T746	SYSTEMATIC 256981 256989	methanol
+T747	SYSTEMATIC 257028 257044	sodium methoxide
+T748	SYSTEMATIC 257046 257054	methanol
+T749	SYSTEMATIC 257243 257253	chloroform
+T750	SYSTEMATIC 257268 257285	ammonium chloride
+T751	TRIVIAL 257321 257326	water
+T752	SYSTEMATIC 257351 257366	sodium chloride
+T753	SYSTEMATIC 257387 257401	sodium sulfate
+T754	SYSTEMATIC 257468 257483	dichloromethane
+T755	SYSTEMATIC 257496 257516	trifluoroacetic acid
+T756	SYSTEMATIC 257661 257671	chloroform
+T757	SYSTEMATIC 257696 257714	sodium bicarbonate
+T758	TRIVIAL 257759 257764	water
+T759	SYSTEMATIC 257789 257804	sodium chloride
+T760	SYSTEMATIC 257825 257839	sodium sulfate
+T761	SYSTEMATIC 257936 257944	methanol
+T762	SYSTEMATIC 257971 257987	sodium hydroxide
+T763	TRIVIAL 258151 258156	water
+T764	SYSTEMATIC 258166 258183	hydrochloric acid
+T765	SYSTEMATIC 258469 258581	4-amino-6-methoxy-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T766	SYSTEMATIC 258649 258736	4-amino-6-methoxy-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T767	SYSTEMATIC 258820 258940	4-amino-6-chloro-7-(1-fluoro-2-methylpropan-2-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T768	SYSTEMATIC 259008 259103	4-amino-6-chloro-7-(1-fluoro-2-methylpropan-2-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T769	SYSTEMATIC 259131 259205	7-(1-fluoro-2-methylpropan-2-yl)-5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-amine
+T770	SYSTEMATIC 259376 259514	4-amino-6-(3-hydroxy-3-methyl-1-butyn-1-yl)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T771	SYSTEMATIC 259524 259634	4-amino-6-bromo-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T772	ABBREVIATION 259683 259686	DMF
+T773	SYSTEMATIC 259698 259711	copper iodide
+T774	SYSTEMATIC 259722 259743	2-methyl-3-butyn-1-ol
+T775	SYSTEMATIC 259754 259767	triethylamine
+T776	SYSTEMATIC 259782 259819	tetrakis triphenylphosphine palladium
+T777	SYSTEMATIC 259944 259954	chloroform
+T778	TRIVIAL 259959 259964	water
+T779	SYSTEMATIC 260020 260035	sodium chloride
+T780	SYSTEMATIC 260067 260081	sodium sulfate
+T781	TRIVIAL 260152 260162	silica gel
+T782	SYSTEMATIC 260171 260184	ethyl acetate
+T783	SYSTEMATIC 260185 260193	methanol
+T784	SYSTEMATIC 260275 260401	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-6-(pyridin-3-ylethynyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T785	SYSTEMATIC 260450 260467	3-ethynylpyridine
+T786	SYSTEMATIC 260479 260500	2-methyl-3-butyn-1-ol
+T787	SYSTEMATIC 260565 260701	4-amino-6-((1-hydroxycyclopentyl)ethynyl)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T788	SYSTEMATIC 260750 260775	1-ethynylcyclopentan-1-ol
+T789	SYSTEMATIC 260787 260808	2-methyl-3-butyn-1-ol
+T790	SYSTEMATIC 260873 261013	4-amino-6-((1-methyl-1H-pyrazol-4-yl)ethynyl)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T791	SYSTEMATIC 261062 261092	4-ethynyl-1-methyl-1H-pyrazole
+T792	SYSTEMATIC 261104 261125	2-methyl-3-butyn-1-ol
+T793	SYSTEMATIC 261190 261331	4-amino-6-((1-methyl-1H-imidazol-5-yl)ethynyl)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T794	SYSTEMATIC 261380 261411	5-ethynyl-1-methyl-1H-imidazole
+T795	SYSTEMATIC 261423 261444	2-methyl-3-butyn-1-ol
+T796	SYSTEMATIC 261509 261641	4-amino-N-(5-methyl-1-pyrazol-3-yl)-7-(1-methylcyclopropyl)-6-(3-morpholino-1-propyn-1-yl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T797	SYSTEMATIC 261690 261717	4-(2-propyn-1-yl)morpholine
+T798	SYSTEMATIC 261729 261750	2-methyl-3-butyn-1-ol
+T799	SYSTEMATIC 261815 261955	4-amino-6-(3-(1-hydroxycyclobutyl)-1-propyne)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T800	SYSTEMATIC 262004 262036	1-(2-propyn-1-yl)cyclobutan-1-ol
+T801	SYSTEMATIC 262048 262069	2-methyl-3-butyn-1-ol
+T802	SYSTEMATIC 262134 262274	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-6-((tetrahydro-2H-pyran-4-yl)ethynyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T803	SYSTEMATIC 262323 262352	4-ethynyltetrahydro-2H-pyrane
+T804	SYSTEMATIC 262364 262385	2-methyl-3-butyn-1-ol
+T805	SYSTEMATIC 262450 262590	4-amino-N-(5-methyl-1H-pyrazol-3-yl)-6-((1-methyl-1H-pyrazol-3-yl)ethynyl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T806	SYSTEMATIC 262639 262666	3-ethynyl-1-methyl-pyrazole
+T807	SYSTEMATIC 262678 262699	2-methyl-3-butyn-1-ol
+T808	SYSTEMATIC 262764 262906	4-amino-6-(imidazo[1,2-b]pyridazin-3-ylethynyl)-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T809	SYSTEMATIC 262955 262988	1-ethynylimidazo[1,2-b]pyridazine
+T810	SYSTEMATIC 263000 263021	2-methyl-3-butyn-1-ol
+T811	SYSTEMATIC 263086 263197	4-amino-6-ethoxy-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T812	SYSTEMATIC 263219 263305	4-amino-6-ethoxy-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T813	SYSTEMATIC 263316 263404	methyl 4-amino-6-bromo-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T814	ABBREVIATION 263464 263467	THF
+T815	SYSTEMATIC 263479 263503	4-dimethylamino pyridine
+T816	SYSTEMATIC 263518 263543	di-tert-butyl dicarbonate
+T817	SYSTEMATIC 263708 263721	ethyl acetate
+T818	TRIVIAL 263726 263731	water
+T819	TRIVIAL 263767 263772	water
+T820	SYSTEMATIC 263797 263812	sodium chloride
+T821	SYSTEMATIC 263833 263847	sodium sulfate
+T822	SYSTEMATIC 263922 263929	ethanol
+T823	SYSTEMATIC 263971 263986	sodium ethoxide
+T824	SYSTEMATIC 263992 263999	ethanol
+T825	SYSTEMATIC 264140 264157	hydrochloric acid
+T826	SYSTEMATIC 264235 264245	chloroform
+T827	TRIVIAL 264250 264255	water
+T828	SYSTEMATIC 264311 264326	sodium chloride
+T829	SYSTEMATIC 264351 264365	sodium sulfate
+T830	SYSTEMATIC 264451 264466	dichloromethane
+T831	SYSTEMATIC 264479 264499	trifluoroacetic acid
+T832	SYSTEMATIC 264647 264657	chloroform
+T833	SYSTEMATIC 264682 264700	sodium bicarbonate
+T834	TRIVIAL 264745 264750	water
+T835	SYSTEMATIC 264775 264790	sodium chloride
+T836	SYSTEMATIC 264815 264829	sodium sulfate
+T837	SYSTEMATIC 264929 264937	methanol
+T838	SYSTEMATIC 264965 264981	sodium hydroxide
+T839	TRIVIAL 265088 265093	water
+T840	SYSTEMATIC 265103 265120	hydrochloric acid
+T841	SYSTEMATIC 265415 265526	4-amino-6-ethoxy-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T842	ABBREVIATION 265537 265540	DMF
+T843	SYSTEMATIC 265563 265649	4-amino-6-ethoxy-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T844	SYSTEMATIC 265683 265705	1-hydroxybenzotriazole
+T845	SYSTEMATIC 265719 265779	1-(3-dimethylaminopropyl)-3-ethyl carbodiimide hydrochloride
+T846	SYSTEMATIC 265872 265925	tert-butyl 5-amino-3-methyl-1H-pyrazole-1-carboxylate
+T847	SYSTEMATIC 266014 266034	sodium tert-butoxide
+T848	ABBREVIATION 266048 266051	THF
+T849	SYSTEMATIC 266144 266160	sodium hydroxide
+T850	SYSTEMATIC 266304 266317	ethyl acetate
+T851	TRIVIAL 266322 266327	water
+T852	TRIVIAL 266367 266372	water
+T853	SYSTEMATIC 266422 266437	sodium chloride
+T854	SYSTEMATIC 266476 266490	sodium sulfate
+T855	TRIVIAL 266574 266584	silica gel
+T856	SYSTEMATIC 266593 266606	ethyl acetate
+T857	SYSTEMATIC 266607 266615	methanol
+T858	SYSTEMATIC 266697 266837	(R)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T859	SYSTEMATIC 266859 266974	methyl 4-(bis(tert-butoxycarbonyl)amino)-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T860	SYSTEMATIC 266985 267074	methyl 4-amino-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T861	ABBREVIATION 267135 267138	THF
+T862	SYSTEMATIC 267153 267177	4-dimethylamino pyridine
+T863	SYSTEMATIC 267192 267217	di-tert-butyl dicarbonate
+T864	TRIVIAL 267391 267401	silica gel
+T865	SYSTEMATIC 267410 267416	hexane
+T866	SYSTEMATIC 267417 267430	ethyl acetate
+T867	SYSTEMATIC 267510 267654	(R)-methyl 4-(bis(tert-butoxycarbonyl)amino)-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T868	SYSTEMATIC 267664 267698	(R)-(−)-tetrahydrofurfuryl alcohol
+T869	SYSTEMATIC 267737 267751	sodium hydride
+T870	ABBREVIATION 267769 267772	DMF
+T871	SYSTEMATIC 267879 267994	methyl 4-(bis(tert-butoxycarbonyl)amino)-6-chloro-7-(1-methylcyclopropyl)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T872	ABBREVIATION 268025 268028	DMF
+T873	SYSTEMATIC 268166 268176	chloroform
+T874	TRIVIAL 268181 268186	water
+T875	SYSTEMATIC 268246 268261	sodium chloride
+T876	SYSTEMATIC 268282 268296	sodium sulfate
+T877	TRIVIAL 268397 268407	silica gel
+T878	SYSTEMATIC 268416 268422	hexane
+T879	SYSTEMATIC 268423 268436	ethyl acetate
+T880	SYSTEMATIC 268516 268631	(R)-4-amino-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T881	SYSTEMATIC 268642 268652	chloroform
+T882	SYSTEMATIC 268665 268685	trifluoroacetic acid
+T883	SYSTEMATIC 268710 268854	(R)-methyl 4-(bis(tert-butoxycarbonyl)amino)-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylate
+T884	SYSTEMATIC 268967 268975	methanol
+T885	SYSTEMATIC 268988 269003	tetrahydrofuran
+T886	SYSTEMATIC 269057 269073	sodium hydroxide
+T887	TRIVIAL 269188 269193	water
+T888	SYSTEMATIC 269204 269221	hydrochloric acid
+T889	SYSTEMATIC 269517 269657	(R)-4-amino-N-(5-methyl-1H-pyrazol-3-yl)-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide
+T890	SYSTEMATIC 269725 269840	(R)-4-amino-7-(1-methylcyclopropyl)-6-((tetrahydrofuran-2-yl)methoxy)-7H-pyrrolo[2,3-d]pyrimidine-5-carboxylic acid
+T891	SYSTEMATIC 269935 270028	4-amino-1-cyclopentyl-N-(4-fluoro-1H-indazol-3-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T892	SYSTEMATIC 270086 270113	4-fluoro-1H-indazol-3-amine
+T893	SYSTEMATIC 270125 270151	5-ethyl-1H-pyrazol-3-amine
+T894	SYSTEMATIC 270247 270335	4-amino-1-cyclobutyl-N-(4-methylthiazol-2-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T895	SYSTEMATIC 270421 270437	bromocyclobutane
+T896	SYSTEMATIC 270449 270465	iodocyclopentane
+T897	SYSTEMATIC 270467 270534	4-amino-1-cyclobutyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T898	SYSTEMATIC 270626 270693	4-amino-1-cyclobutyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T899	SYSTEMATIC 270705 270773	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T900	SYSTEMATIC 270785 270808	4-methylthiazol-2-amine
+T901	SYSTEMATIC 270820 270846	5-ethyl-1H-pyrazol-3-amine
+T902	SYSTEMATIC 270942 271035	4-amino-1-cyclobutyl-N-(4-methyl-1H-imidazol-2-yl)-1H-pyrazolo[3,4-d]pyrimidine-3-carboxamide
+T903	SYSTEMATIC 271121 271137	bromocyclobutane
+T904	SYSTEMATIC 271149 271165	iodocyclopentane
+T905	SYSTEMATIC 271167 271234	4-amino-1-cyclobutyl-1H-pyrazolo[2,3-d]pyrimidine-3-carboxylic acid
+T906	SYSTEMATIC 271326 271393	4-amino-1-cyclobutyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T907	SYSTEMATIC 271405 271473	4-amino-1-cyclopentyl-1H-pyrazolo[3,4-d]pyrimidine-3-carboxylic acid
+T908	SYSTEMATIC 271485 271513	4-methyl-1H-imidazol-2-amine
+T909	SYSTEMATIC 271525 271551	5-ethyl-1H-pyrazol-3-amine
+T910	SYSTEMATIC 271647 271705	1-(tert-butyl)-3-(p-tolyl)pyrazolo[3,4-d]pyrimidin-4-amine
+T911	ABBREVIATION 272081 272088	DMSO-d6
+T912	ABBREVIATION 272355 272362	DMSO-d6
+T913	ABBREVIATION 272620 272627	DMSO-d6
+T914	ABBREVIATION 272875 272882	DMSO-d6
+T915	ABBREVIATION 273142 273149	DMSO-d6
+T916	ABBREVIATION 273420 273427	DMSO-d6
+T917	ABBREVIATION 273660 273667	DMSO-d6
+T918	ABBREVIATION 274017 274024	DMSO-d6
+T919	ABBREVIATION 274311 274318	DMSO-d6
+T920	ABBREVIATION 274547 274554	DMSO-d6
+T921	ABBREVIATION 274816 274823	DMSO-d6
+T922	ABBREVIATION 275056 275063	DMSO-d6
+T923	ABBREVIATION 275282 275289	DMSO-d6
+T924	ABBREVIATION 275447 275454	DMSO-d6
+T925	ABBREVIATION 275659 275666	DMSO-d6
+T926	ABBREVIATION 275909 275916	DMSO-d6
+T927	ABBREVIATION 276152 276159	DMSO-d6
+T928	ABBREVIATION 276381 276388	DMSO-d6
+T929	ABBREVIATION 276605 276612	DMSO-d6
+T930	ABBREVIATION 276822 276829	DMSO-d6
+T931	ABBREVIATION 277025 277032	DMSO-d6
+T932	ABBREVIATION 277225 277232	DMSO-d6
+T933	ABBREVIATION 277429 277436	DMSO-d6
+T934	ABBREVIATION 277710 277717	DMSO-d6
+T935	ABBREVIATION 277979 277986	DMSO-d6
+T936	ABBREVIATION 278230 278237	DMSO-d6
+T937	ABBREVIATION 278461 278468	DMSO-d6
+T938	ABBREVIATION 278704 278711	DMSO-d6
+T939	ABBREVIATION 278940 278947	DMSO-d6
+T940	ABBREVIATION 279203 279210	DMSO-d6
+T941	ABBREVIATION 279559 279566	DMSO-d6
+T942	ABBREVIATION 279779 279786	DMSO-d6
+T943	ABBREVIATION 279964 279971	DMSO-d6
+T944	ABBREVIATION 280224 280231	DMSO-d6
+T945	ABBREVIATION 280398 280405	DMSO-d6
+T946	ABBREVIATION 280570 280577	DMSO-d6
+T947	ABBREVIATION 280732 280739	DMSO-d6
+T948	ABBREVIATION 280949 280956	DMSO-d6
+T949	ABBREVIATION 281115 281122	DMSO-d6
+T950	ABBREVIATION 281331 281338	DMSO-d6
+T951	ABBREVIATION 281540 281547	DMSO-d6
+T952	ABBREVIATION 281761 281768	DMSO-d6
+T953	ABBREVIATION 282013 282020	DMSO-d6
+T954	ABBREVIATION 282202 282209	DMSO-d6
+T955	ABBREVIATION 282403 282410	DMSO-d6
+T956	ABBREVIATION 282575 282582	DMSO-d6
+T957	ABBREVIATION 282783 282790	DMSO-d6
+T958	ABBREVIATION 283010 283017	DMSO-d6
+T959	ABBREVIATION 283178 283185	DMSO-d6
+T960	ABBREVIATION 283361 283368	DMSO-d6
+T961	ABBREVIATION 283545 283552	DMSO-d6
+T962	ABBREVIATION 283729 283736	DMSO-d6
+T963	ABBREVIATION 283918 283925	DMSO-d6
+T964	ABBREVIATION 284102 284109	DMSO-d6
+T965	ABBREVIATION 284288 284295	DMSO-d6
+T966	ABBREVIATION 284463 284470	DMSO-d6
+T967	ABBREVIATION 284665 284672	DMSO-d6
+T968	ABBREVIATION 284864 284871	DMSO-d6
+T969	ABBREVIATION 285046 285053	DMSO-d6
+T970	ABBREVIATION 285258 285265	DMSO-d6
+T971	ABBREVIATION 285452 285459	DMSO-d6
+T972	ABBREVIATION 285622 285629	DMSO-d6
+T973	ABBREVIATION 285823 285830	DMSO-d6
+T974	ABBREVIATION 285984 285991	DMSO-d6
+T975	ABBREVIATION 286163 286170	DMSO-d6
+T976	ABBREVIATION 286359 286366	DMSO-d6
+T977	ABBREVIATION 286539 286546	DMSO-d6
+T978	ABBREVIATION 286751 286758	DMSO-d6
+T979	ABBREVIATION 286984 286991	DMSO-d6
+T980	ABBREVIATION 287183 287190	DMSO-d6
+T981	ABBREVIATION 287392 287399	DMSO-d6
+T982	ABBREVIATION 287596 287603	DMSO-d6
+T983	ABBREVIATION 287814 287821	DMSO-d6
+T984	ABBREVIATION 287991 287998	DMSO-d6
+T985	ABBREVIATION 288231 288238	DMSO-d6
+T986	ABBREVIATION 288400 288407	DMSO-d6
+T987	ABBREVIATION 288572 288579	DMSO-d6
+T988	SYSTEMATIC 288777 288789	CHLOROFORM-d
+T989	ABBREVIATION 288943 288950	DMSO-d6
+T990	ABBREVIATION 289163 289170	DMSO-d6
+T991	ABBREVIATION 289484 289491	DMSO-d6
+T992	ABBREVIATION 289742 289749	DMSO-d6
+T993	ABBREVIATION 289966 289973	DMSO-d6
+T994	ABBREVIATION 290190 290197	DMSO-d6
+T995	ABBREVIATION 290442 290449	DMSO-d6
+T996	SYSTEMATIC 290715 290727	CHLOROFORM-d
+T997	ABBREVIATION 291027 291034	DMSO-d6
+T998	ABBREVIATION 291225 291232	DMSO-d6
+T999	ABBREVIATION 291447 291454	DMSO-d6
+T1000	ABBREVIATION 291689 291696	DMSO-d6
+T1001	ABBREVIATION 291997 292004	DMSO-d6
+T1002	ABBREVIATION 292212 292219	DMSO-d6
+T1003	ABBREVIATION 292415 292422	DMSO-d6
+T1004	SYSTEMATIC 292634 292646	CHLOROFORM-d
+T1005	SYSTEMATIC 231950 231958	methanol

@@ -1,0 +1,97 @@
+T1	SYSTEMATIC 13523 13567	5-bromo-pentanoic acid (4-iodo-phenyl)-amide
+T2	SYSTEMATIC 13578 13591	4-Iodoaniline
+T3	SYSTEMATIC 13614 13627	triethylamine
+T4	SYSTEMATIC 13653 13675	dimethylamino pyridine
+T5	SYSTEMATIC 13701 13714	ethyl acetate
+T6	SYSTEMATIC 13751 13774	5-Bromovaleryl chloride
+T7	SYSTEMATIC 13809 13822	ethyl acetate
+T8	TRIVIAL 14006 14011	water
+T9	SYSTEMATIC 14084 14097	4-Iodoaniline
+T10	SYSTEMATIC 14118 14131	triethylamine
+T11	SYSTEMATIC 14157 14179	dimethylamino pyridine
+T12	SYSTEMATIC 14204 14224	methylene dichloride
+T13	SYSTEMATIC 14260 14283	5-Bromovaleryl chloride
+T14	SYSTEMATIC 14319 14339	methylene dichloride
+T15	TRIVIAL 14522 14527	water
+T16	SYSTEMATIC 14598 14611	4-Iodoaniline
+T17	SYSTEMATIC 14632 14645	triethylamine
+T18	SYSTEMATIC 14671 14693	dimethylamino pyridine
+T19	SYSTEMATIC 14718 14725	toluene
+T20	SYSTEMATIC 14761 14784	5-Bromovaleryl chloride
+T21	SYSTEMATIC 14820 14827	toluene
+T22	TRIVIAL 15010 15015	water
+T23	SYSTEMATIC 15101 15134	1-(4-iodo-phenyl)-piperidin-2-one
+T24	SYSTEMATIC 15145 15189	5-Bromo-pentanoic acid (4-iodo-phenyl)-amide
+T25	SYSTEMATIC 15212 15234	tripotassium phosphate
+T26	SYSTEMATIC 15261 15279	dimethyl formamide
+T27	SYSTEMATIC 15307 15314	toluene
+T28	TRIVIAL 15525 15530	water
+T29	SYSTEMATIC 15591 15598	toluene
+T30	SYSTEMATIC 15739 15747	n-hexane
+T31	SYSTEMATIC 15889 15933	5-Bromo-pentanoic acid (4-iodo-phenyl)-amide
+T32	SYSTEMATIC 15959 15981	tripotassium phosphate
+T33	SYSTEMATIC 16022 16029	toluene
+T34	TRIVIAL 16243 16248	water
+T35	SYSTEMATIC 16308 16315	toluene
+T36	SYSTEMATIC 16456 16464	n-hexane
+T37	SYSTEMATIC 16619 16665	3,3-dichloro-1-(4-iodo-phenyl)-piperidin-2-one
+T38	SYSTEMATIC 16683 16716	1-(4-iodo-phenyl)-piperidin-2-one
+T39	SYSTEMATIC 16741 16761	methylene dichloride
+T40	SYSTEMATIC 16772 16797	phosphorous pentachloride
+T41	TRIVIAL 16965 16968	ice
+T42	SYSTEMATIC 17201 17212	isopropanol
+T43	SYSTEMATIC 17327 17390	1-(4-Iodo-phenyl)-3-morpholin-4-yl-5,6-dihydro-1H-pyridin-2-one
+T44	SYSTEMATIC 17391 17437	3,3-Dichloro-1-(4-iodo-phenyl)-piperidin-2-one
+T45	SYSTEMATIC 17463 17473	morpholine
+T46	SYSTEMATIC 17501 17519	dimethyl formamide
+T47	SYSTEMATIC 17712 17719	toluene
+T48	TRIVIAL 17734 17739	water
+T49	SYSTEMATIC 17786 17793	toluene
+T50	SYSTEMATIC 17928 17936	n-hexane
+T51	SYSTEMATIC 18060 18141	3-morpholin-4-yl-1-[4-(2-oxo-piperidin-1-yl)-phenyl]-5,6-dihydro-1H-pyridin-2-one
+T52	SYSTEMATIC 18158 18221	1-(4-iodo-phenyl)-3-morpholin-4-yl-5,6-dihydro-1H-pyridin-2-one
+T53	SYSTEMATIC 18243 18255	2-piperidone
+T54	SYSTEMATIC 18280 18302	tripotassium phosphate
+T55	SYSTEMATIC 18327 18333	xylene
+T56	FORMULA 18360 18371	Cu(PPh3)3Br
+T57	SYSTEMATIC 18553 18560	ammonia
+T58	SYSTEMATIC 18574 18587	ethyl acetate
+T59	SYSTEMATIC 18707 18720	ethyl acetate
+T60	SYSTEMATIC 18768 18788	methylene dichloride
+T61	SYSTEMATIC 18838 18844	carbon
+T62	SYSTEMATIC 18973 18981	methanol
+T63	SYSTEMATIC 19149 19157	methanol
+T64	SYSTEMATIC 19241 19401	1-(4-methoxy-phenyl)-7a-morpholin-4-yl-7-oxo-6-[4-(2-oxo-piperidin-1-yl)-phenyl-3a,4,5,6,7,7a-hexahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxylic acid ethyl ester
+T65	SYSTEMATIC 19429 19442	ethyl acetate
+T66	SYSTEMATIC 19457 19520	ethyl (2Z)-chloro[2-(4-methoxyphenyl) hydrazinylidene]ethanoate
+T67	SYSTEMATIC 19576 19656	3-morpholin-4-yl-1-[4-(2-oxopiperidin-1-yl)phenyl]-5,6-di-hydro-1H-pyridin-2-one
+T68	SYSTEMATIC 19772 19785	triethylamine
+T69	TRIVIAL 19966 19971	water
+T70	SYSTEMATIC 20124 20135	cyclohexane
+T71	SYSTEMATIC 20221 20283	ethyl (2Z)-chloro[2-(4-methoxyphenyl)hydrazinylidene]ethanoate
+T72	SYSTEMATIC 20306 20319	ethyl acetate
+T73	SYSTEMATIC 20362 20442	3-morpholin-4-yl-1-[4-(2-oxopiperidin-1-yl)phenyl]-5,6-di-hydro-1H-pyridin-2-one
+T74	SYSTEMATIC 20558 20577	potassium carbonate
+T75	TRIVIAL 20759 20764	water
+T76	SYSTEMATIC 20917 20928	cyclohexane
+T77	SYSTEMATIC 21016 21078	ethyl (2Z)-chloro[2-(4-methoxyphenyl)hydrazinylidene]ethanoate
+T78	SYSTEMATIC 21102 21115	ethyl acetate
+T79	SYSTEMATIC 21158 21238	3-morpholin-4-yl-1-[4-(2-oxopiperidin-1-yl)phenyl]-5,6-di-hydro-1H-pyridin-2-one
+T80	SYSTEMATIC 21332 21353	diisopropylethylamine
+T81	TRIVIAL 21556 21561	water
+T82	SYSTEMATIC 21714 21725	cyclohexane
+T83	SYSTEMATIC 21809 21947	1-(4-methoxy-phenyl)-7-oxo-6-[4-(2-oxo-piperidin-1-yl)-phenyl]-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxylic acid ethyl ester
+T84	SYSTEMATIC 21948 22109	1-(4-Methoxy-phenyl)-7a-morpholin-4-yl-7-oxo-6-[4-(2-oxo-piperidin-1-yl)-phenyl]-3a,4,5,6,7,7a-hexahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxylic acid ethyl ester
+T85	SYSTEMATIC 22135 22146	isopropanol
+T86	FORMULA 22185 22188	HCl
+T87	SYSTEMATIC 22328 22348	methylene dichloride
+T88	TRIVIAL 22372 22377	water
+T89	SYSTEMATIC 22565 22576	cyclohexane
+T90	TRIVIAL 22647 22655	Apixaban
+T91	SYSTEMATIC 22673 22810	1-(4-methoxy-phenyl)-7-oxo-6-[4-(2-oxo-piperidin-1-yl)-phenyl]-4,5,6,7-tetrahydro-1H-Pyrzolo[3,4-c]pyridine-3-carboxylic acid ethyl ester
+T92	SYSTEMATIC 22822 22844	N,N-dimethyl formamide
+T93	SYSTEMATIC 22864 22873	formamide
+T94	SYSTEMATIC 22988 23004	sodium methoxide
+T95	TRIVIAL 23216 23221	water
+T96	TRIVIAL 23302 23307	water
+T97	SYSTEMATIC 23317 23344	methyl tertiary butyl ether

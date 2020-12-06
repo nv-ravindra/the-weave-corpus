@@ -1,0 +1,507 @@
+T1	SYSTEMATIC 48587 48629	2-Chloro-5-iodo-6-methyl-pyrimidin-4-amine
+T2	SYSTEMATIC 48651 48670	iodine monochloride
+T3	ABBREVIATION 48674 48677	DCM
+T4	SYSTEMATIC 48720 48755	2-chloro-6-methyl-pyrimidin-4-amine
+T5	FORMULA 48779 48783	MeOH
+T6	SYSTEMATIC 48964 48983	sodium thiosulphate
+T7	SYSTEMATIC 49060 49076	sodium hydroxide
+T8	FORMULA 49103 49108	EtOAc
+T9	FORMULA 49148 49154	Na2SO4
+T10	TRIVIAL 49229 49239	silica gel
+T11	SYSTEMATIC 49274 49281	acetone
+T12	SYSTEMATIC 49285 49291	hexane
+T13	SYSTEMATIC 49478 49520	6-Chloro-5-iodo-2-methyl-pyrimidin-4-amine
+T14	SYSTEMATIC 49545 49580	6-chloro-2-methyl-pyrimidin-4-amine
+T15	SYSTEMATIC 49603 49611	methanol
+T16	SYSTEMATIC 49650 49669	iodine monochloride
+T17	FORMULA 49691 49695	MeOH
+T18	SYSTEMATIC 49904 49918	sodium sulfite
+T19	SYSTEMATIC 49974 49990	sodium hydroxide
+T20	TRIVIAL 50023 50028	water
+T21	ABBREVIATION 50152 50159	DMSO-d6
+T22	SYSTEMATIC 50227 50317	tert-Butyl 4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethynyl]piperidine-1-carboxylate
+T23	SYSTEMATIC 50327 50369	2-chloro-5-iodo-6-methyl-pyrimidin-4-amine
+T24	SYSTEMATIC 50390 50445	4-ethynyl-piperidine-1-carboxylic acid tert-butyl ester
+T25	SYSTEMATIC 50470 50515	bis(triphenylphosphine)palladium(II) chloride
+T26	SYSTEMATIC 50542 50558	copper(I) iodide
+T27	ABBREVIATION 50583 50586	TEA
+T28	SYSTEMATIC 50620 50628	nitrogen
+T29	FORMULA 50747 50752	EtOAc
+T30	TRIVIAL 50792 50810	diatomaceous earth
+T31	FORMULA 50822 50827	EtOAc
+T32	SYSTEMATIC 50884 50899	sodium chloride
+T33	FORMULA 50942 50948	Na2SO4
+T34	TRIVIAL 51024 51034	silica gel
+T35	SYSTEMATIC 51063 51069	hexane
+T36	FORMULA 51070 51075	EtOAc
+T37	SYSTEMATIC 51271 51361	tert-Butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethynyl]piperidine-1-carboxylate
+T38	SYSTEMATIC 51371 51413	6-chloro-5-iodo-2-methyl-pyrimidin-4-amine
+T39	SYSTEMATIC 51434 51489	4-ethynyl-piperidine-1-carboxylic acid tert-butyl ester
+T40	SYSTEMATIC 51517 51533	diisopropylamine
+T41	ABBREVIATION 51560 51563	THF
+T42	SYSTEMATIC 51639 51647	nitrogen
+T43	SYSTEMATIC 51665 51710	bis(triphenylphosphine)palladium(II) chloride
+T44	SYSTEMATIC 51735 51751	copper(I) iodide
+T45	SYSTEMATIC 51884 51929	bis(triphenylphosphine)palladium(II) chloride
+T46	SYSTEMATIC 51951 51967	copper(I) iodide
+T47	SYSTEMATIC 51993 52048	4-ethynyl-piperidine-1-carboxylic acid tert-butyl ester
+T48	ABBREVIATION 52214 52217	DCM
+T49	SYSTEMATIC 52259 52276	ammonium chloride
+T50	TRIVIAL 52287 52292	water
+T51	SYSTEMATIC 52324 52339	sodium chloride
+T52	FORMULA 52380 52385	MgSO4
+T53	TRIVIAL 52479 52489	silica gel
+T54	FORMULA 52519 52524	EtOAc
+T55	SYSTEMATIC 52528 52534	hexane
+T56	SYSTEMATIC 52695 52783	tert-Butyl 4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]piperidine-1-carboxylate
+T57	SYSTEMATIC 52792 52882	tert-butyl 4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethynyl]piperidine-1-carboxylate
+T58	SYSTEMATIC 52908 52926	platinum(IV) oxide
+T59	FORMULA 52949 52953	EtOH
+T60	SYSTEMATIC 52985 52993	hydrogen
+T61	TRIVIAL 53053 53071	diatomaceous earth
+T62	FORMULA 53084 53088	EtOH
+T63	FORMULA 53168 53172	EtOH
+T64	SYSTEMATIC 53196 53214	platinum(IV) oxide
+T65	SYSTEMATIC 53256 53264	hydrogen
+T66	SYSTEMATIC 53373 53381	2-chloro
+T67	TRIVIAL 53429 53447	diatomaceous earth
+T68	FORMULA 53461 53465	EtOH
+T69	TRIVIAL 53544 53554	silica gel
+T70	SYSTEMATIC 53583 53589	hexane
+T71	FORMULA 53590 53595	EtOAc
+T72	SYSTEMATIC 53819 53907	tert-Butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]piperidine-1-carboxylate
+T73	SYSTEMATIC 53916 54006	tert-butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethynyl]piperidine-1-carboxylate
+T74	SYSTEMATIC 54032 54050	platinum(IV) oxide
+T75	FORMULA 54075 54079	EtOH
+T76	FORMULA 54092 54097	EtOAc
+T77	SYSTEMATIC 54154 54162	hydrogen
+T78	SYSTEMATIC 54322 54330	chloride
+T79	FAMILY 54427 54433	alkyne
+T80	FORMULA 54507 54511	MeOH
+T81	SYSTEMATIC 54588 54602	1-propanethiol
+T82	SYSTEMATIC 54667 54676	palladium
+T83	FORMULA 54717 54722	EtOAc
+T84	SYSTEMATIC 54960 54978	platinum(IV) oxide
+T85	FORMULA 55001 55005	EtOH
+T86	FORMULA 55018 55023	EtOAc
+T87	SYSTEMATIC 55080 55088	hydrogen
+T88	SYSTEMATIC 55097 55105	hydrogen
+T89	TRIVIAL 55174 55192	diatomaceous earth
+T90	FORMULA 55207 55211	MeOH
+T91	SYSTEMATIC 55373 55391	platinum(IV) oxide
+T92	FORMULA 55414 55418	EtOH
+T93	FORMULA 55431 55436	EtOAc
+T94	SYSTEMATIC 55493 55501	hydrogen
+T95	SYSTEMATIC 55510 55518	hydrogen
+T96	TRIVIAL 55587 55605	diatomaceous earth
+T97	FORMULA 55620 55624	MeOH
+T98	TRIVIAL 55682 55692	silica gel
+T99	TRIVIAL 55746 55756	silica gel
+T100	FORMULA 55786 55791	EtOAc
+T101	SYSTEMATIC 55795 55801	hexane
+T102	ABBREVIATION 55898 55901	DCM
+T103	SYSTEMATIC 55906 55912	hexane
+T104	SYSTEMATIC 56114 56173	2-Chloro-6-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine
+T105	SYSTEMATIC 56183 56271	tert-butyl 4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]piperidine-1-carboxylate
+T106	SYSTEMATIC 56295 56306	1,4-dioxane
+T107	SYSTEMATIC 56327 56344	hydrogen chloride
+T108	SYSTEMATIC 56348 56359	1,4-dioxane
+T109	FORMULA 56554 56558	MeOH
+T110	SYSTEMATIC 56591 56598	ammonia
+T111	FORMULA 56602 56606	MeOH
+T112	SYSTEMATIC 56738 56797	6-Chloro-2-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine
+T113	SYSTEMATIC 56807 56895	tert-butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]piperidine-1-carboxylate
+T114	ABBREVIATION 56917 56920	DCM
+T115	ABBREVIATION 56934 56937	TFA
+T116	FORMULA 57114 57118	MeOH
+T117	TRIVIAL 57182 57187	water
+T118	FORMULA 57198 57202	MeOH
+T119	SYSTEMATIC 57250 57257	ammonia
+T120	FORMULA 57261 57265	MeOH
+T121	ABBREVIATION 57331 57334	DCM
+T122	SYSTEMATIC 57335 57341	hexane
+T123	SYSTEMATIC 57530 57603	6-Chloro-2-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine hydrochloride
+T124	SYSTEMATIC 57613 57701	tert-butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]piperidine-1-carboxylate
+T125	SYSTEMATIC 57726 57737	1,4-dioxane
+T126	SYSTEMATIC 57758 57775	hydrogen chloride
+T127	SYSTEMATIC 57779 57790	1,4-dioxane
+T128	SYSTEMATIC 57925 57938	diethyl ether
+T129	SYSTEMATIC 58173 58292	tert-Butyl N-[(1S)-2-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T130	ABBREVIATION 58297 58300	TEA
+T131	SYSTEMATIC 58324 58346	1-hydroxybenzotriazole
+T132	SYSTEMATIC 58372 58431	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T133	SYSTEMATIC 58469 58528	2-chloro-6-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine
+T134	SYSTEMATIC 58553 58600	(2S)-2-(tert-butoxycarbonylamino)propanoic acid
+T135	ABBREVIATION 58625 58628	DMF
+T136	TRIVIAL 58700 58705	water
+T137	FORMULA 58731 58736	EtOAc
+T138	SYSTEMATIC 58795 58810	sodium chloride
+T139	FORMULA 58832 58838	Na2SO4
+T140	TRIVIAL 58922 58932	silica gel
+T141	FORMULA 58954 58959	EtOAc
+T142	SYSTEMATIC 58963 58969	hexane
+T143	SYSTEMATIC 59118 59223	tert-Butyl N-[2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-2-oxo-ethyl]carbamate
+T144	SYSTEMATIC 59233 59292	6-chloro-2-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine
+T145	SYSTEMATIC 59314 59344	N-(tert-butoxycarbonyl)glycine
+T146	SYSTEMATIC 59367 59395	1-hydroxy-7-azabenzotriazole
+T147	SYSTEMATIC 59416 59475	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T148	ABBREVIATION 59501 59504	TEA
+T149	ABBREVIATION 59528 59531	THF
+T150	SYSTEMATIC 59595 59603	nitrogen
+T151	FORMULA 59642 59647	EtOAc
+T152	TRIVIAL 59657 59662	water
+T153	FORMULA 59735 59740	EtOAc
+T154	FORMULA 59887 59892	EtOAc
+T155	TRIVIAL 60038 60048	silica gel
+T156	FORMULA 60076 60080	MeOH
+T157	FORMULA 60084 60089	EtOAc
+T158	ABBREVIATION 60158 60161	DCM
+T159	SYSTEMATIC 60162 60168	hexane
+T160	SYSTEMATIC 60320 60430	(2S)-2-Amino-1-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T161	SYSTEMATIC 60440 60559	tert-butyl N-[(1S)-2-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T162	SYSTEMATIC 60583 60594	1,4-dioxane
+T163	SYSTEMATIC 60612 60629	hydrogen chloride
+T164	SYSTEMATIC 60633 60644	1,4-dioxane
+T165	SYSTEMATIC 60905 60999	(2S)-2-Amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one
+T166	SYSTEMATIC 61009 61128	tert-butyl N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T167	ABBREVIATION 61154 61157	DCM
+T168	ABBREVIATION 61172 61175	TFA
+T169	FORMULA 61329 61333	MeOH
+T170	TRIVIAL 61407 61412	water
+T171	FORMULA 61430 61434	MeOH
+T172	TRIVIAL 61559 61564	water
+T173	FORMULA 61574 61578	MeOH
+T174	SYSTEMATIC 61625 61632	ammonia
+T175	FORMULA 61636 61640	MeOH
+T176	ABBREVIATION 61701 61704	DCM
+T177	SYSTEMATIC 61705 61711	hexane
+T178	SYSTEMATIC 61874 61982	(2S)-2-Amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one hydrochloride
+T179	SYSTEMATIC 61992 62111	tert-butyl N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T180	SYSTEMATIC 62137 62148	1,4-dioxane
+T181	SYSTEMATIC 62168 62185	hydrogen chloride
+T182	SYSTEMATIC 62189 62200	1,4-dioxane
+T183	FORMULA 62249 62253	MeOH
+T184	SYSTEMATIC 62389 62402	diethyl ether
+T185	SYSTEMATIC 62465 62478	diethyl ether
+T186	SYSTEMATIC 62753 62838	2-Amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]ethanone
+T187	SYSTEMATIC 62848 62953	tert-butyl N-[2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-2-oxo-ethyl]carbamate
+T188	ABBREVIATION 62977 62980	DCM
+T189	ABBREVIATION 63038 63041	TFA
+T190	FORMULA 63157 63161	MeOH
+T191	TRIVIAL 63215 63220	water
+T192	FORMULA 63231 63235	MeOH
+T193	TRIVIAL 63259 63264	water
+T194	FORMULA 63274 63278	MeOH
+T195	SYSTEMATIC 63325 63332	ammonia
+T196	FORMULA 63336 63340	MeOH
+T197	ABBREVIATION 63427 63430	DCM
+T198	SYSTEMATIC 63431 63437	hexane
+T199	SYSTEMATIC 63669 63779	(2S)-2-Amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T200	ABBREVIATION 63785 63788	IPA
+T201	SYSTEMATIC 63816 63831	acetyl chloride
+T202	SYSTEMATIC 63942 64061	tert-butyl N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T203	SYSTEMATIC 64190 64203	diethyl ether
+T204	SYSTEMATIC 64272 64285	diethyl ether
+T205	SYSTEMATIC 64633 64648	dihydrochloride
+T206	SYSTEMATIC 64714 64776	6-Chloro-2-methyl-5-(2-trimethylsilylethynyl)pyrimidin-4-amine
+T207	SYSTEMATIC 64781 64823	6-chloro-5-iodo-2-methyl-pyrimidin-4-amine
+T208	ABBREVIATION 64846 64849	TEA
+T209	SYSTEMATIC 64917 64933	copper(I) iodide
+T210	SYSTEMATIC 64958 65003	bis(triphenylphosphine)palladium(II) chloride
+T211	SYSTEMATIC 65123 65148	(trimethylsilyl)acetylene
+T212	TRIVIAL 65281 65299	diatomaceous earth
+T213	FORMULA 65314 65319	EtOAc
+T214	FORMULA 65392 65397	EtOAc
+T215	SYSTEMATIC 65420 65438	ammonium hydroxide
+T216	SYSTEMATIC 65472 65487	sodium chloride
+T217	FORMULA 65527 65533	Na2SO4
+T218	SYSTEMATIC 65594 65601	pentane
+T219	SYSTEMATIC 65726 65771	6-Chloro-5-ethynyl-2-methyl-pyrimidin-4-amine
+T220	SYSTEMATIC 65781 65843	6-chloro-2-methyl-5-(2-trimethylsilylethynyl)pyrimidin-4-amine
+T221	ABBREVIATION 65866 65869	THF
+T222	TRIVIAL 65915 65920	water
+T223	SYSTEMATIC 65939 65955	sodium hydroxide
+T224	SYSTEMATIC 66081 66094	ethyl acetate
+T225	SYSTEMATIC 66133 66148	sodium chloride
+T226	FORMULA 66183 66189	Na2SO4
+T227	SYSTEMATIC 66352 66433	tert-Butyl 4-(trifluoromethylsulfonyloxy)-2,3,6,7-tetrahydroazepine-1-carboxylate
+T228	SYSTEMATIC 66438 66466	lithium hexamethyldisilazide
+T229	ABBREVIATION 66483 66486	THF
+T230	SYSTEMATIC 66525 66533	nitrogen
+T231	SYSTEMATIC 66551 66588	tert-butyl 4-oxoazepane-1-carboxylate
+T232	ABBREVIATION 66610 66613	THF
+T233	SYSTEMATIC 66651 66693	N-phenylbis(trifluoromethane-sulphonimide)
+T234	ABBREVIATION 66719 66722	THF
+T235	TRIVIAL 66902 66907	water
+T236	FORMULA 66913 66918	EtOAc
+T237	SYSTEMATIC 66979 66994	sodium chloride
+T238	FORMULA 67005 67011	Na2SO4
+T239	TRIVIAL 67110 67120	silica gel
+T240	FORMULA 67148 67153	EtOAc
+T241	SYSTEMATIC 67157 67163	hexane
+T242	SYSTEMATIC 67262 67368	tert-Butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethynyl]-2,3,6,7-tetrahydroazepine-1-carboxylate
+T243	SYSTEMATIC 67377 67458	tert-butyl 4-(trifluoromethylsulfonyloxy)-2,3,6,7-tetrahydroazepine-1-carboxylate
+T244	SYSTEMATIC 67478 67523	6-chloro-5-ethynyl-2-methyl-pyrimidin-4-amine
+T245	SYSTEMATIC 67546 67591	bis(triphenylphosphine)palladium(II) chloride
+T246	SYSTEMATIC 67613 67629	copper(I) iodide
+T247	ABBREVIATION 67651 67654	TEA
+T248	ABBREVIATION 67680 67683	DMF
+T249	SYSTEMATIC 67699 67707	nitrogen
+T250	TRIVIAL 67793 67811	diatomaceous earth
+T251	FORMULA 67824 67829	EtOAc
+T252	SYSTEMATIC 67872 67887	sodium chloride
+T253	FORMULA 67898 67904	Na2SO4
+T254	TRIVIAL 68003 68013	silica gel
+T255	SYSTEMATIC 68041 68048	acetone
+T256	SYSTEMATIC 68052 68058	hexane
+T257	SYSTEMATIC 68158 68250	tert-Butyl (4R,S)-4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]azepane-1-carboxylate
+T258	SYSTEMATIC 68260 68366	tert-butyl 4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethynyl]-2,3,6,7-tetrahydroazepine-1-carboxylate
+T259	FORMULA 68389 68393	EtOH
+T260	SYSTEMATIC 68408 68424	platinum dioxide
+T261	SYSTEMATIC 68482 68490	hydrogen
+T262	TRIVIAL 68565 68583	diatomaceous earth
+T263	TRIVIAL 68680 68690	silica gel
+T264	SYSTEMATIC 68718 68725	acetone
+T265	SYSTEMATIC 68729 68735	hexane
+T266	SYSTEMATIC 68834 68901	5-[2-[(4R,S)-Azepan-4-yl]ethyl]-6-chloro-2-methyl-pyrimidin-4-amine
+T267	SYSTEMATIC 68911 69003	tert-butyl (4R,S)-4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]azepane-1-carboxylate
+T268	SYSTEMATIC 69026 69037	1,4-dioxane
+T269	SYSTEMATIC 69057 69074	hydrogen chloride
+T270	SYSTEMATIC 69078 69089	1,4-dioxane
+T271	FORMULA 69232 69236	MeOH
+T272	FORMULA 69297 69301	MeOH
+T273	SYSTEMATIC 69340 69347	ammonia
+T274	FORMULA 69351 69355	MeOH
+T275	SYSTEMATIC 69558 69658	(2S)-2-Amino-1-[(4R,S)-4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]azepan-1-yl]propan-1-one
+T276	SYSTEMATIC 69668 69793	tert-butyl N-[(1S)-2-[(4R,S)-4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]azepan-1-yl]-1-methyl-2-oxo-ethyl]carbamate
+T277	SYSTEMATIC 69817 69828	1,4-dioxane
+T278	SYSTEMATIC 69845 69862	hydrogen chloride
+T279	SYSTEMATIC 69866 69877	1,4-dioxane
+T280	FORMULA 70020 70024	MeOH
+T281	FORMULA 70080 70084	MeOH
+T282	SYSTEMATIC 70123 70130	ammonia
+T283	FORMULA 70134 70138	MeOH
+T284	SYSTEMATIC 70329 70460	N-[(1S)-2-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-methyl-pyrazole-3-carboxamide
+T285	SYSTEMATIC 70465 70575	(2S)-2-amino-1-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T286	SYSTEMATIC 70597 70635	1-methyl-1H-pyrazole-5-carboxylic acid
+T287	ABBREVIATION 70656 70659	THF
+T288	ABBREVIATION 70673 70676	TEA
+T289	SYSTEMATIC 70734 70756	1-hydroxybenzotriazole
+T290	SYSTEMATIC 70780 70839	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T291	TRIVIAL 70913 70918	water
+T292	FORMULA 70944 70949	EtOAc
+T293	SYSTEMATIC 71007 71022	sodium chloride
+T294	FORMULA 71043 71049	Na2SO4
+T295	ABBREVIATION 71150 71153	DCM
+T296	TRIVIAL 71195 71201	silica
+T297	SYSTEMATIC 71224 71231	acetone
+T298	SYSTEMATIC 71235 71241	hexane
+T299	SYSTEMATIC 71322 71337	2-ethylpyridine
+T300	FORMULA 71364 71367	CO2
+T301	FORMULA 71372 71376	MeOH
+T302	SYSTEMATIC 71798 71803	amine
+T303	SYSTEMATIC 71851 71866	carboxylic acid
+T304	SYSTEMATIC 71994 72135	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-5- methyl-1H-pyrazole- 4-carboxamide
+T305	SYSTEMATIC 72158 72296	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-1- methyl-pyrazole-4- carboxamide
+T306	SYSTEMATIC 72319 72457	N-[(1S)-2-[4- [2-(4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]-1-ethyl- pyrazole-4- carboxamide
+T307	SYSTEMATIC 72480 72618	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methyl-thiazole-5- carboxamide
+T308	SYSTEMATIC 72641 72779	N-[(1S)-2-[4- [2-(4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methyl-thiazole-4- carboxamide
+T309	SYSTEMATIC 72802 72941	N-[(1S)-2-[4- [2-(4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-2-ethyl]- 2-methyl-oxazole-4- carboxamide
+T310	SYSTEMATIC 72964 73092	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]pyridine- 3-carboxamide
+T311	SYSTEMATIC 73115 73245	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]pyridazine-3- carboxamide
+T312	SYSTEMATIC 73268 73393	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methoxy-benzamide
+T313	SYSTEMATIC 73416 73541	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-3- methoxy-benzamide
+T314	SYSTEMATIC 73564 73689	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-4- methoxy-benzamide
+T315	SYSTEMATIC 73712 73842	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]cyclopropane- carboxamide
+T316	SYSTEMATIC 73865 73990	N-[(1S)-2-[4-[2- (4-Amino-2- chloro-6-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- hydroxy-acetamide
+T317	SYSTEMATIC 74013 74147	(2R)-N-[(1S)- 2-[4-[2-(4- Amino-2-chloro- 6-methyl- pyrimidin-5-yl)ethyl]- 1-piperidyl]- 1-methyl-2-oxo- ethyl]-2-hydroxy- propanamide
+T318	SYSTEMATIC 74170 74313	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- 2,5-dimethyl- pyrazole-3- carboxamide
+T319	SYSTEMATIC 74336 74473	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methyl-oxazole-4- carboxamide
+T320	SYSTEMATIC 74496 74627	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl] thiadiazole-4- carboxamide
+T321	SYSTEMATIC 74650 74792	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]-3-methyl-1H- pyrazole-4- carboxamide
+T322	SYSTEMATIC 74815 74958	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- 1,5-dimethyl- pyrazole-4- carboxamide
+T323	SYSTEMATIC 74981 75119	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]-1-ethyl- pyrazole-4- carboxamide
+T324	SYSTEMATIC 75142 75285	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- 1,3-dimethyl- pyrazole-4- carboxamide
+T325	SYSTEMATIC 75308 75445	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- 2-ethyl-pyrazole- 3-carboxamide
+T326	SYSTEMATIC 75468 75606	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-1- methyl-pyrazole-3- carboxamide
+T327	SYSTEMATIC 75629 75744	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]butanamide
+T328	SYSTEMATIC 75767 75901	N-[(1S)-2-[4-[2- (4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- 3,3,3-trifluoro- propanamide
+T329	SYSTEMATIC 75924 76067	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino- 6-chloro-2-methyl- pyrimidin-5-yl) ethyl]azepan- 1-yl]-1-methyl-2- oxo-ethyl]-2-methyl- oxazole-4-carboxamide
+T330	SYSTEMATIC 76090 76234	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl) ethyl]azepan-1-yl]-1- methyl-2-oxo-ethyl]- 2-methyl-thiazole-4- carboxamide
+T331	SYSTEMATIC 76257 76401	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 2-methyl-thiazole-5- carboxamide
+T332	SYSTEMATIC 76424 76572	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 1,5-dimethyl-pyrazole- 4-carboxamide
+T333	SYSTEMATIC 76595 76743	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 1,3-dimethyl-pyrazole- 4-carboxamide
+T334	SYSTEMATIC 76766 76910	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 1-methyl-pyrazole-3- carboxamide
+T335	SYSTEMATIC 76933 77077	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 1-methyl-pyrazole-4- carboxamide
+T336	SYSTEMATIC 77100 77244	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 2-methyl-pyrazole-3- carboxamide
+T337	SYSTEMATIC 77267 77401	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo- ethyl]pyridine-2- carboxamide
+T338	SYSTEMATIC 77424 77558	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo- ethyl]pyridine-3- carboxamide
+T339	SYSTEMATIC 77581 77714	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl] pyridine-4-carboxamide
+T340	SYSTEMATIC 77737 77873	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo- ethyl]pyridazine-3- carboxamide
+T341	SYSTEMATIC 77896 78027	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 2-methoxy-benzamide
+T342	SYSTEMATIC 78050 78181	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 3-methoxy-benzamide
+T343	SYSTEMATIC 78204 78335	N-[(1S)-2-[(4R,S)- 4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl] azepan-1-yl]-1- methyl-2-oxo-ethyl]- 4-methoxy-benzamide
+T344	SYSTEMATIC 78364 78495	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-methyl-thiazole-5-carboxamide
+T345	SYSTEMATIC 78505 78599	(2S)-2-amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one
+T346	SYSTEMATIC 78624 78658	2-methylthiazole-5-carboxylic acid
+T347	ABBREVIATION 78682 78685	THF
+T348	SYSTEMATIC 78701 78729	1-hydroxy-7-azabenzotriazole
+T349	SYSTEMATIC 78751 78810	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T350	ABBREVIATION 78835 78838	TEA
+T351	FORMULA 78936 78941	EtOAc
+T352	FORMULA 79003 79008	EtOAc
+T353	SYSTEMATIC 79115 79141	4-nitrobenzene-sulfonamide
+T354	SYSTEMATIC 79171 79178	ammonia
+T355	FORMULA 79182 79186	McOH
+T356	FORMULA 79187 79190	CO2
+T357	SYSTEMATIC 79378 79383	amine
+T358	SYSTEMATIC 79431 79446	carboxylic acid
+T359	SYSTEMATIC 79569 79706	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methyl-thiazole-4- carboxamide
+T360	SYSTEMATIC 79729 79866	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-1- methyl-pyrazole-4- carboxamide
+T361	SYSTEMATIC 79889 80016	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyridine-2-carboxamide
+T362	SYSTEMATIC 80039 80166	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyridine-3-carboxamide
+T363	SYSTEMATIC 80189 80316	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyridine-4-carboxamide
+T364	SYSTEMATIC 80339 80469	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyridazine-3- carboxamide
+T365	SYSTEMATIC 80492 80622	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyridazine-4- carboxamide
+T366	SYSTEMATIC 80645 80775	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyrimidine-4- carboxamide
+T367	SYSTEMATIC 80798 80926	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]- pyrazine-2- carboxamide
+T368	SYSTEMATIC 80949 81073	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methoxy-benzamide
+T369	SYSTEMATIC 81096 81220	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-3- methoxy-benzamide
+T370	SYSTEMATIC 81243 81367	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-4- methoxy-benzamide
+T371	SYSTEMATIC 81390 81505	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]propanamide
+T372	SYSTEMATIC 81528 81653	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- methyl-propanamide
+T373	SYSTEMATIC 81676 81800	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- hydroxy-acetamide
+T374	SYSTEMATIC 81823 81959	N-[(1S)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo-ethyl]-2- hydroxy-2-methyl- propanamide
+T375	SYSTEMATIC 81982 82095	N-[(1R)-2-[4-[2-(4- Amino-6-chloro-2- methyl-pyrimidin-5- yl)ethyl]-1-piperidyl]-1- methyl-2-oxo- ethyl]acetamide
+T376	SYSTEMATIC 82118 82240	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo-ethyl]- 1-methyl-pyrazole-4- carboxamide
+T377	SYSTEMATIC 82267 82379	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo- ethyl]pyridine-3- carboxamide
+T378	SYSTEMATIC 82402 82514	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo- ethyl]pyridine-4- carboxamide
+T379	SYSTEMATIC 82537 82651	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo- ethyl]pyridazine-3- carboxamide
+T380	SYSTEMATIC 82674 82788	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo- ethyl]pyridazine-4- carboxamide
+T381	SYSTEMATIC 82811 82920	N-[2-[4-[2-(4-Amino-6- chloro-2-methyl- pyrimidin-5-yl)ethyl]-1- piperidyl]-2-oxo-ethyl]- 4-methoxy-benzamide
+T382	SYSTEMATIC 82958 83089	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-methyl-thiazole-5-carboxamide
+T383	SYSTEMATIC 83112 83222	(2S)-2-amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T384	SYSTEMATIC 83245 83279	2-methyl-5-thiazolecarboxylic acid
+T385	ABBREVIATION 83306 83311	DIPEA
+T386	ABBREVIATION 83338 83341	DCM
+T387	SYSTEMATIC 83470 83499	1-propanephosphonic anhydride
+T388	FORMULA 83517 83522	EtOAc
+T389	ABBREVIATION 83705 83708	DCM
+T390	SYSTEMATIC 83750 83768	sodium bicarbonate
+T391	ABBREVIATION 83810 83813	DCM
+T392	SYSTEMATIC 83877 83894	ammonium chloride
+T393	TRIVIAL 83905 83910	water
+T394	TRIVIAL 83924 83929	brine
+T395	FORMULA 83949 83954	MgSO4
+T396	TRIVIAL 84043 84053	silica gel
+T397	ABBREVIATION 84082 84085	THF
+T398	FORMULA 84089 84094	EtOAc
+T399	SYSTEMATIC 84212 84336	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-pyridazine-3-carboxamide
+T400	SYSTEMATIC 84458 84463	amine
+T401	SYSTEMATIC 84529 84660	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-methyl-pyrazole-3-carboxamide
+T402	ABBREVIATION 84670 84675	DIPEA
+T403	ABBREVIATION 84700 84703	DCM
+T404	SYSTEMATIC 84721 84831	(2S)-2-amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T405	SYSTEMATIC 84895 84929	2-methylpyrazole-3-carboxylic acid
+T406	ABBREVIATION 84954 84958	HATU
+T407	ABBREVIATION 85088 85091	DCM
+T408	TRIVIAL 85115 85120	water
+T409	ABBREVIATION 85162 85165	DCM
+T410	SYSTEMATIC 85237 85255	sodium bicarbonate
+T411	SYSTEMATIC 85284 85301	ammonium chloride
+T412	TRIVIAL 85317 85322	water
+T413	FORMULA 85363 85368	MgSO4
+T414	FORMULA 85444 85449	EtOAc
+T415	SYSTEMATIC 85491 85508	ammonium chloride
+T416	TRIVIAL 85521 85526	water
+T417	SYSTEMATIC 85558 85573	sodium chloride
+T418	FORMULA 85614 85619	MgSO4
+T419	TRIVIAL 85707 85717	silica gel
+T420	ABBREVIATION 85738 85741	THF
+T421	FORMULA 85745 85750	EtOAc
+T422	SYSTEMATIC 85856 85866	iso-hexane
+T423	SYSTEMATIC 86084 86205	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-hydroxy-propanamide
+T424	SYSTEMATIC 86236 86330	(2S)-2-amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one
+T425	SYSTEMATIC 86352 86363	lactic acid
+T426	TRIVIAL 86372 86377	water
+T427	ABBREVIATION 86401 86404	THF
+T428	SYSTEMATIC 86413 86441	1-hydroxy-7-azabenzotriazole
+T429	SYSTEMATIC 86465 86524	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T430	ABBREVIATION 86549 86552	TEA
+T431	FORMULA 86651 86656	EtOAc
+T432	FORMULA 86718 86723	EtOAc
+T433	FORMULA 86916 86920	EtOH
+T434	FORMULA 86921 86924	CO2
+T435	SYSTEMATIC 86936 87057	N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-hydroxy-propanamide
+T436	SYSTEMATIC 87105 87226	N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]-2-hydroxy-propanamide
+T437	SYSTEMATIC 87382 87490	N-[(1S)-2-[4-[2-(4-Amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]acetamide
+T438	SYSTEMATIC 87554 87662	(2S)-2-amino-1-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one hydrochloride
+T439	ABBREVIATION 87686 87689	DCM
+T440	ABBREVIATION 87707 87712	DIPEA
+T441	SYSTEMATIC 87739 87755	acetic anhydride
+T442	ABBREVIATION 87821 87824	DCM
+T443	SYSTEMATIC 87866 87884	sodium bicarbonate
+T444	TRIVIAL 87894 87899	water
+T445	SYSTEMATIC 87933 87948	sodium chloride
+T446	FORMULA 87987 87992	MgSO4
+T447	SYSTEMATIC 88072 88085	diethyl ether
+T448	SYSTEMATIC 88126 88139	diethyl ether
+T449	SYSTEMATIC 88408 88523	Methyl N-[(1S)-2-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T450	SYSTEMATIC 88528 88638	(2S)-2-amino-1-[4-[2-(4-amino-2-chloro-6-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]propan-1-one dihydrochloride
+T451	ABBREVIATION 88660 88663	DCM
+T452	ABBREVIATION 88676 88679	TEA
+T453	SYSTEMATIC 88735 88762	N,N-dimethyl 4-pyridinamine
+T454	SYSTEMATIC 88785 88804	dimethyldicarbonate
+T455	ABBREVIATION 88879 88882	DCM
+T456	SYSTEMATIC 88923 88941	sodium bicarbonate
+T457	SYSTEMATIC 88997 89012	sodium chloride
+T458	FORMULA 89031 89037	Na2SO4
+T459	ABBREVIATION 89138 89141	DCM
+T460	TRIVIAL 89183 89189	silica
+T461	SYSTEMATIC 89212 89219	acetone
+T462	SYSTEMATIC 89223 89229	hexane
+T463	SYSTEMATIC 89310 89325	2-ethylpyridine
+T464	FORMULA 89352 89355	CO2
+T465	FORMULA 89360 89364	MeOH
+T466	SYSTEMATIC 89713 89828	Methyl N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T467	SYSTEMATIC 89931 89936	amine
+T468	SYSTEMATIC 89984 90003	dimethyldicarbonate
+T469	SYSTEMATIC 90055 90174	tert-Butyl N-[(1S)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T470	SYSTEMATIC 90216 90289	6-chloro-2-methyl-5-[2-(4-piperidyl)ethyl]pyrimidin-4-amine hydrochloride
+T471	ABBREVIATION 90313 90318	DIPEA
+T472	ABBREVIATION 90346 90349	DMF
+T473	ABBREVIATION 90451 90455	HATU
+T474	SYSTEMATIC 90482 90529	(2S)-2-(tert-butoxycarbonylamino)propanoic acid
+T475	TRIVIAL 90679 90684	water
+T476	FORMULA 90698 90703	EtOAc
+T477	FORMULA 90767 90772	EtOAc
+T478	TRIVIAL 90825 90830	water
+T479	SYSTEMATIC 90861 90876	sodium chloride
+T480	FORMULA 90899 90904	MgSO4
+T481	TRIVIAL 90987 90997	silica gel
+T482	FORMULA 91034 91039	EtOAc
+T483	SYSTEMATIC 91043 91049	hexane
+T484	FORMULA 91146 91151	EtOAc
+T485	SYSTEMATIC 91193 91210	ammonium chloride
+T486	SYSTEMATIC 91239 91257	sodium bicarbonate
+T487	TRIVIAL 91268 91273	water
+T488	SYSTEMATIC 91305 91320	sodium chloride
+T489	FORMULA 91353 91358	MgSO4
+T490	SYSTEMATIC 91521 91646	tert-Butyl N-[(1S)-2-[(4R,S)-4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]azepan-1-yl]-1-methyl-2-oxo-ethyl]carbamate
+T491	SYSTEMATIC 91656 91723	5-[2-[(4R,S)-azepan-4-yl]ethyl]-6-chloro-2-methyl-pyrimidin-4-amine
+T492	SYSTEMATIC 91744 91791	(2S)-2-(tert-butoxycarbonylamino)propanoic acid
+T493	ABBREVIATION 91815 91818	DCM
+T494	ABBREVIATION 91830 91833	THF
+T495	ABBREVIATION 91847 91850	TEA
+T496	SYSTEMATIC 91874 91902	1-hydroxy-7-azabenzotriazole
+T497	SYSTEMATIC 91928 91987	1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride
+T498	SYSTEMATIC 92062 92070	nitrogen
+T499	FORMULA 92145 92150	EtOAc
+T500	TRIVIAL 92165 92170	water
+T501	FORMULA 92202 92208	Na2SO4
+T502	TRIVIAL 92306 92316	silica gel
+T503	ABBREVIATION 92344 92347	DCM
+T504	SYSTEMATIC 92351 92359	methanol
+T505	SYSTEMATIC 92455 92574	tert-Butyl N-[(1R)-2-[4-[2-(4-amino-6-chloro-2-methyl-pyrimidin-5-yl)ethyl]-1-piperidyl]-1-methyl-2-oxo-ethyl]carbamate
+T506	SYSTEMATIC 92677 92682	amine
+T507	SYSTEMATIC 92730 92745	carboxylic acid

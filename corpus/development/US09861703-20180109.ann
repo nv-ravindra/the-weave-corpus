@@ -1,0 +1,186 @@
+T1	SYSTEMATIC 32450 32501	5-fluoro-1-hydroxymethylpyrimidine-2,4(1H,3H)-dione
+T2	SYSTEMATIC 32506 32510	5-FU
+T3	SYSTEMATIC 32557 32569	formaldehyde
+T4	SYSTEMATIC 32807 32916	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((tert-butoxycarbonyl)amino)-4-methylpentanoate
+T5	SYSTEMATIC 32958 32970	acetonitrile
+T6	SYSTEMATIC 32991 33004	Boc-L-leucine
+T7	ABBREVIATION 33024 33027	DCC
+T8	ABBREVIATION 33050 33054	DMAP
+T9	SYSTEMATIC 33250 33263	ethyl acetate
+T10	TRIVIAL 33299 33304	water
+T11	SYSTEMATIC 33310 33321	citric acid
+T12	SYSTEMATIC 33333 33351	sodium bicarbonate
+T13	SYSTEMATIC 33366 33381	sodium chloride
+T14	SYSTEMATIC 33421 33435	sodium sulfate
+T15	SYSTEMATIC 33539 33641	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-(amino)-4-methylpentanoate hydrochloride
+T16	SYSTEMATIC 33684 33697	ethyl acetate
+T17	SYSTEMATIC 33720 33737	chloride hydrogen
+T18	SYSTEMATIC 33886 34033	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate
+T19	FORMULA 34038 34046	Boc-AHPA
+T20	SYSTEMATIC 34092 34107	dichloromethane
+T21	FORMULA 34141 34145	EDCI
+T22	FORMULA 34168 34172	HOBt
+T23	SYSTEMATIC 34265 34278	triethylamine
+T24	TRIVIAL 34464 34469	water
+T25	SYSTEMATIC 34475 34486	citric acid
+T26	SYSTEMATIC 34498 34516	sodium bicarbonate
+T27	SYSTEMATIC 34531 34546	sodium chloride
+T28	SYSTEMATIC 34596 34610	sodium sulfate
+T29	SYSTEMATIC 34712 34852	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((2S,3R)-3-(amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate hydrochloride
+T30	SYSTEMATIC 34903 34916	ethyl acetate
+T31	SYSTEMATIC 34939 34956	chloride hydrogen
+T32	ABBREVIATION 35112 35116	DMSO
+T33	SYSTEMATIC 35395 35493	(S)-benzyl-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate
+T34	FORMULA 35498 35506	Boc-AHPA
+T35	SYSTEMATIC 35541 35556	dichloromethane
+T36	FORMULA 35590 35594	HOBt
+T37	FORMULA 35616 35620	EDCI
+T38	SYSTEMATIC 35673 35715	L-leucine benzyl ester toluene-4-sulfonate
+T39	SYSTEMATIC 35749 35762	triethylamine
+T40	SYSTEMATIC 35899 35910	citric acid
+T41	FORMULA 35922 35928	NaHCO3
+T42	FORMULA 35943 35947	NaCl
+T43	SYSTEMATIC 36000 36014	sodium sulfate
+T44	SYSTEMATIC 36133 36252	(2S)-benzyl-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-4-phenyl-2-(2-(2H)-tetrahydropyranoxy)butyryl)-4-methylpentanoate
+T45	SYSTEMATIC 36296 36311	dichloromethane
+T46	ABBREVIATION 36337 36341	PPTS
+T47	ABBREVIATION 36364 36367	DHP
+T48	FORMULA 36500 36505	K2CO3
+T49	FORMULA 36602 36606	NaCl
+T50	SYSTEMATIC 36651 36665	sodium sulfate
+T51	SYSTEMATIC 36802 36914	(2S)-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-4-phenyl-2-(2-(2H)-tetrahydropyranoxy)butyryl)-4-methylpentanoate
+T52	SYSTEMATIC 36958 36966	methanol
+T53	FORMULA 36979 36983	Pd/C
+T54	SYSTEMATIC 37085 37093	hydrogen
+T55	SYSTEMATIC 37099 37107	hydrogen
+T56	SYSTEMATIC 37334 37498	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-4-phenyl-2-(2-(2H)-tetrahydropyranoxy)acyl)-4-methylpentanoate
+T57	SYSTEMATIC 37553 37568	dichloromethane
+T58	FORMULA 37594 37598	HOBt
+T59	FORMULA 37623 37627	EDCI
+T60	SYSTEMATIC 37702 37714	acetonitrile
+T61	SYSTEMATIC 37738 37751	triethylamine
+T62	SYSTEMATIC 37893 37904	citric acid
+T63	FORMULA 37916 37922	NaHCO3
+T64	FORMULA 37937 37941	NaCl
+T65	SYSTEMATIC 37984 37998	sodium sulfate
+T66	SYSTEMATIC 38184 38324	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((2S,3R)-3-(amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate hydrochloride
+T67	SYSTEMATIC 38375 38388	ethyl acetate
+T68	SYSTEMATIC 38411 38428	chloride hydrogen
+T69	ABBREVIATION 38582 38586	DMSO
+T70	SYSTEMATIC 38876 38917	2-((tert-butoxycarbonyl)amino)acetic acid
+T71	SYSTEMATIC 38923 38932	L-Glycine
+T72	FORMULA 38975 38979	NaOH
+T73	FORMULA 38985 38992	(Boc)2O
+T74	SYSTEMATIC 39013 39028	tetrahydrofuran
+T75	FORMULA 39250 39254	NaOH
+T76	SYSTEMATIC 39290 39305	tetrahydrofuran
+T77	FAMILY 39353 39368	petroleum ether
+T78	TRIVIAL 39396 39401	water
+T79	FORMULA 39445 39448	HCl
+T80	SYSTEMATIC 39477 39490	ethyl acetate
+T81	SYSTEMATIC 39513 39527	sodium sulfate
+T82	SYSTEMATIC 39664 39758	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1-(2H))methyl-2-((tert-butoxycarbonyl)amino)acetate
+T83	SYSTEMATIC 39815 39830	dichloromethane
+T84	FORMULA 39856 39860	HOBt
+T85	FORMULA 39883 39887	EDCI
+T86	SYSTEMATIC 39958 39970	acetonitrile
+T87	SYSTEMATIC 39994 40008	trimethylamine
+T88	SYSTEMATIC 40150 40161	citric acid
+T89	FORMULA 40173 40179	NaHCO3
+T90	FORMULA 40194 40198	NaCl
+T91	SYSTEMATIC 40241 40255	sodium sulfate
+T92	SYSTEMATIC 40441 40527	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1-(2H))methyl-2-amino)acetate hydrochloride
+T93	SYSTEMATIC 40571 40584	ethyl acetate
+T94	SYSTEMATIC 40607 40624	chloride hydrogen
+T95	SYSTEMATIC 40762 40943	(6R,7S,10S)-(5-fluoro-2,6-dioxo-1,2,3,6-tetrahydropyrimidin-3-yl)methyl-6-benzyl-10-isobutyl-2,2-dimethyl-4,8,11-trioxo-7-(2-2H-tetrahydropyranoxy)-3-oxo-5,9,12-triazatetradecanoate
+T96	SYSTEMATIC 40998 41013	dichloromethane
+T97	FORMULA 41039 41043	EDCI
+T98	FORMULA 41067 41071	HOBt
+T99	SYSTEMATIC 41161 41174	triethylamine
+T100	SYSTEMATIC 41470 41623	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)acetate hydrochloride
+T101	SYSTEMATIC 41676 41689	ethyl acetate
+T102	SYSTEMATIC 41712 41729	chloride hydrogen
+T103	ABBREVIATION 41886 41890	DMSO
+T104	SYSTEMATIC 42289 42449	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-2-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)propanoate hydrochloride
+T105	ABBREVIATION 42499 42503	DMSO
+T106	SYSTEMATIC 42796 42952	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-4-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)propanoate hydrochloride
+T107	ABBREVIATION 43002 43006	DMSO
+T108	SYSTEMATIC 43270 43425	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-6-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)butanoate hydrochloride
+T109	ABBREVIATION 43475 43479	DMSO
+T110	SYSTEMATIC 43743 43898	(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-4-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)hexanoate hydrochloride
+T111	ABBREVIATION 43948 43952	DMSO
+T112	SYSTEMATIC 44204 44390	(S)-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidinyl-1(2H))methyl-1-((S)-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutanamido)-4-methylpentanamido)-2-tetrahydropyrrolidine carboxylate hydrochloride
+T113	ABBREVIATION 44440 44444	DMSO
+T114	SYSTEMATIC 44855 44923	(S)-5 fluorophenyl-2-((tert-butoxycarbonyl)amino)-4-methy-pentanoate
+T115	SYSTEMATIC 44929 44942	Boc-L-leucine
+T116	SYSTEMATIC 44987 45002	tetrahydrofuran
+T117	SYSTEMATIC 45028 45045	pentafluorophenol
+T118	FORMULA 45069 45073	EDCI
+T119	SYSTEMATIC 45294 45355	(S)-1-((2-(tert-butoxycarbonylamino)-4-methylvaleryl)oxy)urea
+T120	SYSTEMATIC 45361 45372	Hydroxyurea
+T121	ABBREVIATION 45409 45412	DMF
+T122	SYSTEMATIC 45449 45467	N-Methylmorpholine
+T123	SYSTEMATIC 45738 45792	(S)-1-((2-amino-4-methylvaleryl)oxy)urea hydrochloride
+T124	SYSTEMATIC 45839 45852	ethyl acetate
+T125	SYSTEMATIC 45875 45892	chloride hydrogen
+T126	SYSTEMATIC 46027 46127	(2R,3S)-3-(tert-butoxycarbonylamino)-2-hydroxy-N—((S)-4-methylvaleryl)oxy)ureido)-4-phenylbutanamide
+T127	FORMULA 46133 46141	Boc-AHPA
+T128	SYSTEMATIC 46186 46201	dichloromethane
+T129	FORMULA 46227 46231	EDCI
+T130	FORMULA 46256 46260	HOBt
+T131	SYSTEMATIC 46336 46349	triethylamine
+T132	SYSTEMATIC 46645 46738	(2S,3R)-3-amino-2-hydroxy-N—((S)-4-methylvaleryl)oxy)ureido)-4-phenylbutanamide hydrochloride
+T133	SYSTEMATIC 46784 46797	ethyl acetate
+T134	SYSTEMATIC 46820 46837	chloride hydrogen
+T135	ABBREVIATION 46987 46991	DMSO
+T136	SYSTEMATIC 47237 47251	Boc-Epirubicin
+T137	SYSTEMATIC 47304 47319	dichloromethane
+T138	SYSTEMATIC 47356 47370	trimethylamine
+T139	FORMULA 47375 47382	(Boc)2O
+T140	SYSTEMATIC 47405 47420	dichloromethane
+T141	SYSTEMATIC 47651 47662	citric acid
+T142	FORMULA 47677 47681	NaCl
+T143	SYSTEMATIC 47716 47730	sodium sulfate
+T144	SYSTEMATIC 47831 48072	(S)-2-((2S,4S)-4-((2S,4S,5R,6S)-4-((tert-butoxycarbonyl)amino)-5-hydroxy-6-methyl-2(2H)-tetrahydropyranyloxy)-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-2-(1,2,3,4,6,11-hexahydrotetracenyl))-2-ethoxy-2-(benzyloxycarbonylamino)-4-methylpentanoate
+T145	SYSTEMATIC 48078 48091	Cbz-L-leucine
+T146	SYSTEMATIC 48138 48153	dichloromethane
+T147	FORMULA 48179 48183	EDCI
+T148	FORMULA 48208 48212	HOBt
+T149	SYSTEMATIC 48582 48803	(S)-2-((2S,4S)-4-((2S,4S,5R,6S)-4-((tert-butoxycarbonyl)amino)-5-hydroxy-6-methy-2(2H)-tetrahydropyranyloxy)-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-2-(1,2,3,4,6,11-hexahydrotetracenyl))-2-ethoxy-2-amino-4-methylpentanoate
+T150	SYSTEMATIC 48849 48857	methanol
+T151	FORMULA 48870 48874	Pd/C
+T152	SYSTEMATIC 48976 48984	hydrogen
+T153	SYSTEMATIC 48990 48998	hydrogen
+T154	SYSTEMATIC 49226 49508	(S)-2-((2S,4S)-4-((2S,4S,5R,6S)-4-((tert-butoxycarbonyl)amino)-5-hydroxy-6-methyl-2(2H)-tetrahydropyranyloxy)-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-2-(1,2,3,4,6,11-hexahydrotetracenyl))-2-ethoxy-2-42S,3R)-3-((tert-butoxycarbonyl)amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate
+T155	FORMULA 49514 49522	Boc-AHPA
+T156	SYSTEMATIC 49570 49585	dichloromethane
+T157	FORMULA 49610 49614	EDCI
+T158	FORMULA 49639 49643	HOBt
+T159	SYSTEMATIC 50012 50286	(S)-2-((2S,4S)-4-((2S,4S,5R,6S)-4-((tert-butoxycarbonyl)amino)-5-hydroxy-6-methyl-2(2H)-tetrahydropyranyloxy))-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-2-(1,2,3,4,6,11-hexahydrotetracenyl)-2-ethoxy-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate hydrochloride
+T160	SYSTEMATIC 50332 50345	ethyl acetate
+T161	SYSTEMATIC 50368 50385	chloride hydrogen
+T162	ABBREVIATION 50533 50537	DMSO
+T163	SYSTEMATIC 51025 51184	(S)-2-(4-(6-(5-(2-chloro-6-methylphenyl)-2-thiazolylcarbonyl amino)-2-methyl-4-pyrimidinyl)-1-piperazinyl)ethyl-2-(tert-butoxycarbonylamino)-4-methylpentanoate
+T164	SYSTEMATIC 51190 51203	Boc-L-leucine
+T165	SYSTEMATIC 51250 51265	dichloromethane
+T166	FORMULA 51291 51295	EDCI
+T167	FORMULA 51319 51323	HOBt
+T168	TRIVIAL 51376 51385	Dasatinib
+T169	SYSTEMATIC 51417 51430	triethylamine
+T170	TRIVIAL 51616 51621	water
+T171	SYSTEMATIC 51627 51638	citric acid
+T172	SYSTEMATIC 51650 51668	sodium bicarbonate
+T173	SYSTEMATIC 51683 51698	sodium chloride
+T174	SYSTEMATIC 51748 51762	sodium sulfate
+T175	SYSTEMATIC 51866 52017	(S)-2-(4-(6-(5-(2-chloro-6-methylphenyl)-2-thiazolylcarbonyl amino)-2-methyl-4-pyrimidinyl)-1-piperazinyl)ethyl-2-amino-4-methylpentanoae hydrochloride
+T176	SYSTEMATIC 52059 52072	ethyl acetate
+T177	SYSTEMATIC 52095 52112	chloride hydrogen
+T178	SYSTEMATIC 52245 52445	(S)-2-(4-(6-(5-((2-chloro-6-methylphenyl)-2-thiazolylcarbonyl amino)-2-methyl-4-pyrimidinyl)-1-piperazinyl)ethyl-2-((2S,3R)-3-((tert-butoxycarbonyl)amino)-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate
+T179	FORMULA 52451 52459	Boc-AHPA
+T180	SYSTEMATIC 52507 52522	dichloromethane
+T181	FORMULA 52548 52552	EDCI
+T182	FORMULA 52577 52581	HOBt
+T183	SYSTEMATIC 52951 53141	(S)-2-(4-(6-(5-(2-chloro-6-methylphenyl)-2-thiazolylcarbonyl amino)-2-methyl-4-pyrimidinyl)-1-piperazinyl)ethyl-2-((2S,3R)-3-amino-2-hydroxy-4-phenylbutyryl)-4-methylpentanoate hydrochloride
+T184	SYSTEMATIC 53187 53200	ethyl acetate
+T185	SYSTEMATIC 53223 53240	chloride hydrogen
+T186	ABBREVIATION 53388 53392	DMSO

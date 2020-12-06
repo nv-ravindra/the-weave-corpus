@@ -1,0 +1,447 @@
+T1	SYSTEMATIC 75462 75536	(E)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)acrylic acid
+T2	SYSTEMATIC 75556 75569	ethyl formate
+T3	ABBREVIATION 75595 75599	MTBE
+T4	SYSTEMATIC 75618 75645	ethyl 4-chlorophenylacetate
+T5	FORMULA 75737 75743	t-BuOK
+T6	ABBREVIATION 75770 75774	MTBE
+T7	SYSTEMATIC 75960 75977	hydrochloric acid
+T8	FORMULA 76000 76003	H20
+T9	FORMULA 76208 76212	NaCl
+T10	SYSTEMATIC 76273 76287	isopropylamine
+T11	FORMULA 76314 76318	AcOH
+T12	FORMULA 76480 76483	H2O
+T13	FORMULA 76505 76511	Na2CO3
+T14	FORMULA 76541 76545	NaCl
+T15	ABBREVIATION 76591 76594	DMF
+T16	ABBREVIATION 76607 76611	DMAP
+T17	FORMULA 76739 76746	(Boc)2O
+T18	ABBREVIATION 76768 76771	DMF
+T19	SYSTEMATIC 76786 76799	triethylamine
+T20	ABBREVIATION 76901 76905	MTBE
+T21	TRIVIAL 76916 76921	water
+T22	SYSTEMATIC 76947 76958	citric acid
+T23	FORMULA 77053 77057	NaCl
+T24	SYSTEMATIC 77308 77315	heptane
+T25	SYSTEMATIC 77345 77423	(E)-ethyl 3-((tert-butoxycarbonyl)(isopropyl)amino)-2-(4-chlorophenyl)acrylate
+T26	SYSTEMATIC 77482 77560	(E)-ethyl 3-((tert-butoxycarbonyl)(isopropyl)amino)-2-(4-chlorophenyl)acrylate
+T27	FORMULA 77611 77614	H2O
+T28	FORMULA 77624 77628	NaOH
+T29	FORMULA 77654 77658	EtOH
+T30	FORMULA 77936 77939	HCl
+T31	FORMULA 77963 77966	HCl
+T32	FORMULA 77983 77986	HCl
+T33	FORMULA 78105 78109	NaCl
+T34	SYSTEMATIC 78119 78128	n-heptane
+T35	SYSTEMATIC 78220 78229	n-heptane
+T36	SYSTEMATIC 78299 78373	(E)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)acrylic acid
+T37	SYSTEMATIC 78481 78560	(E)-ethyl 3-((tert-butoxycarbonyl)-(isopropyl)amino)-2-(4-chlorophenyl)acrylate
+T38	SYSTEMATIC 78591 78642	ethyl 2-(4-chlorophenyl)-3-(isopropylamino)acrylate
+T39	SYSTEMATIC 78687 78718	ethyl 2-(4-chlorophenyl)acetate
+T40	ABBREVIATION 78742 78745	DMF
+T41	ABBREVIATION 78800 78804	DMAP
+T42	FORMULA 78830 78836	n-Bu3N
+T43	FORMULA 78929 78936	(BOC)2O
+T44	ABBREVIATION 78960 78963	DMF
+T45	ABBREVIATION 79058 79061	DMF
+T46	FORMULA 79121 79128	(BOC)2O
+T47	ABBREVIATION 79154 79157	DMF
+T48	ABBREVIATION 79339 79343	MTBE
+T49	SYSTEMATIC 79417 79440	Citric acid monohydrate
+T50	TRIVIAL 79455 79460	water
+T51	FORMULA 79577 79581	NaCl
+T52	SYSTEMATIC 79686 79695	n-heptane
+T53	SYSTEMATIC 79781 79790	n-heptane
+T54	SYSTEMATIC 79933 79942	n-heptane
+T55	SYSTEMATIC 79957 80035	(E)-ethyl 3-((tert-butoxycarbonyl)(isopropyl)amino)-2-(4-chlorophenyl)acrylate
+T56	SYSTEMATIC 80142 80216	(E)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)acrylic acid
+T57	SYSTEMATIC 80228 80307	Sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T58	FORMULA 80324 80326	O2
+T59	SYSTEMATIC 80399 80492	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T60	SYSTEMATIC 80503 80510	ethanol
+T61	FORMULA 80552 80570	Ru(TFA)2((S)-BINAP
+T62	SYSTEMATIC 80644 80652	hydrogen
+T63	SYSTEMATIC 80818 80896	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T64	SYSTEMATIC 81007 81030	tert-butyl methyl ether
+T65	SYSTEMATIC 81061 81066	argon
+T66	SYSTEMATIC 81171 81264	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T67	SYSTEMATIC 81275 81282	ethanol
+T68	SYSTEMATIC 81295 81310	sodium ethoxide
+T69	SYSTEMATIC 81547 81567	t-butyl methyl ether
+T70	SYSTEMATIC 81568 81575	ethanol
+T71	SYSTEMATIC 81606 81626	t-butyl methyl ether
+T72	SYSTEMATIC 81688 81767	sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T73	FORMULA 81877 81880	D2O
+T74	SYSTEMATIC 82117 82126	n-heptane
+T75	SYSTEMATIC 82138 82157	trifluoracetic acid
+T76	SYSTEMATIC 82162 82169	ethanol
+T77	SYSTEMATIC 82246 82324	(S)-3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T78	SYSTEMATIC 82335 82413	(R)-3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T79	SYSTEMATIC 82424 82517	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T80	SYSTEMATIC 82538 82617	Sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T81	FORMULA 82634 82636	O2
+T82	SYSTEMATIC 82711 82804	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T83	SYSTEMATIC 82815 82822	ethanol
+T84	FORMULA 82864 82882	Ru(TFA)2((S)-BINAP
+T85	SYSTEMATIC 82957 82965	hydrogen
+T86	SYSTEMATIC 83131 83209	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T87	SYSTEMATIC 83320 83343	tert-butyl methyl ether
+T88	SYSTEMATIC 83377 83382	argon
+T89	SYSTEMATIC 83391 83398	ethanol
+T90	SYSTEMATIC 83411 83426	sodium ethoxide
+T91	SYSTEMATIC 83672 83692	t-butyl methyl ether
+T92	SYSTEMATIC 83693 83700	ethanol
+T93	SYSTEMATIC 83730 83750	t-butyl methyl ether
+T94	SYSTEMATIC 83811 83890	sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T95	SYSTEMATIC 83998 84077	Sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T96	FORMULA 84094 84096	O2
+T97	SYSTEMATIC 84171 84264	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T98	SYSTEMATIC 84276 84283	ethanol
+T99	FORMULA 84294 84298	NaBr
+T100	TRIVIAL 84311 84316	water
+T101	FORMULA 84362 84380	Ru(TFA)2((S)-BINAP
+T102	SYSTEMATIC 84455 84463	hydrogen
+T103	SYSTEMATIC 84629 84707	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T104	SYSTEMATIC 84810 84817	ethanol
+T105	SYSTEMATIC 84933 84956	tert-butyl methyl ether
+T106	SYSTEMATIC 84986 84993	ethanol
+T107	SYSTEMATIC 85006 85021	sodium ethoxide
+T108	SYSTEMATIC 85118 85125	ethanol
+T109	SYSTEMATIC 85303 85323	t-butyl methyl ether
+T110	SYSTEMATIC 85324 85331	ethanol
+T111	SYSTEMATIC 85362 85382	t-butyl methyl ether
+T112	SYSTEMATIC 85442 85521	sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T113	SYSTEMATIC 85626 85705	Sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T114	FORMULA 85722 85724	O2
+T115	SYSTEMATIC 85799 85892	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T116	SYSTEMATIC 85904 85911	ethanol
+T117	FORMULA 85929 85931	Ar
+T118	FORMULA 85943 85947	NaCl
+T119	TRIVIAL 85960 85965	water
+T120	FORMULA 86010 86028	Ru(TFA)2((S)-BINAP
+T121	SYSTEMATIC 86103 86111	hydrogen
+T122	SYSTEMATIC 86277 86355	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T123	SYSTEMATIC 86458 86465	ethanol
+T124	SYSTEMATIC 86581 86604	tert-butyl methyl ether
+T125	SYSTEMATIC 86643 86658	sodium ethoxide
+T126	SYSTEMATIC 86692 86699	ethanol
+T127	SYSTEMATIC 86778 86785	ethanol
+T128	SYSTEMATIC 86953 86973	t-butyl methyl ether
+T129	SYSTEMATIC 86974 86981	ethanol
+T130	SYSTEMATIC 87012 87032	t-butyl methyl ether
+T131	SYSTEMATIC 87092 87171	sodium (S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propanoate
+T132	SYSTEMATIC 87275 87352	(S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)-propionic acid
+T133	FORMULA 87369 87371	O2
+T134	SYSTEMATIC 87446 87539	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T135	SYSTEMATIC 87553 87560	ethanol
+T136	FORMULA 87632 87650	Ru(TFA)2((S)-BINAP
+T137	SYSTEMATIC 87666 87673	ethanol
+T138	FORMULA 87730 87733	HCl
+T139	TRIVIAL 87746 87751	water
+T140	SYSTEMATIC 87936 87944	hydrogen
+T141	SYSTEMATIC 88111 88189	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T142	SYSTEMATIC 88247 88324	(S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)-propionic acid
+T143	FORMULA 88372 88375	HBr
+T144	SYSTEMATIC 88452 88460	(S)-acid
+T145	SYSTEMATIC 88550 88627	(S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)-propionic acid
+T146	FORMULA 88644 88646	O2
+T147	SYSTEMATIC 88721 88814	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T148	SYSTEMATIC 88828 88835	ethanol
+T149	FORMULA 88906 88924	Ru(TFA)2((S)-BINAP
+T150	SYSTEMATIC 88940 88947	ethanol
+T151	FORMULA 88998 89001	HCl
+T152	TRIVIAL 89014 89019	water
+T153	SYSTEMATIC 89204 89212	hydrogen
+T154	SYSTEMATIC 89379 89457	(S)-3-(tert-butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T155	SYSTEMATIC 89515 89592	(S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)-propionic acid
+T156	FORMULA 89640 89644	LiBr
+T157	SYSTEMATIC 89721 89729	(S)-acid
+T158	SYSTEMATIC 89818 89895	(S)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)-propionic acid
+T159	FORMULA 89912 89914	O2
+T160	SYSTEMATIC 90045 90138	(E)-2-(4-chlorophenyl)-3-[(2-methylpropan-2-yl)oxycarbonyl-propan-2-ylamino]prop-2-enoic acid
+T161	FORMULA 90167 90186	Ru(TFA)2((S)-BINAP)
+T162	SYSTEMATIC 90209 90216	ethanol
+T163	SYSTEMATIC 90274 90282	hydrogen
+T164	SYSTEMATIC 90443 90450	ethanol
+T165	SYSTEMATIC 90492 90570	(S)-3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T166	MULTIPLE 90685 90768	(S) or (R)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propionic acid
+T167	SYSTEMATIC 90832 90841	ruthenium
+T168	SYSTEMATIC 90900 90974	3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T169	SYSTEMATIC 91191 91199	hydrogen
+T170	FORMULA 91449 91468	Ru(OAc)2((S)-BINAP)
+T171	FORMULA 91489 91512	Ru(OAc)2((S)—MeOBIPHEP)
+T172	FORMULA 91533 91552	Ru(TFA)2((S)-BINAP)
+T173	FORMULA 91576 91603	[Ru((S)-BINAP)(AN))4](BF4)2
+T174	FORMULA 91625 91656	Ru(OAc)2((S)-2-Furyl-MeOBIPHEP)
+T175	SYSTEMATIC 91679 91710	RuCl2((S)-pTol-BINAP)(S,S-DPEN)
+T176	FORMULA 91733 91752	Ru(TFA)2((S)-TMBTP)
+T177	FORMULA 91776 91801	Ru(TFA)((S,S)-iPr-DUPHOS)
+T178	FORMULA 91826 91853	Ru(TFA)2((R)-3,5-Xyl-BINAP)
+T179	FORMULA 91877 91898	Ru(TFA)2((S)-BIPHEMP)
+T180	SYSTEMATIC 91920 91951	[Ru((R)-BINAP)(pCym)(AN)](BF4)2
+T181	FORMULA 91978 92004	[RuCl((S)-BINAP)(C6H6)]BF4
+T182	FORMULA 92027 92050	[RuI((S)-BINAP)(C6H6)]I
+T183	FORMULA 92071 92096	[RuBr((S)-BINAP)(C6H6)]Br
+T184	FORMULA 92118 92144	[Ru(OAc)2((S)-BINAP)]AlCl3
+T185	FORMULA 92216 92239	Ru(TFA)2((S)-BINAPHANE)
+T186	FORMULA 92435 92451	[Ru(COD)(TFA)2]2
+T187	SYSTEMATIC 92488 92499	diphosphine
+T188	SYSTEMATIC 92526 92533	ethanol
+T189	MULTIPLE 92571 92654	(S) or (R)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propionic acid
+T190	SYSTEMATIC 92818 92892	3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T191	SYSTEMATIC 93069 93077	hydrogen
+T192	FORMULA 93339 93358	Ru(OAc)2((S)-BINAP)
+T193	FORMULA 93360 93365	LiBF4
+T194	FORMULA 93391 93422	Ru(OAc)2((S)-2-Furyl-MeOBIPHEP)
+T195	FORMULA 93424 93428	HBF4
+T196	FORMULA 93452 93475	Ru(OAc)2((S)—MeOBIPHEP)
+T197	FORMULA 93477 93481	HBF4
+T198	FORMULA 93507 93526	Ru(OAc)2((S)-BINAP)
+T199	FORMULA 93528 93532	HBF4
+T200	FORMULA 93557 93576	Ru(TFA)2((S)-BINAP)
+T201	FORMULA 93578 93582	HBF4
+T202	FORMULA 93607 93626	Ru(OAc)2((S)-BINAP)
+T203	FORMULA 93628 93631	HCl
+T204	FORMULA 93659 93678	Ru(TFA)2((S)-BINAP)
+T205	FORMULA 93680 93685	H2SO4
+T206	FORMULA 93714 93733	Ru(TFA)2((S)-BINAP)
+T207	FORMULA 93735 93742	CH3SO3H
+T208	FORMULA 93771 93790	Ru(TFA)2((S)-BINAP)
+T209	FORMULA 93792 93796	LiCl
+T210	FORMULA 93821 93840	Ru(TFA)2((S)-BINAP)
+T211	FORMULA 93842 93846	LiBr
+T212	FORMULA 93871 93890	Ru(TFA)2((S)-BINAP)
+T213	FORMULA 93892 93895	LiI
+T214	MULTIPLE 94073 94156	(S) or (R)-3-(tert-butoxycarbonyl(isopropyl)amino)-2-(4-chlorophenyl)propionic acid
+T215	SYSTEMATIC 94257 94265	hydrogen
+T216	SYSTEMATIC 94350 94424	3-(tert-Butoxycarbonyl-isopropyl-amino)-2-(4-chloro-phenyl)-propionic acid
+T217	FORMULA 94691 94710	Ru(TFA)2((S)-BINAP)
+T218	FORMULA 94790 94794	EtOH
+T219	FORMULA 94823 94827	EtOH
+T220	FORMULA 94857 94861	EtOH
+T221	FORMULA 94887 94891	EtOH
+T222	FORMULA 94892 94895	H2O
+T223	FORMULA 94924 94928	EtOH
+T224	FORMULA 94929 94935	CH2Cl2
+T225	FORMULA 94965 94969	EtOH
+T226	FORMULA 94970 94975	EtOAc
+T227	FORMULA 95005 95010	iPrOH
+T228	FORMULA 95036 95042	CH2Cl2
+T229	FORMULA 95071 95075	EtOH
+T230	FORMULA 95105 95109	EtOH
+T231	FORMULA 95139 95143	EtOH
+T232	SYSTEMATIC 95217 95224	ethanol
+T233	SYSTEMATIC 95257 95264	ethanol
+T234	FORMULA 95318 95334	[Ru(COD)(TFA)2]2
+T235	SYSTEMATIC 95346 95355	(S)-BINAP
+T236	SYSTEMATIC 95382 95389	ethanol
+T237	SYSTEMATIC 95418 95518	(R)-tert-butyl 4-(5-methyl-7-oxo-5,6-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazine-1-carboxylate
+T238	SYSTEMATIC 95519 95568	(R)-methyl3-(4,6-dichloropyrimidin-5-yl)butanoate
+T239	SYSTEMATIC 95587 95638	(R)-methyl 3-(4,6-dihydroxypyrimidin-5-yl)butanoate
+T240	SYSTEMATIC 95660 95667	toluene
+T241	SYSTEMATIC 95682 95694	2,6-lutidine
+T242	SYSTEMATIC 95725 95748	phosphorous oxychloride
+T243	SYSTEMATIC 95908 95924	sodium hydroxide
+T244	FORMULA 95960 95963	H20
+T245	SYSTEMATIC 96066 96079	Ethyl acetate
+T246	SYSTEMATIC 96192 96205	ethyl acetate
+T247	SYSTEMATIC 96264 96281	hydrochloric acid
+T248	TRIVIAL 96298 96303	brine
+T249	SYSTEMATIC 96362 96376	sodium sulfate
+T250	SYSTEMATIC 96487 96499	acetonitrile
+T251	SYSTEMATIC 96574 96587	ethyl acetate
+T252	SYSTEMATIC 96592 96599	toluene
+T253	SYSTEMATIC 96736 96784	(R)-methyl 3-(4,6-diiodopyrimidin-5-yl)butanoate
+T254	SYSTEMATIC 96804 96854	(R)-methyl 3-(4,6-dichloropyrimidin-5-yl)butanoate
+T255	SYSTEMATIC 96877 96889	acetonitrile
+T256	SYSTEMATIC 96909 96922	sodium iodide
+T257	SYSTEMATIC 97018 97038	Methanesulfonic acid
+T258	SYSTEMATIC 97174 97199	N,N-diisopropylethylamine
+T259	SYSTEMATIC 97310 97324	sodium sulfite
+T260	SYSTEMATIC 97401 97407	iodine
+T261	TRIVIAL 97409 97414	Water
+T262	SYSTEMATIC 97592 97604	acetonitrile
+T263	SYSTEMATIC 97697 97790	(R)-tert-butyl 4-(6-iodo-5-(4-methoxy-4-oxobutan-2-yl)pyrimidin-4-yl)piperazine-1-carboxylate
+T264	SYSTEMATIC 97810 97858	(R)-methyl 3-(4,6-diiodopyrimidin-5-yl)butanoate
+T265	SYSTEMATIC 97881 97895	Boc-piperazine
+T266	SYSTEMATIC 97917 97925	methanol
+T267	SYSTEMATIC 97945 97970	N,N-diisopropylethylamine
+T268	SYSTEMATIC 98035 98043	Methanol
+T269	SYSTEMATIC 98133 98148	tetrahydrofuran
+T270	SYSTEMATIC 98237 98252	tetrahydrofuran
+T271	SYSTEMATIC 98282 98299	ammonium chloride
+T272	TRIVIAL 98316 98321	water
+T273	SYSTEMATIC 98397 98414	ammonium chloride
+T274	SYSTEMATIC 98421 98436	tetrahydrofuran
+T275	SYSTEMATIC 98524 98608	(R)-3-(4-(4-(tert-butoxycarbonyl)piperazin-1-yl)-6-iodo-pyrimidin-5-yl)butanoic acid
+T276	SYSTEMATIC 98628 98721	(R)-tert-butyl 4-(6-iodo-5-(4-methoxy-4-oxobutan-2-yl)pyrimidin-4-yl)piperazine-1-carboxylate
+T277	SYSTEMATIC 98744 98759	tetrahydrofuran
+T278	SYSTEMATIC 98793 98822	lithium hydroxide monohydrate
+T279	TRIVIAL 98855 98860	water
+T280	SYSTEMATIC 98988 99005	hydrochloric acid
+T281	SYSTEMATIC 99130 99147	isopropyl acetate
+T282	TRIVIAL 99208 99213	water
+T283	SYSTEMATIC 99302 99319	isopropyl acetate
+T284	SYSTEMATIC 99344 99351	heptane
+T285	SYSTEMATIC 99504 99612	(R)-tert-butyl 4-(6-iodo-5-(4-(methoxy(methyl)amino)-4-oxobutan-2-yl)pyrimidin-4-yl)piperazine-1-carboxylate
+T286	SYSTEMATIC 99632 99716	(R)-3-(4-(4-(tert-butoxycarbonyl)piperazin-1-yl)-6-iodo-pyrimidin-5-yl)butanoic acid
+T287	SYSTEMATIC 99738 99753	tetrahydrofuran
+T288	SYSTEMATIC 99773 99797	1,1′-carbonyldiimidazole
+T289	SYSTEMATIC 99901 99939	N,O-dimethylhydroxyamine hydrochloride
+T290	SYSTEMATIC 99993 100011	N-methylmorpholine
+T291	SYSTEMATIC 100160 100177	ammonium chloride
+T292	TRIVIAL 100191 100196	water
+T293	SYSTEMATIC 100302 100319	ammonium chloride
+T294	TRIVIAL 100333 100338	brine
+T295	TRIVIAL 100362 100367	water
+T296	SYSTEMATIC 100431 100446	tetrahydrofuran
+T297	SYSTEMATIC 100478 100493	tetrahydrofuran
+T298	SYSTEMATIC 100590 100690	(R)-tert-butyl 4-(5-methyl-7-oxo-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazine-1-carboxylate
+T299	SYSTEMATIC 100705 100813	(R)-tert-butyl 4-(6-iodo-5-(4-(methoxy(methyl)amino)-4-oxobutan-2-yl)pyrimidin-4-yl)piperazine-1-carboxylate
+T300	SYSTEMATIC 100835 100850	tetrahydrofuran
+T301	SYSTEMATIC 100876 100884	nitrogen
+T302	SYSTEMATIC 100897 100925	Isopropyl magnesium chloride
+T303	SYSTEMATIC 100963 100978	tetrahydrofuran
+T304	SYSTEMATIC 101104 101121	ammonium chloride
+T305	SYSTEMATIC 101258 101275	ammonium chloride
+T306	SYSTEMATIC 101286 101301	Tetrahydrofuran
+T307	SYSTEMATIC 101353 101376	Methyl tert-butyl ether
+T308	SYSTEMATIC 101485 101492	heptane
+T309	FORMULA 101751 101756	CDCl3
+T310	FORMULA 101928 101938	C17H25N403
+T311	SYSTEMATIC 101983 102087	tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T312	SYSTEMATIC 102120 102217	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T313	SYSTEMATIC 102250 102285	2-(N-morpholino)ethanesulfonic acid
+T314	SYSTEMATIC 102300 102310	2-Propanol
+T315	ABBREVIATION 102338 102342	NADP
+T316	SYSTEMATIC 102737 102755	iso-propyl acetate
+T317	TRIVIAL 102855 102860	water
+T318	SYSTEMATIC 102898 102916	iso-propyl acetate
+T319	SYSTEMATIC 102931 102949	iso-propyl acetate
+T320	FORMULA 102995 103000	MgSO4
+T321	SYSTEMATIC 103151 103168	isopropyl acetate
+T322	SYSTEMATIC 103304 103313	n-heptane
+T323	FORMULA 103322 103326	EtOH
+T324	ABBREVIATION 103331 103334	DEA
+T325	FORMULA 103471 103476	CDCl3
+T326	SYSTEMATIC 103637 103655	iso-propyl acetate
+T327	SYSTEMATIC 103676 103780	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T328	ABBREVIATION 103861 103865	NADP
+T329	ABBREVIATION 104021 104025	NADP
+T330	SYSTEMATIC 104249 104353	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T331	SYSTEMATIC 104386 104483	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T332	SYSTEMATIC 104516 104551	2-(N-morpholino)ethanesulfonic acid
+T333	SYSTEMATIC 104566 104576	2-Propanol
+T334	ABBREVIATION 104604 104608	NADP
+T335	SYSTEMATIC 105025 105043	iso-propyl acetate
+T336	TRIVIAL 105143 105148	water
+T337	SYSTEMATIC 105186 105204	iso-propyl acetate
+T338	SYSTEMATIC 105219 105237	iso-propyl acetate
+T339	FORMULA 105283 105288	MgSO4
+T340	SYSTEMATIC 105440 105457	isopropyl acetate
+T341	SYSTEMATIC 105592 105601	n-heptane
+T342	FORMULA 105610 105614	EtOH
+T343	ABBREVIATION 105619 105622	DEA
+T344	FORMULA 105756 105761	CDCl3
+T345	SYSTEMATIC 105960 105978	iso-propyl acetate
+T346	SYSTEMATIC 105992 106096	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T347	SYSTEMATIC 106129 106226	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T348	SYSTEMATIC 106259 106289	Potassium dihydrogen phosphate
+T349	SYSTEMATIC 106303 106321	Magnesium chloride
+T350	SYSTEMATIC 106329 106339	2-Propanol
+T351	ABBREVIATION 106367 106371	NADP
+T352	SYSTEMATIC 106764 106782	iso-propyl acetate
+T353	TRIVIAL 106882 106887	water
+T354	SYSTEMATIC 106925 106943	iso-propyl acetate
+T355	SYSTEMATIC 106958 106976	iso-propyl acetate
+T356	FORMULA 107022 107027	MgSO4
+T357	SYSTEMATIC 107178 107195	isopropyl acetate
+T358	SYSTEMATIC 107330 107339	n-heptane
+T359	FORMULA 107348 107352	EtOH
+T360	ABBREVIATION 107357 107360	DEA
+T361	FORMULA 107494 107499	CDCl3
+T362	SYSTEMATIC 107652 107670	iso-propyl acetate
+T363	SYSTEMATIC 107691 107795	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T364	SYSTEMATIC 107802 107899	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T365	SYSTEMATIC 107947 107957	2-Propanol
+T366	ABBREVIATION 108030 108033	MES
+T367	FORMULA 108042 108047	MgCl2
+T368	ABBREVIATION 108067 108071	NADP
+T369	FORMULA 108163 108167	MeOH
+T370	SYSTEMATIC 108573 108677	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T371	SYSTEMATIC 108710 108808	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]-pyrimidin-4-yl]piperazine-1-carboxylate
+T372	SYSTEMATIC 108842 108872	Potassium dihydrogen phosphate
+T373	SYSTEMATIC 108887 108897	2-Propanol
+T374	ABBREVIATION 108908 108911	NAD
+T375	SYSTEMATIC 109060 109068	nitrogen
+T376	SYSTEMATIC 109136 109152	isopropylacetate
+T377	SYSTEMATIC 109272 109288	isopropylacetate
+T378	SYSTEMATIC 109452 109459	Heptane
+T379	SYSTEMATIC 109604 109611	heptane
+T380	SYSTEMATIC 109749 109853	Tert-butyl 4-[(5R,7R)-7-hydroxy-5-methyl-6,7-dihydrocyclopenta[d]pyrimidin-4-yl]piperazine-1-carboxylate
+T381	SYSTEMATIC 109886 109984	tert-butyl 4-[(5R)-5-methyl-7-oxo-5,6-dihydrocyclopenta[d]-pyrimidin-4-yl]piperazine-1-carboxylate
+T382	FORMULA 110028 110034	KH2PO4
+T383	FORMULA 110045 110051	K2HPO4
+T384	TRIVIAL 110059 110066	Glucose
+T385	ABBREVIATION 110077 110080	NAD
+T386	FORMULA 110305 110308	KOH
+T387	SYSTEMATIC 110354 110370	isopropylacetate
+T388	FORMULA 110381 110386	NaSCN
+T389	TRIVIAL 110496 110501	water
+T390	SYSTEMATIC 110581 110597	isopropylacetate
+T391	SYSTEMATIC 110708 110715	Heptane
+T392	SYSTEMATIC 110870 110877	heptane
+T393	SYSTEMATIC 111015 111174	tert-butyl ((S)-2-(4-chlorophenyl)-3-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-oxopropyl)(isopropyl)carbamate
+T394	SYSTEMATIC 111245 111253	nitrogen
+T395	SYSTEMATIC 111291 111399	tert-butyl 4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazine-1-carboxylate
+T396	SYSTEMATIC 111424 111434	2-propanol
+T397	FORMULA 111495 111498	HCl
+T398	SYSTEMATIC 111502 111512	2-propanol
+T399	SYSTEMATIC 111670 111688	4-methylmorpholine
+T400	SYSTEMATIC 111766 111851	(S)-3-((tert-butoxycarbonyl)(isopropyl)amino)-2-(4-chlorophenyl)propanoic acid sodium
+T401	SYSTEMATIC 111881 111891	2-propanol
+T402	SYSTEMATIC 111955 111983	Propane phosphonic anhydride
+T403	ABBREVIATION 111985 111988	T3P
+T404	SYSTEMATIC 112007 112014	toluene
+T405	TRIVIAL 112122 112127	water
+T406	SYSTEMATIC 112241 112248	Toluene
+T407	TRIVIAL 112375 112380	Water
+T408	TRIVIAL 112522 112527	Water
+T409	TRIVIAL 112675 112680	water
+T410	SYSTEMATIC 112923 112932	n-Heptane
+T411	SYSTEMATIC 113007 113166	tert-butyl ((S)-2-(4-chlorophenyl)-3-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-oxopropyl)(isopropyl)carbamate
+T412	SYSTEMATIC 113191 113200	n-Heptane
+T413	SYSTEMATIC 113295 113302	toluene
+T414	SYSTEMATIC 113315 113324	n-heptane
+T415	SYSTEMATIC 113352 113359	heptane
+T416	SYSTEMATIC 113420 113579	tert-butyl ((S)-2-(4-chlorophenyl)-3-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-oxopropyl)(isopropyl)carbamate
+T417	FORMULA 113649 113654	CDCl3
+T418	SYSTEMATIC 113904 114067	(S)-2-(4-chlorophenyl)-1-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-(isopropylamino)propan-1-one monohydrochloride
+T419	SYSTEMATIC 114127 114135	nitrogen
+T420	SYSTEMATIC 114182 114341	tert-butyl ((S)-2-(4-chlorophenyl)-3-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-oxopropyl)(isopropyl)carbamate
+T421	SYSTEMATIC 114353 114363	2-propanol
+T422	FORMULA 114421 114424	HCl
+T423	SYSTEMATIC 114428 114438	2-propanol
+T424	SYSTEMATIC 114583 114590	Ammonia
+T425	SYSTEMATIC 114603 114613	2-propanol
+T426	SYSTEMATIC 114768 114778	2-propanol
+T427	SYSTEMATIC 114888 114901	Ethyl acetate
+T428	SYSTEMATIC 115013 115026	ethyl acetate
+T429	FORMULA 115128 115133	EtOAc
+T430	SYSTEMATIC 115200 115363	(S)-2-(4-chlorophenyl)-1-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-(isopropylamino)propan-1-one monohydrochloride
+T431	FORMULA 115425 115428	D2O
+T432	SYSTEMATIC 115709 115872	(S)-2-(4-chlorophenyl)-1-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-(isopropylamino)propan-1-one monohydrochloride
+T433	SYSTEMATIC 115932 115940	nitrogen
+T434	SYSTEMATIC 115987 116146	tert-butyl ((S)-2-(4-chlorophenyl)-3-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-oxopropyl)(isopropyl)carbamate
+T435	SYSTEMATIC 116158 116168	1-propanol
+T436	FORMULA 116226 116229	HCl
+T437	SYSTEMATIC 116233 116243	1-propanol
+T438	FORMULA 116392 116396	NaOH
+T439	SYSTEMATIC 116579 116592	ethyl acetate
+T440	SYSTEMATIC 116683 116693	1-propanol
+T441	SYSTEMATIC 116694 116707	ethyl acetate
+T442	TRIVIAL 116752 116760	charcoal
+T443	SYSTEMATIC 116817 116827	1-propanol
+T444	SYSTEMATIC 116828 116841	ethyl acetate
+T445	SYSTEMATIC 116988 117001	ethyl acetate
+T446	FORMULA 117133 117138	EtOAc
+T447	SYSTEMATIC 117204 117367	(S)-2-(4-chlorophenyl)-1-(4-((5R,7R)-7-hydroxy-5-methyl-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-yl)piperazin-1-yl)-3-(isopropylamino)propan-1-one monohydrochloride

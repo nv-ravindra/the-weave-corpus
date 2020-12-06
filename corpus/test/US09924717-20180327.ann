@@ -1,0 +1,412 @@
+T1	SYSTEMATIC 78899 78985	(Z)-2-bromo-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T2	SYSTEMATIC 79034 79049	2,2′-bipyridine
+T3	SYSTEMATIC 79072 79109	2-bromo-4-(1-fluorovinyl)benzoic acid
+T4	SYSTEMATIC 79141 79196	5-(1-bromo-2,2,2-trifluoroethyl)-1,2,3-trichlorobenzene
+T5	SYSTEMATIC 79220 79239	N-methylpyrrolidone
+T6	SYSTEMATIC 79276 79293	Copper(I) bromide
+T7	SYSTEMATIC 79367 79375	nitrogen
+T8	TRIVIAL 79493 79498	water
+T9	TRIVIAL 79513 79518	water
+T10	SYSTEMATIC 79577 79590	ethyl acetate
+T11	TRIVIAL 79613 79618	brine
+T12	TRIVIAL 79634 79639	water
+T13	SYSTEMATIC 79663 79680	magnesium sulfate
+T14	FORMULA 79786 79791	CDCl3
+T15	FORMULA 79960 79965	CDCl3
+T16	SYSTEMATIC 80129 80227	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T17	FORMULA 80289 80294	CDCl3
+T18	FORMULA 80458 80463	CDCl3
+T19	SYSTEMATIC 80530 80625	(Z)-4-(1,4,4-Trifluoro-3-(3,4,5-trichlorophenyl)pent-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T20	FORMULA 80690 80695	CDCl3
+T21	FORMULA 80890 80895	CDCl3
+T22	SYSTEMATIC 80959 81046	(Z)-2-Chloro-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T23	FORMULA 81110 81115	CDCl3
+T24	FORMULA 81284 81289	CDCl3
+T25	SYSTEMATIC 81362 81465	(Z)-4-(3-(3,5-Dibromo-4-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T26	SYSTEMATIC 81534 81629	(Z)-4-(3-(3,5-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T27	ABBREVIATION 81691 81698	DMSO-d6
+T28	SYSTEMATIC 81938 82033	(Z)-4-(3-(3,4-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T29	ABBREVIATION 82095 82102	DMSO-d6
+T30	SYSTEMATIC 82338 82432	(Z)-4-(3-(3,5-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T31	FORMULA 82494 82499	CDCl3
+T32	SYSTEMATIC 82702 82806	(Z)-4-(3-(3,5-Dichloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T33	FORMULA 82868 82873	CDCl3
+T34	SYSTEMATIC 83057 83161	(Z)-4-(3-(4-Chloro-3,5-dimethylphenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T35	FORMULA 83225 83230	CDCl3
+T36	SYSTEMATIC 83435 83538	(Z)-4-(3-(4-Bromo-3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T37	FORMULA 83617 83622	CDCl3
+T38	SYSTEMATIC 83792 83891	(Z)-4-(3-(3-Bromo-5-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T39	ABBREVIATION 83953 83960	DMSO-d6
+T40	SYSTEMATIC 84157 84251	(Z)-4-(3-(3,4-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T41	FORMULA 84314 84319	CDCl3
+T42	SYSTEMATIC 84546 84633	(Z)-2-Methyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T43	FORMULA 84698 84703	CDCl3
+T44	FORMULA 84851 84856	CDCl3
+T45	SYSTEMATIC 84927 85011	(Z)-2-Methyl-4-(1,4,4-trifluoro-3-(3,4,5-trichlorophenyl)pent-1-en-1-yl)benzoic acid
+T46	FORMULA 85078 85083	CDCl3
+T47	FORMULA 85249 85254	CDCl3
+T48	SYSTEMATIC 85306 85400	(Z)-4-(1,4,4-Trifluoro-3-(3,4,5-trichlorophenyl)hex-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T49	FORMULA 85467 85472	CDCl3
+T50	FORMULA 85698 85703	CDCl3
+T51	SYSTEMATIC 85952 86044	(Z)-4-(3-(3,4-Dichlorophenyl)-1,4,4-trifluoropent-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T52	FORMULA 86112 86117	CDCl3
+T53	FORMULA 86378 86383	CDCl3
+T54	SYSTEMATIC 86479 86571	(Z)-4-(3-(3,4-Dichlorophenyl)-1,4,4-trifluoropent-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T55	ABBREVIATION 86633 86640	DMSO-d6
+T56	SYSTEMATIC 86837 86937	(Z)-4-(3-(3-Chloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T57	FORMULA 87001 87006	CDCl3
+T58	SYSTEMATIC 87194 87294	(Z)-4-(3-(4-Chloro-3-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T59	FORMULA 87357 87362	CDCl3
+T60	SYSTEMATIC 87577 87655	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T61	FORMULA 87718 87723	CDCl3
+T62	FORMULA 87862 87867	CDCl3
+T63	SYSTEMATIC 87964 88049	(Z)-2-iodo-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T64	SYSTEMATIC 88083 88169	(Z)-2-bromo-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T65	SYSTEMATIC 88198 88214	copper(I) iodide
+T66	SYSTEMATIC 88245 88256	1,4-dioxane
+T67	SYSTEMATIC 88295 88308	Sodium iodide
+T68	SYSTEMATIC 88334 88376	trans-N,N′-dimethylcyclohexane-1,2-diamine
+T69	FORMULA 88636 88641	CDCl3
+T70	FORMULA 88810 88815	CDCl3
+T71	SYSTEMATIC 88901 88986	(Z)-2-iodo-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzoic acid
+T72	SYSTEMATIC 88993 89033	Tetrakis(triphenylphosphine)palladium(0)
+T73	SYSTEMATIC 89081 89184	(Z)-4-(3-(4-bromo-3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T74	SYSTEMATIC 89212 89219	toluene
+T75	SYSTEMATIC 89299 89307	nitrogen
+T76	SYSTEMATIC 89324 89347	Tributyl vinyl stannane
+T77	SYSTEMATIC 89458 89466	nitrogen
+T78	TRIVIAL 89557 89562	water
+T79	SYSTEMATIC 89587 89600	ethyl acetate
+T80	SYSTEMATIC 89635 89649	sodium sulfate
+T81	SYSTEMATIC 89733 89746	ethyl acetate
+T82	FAMILY 89747 89754	hexanes
+T83	FORMULA 89836 89841	CDCl3
+T84	SYSTEMATIC 90112 90214	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzoyl chloride
+T85	SYSTEMATIC 90247 90345	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T86	SYSTEMATIC 90374 90389	oxalyl chloride
+T87	SYSTEMATIC 90417 90438	N,N-dimethylformamide
+T88	SYSTEMATIC 90461 90476	dichloromethane
+T89	FORMULA 90687 90692	CDCl3
+T90	FORMULA 90856 90861	CDCl3
+T91	SYSTEMATIC 91002 91039	2-bromo-4-(1-fluorovinyl)benzoic acid
+T92	SYSTEMATIC 91090 91130	methyl 2-bromo-4-(1-fluorovinyl)benzoate
+T93	SYSTEMATIC 91156 91181	lithium hydroxide hydrate
+T94	SYSTEMATIC 91201 91209	methanol
+T95	SYSTEMATIC 91220 91235	tetrahydrofuran
+T96	TRIVIAL 91249 91254	water
+T97	SYSTEMATIC 91411 91424	ethyl acetate
+T98	FORMULA 91503 91508	CDCl3
+T99	FORMULA 91670 91675	CDCl3
+T100	SYSTEMATIC 91819 91868	4-(1-Fluorovinyl)-2-(trifluoromethyl)benzoic acid
+T101	SYSTEMATIC 91932 91943	methanol-d4
+T102	SYSTEMATIC 92089 92100	methanol-d4
+T103	SYSTEMATIC 92159 92197	2-Chloro-4-(1-fluorovinyl)benzoic acid
+T104	SYSTEMATIC 92261 92271	acetone-d6
+T105	SYSTEMATIC 92427 92437	acetone-d6
+T106	SYSTEMATIC 92474 92512	4-(1-fluorovinyl)-2-methylbenzoic acid
+T107	SYSTEMATIC 92578 92589	methanol-d4
+T108	SYSTEMATIC 92749 92760	methanol-d4
+T109	SYSTEMATIC 92837 92889	methyl 4-(1-fluorovinyl)-2-(trifluoromethyl)benzoate
+T110	SYSTEMATIC 92939 92981	methyl 4-bromo-2-(trifluoromethyl)benzoate
+T111	SYSTEMATIC 93003 93040	(1-fluorovinyl)(methyl)diphenylsilane
+T112	SYSTEMATIC 93066 93096	1,3-dimethylimidazolidin-2-one
+T113	SYSTEMATIC 93106 93146	Tetrakis(triphenylphosphine)palladium(0)
+T114	SYSTEMATIC 93170 93186	copper(I) iodide
+T115	SYSTEMATIC 93216 93231	cesium fluoride
+T116	SYSTEMATIC 93333 93341	nitrogen
+T117	TRIVIAL 93354 93359	Water
+T118	FAMILY 93422 93429	hexanes
+T119	SYSTEMATIC 93430 93443	diethyl ether
+T120	SYSTEMATIC 93507 93521	sodium sulfate
+T121	FORMULA 93676 93681	CDCl3
+T122	FORMULA 93858 93863	CDCl3
+T123	SYSTEMATIC 94012 94052	Methyl 2-bromo-4-(1-fluorovinyl)benzoate
+T124	FORMULA 94118 94123	CDCl3
+T125	FORMULA 94309 94314	CDCl3
+T126	SYSTEMATIC 94365 94406	Methyl 2-chloro-4-(1-fluorovinyl)benzoate
+T127	FORMULA 94472 94477	CDCl3
+T128	FORMULA 94659 94664	CDCl3
+T129	SYSTEMATIC 94715 94756	Methyl 2-chloro-4-(1-fluorovinyl)benzoate
+T130	SYSTEMATIC 94822 94833	methanol-d4
+T131	SYSTEMATIC 95023 95034	methanol-d4
+T132	SYSTEMATIC 95111 95160	4-(1-fluorovinyl)-2-(trifluoromethyl)benzoic acid
+T133	SYSTEMATIC 95175 95232	4-(2-Bromo-1-fluoroethyl)-2-(trifluoromethyl)benzoic acid
+T134	SYSTEMATIC 95239 95278	2-(Trifluoromethyl)-4-vinylbenzoic acid
+T135	SYSTEMATIC 95313 95328	dichloromethane
+T136	SYSTEMATIC 95348 95378	triethylamine trihydrofluoride
+T137	SYSTEMATIC 95419 95437	N-bromosuccinimide
+T138	TRIVIAL 95537 95542	Water
+T139	SYSTEMATIC 95586 95601	dichloromethane
+T140	SYSTEMATIC 95614 95628	sodium sulfate
+T141	SYSTEMATIC 95768 95817	4-(1-Fluorovinyl)-2-(trifluoromethyl)benzoic acid
+T142	SYSTEMATIC 95824 95881	4-(2-Bromo-1-fluoroethyl)-2-(trifluoromethyl)benzoic acid
+T143	SYSTEMATIC 95916 95924	methanol
+T144	SYSTEMATIC 95946 95969	potassium tert-butoxide
+T145	SYSTEMATIC 96112 96129	Hydrochloric acid
+T146	SYSTEMATIC 96189 96202	ethyl acetate
+T147	SYSTEMATIC 96260 96267	acetone
+T148	FAMILY 96268 96275	hexanes
+T149	FORMULA 96357 96362	CDCl3
+T150	SYSTEMATIC 96594 96623	4-(1-Fluorovinyl)benzoic acid
+T151	FORMULA 96687 96692	CDCl3
+T152	FORMULA 96819 96824	CDCl3
+T153	SYSTEMATIC 96861 96899	4-(1-Fluorovinyl)-2-methylbenzoic acid
+T154	FORMULA 96967 96972	CDCl3
+T155	FORMULA 97119 97124	CDCl3
+T156	SYSTEMATIC 97163 97216	5-(1-bromo-2,2-difluoropropyl)-1,2,3-trichlorobenzene
+T157	SYSTEMATIC 97223 97241	N-Bromosuccinimide
+T158	SYSTEMATIC 97289 97338	2,2-difluoro-1-(3,4,5-trichlorophenyl)propan-1-ol
+T159	SYSTEMATIC 97368 97383	dichloromethane
+T160	SYSTEMATIC 97430 97449	triphenyl phosphite
+T161	SYSTEMATIC 97659 97672	diethyl ether
+T162	FAMILY 97800 97807	hexanes
+T163	FORMULA 97909 97914	CDCl3
+T164	FORMULA 98007 98012	CDCl3
+T165	SYSTEMATIC 98149 98209	1,3-Dibromo-5-(1-bromo-2,2,2-trifluoroethyl)-2-chlorobenzene
+T166	ABBREVIATION 98270 98277	DMSO-d6
+T167	SYSTEMATIC 98379 98440	5-(1-Bromo-2,2,2-trifluoroethyl)-2-chloro-1,3-dimethylbenzene
+T168	ABBREVIATION 98503 98510	DMSO-d6
+T169	SYSTEMATIC 98616 98676	2-Bromo-5-(1-bromo-2,2,2-trifluoroethyl)-1,3-dichlorobenzene
+T170	FORMULA 98737 98742	CDCl3
+T171	FORMULA 98802 98807	CDCl3
+T172	SYSTEMATIC 98819 98869	4-(1-Bromo-2,2-difluoropropyl)-1,2-dichlorobenzene
+T173	ABBREVIATION 98939 98946	DMSO-d6
+T174	SYSTEMATIC 99100 99156	2-Bromo-4-(1-bromo-2,2,2-trifluoroethyl)-1-chlorobenzene
+T175	FORMULA 99226 99231	CDCl3
+T176	SYSTEMATIC 99381 99438	4-(1-Bromo-2,2,2-trifluoroethyl)-2-chloro-1-fluorobenzene
+T177	FORMULA 99504 99509	CDCl3
+T178	SYSTEMATIC 99656 99713	4-(1-Bromo-2,2,2-trifluoroethyl)-1-chloro-2-fluorobenzene
+T179	FORMULA 99776 99781	CDCl3
+T180	SYSTEMATIC 99935 99987	5-(1-bromo-2,2-difluorobutyl)-1,2,3-trichlorobenzene
+T181	SYSTEMATIC 99994 100007	Triethylamine
+T182	SYSTEMATIC 100033 100057	methanesulfonyl chloride
+T183	SYSTEMATIC 100107 100155	2,2-difluoro-1-(3,4,5-trichlorophenyl)butan-1-ol
+T184	SYSTEMATIC 100185 100200	dichloromethane
+T185	SYSTEMATIC 100266 100273	pentane
+T186	SYSTEMATIC 100402 100417	dichloromethane
+T187	SYSTEMATIC 100437 100454	iron(III) bromide
+T188	TRIVIAL 100558 100563	water
+T189	SYSTEMATIC 100588 100603	dichloromethane
+T190	TRIVIAL 100635 100640	brine
+T191	SYSTEMATIC 100653 100667	sodium sulfate
+T192	FAMILY 100747 100754	hexanes
+T193	FORMULA 100842 100847	CDCl3
+T194	FORMULA 100951 100956	CDCl3
+T195	SYSTEMATIC 101131 101180	2,2-difluoro-1-(3,4,5-trichlorophenyl)propan-1-ol
+T196	SYSTEMATIC 101187 101237	2,2-Difluoro-1-(3,4,5-trichlorophenyl)propan-1-one
+T197	SYSTEMATIC 101281 101289	methanol
+T198	SYSTEMATIC 101324 101342	sodium borohydride
+T199	TRIVIAL 101493 101498	water
+T200	SYSTEMATIC 101518 101531	diethyl ether
+T201	TRIVIAL 101567 101572	brine
+T202	SYSTEMATIC 101585 101599	sodium sulfate
+T203	SYSTEMATIC 101685 101692	acetone
+T204	FAMILY 101693 101700	hexanes
+T205	FORMULA 101797 101802	CDCl3
+T206	FORMULA 101897 101902	CDCl3
+T207	SYSTEMATIC 102058 102106	2,2-Difluoro-1-(3,4,5-trichlorophenyl)butan-1-ol
+T208	FORMULA 102182 102187	CDCl3
+T209	FORMULA 102344 102349	CDCl3
+T210	SYSTEMATIC 102494 102540	1-(3,4-Dichlorophenyl)-2,2-difluoropropan-1-ol
+T211	FORMULA 102617 102622	CDCl3
+T212	FORMULA 102802 102807	CDCl3
+T213	SYSTEMATIC 102913 102962	1-(3-bromo-4-chlorophenyl)-2,2,2-trifluoroethanol
+T214	SYSTEMATIC 102969 103001	Trimethyl(trifluoromethyl)silane
+T215	SYSTEMATIC 103027 103054	tetrabutylammonium fluoride
+T216	SYSTEMATIC 103111 103140	3-bromo-4-chloro-benzaldehyde
+T217	SYSTEMATIC 103164 103179	tetrahydrofuran
+T218	SYSTEMATIC 103297 103312	dichloromethane
+T219	SYSTEMATIC 103329 103346	hydrochloric acid
+T220	TRIVIAL 103398 103403	brine
+T221	SYSTEMATIC 103416 103430	sodium sulfate
+T222	FORMULA 103581 103586	CDCl3
+T223	SYSTEMATIC 103836 103890	1-(3,5-Dibromo-4-chlorophenyl)-2, 2,2-trifluoroethanol
+T224	ABBREVIATION 103961 103968	DMSO-d6
+T225	SYSTEMATIC 104097 104151	1-(4-Chloro-3,5-dimethylphenyl)-2,2,2-trifluoroethanol
+T226	FORMULA 104216 104221	CDCl3
+T227	SYSTEMATIC 104330 104383	1-(4-Bromo-3,5-dichlorophenyl)-2,2,2-trifluoroethanol
+T228	FORMULA 104444 104449	CDCl3
+T229	FORMULA 104523 104528	CDCl3
+T230	SYSTEMATIC 104540 104590	1-(3-Chloro-4-fluorophenyl)-2,2,2-trifluoroethanol
+T231	FORMULA 104662 104667	CDCl3
+T232	SYSTEMATIC 104768 104818	1-(4-Chloro-3-fluorophenyl)-2,2,2-trifluoroethanol
+T233	FORMULA 104895 104900	CDCl3
+T234	FORMULA 105043 105048	CDCl3
+T235	SYSTEMATIC 105250 105301	2,2-difluoro-1-(3,4,5-trichlorophenyl) propan-1-one
+T236	SYSTEMATIC 105311 105341	5-bromo-1,2,3-trichlorobenzene
+T237	SYSTEMATIC 105375 105388	diethyl ether
+T238	SYSTEMATIC 105416 105424	nitrogen
+T239	SYSTEMATIC 105435 105449	n-butyllithium
+T240	SYSTEMATIC 105531 105559	ethyl 2,2-difluoropropanoate
+T241	SYSTEMATIC 105605 105612	toluene
+T242	SYSTEMATIC 105719 105736	ammonium chloride
+T243	SYSTEMATIC 105893 105906	diethyl ether
+T244	TRIVIAL 105920 105925	water
+T245	TRIVIAL 105930 105935	brine
+T246	SYSTEMATIC 105948 105962	sodium sulfate
+T247	FORMULA 106117 106122	CDCl3
+T248	FORMULA 106193 106198	CDCl3
+T249	SYSTEMATIC 106328 106377	2,2-Difluoro-1-(3,4,5-trichlorophenyl)butan-1-one
+T250	SYSTEMATIC 106475 106522	1-(3,4-Dichlorophenyl)-2,2-difluoropropan-1-one
+T251	FORMULA 106589 106594	CDCl3
+T252	FORMULA 106709 106714	CDCl3
+T253	SYSTEMATIC 106789 106909	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-2-(trifluoromethyl)benzamide
+T254	SYSTEMATIC 106942 107040	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T255	SYSTEMATIC 107068 107093	2,2,2-trifluoroethanamine
+T256	SYSTEMATIC 107116 107207	((1H-benzo[d][1,2,3]triazol-1-yl)oxy)tri(pyrrolidin-1-yl)phosphonium hexafluorophosphate(V)
+T257	SYSTEMATIC 107234 107249	dichloromethane
+T258	SYSTEMATIC 107289 107302	Triethylamine
+T259	SYSTEMATIC 107650 107776	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T260	SYSTEMATIC 107827 107932	N-Cyclopropyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T261	SYSTEMATIC 107983 108101	N-(4,4-Difluorocyclohexyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T262	SYSTEMATIC 108148 108256	(Z)-(2-Bromo-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)phenyl)(pyrrolidin-1-yl)methanone
+T263	SYSTEMATIC 108303 108422	(Z)-Pyrrolidin-1-yl(4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)phenyl) methanone
+T264	SYSTEMATIC 108469 108580	(Z)-2-Chloro-N-(4,4-difluorocyclohexyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)benzamide
+T265	SYSTEMATIC 108626 108737	(Z)-2-Bromo-N-(4,4-difluorocyclohexyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl) but-1-en-1-yl)benzamide
+T266	SYSTEMATIC 108789 108913	N-((6-Chloropyridin-3-yl)methyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T267	SYSTEMATIC 108972 109074	N-Cyclopropyl-4-(3-(3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T268	SYSTEMATIC 109085 109198	N-Chloropyridin-3-yl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T269	SYSTEMATIC 109253 109362	(Z)-2-Methyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)benzamide
+T270	SYSTEMATIC 109410 109510	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)benzamide
+T271	SYSTEMATIC 109585 109699	(Z)—N-cyclopropyl-4-(3-(3,5-dibromo-4-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T272	SYSTEMATIC 109706 109727	Diisopropylethylamine
+T273	SYSTEMATIC 109749 109805	2-chloro-1,3-dimethylimidazolidinium hexafluorophosphate
+T274	SYSTEMATIC 109827 109855	1-hydroxy-7-azabenzotriazole
+T275	SYSTEMATIC 109882 109898	cyclopropanamine
+T276	SYSTEMATIC 109954 110057	(Z)-4-(3-(3,5-dibromo-4-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T277	SYSTEMATIC 110086 110101	dichloromethane
+T278	TRIVIAL 110219 110224	water
+T279	SYSTEMATIC 110241 110256	dichloromethane
+T280	TRIVIAL 110302 110307	water
+T281	TRIVIAL 110309 110314	brine
+T282	SYSTEMATIC 110327 110341	sodium sulfate
+T283	SYSTEMATIC 110443 110456	ethyl acetate
+T284	FAMILY 110457 110472	petroleum ether
+T285	SYSTEMATIC 110638 110761	4-((Z)-3-(3,5-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T286	SYSTEMATIC 110809 110936	4-((Z)-3-(3,4-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N—((R)-1,1,1-trifluoropropan-2-yl)benzamide
+T287	SYSTEMATIC 110984 111112	(Z)-(4-(3-(4-Bromo-3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T288	SYSTEMATIC 111167 111281	(Z)-4-(3-(4-Bromo-3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-cyclopropyl-2-(trifluoromethyl)benzamide
+T289	SYSTEMATIC 111338 111457	(Z)-4-(3-(3,4-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T290	SYSTEMATIC 111510 111629	(Z)-4-(3-(3,5-Dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T291	SYSTEMATIC 111676 111808	(Z)-4-(3-(3,5-Dichloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T292	SYSTEMATIC 111856 111978	(Z)-4-(3-(3,5-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T293	SYSTEMATIC 112026 112158	4-((Z)-3-(4-Chloro-3,5-dimethylphenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T294	SYSTEMATIC 112206 112333	(Z)-4-(3-(4-Chloro-3,5-dimethylphenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T295	SYSTEMATIC 112381 112508	(Z)-4-(3-(3,5-Dibromo-4-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T296	SYSTEMATIC 112559 112661	N-Cyclopropyl-4-(3-(3,4-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T297	SYSTEMATIC 112709 112840	4-((Z)-3-(3,5-Dibromo-4-chlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T298	SYSTEMATIC 112896 113011	(Z)-4-(3-(4-Chloro-3,5-dimethylphenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-cyclopropyl-2-(trifluoromethyl)benzamide
+T299	SYSTEMATIC 113059 113190	4-((Z)-3-(4-Bromo-3,5-dichlorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T300	SYSTEMATIC 113238 113356	(Z)-4-(3-(3,5-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T301	SYSTEMATIC 113403 113531	(Z)-4-(3-(3,5-Dichloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T302	SYSTEMATIC 113582 113683	N-Cyclopropyl-4-(3-(3,5-dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T303	SYSTEMATIC 113735 113846	N-Cyclopropyl-4-(3-(3,5-dichloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T304	SYSTEMATIC 113894 114012	(Z)-4-(3-(3,4-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(4,4-difluorocyclohexyl)-2-(trifluoromethyl)benzamide
+T305	SYSTEMATIC 114060 114182	4-((Z)-3-(3,4-Dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)-N-(1,1,1-trifluoropropan-2-yl)benzamide
+T306	SYSTEMATIC 114234 114335	N-Cyclopropyl-4-(3-(3,4-dibromophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T307	SYSTEMATIC 114410 114532	(Z)—N-(3,3-difluorocyclobutyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T308	SYSTEMATIC 114538 114636	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzoic acid
+T309	SYSTEMATIC 114665 114681	thionyl chloride
+T310	SYSTEMATIC 114710 114728	1,2-dichloroethane
+T311	SYSTEMATIC 114845 114860	dichloromethane
+T312	SYSTEMATIC 114902 114943	3,3-difluorocyclobutanamine hydrochloride
+T313	SYSTEMATIC 114968 114981	triethylamine
+T314	SYSTEMATIC 115010 115025	dichloromethane
+T315	SYSTEMATIC 115129 115144	dichloromethane
+T316	SYSTEMATIC 115161 115178	hydrochloric acid
+T317	SYSTEMATIC 115258 115276	sodium bicarbonate
+T318	TRIVIAL 115278 115283	brine
+T319	SYSTEMATIC 115296 115313	magnesium sulfate
+T320	SYSTEMATIC 115505 115625	4-((Z)-1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N—((R)-1-(p-tolyl)ethyl)-2-(trifluoromethyl)benzamide
+T321	SYSTEMATIC 115676 115794	N-(3,3-Difluorocyclohexyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T322	SYSTEMATIC 115841 115969	N—((R)-1-(3-Methoxyphenyl)ethyl)-4-((Z)-1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T323	SYSTEMATIC 116017 116112	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T324	SYSTEMATIC 116163 116288	N-Methyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-2-(trifluoromethyl)benzamide
+T325	SYSTEMATIC 116369 116497	(E)-N-((dimethylamino)methylene)-4-((Z)-1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T326	SYSTEMATIC 116547 116643	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl) but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T327	SYSTEMATIC 116673 116710	N,N-dimethylformamide dimethyl acetal
+T328	SYSTEMATIC 116738 116745	toluene
+T329	SYSTEMATIC 116922 116935	ethyl acetate
+T330	FAMILY 116936 116943	hexanes
+T331	SYSTEMATIC 117038 117164	N-((E/Z)-(methoxyimino)methyl)-4-((Z)-1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T332	SYSTEMATIC 117188 117223	O-methylhydroxylamine hydrochloride
+T333	TRIVIAL 117248 117253	water
+T334	SYSTEMATIC 117268 117279	acetic acid
+T335	SYSTEMATIC 117313 117329	sodium hydroxide
+T336	TRIVIAL 117356 117361	water
+T337	SYSTEMATIC 117422 117550	(E)-N-((dimethylamino)methylene)-4-((Z)-1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T338	SYSTEMATIC 117582 117589	dioxane
+T339	SYSTEMATIC 117699 117712	diethyl ether
+T340	SYSTEMATIC 117759 117777	sodium bicarbonate
+T341	SYSTEMATIC 117846 117859	diethyl ether
+T342	SYSTEMATIC 117874 117887	diethyl ether
+T343	TRIVIAL 117912 117917	brine
+T344	SYSTEMATIC 117930 117947	magnesium sulfate
+T345	SYSTEMATIC 118031 118044	diethyl ether
+T346	FAMILY 118045 118052	hexanes
+T347	SYSTEMATIC 118216 118320	(Z)—N-Formyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T348	SYSTEMATIC 118373 118402	3,3,3-trifluoropropan-1-amine
+T349	SYSTEMATIC 118415 118433	sodium bicarbonate
+T350	SYSTEMATIC 118462 118587	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-2-(trifluoromethyl)benzothioamide
+T351	SYSTEMATIC 118594 118715	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl) but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-2-(trifluoromethyl)benzamide
+T352	SYSTEMATIC 118743 118809	2,4-bis(4-methoxyphenyl)-1,3,2,4-dithiadiphosphetane 2,4-disulfide
+T353	SYSTEMATIC 118835 118853	1,2-dichloroethane
+T354	SYSTEMATIC 119070 119085	dichloromethane
+T355	SYSTEMATIC 119108 119126	sodium bicarbonate
+T356	SYSTEMATIC 119194 119212	sodium bicarbonate
+T357	SYSTEMATIC 119230 119244	sodium sulfate
+T358	SYSTEMATIC 119347 119360	ethyl acetate
+T359	FAMILY 119361 119368	hexanes
+T360	SYSTEMATIC 119524 119658	(Z)—N-Methyl-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-2-(trifluoromethyl)benzothioamide
+T361	SYSTEMATIC 120224 120307	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-1-naphthoic acid
+T362	FORMULA 120373 120378	CDCl3
+T363	SYSTEMATIC 120669 120703	4-(1-Fluorovinyl)-1-naphthoic acid
+T364	ABBREVIATION 120789 120796	DMSO-d6
+T365	SYSTEMATIC 120992 121016	4-vinyl-1-naphthoic acid
+T366	SYSTEMATIC 121048 121072	4-bromo-1-naphthoic acid
+T367	SYSTEMATIC 121096 121114	dimethyl sulfoxide
+T368	SYSTEMATIC 121135 121165	potassium vinyltrifluoroborate
+T369	SYSTEMATIC 121187 121206	potassium carbonate
+T370	SYSTEMATIC 121231 121291	[1,1′-bis(diphenylphosphino)ferrocene]-dichloropalladium(II)
+T371	SYSTEMATIC 121463 121480	hydrochloric acid
+T372	TRIVIAL 121503 121508	water
+T373	SYSTEMATIC 121550 121563	ethyl acetate
+T374	TRIVIAL 121599 121604	brine
+T375	SYSTEMATIC 121617 121631	sodium sulfate
+T376	FORMULA 121756 121760	SiO2
+T377	SYSTEMATIC 121782 121795	ethyl acetate
+T378	FAMILY 121799 121806	hexanes
+T379	SYSTEMATIC 121910 121920	acetone-d6
+T380	SYSTEMATIC 122208 122313	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(2,2,2-trifluoroethyl)-1-naphthamide
+T381	SYSTEMATIC 122364 122478	N-(1-Cyanocyclopropyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T382	SYSTEMATIC 122526 122672	4-((Z)-1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N—((R)-1-((2,2,2-trifluoroethyl)amino)propan-2-yl)-2-(trifluoromethyl)benzamide
+T383	SYSTEMATIC 122814 122926	(Z)-4-(1,4,4,4-Tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(thietan-3-yl)-2-(trifluoromethyl)benzamide
+T384	SYSTEMATIC 123078 123202	N-((2-Chloropyridin-4-yl)methyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T385	SYSTEMATIC 123255 123369	N-(Pyridin-2-ylmethyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T386	SYSTEMATIC 123420 123537	N-(1-(Pyridin-2-yl)ethyl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T387	SYSTEMATIC 123584 123708	(Z)-4-(3-(3-Chloro-4-fluorophenyl)-1,4,4,4-tetrafluorobut-1-en-1-yl)-N-(3,3-difluorocyclobutyl)-2-(trifluoromethyl)benzamide
+T388	SYSTEMATIC 123787 123906	(Z)—N-(1-Oxidothietan-3-yl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl benzamide
+T389	SYSTEMATIC 123938 124050	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(thietan-3-yl)-2-(trifluoromethyl)benzamide
+T390	SYSTEMATIC 124081 124096	dichloromethane
+T391	SYSTEMATIC 124138 124161	3-chloroperbenzoic acid
+T392	FORMULA 124339 124343	SiO2
+T393	SYSTEMATIC 124376 124389	ethyl acetate
+T394	FAMILY 124393 124400	hexanes
+T395	SYSTEMATIC 124495 124618	(Z)—N-(1,1-Dioxidothietan-3-yl)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-2-(trifluoromethyl)benzamide
+T396	SYSTEMATIC 124650 124762	(Z)-4-(1,4,4,4-tetrafluoro-3-(3,4,5-trichlorophenyl)but-1-en-1-yl)-N-(thietan-3-yl)-2-(trifluoromethyl)benzamide
+T397	SYSTEMATIC 124793 124808	dichloromethane
+T398	SYSTEMATIC 124850 124873	3-chloroperbenzoic acid
+T399	FORMULA 125104 125108	SiO2
+T400	SYSTEMATIC 125141 125154	ethyl acetate
+T401	FAMILY 125158 125165	hexanes
+T402	SYSTEMATIC 125260 125322	(R)—N1-(2,2,2-trifluoroethyl)propane-1,2-diamine hydrochloride
+T403	SYSTEMATIC 125329 125335	Borane
+T404	SYSTEMATIC 125339 125354	tetrahydrofuran
+T405	SYSTEMATIC 125408 125455	(R)-2-amino-N-(2,2,2-trifluoroethyl)propanamide
+T406	SYSTEMATIC 125479 125494	tetrahydrofuran
+T407	SYSTEMATIC 125644 125659	dichloromethane
+T408	SYSTEMATIC 125687 125704	hydrogen chloride
+T409	SYSTEMATIC 125708 125715	dioxane
+T410	FAMILY 125787 125794	hexanes
+T411	SYSTEMATIC 125872 125883	methanol-d4
+T412	SYSTEMATIC 126024 126035	methanol-d4

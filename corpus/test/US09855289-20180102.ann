@@ -1,0 +1,849 @@
+T1	SYSTEMATIC 159776 159944	1-((2R,3R,4S)-5-(((4-(3-Chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T2	SYSTEMATIC 159970 160082	(3-carbamoyl-1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium triflate salt)
+T3	SYSTEMATIC 160114 160122	nitrogen
+T4	ABBREVIATION 160148 160151	ACN
+T5	SYSTEMATIC 160218 160231	sulfuric acid
+T6	SYSTEMATIC 160297 160317	2,2-dimethoxypropane
+T7	SYSTEMATIC 160376 160411	nicotinamide riboside triflate salt
+T8	SYSTEMATIC 160626 160642	sodium carbonate
+T9	TRIVIAL 160652 160657	water
+T10	SYSTEMATIC 160745 160754	carbonate
+T11	FORMULA 160860 160864	MeOH
+T12	TRIVIAL 160904 160909	water
+T13	TRIVIAL 161024 161032	charcoal
+T14	TRIVIAL 161120 161126	Celite
+T15	FORMULA 161150 161154	MeOH
+T16	ABBREVIATION 161246 161249	ACN
+T17	SYSTEMATIC 161338 161448	3-carbamoyl-1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium triflate salt
+T18	FORMULA 161488 161493	CDCl3
+T19	SYSTEMATIC 161672 161790	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T20	SYSTEMATIC 161851 161947	3-carbamoyl-1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium
+T21	ABBREVIATION 161955 161958	DCM
+T22	FORMULA 162009 162012	H2O
+T23	SYSTEMATIC 162042 162047	argon
+T24	FORMULA 162165 162171	NaHCO3
+T25	SYSTEMATIC 162203 162220	sodium dithionite
+T26	SYSTEMATIC 162388 162405	sodium dithionite
+T27	ABBREVIATION 162534 162537	DCM
+T28	ABBREVIATION 162557 162560	DCM
+T29	SYSTEMATIC 162582 162596	sodium sulfate
+T30	FORMULA 162738 162742	MeOH
+T31	ABBREVIATION 162746 162749	DCM
+T32	SYSTEMATIC 162812 162930	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T33	FORMULA 162956 162961	CDCl3
+T34	SYSTEMATIC 163088 163259	1-((3aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T35	SYSTEMATIC 163330 163335	argon
+T36	SYSTEMATIC 163370 163488	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T37	SYSTEMATIC 163496 163501	argon
+T38	SYSTEMATIC 163507 163516	acetonide
+T39	ABBREVIATION 163544 163547	DMF
+T40	SYSTEMATIC 163573 163601	tert-butylmagnesium chloride
+T41	ABBREVIATION 163620 163623	THF
+T42	SYSTEMATIC 163717 163789	(±)-4-(3-chlorophenyl)-2-(4-nitrophenoxy)-1,3,2-dioxaphosphinane 2-oxide
+T43	ABBREVIATION 163849 163852	DMF
+T44	ABBREVIATION 164047 164050	ACN
+T45	TRIVIAL 164167 164173	silica
+T46	FORMULA 164199 164203	MeOH
+T47	ABBREVIATION 164207 164210	DCM
+T48	SYSTEMATIC 164287 164458	1-((3aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T49	FORMULA 164497 164502	CDCl3
+T50	FORMULA 164642 164647	CDCl3
+T51	SYSTEMATIC 164709 164874	1-((3 aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide
+T52	SYSTEMATIC 164925 165096	1-((3aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T53	FORMULA 165120 165124	MeOH
+T54	FORMULA 165174 165184	CoAc2-4H2O
+T55	FORMULA 165269 165273	H2O2
+T56	SYSTEMATIC 165452 165469	hydrogen peroxide
+T57	TRIVIAL 165554 165572	QuadraSil AP resin
+T58	TRIVIAL 165582 165587	water
+T59	FORMULA 165685 165689	MeOH
+T60	FORMULA 165690 165693	H2O
+T61	FORMULA 165743 165747	MeOH
+T62	SYSTEMATIC 165788 165953	1-((3 aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide
+T63	SYSTEMATIC 166071 166239	1-((2R,3R,4S)-5-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T64	SYSTEMATIC 166307 166479	1-((3aR,4R,6aR)-6-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate
+T65	ABBREVIATION 166505 166508	DCM
+T66	ABBREVIATION 166551 166554	TFA
+T67	FORMULA 166555 166558	H2O
+T68	SYSTEMATIC 166714 166726	acetonitrile
+T69	TRIVIAL 166817 166823	silica
+T70	FORMULA 166834 166838	MeOH
+T71	ABBREVIATION 166842 166845	DCM
+T72	SYSTEMATIC 166861 166872	formic acid
+T73	TRIVIAL 166880 166885	water
+T74	TRIVIAL 166960 166965	water
+T75	SYSTEMATIC 166989 167000	formic acid
+T76	SYSTEMATIC 167056 167235	1-((2R,3R,4S)-5-(((4-(3-chlorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide as the trifluoroacetic acid salt
+T77	ABBREVIATION 167342 167348	ACN-d3
+T78	FORMULA 167353 167356	D2O
+T79	ABBREVIATION 167478 167484	ACN-d3
+T80	FORMULA 167489 167492	D2O
+T81	SYSTEMATIC 167552 167724	1-((2R,3R,4S)-5-(((4-(3,5-Difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T82	SYSTEMATIC 167750 167925	1-((3aR,4R,6aR)-6-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T83	SYSTEMATIC 167990 168109	1-((3 aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T84	SYSTEMATIC 168127 168135	nitrogen
+T85	SYSTEMATIC 168141 168150	acetonide
+T86	ABBREVIATION 168178 168181	DMF
+T87	SYSTEMATIC 168219 168247	tert-butylmagnesium chloride
+T88	FORMULA 168255 168260	MeTHF
+T89	SYSTEMATIC 168342 168418	(±)-4-(3,5-difluorophenyl)-2-(4-nitrophenoxy)-1,3,2-dioxaphosphinane 2-oxide
+T90	ABBREVIATION 168472 168475	DMF
+T91	ABBREVIATION 168639 168642	ACN
+T92	SYSTEMATIC 168725 168900	1-((3aR,4R,6aR)-6-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T93	ABBREVIATION 168929 168935	ACN-d3
+T94	ABBREVIATION 169129 169135	ACN-d3
+T95	SYSTEMATIC 169196 169378	1-((3 aR,4R,6aR)-6-(((4-(3,5-Difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T96	SYSTEMATIC 169426 169601	1-((3aR,4R,6aR)-6-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T97	FORMULA 169656 169666	CoAc2-4H2O
+T98	FORMULA 169676 169680	MeOH
+T99	FORMULA 169766 169770	H2O2
+T100	SYSTEMATIC 169976 169984	peroxide
+T101	TRIVIAL 170067 170101	Quadrapure AP silica capture resin
+T102	FORMULA 170129 170133	MeOH
+T103	TRIVIAL 170145 170150	water
+T104	FORMULA 170230 170234	MeOH
+T105	TRIVIAL 170239 170244	water
+T106	SYSTEMATIC 170306 170488	1-((3 aR,4R,6aR)-6-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T107	SYSTEMATIC 170576 170748	1-((2R,3R,4S)-5-(((4-(3,5-Difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T108	SYSTEMATIC 170813 170994	1-((3aR,4R,6aR)-6-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T109	ABBREVIATION 171015 171018	DCM
+T110	ABBREVIATION 171060 171063	TFA
+T111	FORMULA 171068 171071	H2O
+T112	ABBREVIATION 171177 171180	ACN
+T113	FORMULA 171307 171311	MeOH
+T114	ABBREVIATION 171315 171318	DCM
+T115	TRIVIAL 171334 171339	water
+T116	SYSTEMATIC 171347 171358	formic acid
+T117	TRIVIAL 171436 171441	water
+T118	SYSTEMATIC 171466 171477	formic acid
+T119	SYSTEMATIC 171533 171705	1-((2R,3R,4S)-5-(((4-(3,5-difluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide trifluoroacetate salt
+T120	FORMULA 171743 171746	D2O
+T121	FORMULA 171906 171909	D2O
+T122	SYSTEMATIC 171968 172150	S-(1-((((5-(3-carbamoylpyridin-1(4H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(2-(pivaloylthio)ethoxy)phosphoryl)oxy)ethan-2-yl) 2,2-dimethylpropanethioate Trifluoroacetate salt
+T123	SYSTEMATIC 172176 172206	S-(2-Hydroxethyl)thiopivaloate
+T124	SYSTEMATIC 172340 172398	Bis(S-pivaloyl-2-thioethyl) N,N-diisopropylphosphoramidite
+T125	SYSTEMATIC 172527 172554	Bis SATE (P3)NMNH Acetonide
+T126	SYSTEMATIC 172556 172731	S,S′-(((((6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)phosphanediyl)bis(oxy))bis(ethane-2,1-diyl))bis(2,2-dimethylpropanethioate)
+T127	SYSTEMATIC 172732 172850	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T128	ABBREVIATION 172961 172964	ACN
+T129	ABBREVIATION 173066 173069	ACN
+T130	SYSTEMATIC 173106 173164	bis(S-pivaloyl-2-thioethyl) N,N-diisopropylphosphoramidite
+T131	SYSTEMATIC 173250 173259	tetrazole
+T132	ABBREVIATION 173263 173266	ACN
+T133	SYSTEMATIC 173442 173451	tetrazole
+T134	FORMULA 173577 173583	NaHCO3
+T135	SYSTEMATIC 173595 173610	dichloromethane
+T136	ABBREVIATION 173707 173710	DCM
+T137	FORMULA 173728 173734	Na2SO4
+T138	FORMULA 173826 173831	CDCl3
+T139	FORMULA 174004 174009	CD3OD
+T140	SYSTEMATIC 174059 174093	Bis SATE ester (P5) NMNH Acetonide
+T141	SYSTEMATIC 174095 174269	S,S′-(((((6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)phosphordiyl)bis(oxy))bis(ethane-2,1-diyl))bis(2,2-dimethylpropanethioate)
+T142	SYSTEMATIC 174274 174302	Bis SATE (P3) NMNH Acetonide
+T143	FORMULA 174347 174351	MeOH
+T144	SYSTEMATIC 174513 174530	Hydrogen peroxide
+T145	TRIVIAL 174548 174553	water
+T146	FORMULA 174642 174646	MeOH
+T147	ABBREVIATION 174647 174650	DCM
+T148	ABBREVIATION 174706 174709	DCM
+T149	FORMULA 174722 174728	Na2SO4
+T150	ABBREVIATION 174805 174808	DCM
+T151	TRIVIAL 174835 174845	silica gel
+T152	ABBREVIATION 174868 174871	DCM
+T153	FORMULA 174885 174889	MeOH
+T154	ABBREVIATION 174890 174893	DCM
+T155	FORMULA 174910 174914	MeOH
+T156	ABBREVIATION 174915 174918	DCM
+T157	FORMULA 175011 175016	CDCl3
+T158	FORMULA 175207 175212	CD3OD
+T159	SYSTEMATIC 175262 175303	Bis SATE ester NMN Acetonide Acetate Salt
+T160	SYSTEMATIC 175305 175451	1-(6-(((bis(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-3-carbamoylpyridin-1-ium acetate salt
+T161	SYSTEMATIC 175456 175489	Bis SATE ester (P5) NRH Acetonide
+T162	FORMULA 175609 175611	N2
+T163	FORMULA 175617 175621	MeOH
+T164	SYSTEMATIC 175678 175705	Cobalt acetate tetrahydrate
+T165	SYSTEMATIC 175846 175863	hydrogen peroxide
+T166	FORMULA 175943 175947	MeOH
+T167	ABBREVIATION 175948 175951	DCM
+T168	FORMULA 176000 176004	H2O2
+T169	ABBREVIATION 176104 176107	DCM
+T170	TRIVIAL 176139 176144	water
+T171	FORMULA 176161 176165	NaCl
+T172	ABBREVIATION 176214 176217	DCM
+T173	FORMULA 176239 176245	Na2SO4
+T174	SYSTEMATIC 176489 176529	Bis SATE ester NMN Trifluoroacetate Salt
+T175	SYSTEMATIC 176531 176670	1-(5-(((bis(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium Trifluoroacetate salt
+T176	SYSTEMATIC 176688 176729	Bis SATE ester NMN Acetonide Acetate Salt
+T177	SYSTEMATIC 176780 176800	trifluoroacetic acid
+T178	SYSTEMATIC 176811 176826	dichloromethane
+T179	TRIVIAL 176841 176846	water
+T180	SYSTEMATIC 176943 176955	acetonitrile
+T181	ABBREVIATION 176999 177002	DCM
+T182	TRIVIAL 177026 177036	silica gel
+T183	ABBREVIATION 177060 177063	DCM
+T184	FORMULA 177077 177081	MeOH
+T185	ABBREVIATION 177082 177085	DCM
+T186	FORMULA 177099 177103	MeOH
+T187	ABBREVIATION 177104 177107	DCM
+T188	FORMULA 177122 177126	MeOH
+T189	ABBREVIATION 177127 177130	DCM
+T190	FORMULA 177149 177153	MeOH
+T191	ABBREVIATION 177154 177157	DCM
+T192	FORMULA 177227 177231	MeOH
+T193	TRIVIAL 177243 177248	water
+T194	TRIVIAL 177267 177283	Quadra-Sil resin
+T195	FORMULA 177356 177360	MeOH
+T196	FORMULA 177455 177458	D2O
+T197	FORMULA 177633 177636	D2O
+T198	SYSTEMATIC 177690 177843	Isopropyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate Trifluoroacetate salt
+T199	SYSTEMATIC 177869 178018	Isopropyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate
+T200	SYSTEMATIC 178088 178207	1-((3 aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T201	SYSTEMATIC 178225 178233	nitrogen
+T202	ABBREVIATION 178275 178278	THF
+T203	SYSTEMATIC 178316 178344	tert-butylmagnesium chloride
+T204	ABBREVIATION 178357 178360	THF
+T205	SYSTEMATIC 178468 178517	isopropyl (chloro(phenoxy)phosphoryl)-L-alaninate
+T206	ABBREVIATION 178582 178585	THF
+T207	FORMULA 178773 178778	NH4Cl
+T208	ABBREVIATION 178831 178834	DCM
+T209	TRIVIAL 178848 178853	brine
+T210	TRIVIAL 178862 178867	brine
+T211	ABBREVIATION 178888 178891	DCM
+T212	SYSTEMATIC 178936 178950	sodium sulfate
+T213	FORMULA 179076 179080	MeOH
+T214	ABBREVIATION 179084 179087	DCM
+T215	SYSTEMATIC 179150 179299	isopropyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate
+T216	FORMULA 179339 179344	CDCl3
+T217	FORMULA 179523 179528	CDCl3
+T218	SYSTEMATIC 179580 179742	Isopropyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate acetate salt
+T219	FORMULA 179895 179909	Co(Ac)2—(H2O)4
+T220	FORMULA 179939 179943	MeOH
+T221	SYSTEMATIC 180018 180167	isopropyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate.
+T222	FORMULA 180226 180230	H2O2
+T223	SYSTEMATIC 180312 180320	peroxide
+T224	TRIVIAL 180419 180437	QuadraSil AP resin
+T225	FORMULA 180457 180461	MeOH
+T226	TRIVIAL 180472 180477	water
+T227	FORMULA 180575 180579	MeOH
+T228	TRIVIAL 180584 180589	water
+T229	FORMULA 180631 180635	MeOH
+T230	SYSTEMATIC 180706 180868	isopropyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate acetate salt
+T231	SYSTEMATIC 180988 181141	Isopropyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate Trifluoroacetate salt
+T232	SYSTEMATIC 181194 181363	isopropyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-L-alaninate as the acetate salt
+T233	ABBREVIATION 181410 181413	DCM
+T234	ABBREVIATION 181438 181441	TFA
+T235	FORMULA 181442 181445	H2O
+T236	ABBREVIATION 181578 181581	ACN
+T237	FORMULA 181661 181665	MeOH
+T238	ABBREVIATION 181666 181669	DCM
+T239	SYSTEMATIC 181684 181695	formic acid
+T240	TRIVIAL 181703 181708	water
+T241	TRIVIAL 181788 181793	water
+T242	SYSTEMATIC 181862 182009	isopropyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)-L-alaninatetrifluoroacetate
+T243	FORMULA 182044 182047	D2O
+T244	FORMULA 182247 182250	D2O
+T245	SYSTEMATIC 182334 182495	Neopentyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate Trifluoroacetate salt
+T246	SYSTEMATIC 182521 182677	Neopentyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate
+T247	SYSTEMATIC 182730 182848	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T248	SYSTEMATIC 182876 182884	nitrogen
+T249	ABBREVIATION 182924 182927	DMF
+T250	SYSTEMATIC 182965 182993	tert-butylmagnesium chloride
+T251	ABBREVIATION 183001 183004	THF
+T252	SYSTEMATIC 183136 183203	neopentyl ((naphthalen-1-yloxy)(4-nitrophenoxy)phosphoryl)alaninate
+T253	ABBREVIATION 183268 183271	DMF
+T254	ABBREVIATION 183390 183393	ACN
+T255	FORMULA 183475 183479	MeOH
+T256	ABBREVIATION 183483 183486	DCM
+T257	SYSTEMATIC 183568 183725	neopentyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate
+T258	FORMULA 183735 183740	CDCl3
+T259	FORMULA 183847 183852	CDCl3
+T260	SYSTEMATIC 183911 184082	Neopentyl ((((3 aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate acetate salt
+T261	SYSTEMATIC 184131 184287	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate
+T262	FORMULA 184329 184333	MeOH
+T263	FORMULA 184383 184393	CoAc2-4H2O
+T264	FORMULA 184403 184407	MeOH
+T265	FORMULA 184430 184434	H2O2
+T266	SYSTEMATIC 184623 184631	peroxide
+T267	TRIVIAL 184704 184722	QuadraSil AP resin
+T268	TRIVIAL 184734 184739	water
+T269	FORMULA 184816 184820	MeOH
+T270	SYSTEMATIC 184877 185047	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate acetate salt
+T271	SYSTEMATIC 185169 185331	Neopentyl ((((3 S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate Trifluoroacetate salt
+T272	SYSTEMATIC 185383 185553	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate acetate salt
+T273	ABBREVIATION 185613 185616	DCM
+T274	ABBREVIATION 185667 185670	TFA
+T275	FORMULA 185671 185674	H2O
+T276	ABBREVIATION 185792 185795	ACN
+T277	TRIVIAL 185815 185820	water
+T278	FORMULA 185946 185950	MeOH
+T279	ABBREVIATION 185954 185957	DCM
+T280	FORMULA 185973 185978	HCO2H
+T281	FORMULA 185982 185985	H2O
+T282	TRIVIAL 186058 186063	water
+T283	SYSTEMATIC 186092 186103	formic acid
+T284	SYSTEMATIC 186176 186337	neopentyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate trifluoroacetate salt
+T285	ABBREVIATION 186381 186387	ACN-d3
+T286	ABBREVIATION 186666 186672	ACN-d3
+T287	SYSTEMATIC 186750 186899	1-(5-((((Benzylamino)(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium Trifluoroacetate salt
+T288	SYSTEMATIC 186925 187009	S-(2-(((Benzylamino)(4-nitrophenoxy)phosphoryl)oxy)ethyl) 2,2-dimethylpropanethioate
+T289	SYSTEMATIC 187010 187043	4-Nitrophenylphosphoro dichloride
+T290	SYSTEMATIC 187149 187154	argon
+T291	ABBREVIATION 187166 187169	THF
+T292	SYSTEMATIC 187244 187249	argon
+T293	SYSTEMATIC 187325 187338	Triethylamine
+T294	SYSTEMATIC 187410 187455	S-(2-hydroxyethyl) 2,2-dimethylpropanethioate
+T295	SYSTEMATIC 187690 187702	benzyl amine
+T296	SYSTEMATIC 187905 187918	ethyl acetate
+T297	SYSTEMATIC 188001 188014	ethyl acetate
+T298	TRIVIAL 188056 188061	water
+T299	FORMULA 188141 188145	NaCl
+T300	FORMULA 188179 188185	Na2SO4
+T301	SYSTEMATIC 188280 188295	dichloromethane
+T302	TRIVIAL 188308 188318	silica gel
+T303	TRIVIAL 188381 188391	silica gel
+T304	SYSTEMATIC 188409 188424	dichloromethane
+T305	FORMULA 188560 188565	CDCl3
+T306	FORMULA 188698 188703	CDCl3
+T307	SYSTEMATIC 188730 188890	S-(2-(((Benzylamino)((6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)phosphoryl)oxy)ethyl) 2,2-dimethylpropanethioate
+T308	SYSTEMATIC 188891 188996	1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T309	FORMULA 189095 189097	N2
+T310	ABBREVIATION 189109 189112	DMF
+T311	ABBREVIATION 189283 189286	DMF
+T312	SYSTEMATIC 189400 189426	t-butyl magnesium chloride
+T313	ABBREVIATION 189430 189433	THF
+T314	ABBREVIATION 189597 189600	DMF
+T315	SYSTEMATIC 189754 189851	S,S-((((4-nitrophenoxy)phosphordiyl)bis(oxy))bis(ethane-2,1-diyl))bis(2,2-dimethylpropanethioate)
+T316	ABBREVIATION 189904 189907	DMF
+T317	SYSTEMATIC 190288 190303	dichloromethane
+T318	TRIVIAL 190323 190333	Silica gel
+T319	SYSTEMATIC 190346 190361	dichloromethane
+T320	ABBREVIATION 190399 190402	DCM
+T321	FORMULA 190416 190420	MeOH
+T322	ABBREVIATION 190421 190424	DCM
+T323	FORMULA 190443 190447	MeOH
+T324	ABBREVIATION 190448 190451	DCM
+T325	FORMULA 190514 190519	CDCl3
+T326	FORMULA 190724 190729	CDCl3
+T327	SYSTEMATIC 190786 190942	1-(6-((((Benzylamino)(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-3-carbamoylpyridin-1-ium acetate salt
+T328	SYSTEMATIC 190953 191112	S-(2-(((benzylamino)((6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)phosphoryl)oxy)ethyl)2,2-dimethylpropanethioate
+T329	SYSTEMATIC 191150 191158	methanol
+T330	SYSTEMATIC 191240 191267	Cobalt acetate tetrahydrate
+T331	SYSTEMATIC 191431 191448	Hydrogen peroxide
+T332	SYSTEMATIC 191669 191677	methanol
+T333	SYSTEMATIC 191750 191758	methanol
+T334	TRIVIAL 191780 191807	QuadraSil aminopropyl resin
+T335	SYSTEMATIC 191909 191917	methanol
+T336	SYSTEMATIC 192162 192311	1-(5-((((Benzylamino)(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium Trifluoroacetate salt
+T337	SYSTEMATIC 192325 192481	1-(6-((((Benzylamino)(2-(pivaloylthio)ethoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-3-carbamoylpyridin-1-ium acetate salt
+T338	SYSTEMATIC 192555 192575	trifluoroacetic acid
+T339	SYSTEMATIC 192583 192598	dichloromethane
+T340	TRIVIAL 192611 192616	water
+T341	SYSTEMATIC 192801 192813	acetonitrile
+T342	SYSTEMATIC 192882 192897	dichloromethane
+T343	TRIVIAL 192925 192935	silica gel
+T344	SYSTEMATIC 192949 192964	dichloromethane
+T345	FORMULA 192978 192982	MeOH
+T346	ABBREVIATION 192983 192986	DCM
+T347	FORMULA 193000 193004	MeOH
+T348	ABBREVIATION 193005 193008	DCM
+T349	FORMULA 193023 193027	MeOH
+T350	ABBREVIATION 193028 193031	DCM
+T351	FORMULA 193046 193050	MeOH
+T352	ABBREVIATION 193051 193054	DCM
+T353	FORMULA 193153 193156	D2O
+T354	FORMULA 193322 193325	D2O
+T355	SYSTEMATIC 193377 193545	Benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate Trifluoroacetate salt
+T356	SYSTEMATIC 193571 193716	Benzyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate
+T357	SYSTEMATIC 193769 193887	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T358	SYSTEMATIC 193905 193913	nitrogen
+T359	ABBREVIATION 193955 193958	DMF
+T360	SYSTEMATIC 193996 194024	tert-butylmagnesium chloride
+T361	ABBREVIATION 194032 194035	THF
+T362	SYSTEMATIC 194137 194184	benzyl (chloro(p-tolyloxy)phosphoryl) alaninate
+T363	ABBREVIATION 194249 194252	DMF
+T364	ABBREVIATION 194453 194456	ACN
+T365	SYSTEMATIC 194575 194594	phosphoryl chloride
+T366	FORMULA 194664 194668	MeOH
+T367	ABBREVIATION 194672 194675	DCM
+T368	SYSTEMATIC 194749 194894	benzyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate
+T369	ABBREVIATION 194927 194933	ACN-d3
+T370	FORMULA 195163 195169	ACN-d3
+T371	SYSTEMATIC 195229 195381	((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate acetate salt
+T372	SYSTEMATIC 195516 195662	benzyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl) alaninate
+T373	FORMULA 195687 195691	MeOH
+T374	FORMULA 195757 195767	CoAc2-4H2O
+T375	FORMULA 195777 195781	MeOH
+T376	FORMULA 195808 195812	H2O2
+T377	SYSTEMATIC 195958 195966	peroxide
+T378	TRIVIAL 196045 196079	Quadrapure AP silica capture resin
+T379	TRIVIAL 196090 196095	water
+T380	FORMULA 196209 196213	MeOH
+T381	TRIVIAL 196218 196223	water
+T382	SYSTEMATIC 196266 196425	benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate acetate salt
+T383	SYSTEMATIC 196592 196760	Benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate Trifluoroacetate salt
+T384	SYSTEMATIC 196813 196972	benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate acetate salt
+T385	ABBREVIATION 197000 197003	DCM
+T386	ABBREVIATION 197048 197051	TFA
+T387	FORMULA 197052 197055	H2O
+T388	FORMULA 197273 197277	MeOH
+T389	ABBREVIATION 197281 197284	DCM
+T390	FORMULA 197300 197305	HCO2H
+T391	FORMULA 197313 197316	H2O
+T392	TRIVIAL 197384 197389	water
+T393	SYSTEMATIC 197405 197416	formic acid
+T394	TRIVIAL 197447 197452	water
+T395	ABBREVIATION 197453 197456	ACN
+T396	SYSTEMATIC 197496 197664	benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(p-tolyloxy)phosphoryl)alaninate trifluoroacetate salt
+T397	ABBREVIATION 197696 197702	ACN-d3
+T398	ABBREVIATION 198011 198017	ACN-d3
+T399	SYSTEMATIC 198075 198257	1-((2R,3R,4S)-5-(((((1-(Benzyloxy)-1-oxopropan-2-yl)amino)(naphthalen-1-yloxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium Trifluoroacetate salt
+T400	SYSTEMATIC 198283 198440	Benzyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)-L-alaninate
+T401	SYSTEMATIC 198491 198609	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T402	SYSTEMATIC 198627 198635	nitrogen
+T403	SYSTEMATIC 198641 198650	acetonide
+T404	ABBREVIATION 198678 198681	DMF
+T405	SYSTEMATIC 198717 198745	tert-butylmagnesium chloride
+T406	ABBREVIATION 198753 198756	THF
+T407	SYSTEMATIC 198853 198910	benzyl (chloro(naphthalen-1-yloxy)phosphoryl)-L-alaninate
+T408	ABBREVIATION 198975 198978	DMF
+T409	ABBREVIATION 199153 199156	ACN
+T410	FORMULA 199274 199278	MeOH
+T411	ABBREVIATION 199282 199285	DCM
+T412	SYSTEMATIC 199384 199541	benzyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)-L-alaninate
+T413	ABBREVIATION 199572 199578	ACN-d3
+T414	ABBREVIATION 199811 199817	ACN-d3
+T415	SYSTEMATIC 199878 200046	Benzyl ((((3 aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate acetate salt
+T416	SYSTEMATIC 200110 200267	benzyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)-L-alaninate
+T417	FORMULA 200298 200302	MeOH
+T418	FORMULA 200352 200362	CoAc2-4H2O
+T419	FORMULA 200448 200452	H2O2
+T420	SYSTEMATIC 200616 200624	peroxide
+T421	TRIVIAL 200687 200705	QuadraSil AP resin
+T422	TRIVIAL 200715 200720	water
+T423	FORMULA 200787 200791	MeOH
+T424	TRIVIAL 200796 200801	water
+T425	FORMULA 200843 200847	MeOH
+T426	SYSTEMATIC 200893 201060	benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate acetate salt
+T427	SYSTEMATIC 201203 201385	1-((2R,3R,4S)-5-(((((1-(Benzyloxy)-1-oxopropan-2-yl)amino)(naphthalen-1-yloxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium Trifluoroacetate salt
+T428	SYSTEMATIC 201450 201604	benzyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(naphthalen-1-yloxy)phosphoryl)alaninate
+T429	ABBREVIATION 201634 201637	DCM
+T430	ABBREVIATION 201665 201668	TFA
+T431	FORMULA 201673 201676	H2O
+T432	ABBREVIATION 201789 201792	ACN
+T433	TRIVIAL 201827 201832	water
+T434	SYSTEMATIC 201837 201845	methanol
+T435	FORMULA 201982 201986	MeOH
+T436	ABBREVIATION 201990 201993	DCM
+T437	FORMULA 202008 202011	H2O
+T438	FORMULA 202019 202024	HCO2H
+T439	TRIVIAL 202089 202094	water
+T440	SYSTEMATIC 202140 202322	1-((2R,3R,4S)-5-(((((1-(benzyloxy)-1-oxopropan-2-yl)amino)(naphthalen-1-yloxy)phosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-3-carbamoylpyridin-1-ium trifluoroacetate salt
+T441	ABBREVIATION 202338 202344	ACN-d3
+T442	ABBREVIATION 202562 202568	ACN-d3
+T443	SYSTEMATIC 202626 202779	2-Ethylbutyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate Trifluoroacetate salt
+T444	SYSTEMATIC 202805 202954	2-Ethylbutyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate
+T445	SYSTEMATIC 203006 203124	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T446	SYSTEMATIC 203149 203157	nitrogen
+T447	ABBREVIATION 203199 203202	DMF
+T448	SYSTEMATIC 203238 203266	tert-butylmagnesium chloride
+T449	ABBREVIATION 203274 203277	THF
+T450	SYSTEMATIC 203381 203440	2-ethylbutyl ((4-nitrophenoxy)(phenoxy)phosphoryl)alaninate
+T451	ABBREVIATION 203485 203488	DMF
+T452	ABBREVIATION 203693 203696	ACN
+T453	SYSTEMATIC 203711 203718	toluene
+T454	FORMULA 203899 203903	MeOH
+T455	ABBREVIATION 203907 203910	DCM
+T456	SYSTEMATIC 203970 204119	2-ethylbutyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate
+T457	ABBREVIATION 204167 204170	DMF
+T458	SYSTEMATIC 204175 204188	p-nitrophenol
+T459	FORMULA 204249 204254	CDCl3
+T460	FORMULA 204397 204402	CDCl3
+T461	SYSTEMATIC 204461 204623	2-Ethylbutyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate acetate salt
+T462	SYSTEMATIC 204668 204833	2-ethylbutyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate dihydroacetonide
+T463	FORMULA 204858 204862	MeOH
+T464	FORMULA 204928 204938	CoAc2-4H2O
+T465	FORMULA 204948 204952	MeOH
+T466	FORMULA 205001 205005	H2O2
+T467	SYSTEMATIC 205158 205166	peroxide
+T468	TRIVIAL 205263 205281	QuadraSil AP resin
+T469	TRIVIAL 205292 205297	water
+T470	FORMULA 205392 205396	MeOH
+T471	TRIVIAL 205401 205406	water
+T472	FORMULA 205448 205452	MeOH
+T473	SYSTEMATIC 205519 205681	2-ethylbutyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate acetate salt
+T474	SYSTEMATIC 205758 205911	2-Ethylbutyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate Trifluoroacetate salt
+T475	SYSTEMATIC 205970 206132	2-ethylbutyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate acetate salt
+T476	ABBREVIATION 206163 206166	DCM
+T477	ABBREVIATION 206208 206211	TFA
+T478	FORMULA 206216 206219	H2O
+T479	ABBREVIATION 206369 206372	ACN
+T480	TRIVIAL 206414 206419	water
+T481	FORMULA 206551 206555	MeOH
+T482	ABBREVIATION 206559 206562	DCM
+T483	SYSTEMATIC 206579 206590	formic acid
+T484	FORMULA 206598 206601	H2O
+T485	TRIVIAL 206667 206672	water
+T486	SYSTEMATIC 206697 206708	formic acid
+T487	TRIVIAL 206742 206747	water
+T488	ABBREVIATION 206748 206751	ACN
+T489	SYSTEMATIC 206789 206942	2-ethylbutyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate trifluoroacetate salt
+T490	FORMULA 206987 206990	D2O
+T491	FORMULA 207386 207389	D2O
+T492	SYSTEMATIC 207448 207598	Neopentyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate Trifluoroacetate salt
+T493	SYSTEMATIC 207626 207772	Neopentyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate
+T494	SYSTEMATIC 207823 207941	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T495	SYSTEMATIC 207966 207974	nitrogen
+T496	ABBREVIATION 208016 208019	DMF
+T497	SYSTEMATIC 208037 208065	tert-butylmagnesium chloride
+T498	ABBREVIATION 208073 208076	THF
+T499	SYSTEMATIC 208160 208216	neopentyl ((4-nitrophenoxy)(phenoxy)phosphoryl)alaninate
+T500	ABBREVIATION 208277 208280	DMF
+T501	SYSTEMATIC 208406 208413	toluene
+T502	FORMULA 208585 208589	MeOH
+T503	ABBREVIATION 208593 208596	DCM
+T504	SYSTEMATIC 208669 208815	neopentyl ((((3 aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate
+T505	FORMULA 208835 208840	CDCl3
+T506	ABBREVIATION 209053 209056	DMF
+T507	FORMULA 209079 209084	CDCl3
+T508	SYSTEMATIC 209141 209301	Neopentyl ((((3 aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate acetate salt
+T509	SYSTEMATIC 209352 209497	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate
+T510	FORMULA 209522 209526	MeOH
+T511	FORMULA 209577 209587	CoAc2-4H2O
+T512	FORMULA 209670 209674	H2O2
+T513	TRIVIAL 209843 209858	QuadraSil resin
+T514	FORMULA 209945 209949	MeOH
+T515	TRIVIAL 209954 209959	water
+T516	TRIVIAL 210012 210017	water
+T517	SYSTEMATIC 210060 210219	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)alaninate acetate salt
+T518	SYSTEMATIC 210328 210478	Neopentyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate Trifluoroacetate salt
+T519	SYSTEMATIC 210532 210692	neopentyl ((((3aR,6R,6aR)-6-(3-carbamoyl-1λ4-pyridin-1-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl) alaninate acetate salt
+T520	ABBREVIATION 210720 210723	DCM
+T521	ABBREVIATION 210765 210768	TFA
+T522	FORMULA 210769 210772	H2O
+T523	ABBREVIATION 210888 210891	ACN
+T524	TRIVIAL 210916 210921	water
+T525	FORMULA 211060 211064	MeOH
+T526	ABBREVIATION 211068 211071	DCM
+T527	FORMULA 211087 211092	HCO2H
+T528	FORMULA 211096 211099	H2O
+T529	TRIVIAL 211159 211164	water
+T530	SYSTEMATIC 211180 211191	formic acid
+T531	TRIVIAL 211221 211226	water
+T532	ABBREVIATION 211231 211234	ACN
+T533	SYSTEMATIC 211274 211424	neopentyl ((((3S,4R,5R)-5-(3-carbamoyl-1λ4-pyridin-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methoxy)(phenoxy)phosphoryl)alaninate trifluoroacetate salt
+T534	ABBREVIATION 211449 211455	ACN-d3
+T535	ABBREVIATION 211743 211749	ACN-d3
+T536	SYSTEMATIC 211804 211970	1-((2R,3R,4S)-3,4-Dihydroxy-5-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T537	SYSTEMATIC 211998 212168	1-((3 aR,4R,6aR)-2,2-Dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T538	SYSTEMATIC 212220 212338	1-((3aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T539	SYSTEMATIC 212356 212364	nitrogen
+T540	ABBREVIATION 212406 212409	DMF
+T541	SYSTEMATIC 212447 212475	tert-butylmagnesium chloride
+T542	ABBREVIATION 212483 212486	THF
+T543	SYSTEMATIC 212584 212654	(±)-2-(4-nitrophenoxy)-4-(pyridin-3-yl)-1,3,2-dioxaphosphinane 2-oxide
+T544	ABBREVIATION 212714 212717	DMF
+T545	ABBREVIATION 212851 212854	ACN
+T546	ABBREVIATION 212903 212906	ACN
+T547	ABBREVIATION 212956 212959	ACN
+T548	FORMULA 213083 213087	MeOH
+T549	ABBREVIATION 213091 213094	DCM
+T550	SYSTEMATIC 213158 213327	1-((3aR,4R,6aR)-2,2-dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T551	ABBREVIATION 213404 213411	DMSO-d6
+T552	ABBREVIATION 213571 213578	DMSO-d6
+T553	SYSTEMATIC 213640 213815	1-((3aR,4R,6aR)-2,2-Dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T554	SYSTEMATIC 213873 214042	1-((3aR,4R,6aR)-2,2-dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T555	FORMULA 214052 214056	MeOH
+T556	FORMULA 214098 214108	CoAc2-4H2O
+T557	FORMULA 214171 214175	H2O2
+T558	TRIVIAL 214319 214336	QuadaSil AP resin
+T559	TRIVIAL 214346 214351	water
+T560	TRIVIAL 214429 214434	water
+T561	FORMULA 214439 214443	MeOH
+T562	SYSTEMATIC 214511 214686	1-((3aR,4R,6aR)-2,2-dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T563	SYSTEMATIC 214831 214997	1-((2R,3R,4S)-3,4-Dihydroxy-5-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T564	SYSTEMATIC 215062 215224	1-((3aR,4R,6aR)-2,2-dimethyl-6-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide
+T565	ABBREVIATION 215254 215257	DCM
+T566	ABBREVIATION 215285 215288	TFA
+T567	FORMULA 215289 215292	H2O
+T568	ABBREVIATION 215414 215417	ACN
+T569	TRIVIAL 215452 215457	water
+T570	FORMULA 215590 215594	MeOH
+T571	ABBREVIATION 215598 215601	DCM
+T572	SYSTEMATIC 215617 215628	formic acid
+T573	TRIVIAL 215636 215641	water
+T574	TRIVIAL 215713 215718	water
+T575	TRIVIAL 215753 215758	water
+T576	SYSTEMATIC 215798 215964	1-((2R,3R,4S)-3,4-dihydroxy-5-(((2-oxido-4-(pyridin-3-yl)-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)tetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide trifluoroacetate salt
+T577	FORMULA 216002 216005	D2O
+T578	FORMULA 216167 216170	D2O
+T579	SYSTEMATIC 216231 216408	1-((2R,3R,4S)-5-(((4-(3-Chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T580	SYSTEMATIC 216436 216616	1-((3aR,4R,6aR)-6-(((4-(3-Chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T581	SYSTEMATIC 216683 216802	1-((3 aR,4R,6aR)-6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T582	SYSTEMATIC 216827 216835	nitrogen
+T583	ABBREVIATION 216878 216881	DMF
+T584	SYSTEMATIC 216919 216947	tert-butylmagnesium chloride
+T585	ABBREVIATION 216955 216958	THF
+T586	SYSTEMATIC 217074 217155	(±)-4-(3-chloro-4-fluorophenyl)-2-(4-nitrophenoxy)-1,3,2-dioxaphosphinane 2-oxide
+T587	ABBREVIATION 217213 217216	DMF
+T588	ABBREVIATION 217485 217488	DCM
+T589	TRIVIAL 217517 217522	water
+T590	TRIVIAL 217529 217534	brine
+T591	SYSTEMATIC 217569 217583	sodium sulfate
+T592	FORMULA 217708 217712	MeOH
+T593	ABBREVIATION 217716 217719	DCM
+T594	SYSTEMATIC 217786 217966	1-((3aR,4R,6aR)-6-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T595	FORMULA 218001 218006	CDCl3
+T596	ABBREVIATION 218146 218149	DMF
+T597	FORMULA 218173 218178	CDCl3
+T598	SYSTEMATIC 218240 218426	1-((3aR,4R,6aR)-6-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T599	SYSTEMATIC 218479 218659	1-((3aR,4R,6aR)-6-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T600	FORMULA 218710 218720	CoAc2-4H2O
+T601	FORMULA 218731 218735	MeOH
+T602	FORMULA 218807 218811	H2O2
+T603	FORMULA 218991 218995	H2O2
+T604	TRIVIAL 219064 219076	Quadrasil AP
+T605	TRIVIAL 219200 219205	water
+T606	FORMULA 219210 219214	MeOH
+T607	SYSTEMATIC 219256 219443	1-((3 aR,4R,6aR)-6-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T608	SYSTEMATIC 219554 219731	1-((2R,3R,4S)-5-(((4-(3-Chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide Trifluoroacetate salt
+T609	SYSTEMATIC 219797 219983	1-((3aR,4R,6aR)-6-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1λ4-pyridine-3-carboxamide acetate salt
+T610	ABBREVIATION 220019 220022	DCM
+T611	ABBREVIATION 220050 220053	TFA
+T612	FORMULA 220054 220057	H2O
+T613	ABBREVIATION 220174 220177	ACN
+T614	TRIVIAL 220213 220218	water
+T615	FORMULA 220349 220353	MeOH
+T616	ABBREVIATION 220357 220360	DCM
+T617	SYSTEMATIC 220376 220387	formic acid
+T618	TRIVIAL 220395 220400	water
+T619	TRIVIAL 220473 220478	water
+T620	TRIVIAL 220492 220497	water
+T621	SYSTEMATIC 220537 220714	1-((2R,3R,4S)-5-(((4-(3-chloro-4-fluorophenyl)-2-oxido-1,3,2-dioxaphosphinan-2-yl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)-1λ4-pyridine-3-carboxamide trifluoroacetate salt
+T622	FORMULA 220868 220871	D2O
+T623	FORMULA 221124 221127	D2O
+T624	SYSTEMATIC 221269 221273	diol
+T625	SYSTEMATIC 221282 221292	phosphorus
+T626	SYSTEMATIC 221306 221415	((2R,3S,4R,5R)-5-(3-Carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl isopropyl phosphate
+T627	SYSTEMATIC 221493 221613	3-carbamoyl-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyridin-1-ium trifluoromethanesulfonate
+T628	SYSTEMATIC 221615 221667	nicotinamide riboside trifluoromethanesulfonate salt
+T629	SYSTEMATIC 221748 221760	acetonitrile
+T630	SYSTEMATIC 221874 221879	argon
+T631	SYSTEMATIC 221908 221926	trimethylphosphate
+T632	SYSTEMATIC 222005 222027	phosphorus oxychloride
+T633	SYSTEMATIC 222161 222172	isopropanol
+T634	TRIVIAL 222257 222262	water
+T635	SYSTEMATIC 222443 222456	ethyl acetate
+T636	TRIVIAL 222466 222478	Quadrasil AP
+T637	SYSTEMATIC 222639 222652	ethyl acetate
+T638	SYSTEMATIC 222679 222692	ethyl acetate
+T639	SYSTEMATIC 222724 222737	ethyl acetate
+T640	SYSTEMATIC 222853 222866	ethyl acetate
+T641	SYSTEMATIC 222900 222913	ethyl acetate
+T642	SYSTEMATIC 222915 222923	methanol
+T643	SYSTEMATIC 223154 223167	ethyl acetate
+T644	SYSTEMATIC 223169 223177	methanol
+T645	SYSTEMATIC 223405 223418	ethyl acetate
+T646	SYSTEMATIC 223420 223428	methanol
+T647	SYSTEMATIC 223506 223519	ethyl acetate
+T648	SYSTEMATIC 223521 223529	methanol
+T649	FORMULA 223679 223682	D2O
+T650	SYSTEMATIC 224068 224173	((2R,3S,4R,5R)-5-(3-Carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl ethyl phosphate
+T651	SYSTEMATIC 224253 224266	ethyl alcohol
+T652	SYSTEMATIC 224271 224282	isopropanol
+T653	TRIVIAL 224348 224360	Quadrasil AP
+T654	SYSTEMATIC 224379 224392	ethyl acetate
+T655	SYSTEMATIC 224441 224454	ethyl acetate
+T656	SYSTEMATIC 224456 224464	methanol
+T657	SYSTEMATIC 224510 224523	ethyl acetate
+T658	SYSTEMATIC 224525 224533	methanol
+T659	TRIVIAL 224650 224655	water
+T660	FORMULA 224743 224746	D2O
+T661	SYSTEMATIC 225145 225251	((2R,3S,4R,5R)-5-(3-Carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl propyl phosphate
+T662	SYSTEMATIC 225331 225347	n-propyl alcohol
+T663	SYSTEMATIC 225352 225363	isopropanol
+T664	TRIVIAL 225427 225432	water
+T665	TRIVIAL 225498 225510	Quadrasil AP
+T666	SYSTEMATIC 225529 225542	ethyl acetate
+T667	SYSTEMATIC 225591 225604	ethyl acetate
+T668	SYSTEMATIC 225606 225614	methanol
+T669	SYSTEMATIC 225695 225708	ethyl acetate
+T670	SYSTEMATIC 225710 225718	methanol
+T671	FORMULA 225806 225809	D2O
+T672	SYSTEMATIC 226174 226280	((2R,3S,4R,5R)-5-(3-Carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl methyl phosphate
+T673	SYSTEMATIC 226357 226477	3-carbamoyl-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyridin-1-ium trifluoromethanesulfonate
+T674	SYSTEMATIC 226479 226531	nicotinamide riboside trifluoromethanesulfonate salt
+T675	SYSTEMATIC 226571 226583	acetonitrile
+T676	SYSTEMATIC 226732 226737	argon
+T677	SYSTEMATIC 226781 226799	trimethylphosphate
+T678	FORMULA 226964 226969	POCl3
+T679	SYSTEMATIC 227042 227189	3-carbamoyl-1-((2R,3R,4S,5R)-5-(((dichlorophosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium chloride/trifluoromethanesulfonate
+T680	SYSTEMATIC 227213 227228	phosphate ester
+T681	SYSTEMATIC 227336 227341	argon
+T682	SYSTEMATIC 227399 227407	methanol
+T683	TRIVIAL 227464 227469	water
+T684	TRIVIAL 227584 227596	Quadrasil AP
+T685	SYSTEMATIC 227733 227746	ethyl acetate
+T686	SYSTEMATIC 227795 227808	ethyl acetate
+T687	SYSTEMATIC 227822 227830	methanol
+T688	SYSTEMATIC 227919 227932	ethyl acetate
+T689	SYSTEMATIC 227934 227942	methanol
+T690	SYSTEMATIC 227972 227985	ethyl acetate
+T691	SYSTEMATIC 227987 227995	methanol
+T692	SYSTEMATIC 228059 228072	ethyl acetate
+T693	SYSTEMATIC 228074 228082	methanol
+T694	TRIVIAL 228243 228248	water
+T695	TRIVIAL 228326 228331	water
+T696	TRIVIAL 228427 228432	water
+T697	FORMULA 228601 228604	D2O
+T698	SYSTEMATIC 228946 229072	3-Carbamoyl-1-((2R,3R,4S,5R)-5-(((dimethoxyphosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium Acetate salt
+T699	SYSTEMATIC 229149 229269	3-carbamoyl-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyridin-1-ium trifluoromethanesulfonate
+T700	SYSTEMATIC 229271 229323	nicotinamide riboside trifluoromethanesulfonate salt
+T701	SYSTEMATIC 229363 229375	acetonitrile
+T702	SYSTEMATIC 229524 229529	argon
+T703	SYSTEMATIC 229573 229591	trimethylphosphate
+T704	FORMULA 229757 229762	POCl3
+T705	SYSTEMATIC 229835 229982	3-carbamoyl-1-((2R,3R,4S,5R)-5-(((dichlorophosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium chloride/trifluoromethanesulfonate
+T706	SYSTEMATIC 230006 230021	phosphate ester
+T707	SYSTEMATIC 230100 230108	methanol
+T708	TRIVIAL 230213 230225	Quadrasil AP
+T709	SYSTEMATIC 230362 230375	ethyl acetate
+T710	SYSTEMATIC 230424 230437	ethyl acetate
+T711	SYSTEMATIC 230508 230521	ethyl acetate
+T712	SYSTEMATIC 230551 230564	ethyl acetate
+T713	SYSTEMATIC 230566 230574	methanol
+T714	SYSTEMATIC 230618 230631	ethyl acetate
+T715	SYSTEMATIC 230633 230641	methanol
+T716	TRIVIAL 230829 230834	water
+T717	SYSTEMATIC 230856 230864	methanol
+T718	FORMULA 230949 230952	D2O
+T719	SYSTEMATIC 231329 231458	3-Carbamoyl-1-((2R,3R,4S,5R)-5-(((diisopropoxyphosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium Acetate salt
+T720	SYSTEMATIC 231535 231655	3-carbamoyl-1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyridin-1-ium trifluoromethanesulfonate
+T721	SYSTEMATIC 231657 231709	nicotinamide riboside trifluoromethanesulfonate salt
+T722	SYSTEMATIC 231749 231761	acetonitrile
+T723	SYSTEMATIC 231910 231915	argon
+T724	SYSTEMATIC 231959 231977	trimethylphosphate
+T725	FORMULA 232142 232147	POCl3
+T726	SYSTEMATIC 232220 232367	3-carbamoyl-1-((2R,3R,4S,5R)-5-(((dichlorophosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium chloride/trifluoromethanesulfonate
+T727	SYSTEMATIC 232391 232406	phosphate ester
+T728	SYSTEMATIC 232488 232506	dichlorophosphoryl
+T729	SYSTEMATIC 232545 232556	isopropanol
+T730	TRIVIAL 232673 232685	Quadrasil AP
+T731	SYSTEMATIC 232741 232862	3-carbamoyl-1-((2R,3R,4S,5R)-5-(((dimethoxyphosphoryl)oxy)methyl)-3,4-dihydroxytetrahydrofuran-2-yl)pyridin-1-ium acetate
+T732	TRIVIAL 232951 232956	water
+T733	TRIVIAL 233098 233103	water
+T734	TRIVIAL 233178 233183	water
+T735	FORMULA 233309 233312	D2O
+T736	SYSTEMATIC 233594 233702	3-Carbamoyl-1-(5-(((diethoxyphosphoryl)oxy)methyl)-3,4-dihydroxytetrahydro furan-2-yl)pyridin-1-ium Chloride
+T737	SYSTEMATIC 233717 233752	Nicotinamide Riboside Triflate salt
+T738	FORMULA 233839 233841	N2
+T739	SYSTEMATIC 233861 233880	trimethyl phosphate
+T740	FORMULA 234058 234060	N2
+T741	SYSTEMATIC 234127 234150	phosphorous oxychloride
+T742	SYSTEMATIC 234438 234445	ethanol
+T743	SYSTEMATIC 234710 234723	diethyl ether
+T744	SYSTEMATIC 234837 234844	ethanol
+T745	SYSTEMATIC 234880 234893	diethyl ether
+T746	SYSTEMATIC 234928 234933	ether
+T747	TRIVIAL 235042 235052	silica gel
+T748	ABBREVIATION 235100 235103	DCM
+T749	FORMULA 235104 235108	MeOH
+T750	SYSTEMATIC 235109 235120	formic acid
+T751	SYSTEMATIC 235196 235215	trimethyl phosphate
+T752	SYSTEMATIC 235245 235256	diethyl NMN
+T753	FORMULA 235293 235296	D2O
+T754	FORMULA 235450 235453	D2O
+T755	SYSTEMATIC 235498 235606	3-Carbamoyl-1-(5-(((dibutoxyphosphoryl)oxy)methyl)-3,4-dihydroxytetrahydro furan-2-yl)pyridin-1-ium Chloride
+T756	SYSTEMATIC 235621 235656	Nicotinamide riboside triflate salt
+T757	ABBREVIATION 235764 235767	ACN
+T758	SYSTEMATIC 235794 235813	trimethyl phosphate
+T759	FORMULA 235970 235972	N2
+T760	SYSTEMATIC 236029 236052	phosphorous oxychloride
+T761	FORMULA 236273 236276	H2O
+T762	FORMULA 236368 236374	n-BuOH
+T763	SYSTEMATIC 236582 236589	diester
+T764	SYSTEMATIC 236604 236617	diethyl ether
+T765	TRIVIAL 236744 236754	silica gel
+T766	ABBREVIATION 236782 236785	DCM
+T767	FORMULA 236786 236790	MeOH
+T768	SYSTEMATIC 236791 236802	formic acid
+T769	FORMULA 236819 236822	D2O
+T770	FORMULA 236986 236989	D2O
+T771	SYSTEMATIC 237038 237183	3-Carbamoyl-1-(3,4-dihydroxy-5-(((methoxy(3-(pentadecyloxy)propoxy)phosphoryl)oxy)methyl)tetrahydrofuran-2-yl)pyridin-1-ium Trifluoroacetate salt
+T772	SYSTEMATIC 237211 237239	3-(pentadecyloxy)propan-1-ol
+T773	FORMULA 237342 237347	CDCl3
+T774	SYSTEMATIC 237470 237493	3-(nonyloxy)propan-1-ol
+T775	FORMULA 237596 237601	CDCl3
+T776	SYSTEMATIC 237724 237780	Methyl (4-nitrophenyl)(3-(pentadecyloxy)propyl)phosphate
+T777	SYSTEMATIC 237781 237812	Dichloro-4-nitrophenylphosphate
+T778	FORMULA 237925 237927	N2
+T779	ABBREVIATION 237933 237936	THF
+T780	SYSTEMATIC 238015 238028	Triethylamine
+T781	SYSTEMATIC 238154 238164	C-15 ether
+T782	ABBREVIATION 238205 238208	THF
+T783	SYSTEMATIC 238391 238418	triethylamine hydrochloride
+T784	SYSTEMATIC 238515 238523	methanol
+T785	SYSTEMATIC 238745 238758	ethyl acetate
+T786	FAMILY 238800 238807	hexanes
+T787	SYSTEMATIC 238911 238926	dichloromethane
+T788	TRIVIAL 238951 238961	silica gel
+T789	SYSTEMATIC 238980 238995	dichloromethane
+T790	SYSTEMATIC 238996 239009	ethyl acetate
+T791	FORMULA 239077 239082	CDCl3
+T792	FORMULA 239266 239271	CDCl3
+T793	SYSTEMATIC 239294 239345	Methyl (4-nitrophenyl)(3-(nonyloxy)propyl)phosphate
+T794	SYSTEMATIC 239451 239482	dichloro 4-nitrophenylphosphate
+T795	SYSTEMATIC 239516 239529	triethylamine
+T796	SYSTEMATIC 239554 239577	3-(nonyloxy)propan-1-ol
+T797	SYSTEMATIC 239624 239632	methanol
+T798	TRIVIAL 239667 239677	silica gel
+T799	FAMILY 239686 239693	hexanes
+T800	SYSTEMATIC 239694 239707	ethyl acetate
+T801	FORMULA 239783 239788	CDCl3
+T802	SYSTEMATIC 240002 240133	(6-(3-Carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methyl methyl (3-(pentadecyloxy)propyl)phosphate
+T803	SYSTEMATIC 240218 240323	1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T804	SYSTEMATIC 240361 240387	t-Butyl magnesium chloride
+T805	ABBREVIATION 240391 240394	THF
+T806	SYSTEMATIC 240422 240479	methyl (4-nitrophenyl) (3-(pentadecyloxy)propyl)phosphate
+T807	TRIVIAL 240561 240571	silica gel
+T808	SYSTEMATIC 240605 240613	methanol
+T809	SYSTEMATIC 240617 240632	dichloromethane
+T810	FORMULA 240693 240698	CDCl3
+T811	FORMULA 240968 240973	CDCl3
+T812	SYSTEMATIC 241025 241150	6-(3-Carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methyl methyl (3-(nonyloxy)propyl)phosphate
+T813	SYSTEMATIC 241258 241363	1-(6-(hydroxymethyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)-1,4-dihydropyridine-3-carboxamide
+T814	SYSTEMATIC 241379 241405	t-butyl magnesium chloride
+T815	SYSTEMATIC 241434 241486	methyl (4-nitrophenyl) (3-(nonyloxy)propyl)phosphate
+T816	TRIVIAL 241563 241573	silica gel
+T817	SYSTEMATIC 241610 241618	methanol
+T818	SYSTEMATIC 241622 241637	dichloromethane
+T819	FORMULA 241696 241701	CDCl3
+T820	SYSTEMATIC 241986 242133	3-Carbamoyl-1-(6-(((methoxy(3-(pentadecyloxy)propoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium acetate
+T821	SYSTEMATIC 242242 242373	(6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methyl methyl (3-(pentadecyloxy)propyl)phosphate
+T822	FORMULA 242470 242475	CDCl3
+T823	SYSTEMATIC 242796 242938	3-Carbamoyl-1-(6-(((methoxy(3-(nonyloxy)propoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium acetate
+T824	SYSTEMATIC 243048 243173	6-(3-carbamoylpyridin-1(4H)-yl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methyl methyl (3-(nonyloxy)propyl)phosphate
+T825	SYSTEMATIC 243405 243580	3-carbamoyl-1-(3,4-dihydroxy-5-(((methoxy(3-(pentadecyloxy)propoxy)phosphoryl)oxy)methyl)tetrahydrofurantetrahydrofurantetrahydrofuran-2-yl)pyridin-1-ium Trifluoroacetate salt
+T826	SYSTEMATIC 243686 243833	3-carbamoyl-1-(6-(((methoxy(3-(pentadecyloxy)propoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium acetate
+T827	SYSTEMATIC 243851 243863	triflic acid
+T828	SYSTEMATIC 243865 243880	dichloromethane
+T829	TRIVIAL 243885 243890	water
+T830	SYSTEMATIC 244031 244043	acetonitrile
+T831	SYSTEMATIC 244117 244132	dichloromethane
+T832	TRIVIAL 244156 244166	silica gel
+T833	SYSTEMATIC 244223 244231	methanol
+T834	SYSTEMATIC 244235 244250	dichloromethane
+T835	FORMULA 244324 244329	CDCl3
+T836	FORMULA 244615 244620	CDCl3
+T837	SYSTEMATIC 244671 244811	3-Carbamoyl-1-(3,4-dihydroxy-5-(((methoxy(3-(nonyloxy)propoxy)phosphoryl)oxy)methyl)tetrahydrofuran-2-yl)pyridin-1-ium Trifluoroacetate salt
+T838	SYSTEMATIC 244893 245035	3-carbamoyl-1-(6-(((methoxy(3-(nonyloxy)propoxy)phosphoryl)oxy)methyl)-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)pyridin-1-ium acetate
+T839	SYSTEMATIC 245075 245095	trifluoroacetic acid
+T840	SYSTEMATIC 245097 245112	dichloromethane
+T841	TRIVIAL 245117 245122	water
+T842	SYSTEMATIC 245280 245292	acetonitrile
+T843	SYSTEMATIC 245380 245395	dichloromethane
+T844	TRIVIAL 245420 245430	silica gel
+T845	SYSTEMATIC 245474 245482	methanol
+T846	SYSTEMATIC 245486 245501	dichloromethane
+T847	TRIVIAL 245621 245626	water
+T848	FORMULA 245709 245712	D2O
+T849	FORMULA 246019 246022	D2O

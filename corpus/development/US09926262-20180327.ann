@@ -1,0 +1,569 @@
+T1	SYSTEMATIC 38748 38818	4-((2-(3,5-Dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T2	FAMILY 38833 38838	ester
+T3	SYSTEMATIC 38861 38916	Ethyl 2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylate
+T4	SYSTEMATIC 38917 38934	Palladium acetate
+T5	IDENTIFIER 38960 38965	SPhos
+T6	SYSTEMATIC 39016 39082	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclopent-1-enecarboxylate
+T7	ABBREVIATION 39125 39128	THF
+T8	SYSTEMATIC 39177 39185	nitrogen
+T9	SYSTEMATIC 39204 39236	3,5-dimethoxybenzylzinc chloride
+T10	ABBREVIATION 39277 39280	THF
+T11	FORMULA 39416 39421	NH4Cl
+T12	FORMULA 39449 39454	EtOAc
+T13	FORMULA 39500 39506	Na2SO4
+T14	FAMILY 39634 39641	hexanes
+T15	FORMULA 39646 39651	EtOAc
+T16	FAMILY 39652 39659	hexanes
+T17	SYSTEMATIC 39698 39753	ethyl 2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylate
+T18	SYSTEMATIC 39763 39815	Ethyl 2-(3,5-dimethoxybenzyl)cyclopentanecarboxylate
+T19	SYSTEMATIC 39816 39835	Palladium on carbon
+T20	SYSTEMATIC 39879 39934	ethyl 2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylate
+T21	SYSTEMATIC 39958 39966	methanol
+T22	SYSTEMATIC 39979 39987	hydrogen
+T23	SYSTEMATIC 40048 40056	hydrogen
+T24	SYSTEMATIC 40139 40147	hydrogen
+T25	TRIVIAL 40208 40214	celite
+T26	SYSTEMATIC 40236 40244	methanol
+T27	SYSTEMATIC 40314 40366	ethyl 2-(3,5-dimethoxybenzyl)cyclopentanecarboxylate
+T28	SYSTEMATIC 40376 40426	2-(3,5-Dimethoxybenzyl)cyclopentanecarboxylic acid
+T29	SYSTEMATIC 40435 40452	lithium hydroxide
+T30	SYSTEMATIC 40519 40571	ethyl 2-(3,5-dimethoxybenzyl)cyclopentanecarboxylate
+T31	ABBREVIATION 40595 40598	THF
+T32	SYSTEMATIC 40757 40765	nitrogen
+T33	TRIVIAL 40801 40806	water
+T34	FORMULA 40834 40837	HCl
+T35	FORMULA 40864 40869	EtOAc
+T36	FORMULA 40906 40912	Na2SO4
+T37	SYSTEMATIC 40969 41019	2-(3,5-dimethoxybenzyl)cyclopentanecarboxylic acid
+T38	SYSTEMATIC 41029 41102	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoate
+T39	SYSTEMATIC 41103 41116	Triethylamine
+T40	ABBREVIATION 41137 41141	DMAP
+T41	SYSTEMATIC 41162 41206	methyl 4-(aminomethyl)benzoate hydrochloride
+T42	SYSTEMATIC 41230 41290	N-(3-dimethylaminopropyl)-N′-ethylcarbodiimide hydrochloride
+T43	SYSTEMATIC 41351 41401	2-(3,5-dimethoxybenzyl)cyclopentanecarboxylic acid
+T44	FORMULA 41424 41430	CH2Cl2
+T45	FORMULA 41626 41631	NH4Cl
+T46	FORMULA 41659 41664	EtOAc
+T47	FORMULA 41710 41716	Na2SO4
+T48	FAMILY 41843 41850	hexanes
+T49	FORMULA 41851 41856	EtOAc
+T50	SYSTEMATIC 41894 41967	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoate
+T51	SYSTEMATIC 42010 42083	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoate
+T52	SYSTEMATIC 42115 42185	4-((2-(3,5-Dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T53	FAMILY 42200 42205	ester
+T54	SYSTEMATIC 42228 42245	lithium hydroxide
+T55	SYSTEMATIC 42314 42387	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoate
+T56	ABBREVIATION 42433 42436	THF
+T57	SYSTEMATIC 42587 42595	nitrogen
+T58	TRIVIAL 42631 42636	water
+T59	FORMULA 42666 42669	HCl
+T60	FORMULA 42698 42703	EtOAc
+T61	FORMULA 42739 42745	Na2SO4
+T62	SYSTEMATIC 42829 42899	4-((2-(3,5-Dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T63	FAMILY 42913 42918	ester
+T64	SYSTEMATIC 43003 43076	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopentanecarboxamido)methyl)benzoate
+T65	SYSTEMATIC 43182 43255	4-((2-(3,5-Dimethoxybenzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T66	SYSTEMATIC 43264 43317	2-(3,5-Dimethoxybenzyl)cyclopent-1-enecarboxylic acid
+T67	SYSTEMATIC 43326 43343	lithium hydroxide
+T68	SYSTEMATIC 43410 43465	ethyl 2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylate
+T69	ABBREVIATION 43491 43494	THF
+T70	SYSTEMATIC 43638 43655	lithium hydroxide
+T71	FORMULA 43816 43819	HCl
+T72	FORMULA 43839 43845	CH2Cl2
+T73	FORMULA 43877 43882	MgSO4
+T74	FORMULA 44012 44017	EtOAc
+T75	FAMILY 44018 44025	hexanes
+T76	FORMULA 44030 44035	EtOAc
+T77	FAMILY 44036 44043	hexanes
+T78	SYSTEMATIC 44083 44136	2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylic acid
+T79	SYSTEMATIC 44146 44223	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxamido) methyl)benzoate
+T80	ABBREVIATION 44224 44228	TBTU
+T81	SYSTEMATIC 44229 44294	(O-Benzotriazol-1-yl-N,N,N′,N′-tetramethyluronium hexafluorborate
+T82	SYSTEMATIC 44319 44363	methyl 4-(aminomethyl)benzoate hydrochloride
+T83	SYSTEMATIC 44391 44412	diisopropylethylamine
+T84	SYSTEMATIC 44461 44514	2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxylic acid
+T85	ABBREVIATION 44540 44543	DMF
+T86	FORMULA 44630 44635	EtOAc
+T87	FORMULA 44656 44659	HCl
+T88	FORMULA 44670 44674	NaOH
+T89	TRIVIAL 44684 44689	brine
+T90	FORMULA 44720 44725	MgSO4
+T91	SYSTEMATIC 44788 44864	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T92	SYSTEMATIC 44891 44964	4-((2-(3,5-Dimethoxybenzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T93	TRIVIAL 44965 44970	Water
+T94	SYSTEMATIC 44992 45009	lithium hydroxide
+T95	SYSTEMATIC 45077 45153	methyl 4-((2-(3,5-dimethoxybenzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T96	ABBREVIATION 45180 45183	THF
+T97	FORMULA 45273 45276	HCl
+T98	FORMULA 45296 45302	CH2Cl2
+T99	FORMULA 45343 45348	MgSO4
+T100	FORMULA 45479 45484	EtOAc
+T101	FAMILY 45485 45492	hexanes
+T102	FORMULA 45497 45502	EtOAc
+T103	FAMILY 45503 45510	hexanes
+T104	FORMULA 45542 45546	AcOH
+T105	SYSTEMATIC 45616 45695	4-((2-(3-(Trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T106	SYSTEMATIC 45704 45765	Ethyl 2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxylate
+T107	SYSTEMATIC 45766 45783	Palladium acetate
+T108	IDENTIFIER 45809 45814	SPhos
+T109	SYSTEMATIC 45866 45932	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclopent-1-enecarboxylate
+T110	ABBREVIATION 45975 45978	THF
+T111	SYSTEMATIC 46026 46034	nitrogen
+T112	SYSTEMATIC 46064 46099	3-trifluormethylbenzylzinc chloride
+T113	ABBREVIATION 46140 46143	THF
+T114	FORMULA 46279 46284	NH4Cl
+T115	FORMULA 46304 46309	EtOAc
+T116	FORMULA 46350 46355	MgSO4
+T117	FAMILY 46483 46490	hexanes
+T118	FORMULA 46495 46500	EtOAc
+T119	FAMILY 46501 46508	hexanes
+T120	SYSTEMATIC 46547 46608	ethyl 2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxylate
+T121	SYSTEMATIC 46618 46677	2-(3-(Trifluoromethyl)benzyl)cyclopent-1-enecarboxylic acid
+T122	SYSTEMATIC 46686 46703	lithium hydroxide
+T123	SYSTEMATIC 46769 46830	ethyl 2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxylate
+T124	SYSTEMATIC 46855 46866	1,4-dioxane
+T125	FORMULA 47005 47008	HCl
+T126	FORMULA 47028 47034	CH2Cl2
+T127	FORMULA 47066 47071	MgSO4
+T128	FORMULA 47211 47216	EtOAc
+T129	FAMILY 47217 47224	hexanes
+T130	FORMULA 47229 47234	EtOAc
+T131	FAMILY 47235 47242	hexanes
+T132	SYSTEMATIC 47282 47341	2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxylic acid
+T133	SYSTEMATIC 47351 47434	Methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido) methyl)benzoate
+T134	SYSTEMATIC 47487 47549	2, 2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxylic acid
+T135	SYSTEMATIC 47576 47620	methyl 4-(aminomethyl)benzoate hydrochloride
+T136	SYSTEMATIC 47682 47764	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T137	SYSTEMATIC 47774 47853	4-((2-(3-(Trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T138	SYSTEMATIC 47912 47994	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T139	SYSTEMATIC 48083 48159	4-((2-(3-(Trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T140	FAMILY 48174 48179	ester
+T141	SYSTEMATIC 48217 48296	Methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoate
+T142	SYSTEMATIC 48297 48316	Palladium on carbon
+T143	SYSTEMATIC 48362 48444	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T144	SYSTEMATIC 48470 48477	ethanol
+T145	SYSTEMATIC 48490 48498	hydrogen
+T146	SYSTEMATIC 48559 48567	hydrogen
+T147	SYSTEMATIC 48650 48658	hydrogen
+T148	TRIVIAL 48719 48725	celite
+T149	SYSTEMATIC 48747 48754	ethanol
+T150	FORMULA 48900 48905	EtOAc
+T151	FAMILY 48906 48913	hexanes
+T152	FORMULA 48918 48923	EtOAc
+T153	FAMILY 48924 48931	hexanes
+T154	SYSTEMATIC 48971 49050	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoate
+T155	SYSTEMATIC 49095 49176	methyl 4-((2-(3-(trifluoromethyl)benzyl) cyclopentanecarboxamido) methyl)benzoate
+T156	SYSTEMATIC 49208 49284	4-((2-(3-(Trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T157	FAMILY 49299 49304	ester
+T158	SYSTEMATIC 49374 49453	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoate
+T159	SYSTEMATIC 49564 49640	4-((2-(3-(Trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoic acid
+T160	FAMILY 49654 49659	ester
+T161	SYSTEMATIC 49747 49826	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopentanecarboxamido)methyl)benzoate
+T162	SYSTEMATIC 49934 50022	4-((N-Methyl-2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T163	SYSTEMATIC 50031 50122	Methyl 4-((N-methyl-2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T164	SYSTEMATIC 50137 50161	lithium diisopropylamide
+T165	ABBREVIATION 50194 50197	THF
+T166	SYSTEMATIC 50198 50205	heptane
+T167	SYSTEMATIC 50206 50218	ethylbenzene
+T168	SYSTEMATIC 50265 50347	methyl 4-((2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T169	ABBREVIATION 50388 50391	THF
+T170	SYSTEMATIC 50427 50438	iodomethane
+T171	SYSTEMATIC 50471 50484	t-butyl ether
+T172	FORMULA 50631 50636	NH4Cl
+T173	FORMULA 50656 50662	CH2Cl2
+T174	FORMULA 50703 50708	MgSO4
+T175	FORMULA 50840 50845	EtOAc
+T176	FAMILY 50846 50853	hexanes
+T177	FORMULA 50858 50863	EtOAc
+T178	FAMILY 50864 50871	hexanes
+T179	SYSTEMATIC 50911 51002	methyl 4-((N-methyl-2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T180	FAMILY 51036 51041	amide
+T181	SYSTEMATIC 51060 51148	4-((N-Methyl-2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoic acid
+T182	SYSTEMATIC 51207 51298	methyl 4-((N-methyl-2-(3-(trifluoromethyl)benzyl)cyclopent-1-enecarboxamido)methyl)benzoate
+T183	SYSTEMATIC 51387 51459	4-((2-(3,5-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T184	SYSTEMATIC 51468 51533	Ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T185	SYSTEMATIC 51534 51548	Sodium hydride
+T186	SYSTEMATIC 51618 51651	ethyl 2-oxocyclohexanecarboxylate
+T187	ABBREVIATION 51675 51678	THF
+T188	SYSTEMATIC 51711 51752	N-phenyl-bis(trifluoromethanesulfonimide)
+T189	FORMULA 51917 51923	NaHCO3
+T190	FORMULA 51943 51949	CH2Cl2
+T191	FORMULA 51990 51995	MgSO4
+T192	FAMILY 52124 52131	hexanes
+T193	FORMULA 52136 52141	EtOAc
+T194	FAMILY 52142 52149	hexanes
+T195	SYSTEMATIC 52188 52253	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T196	SYSTEMATIC 52318 52335	Palladium acetate
+T197	IDENTIFIER 52361 52366	SPhos
+T198	SYSTEMATIC 52418 52483	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T199	ABBREVIATION 52508 52511	THF
+T200	SYSTEMATIC 52559 52567	nitrogen
+T201	SYSTEMATIC 52597 52629	3,5-dimethoxybenzylzinc chloride
+T202	ABBREVIATION 52670 52673	THF
+T203	FORMULA 52809 52814	NH4Cl
+T204	FORMULA 52834 52839	EtOAc
+T205	FORMULA 52880 52885	MgSO4
+T206	FAMILY 53013 53020	hexanes
+T207	FORMULA 53025 53030	EtOAc
+T208	FAMILY 53031 53038	hexanes
+T209	SYSTEMATIC 53077 53131	ethyl 2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T210	SYSTEMATIC 53141 53193	2-(3,5-Dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T211	SYSTEMATIC 53249 53303	ethyl 2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T212	SYSTEMATIC 53360 53412	2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T213	SYSTEMATIC 53422 53497	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T214	SYSTEMATIC 53550 53605	2, 2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T215	SYSTEMATIC 53631 53675	methyl 4-(aminomethyl)benzoate hydrochloride
+T216	SYSTEMATIC 53737 53812	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T217	SYSTEMATIC 53822 53894	4-((2-(3,5-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T218	SYSTEMATIC 53953 54028	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T219	SYSTEMATIC 54117 54186	4-((2-(3,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T220	FAMILY 54201 54206	ester
+T221	SYSTEMATIC 54229 54301	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T222	SYSTEMATIC 54357 54432	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T223	SYSTEMATIC 54491 54563	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T224	SYSTEMATIC 54608 54680	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T225	SYSTEMATIC 54712 54781	4-((2-(3,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T226	FAMILY 54796 54801	ester
+T227	SYSTEMATIC 54871 54943	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T228	SYSTEMATIC 55124 55197	[methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T229	SYSTEMATIC 55225 55297	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T230	SYSTEMATIC 55934 56003	4-((2-(3,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T231	FAMILY 56017 56022	ester
+T232	SYSTEMATIC 56107 56179	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T233	SYSTEMATIC 56290 56363	4-((2-(3,5-Dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoic acid
+T234	SYSTEMATIC 56372 56439	Methyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohept-1-enecarboxylate
+T235	SYSTEMATIC 56495 56530	methyl 2-oxocycloheptanecarboxylate
+T236	SYSTEMATIC 56586 56653	methyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohept-1-enecarboxylate
+T237	FAMILY 56730 56737	hexanes
+T238	FORMULA 56742 56747	EtOAc
+T239	FAMILY 56748 56755	hexanes
+T240	SYSTEMATIC 56776 56832	Methyl 2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxylate
+T241	SYSTEMATIC 56888 56955	methyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohept-1-enecarboxylate
+T242	SYSTEMATIC 57012 57068	methyl 2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxylate
+T243	SYSTEMATIC 57078 57131	2-(3,5-Dimethoxybenzyl)cyclohept-1-enecarboxylic acid
+T244	SYSTEMATIC 57187 57243	methyl 2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxylate
+T245	SYSTEMATIC 57300 57353	2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxylic acid
+T246	SYSTEMATIC 57363 57439	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoate
+T247	SYSTEMATIC 57492 57548	2, 2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxylic acid
+T248	SYSTEMATIC 57574 57618	methyl 4-(aminomethyl)benzoate hydrochloride
+T249	SYSTEMATIC 57680 57756	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoate
+T250	SYSTEMATIC 57766 57839	4-((2-(3,5-Dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoic acid
+T251	SYSTEMATIC 57898 57974	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoate
+T252	SYSTEMATIC 58062 58132	4-((2-(3,5-Dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoic acid
+T253	FAMILY 58147 58152	ester
+T254	SYSTEMATIC 58191 58265	Methyl 4-((2-(3,5-dimethoxybenzyl)cycloheptanecarboxamido) methyl)benzoate
+T255	SYSTEMATIC 58321 58397	methyl 4-((2-(3,5-dimethoxybenzyl)cyclohept-1-enecarboxamido)methyl)benzoate
+T256	SYSTEMATIC 58457 58530	methyl 4-((2-(3,5-dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoate
+T257	SYSTEMATIC 58574 58647	methyl 4-((2-(3,5-dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoate
+T258	SYSTEMATIC 58679 58749	4-((2-(3,5-Dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoic acid
+T259	FAMILY 58764 58769	ester
+T260	SYSTEMATIC 58839 58912	methyl 4-((2-(3,5-dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoate
+T261	SYSTEMATIC 59025 59095	4-((2-(3,5-Dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoic acid
+T262	FAMILY 59109 59114	ester
+T263	SYSTEMATIC 59200 59273	methyl 4-((2-(3,5-dimethoxybenzyl)cycloheptanecarboxamido)methyl)benzoate
+T264	SYSTEMATIC 59382 59454	4-((2-(2,3-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T265	SYSTEMATIC 59463 59517	Ethyl 2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T266	SYSTEMATIC 59573 59638	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T267	SYSTEMATIC 59663 59695	2,3-dimethoxybenzylzinc chloride
+T268	ABBREVIATION 59741 59744	THF
+T269	SYSTEMATIC 59793 59847	ethyl 2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T270	FAMILY 59924 59931	hexanes
+T271	FORMULA 59936 59941	EtOAc
+T272	FAMILY 59942 59949	hexanes
+T273	SYSTEMATIC 59970 60022	2-(2,3-Dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T274	SYSTEMATIC 60078 60132	ethyl 2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T275	SYSTEMATIC 60190 60242	2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T276	SYSTEMATIC 60252 60327	Methyl 4-((2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T277	SYSTEMATIC 60383 60435	2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T278	SYSTEMATIC 60462 60506	methyl 4-(aminomethyl)benzoate hydrochloride
+T279	SYSTEMATIC 60566 60641	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T280	SYSTEMATIC 60651 60723	4-((2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T281	SYSTEMATIC 60782 60857	methyl 4-((2-(2,3-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T282	SYSTEMATIC 60947 61016	4-((2-(2,3-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T283	FAMILY 61031 61036	ester
+T284	SYSTEMATIC 61059 61132	Methyl 4-((2-(2,3-dimethoxybenzyl)cyclohexanecarboxamido) methyl)benzoate
+T285	SYSTEMATIC 61188 61263	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T286	SYSTEMATIC 61323 61395	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T287	SYSTEMATIC 61440 61512	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T288	SYSTEMATIC 61544 61613	4-((2-(2,3-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T289	FAMILY 61628 61633	ester
+T290	SYSTEMATIC 61703 61775	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T291	SYSTEMATIC 61888 61957	4-((2-(2,3-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T292	FAMILY 61971 61976	ester
+T293	SYSTEMATIC 62062 62134	methyl 4-((2-(2,3-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T294	SYSTEMATIC 62245 62317	4-((2-(2,5-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T295	SYSTEMATIC 62326 62380	Ethyl 2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T296	SYSTEMATIC 62436 62501	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T297	SYSTEMATIC 62527 62559	2,5-dimethoxybenzylzinc chloride
+T298	ABBREVIATION 62605 62608	THF
+T299	SYSTEMATIC 62657 62711	ethyl 2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T300	FAMILY 62788 62795	hexanes
+T301	FORMULA 62800 62805	EtOAc
+T302	FAMILY 62806 62813	hexanes
+T303	SYSTEMATIC 62834 62886	2-(2,5-Dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T304	SYSTEMATIC 62942 62996	ethyl 2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T305	SYSTEMATIC 63054 63106	2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T306	SYSTEMATIC 63116 63192	Methyl 4-((2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxamido) methyl)benzoate
+T307	SYSTEMATIC 63248 63300	2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T308	SYSTEMATIC 63327 63371	methyl 4-(aminomethyl)benzoate hydrochloride
+T309	SYSTEMATIC 63433 63508	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T310	SYSTEMATIC 63518 63590	4-((2-(2,5-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T311	SYSTEMATIC 63649 63724	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T312	SYSTEMATIC 63814 63883	4-((2-(2,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T313	FAMILY 63898 63903	ester
+T314	SYSTEMATIC 63926 63999	Methyl 4-((2-(2,5-dimethoxybenzyl)cyclohexanecarboxamido) methyl)benzoate
+T315	SYSTEMATIC 64055 64130	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T316	SYSTEMATIC 64190 64262	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T317	SYSTEMATIC 64307 64379	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T318	SYSTEMATIC 64411 64480	4-((2-(2,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T319	FAMILY 64495 64500	ester
+T320	SYSTEMATIC 64570 64642	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T321	SYSTEMATIC 64754 64823	4-((2-(2,5-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T322	FAMILY 64837 64842	ester
+T323	SYSTEMATIC 64928 65000	methyl 4-((2-(2,5-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T324	SYSTEMATIC 65111 65183	4-((2-(3,5-Dimethoxybenzyl)cyclooct-1-enecarboxamido)methyl)benzoic acid
+T325	SYSTEMATIC 65192 65257	Ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclooct-1-enecarboxylate
+T326	SYSTEMATIC 65313 65346	ethyl 2-oxocyclooctanecarboxylate
+T327	SYSTEMATIC 65411 65476	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclooct-1-enecarboxylate
+T328	SYSTEMATIC 65486 65540	Ethyl 2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxylate
+T329	SYSTEMATIC 65596 65661	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T330	SYSTEMATIC 65690 65722	3,5-dimethoxybenzylzinc chloride
+T331	ABBREVIATION 65763 65766	THF
+T332	SYSTEMATIC 65816 65870	ethyl 2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxylate
+T333	SYSTEMATIC 65880 65932	2-(3,5-Dimethoxybenzyl)cyclooct-1-enecarboxylic acid
+T334	SYSTEMATIC 65988 66042	ethyl 2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxylate
+T335	SYSTEMATIC 66127 66179	2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxylic acid
+T336	FAMILY 66220 66225	ester
+T337	SYSTEMATIC 66235 66310	Methyl 4-((2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxamido)methyl)benzoate
+T338	SYSTEMATIC 66363 66418	2, 2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxylic acid
+T339	SYSTEMATIC 66445 66489	methyl 4-(aminomethyl)benzoate hydrochloride
+T340	SYSTEMATIC 66549 66624	methyl 4-((2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxamido)methyl)benzoate
+T341	SYSTEMATIC 66634 66706	4-((2-(3,5-Dimethoxybenzyl)cyclooct-1-enecarboxamido)methyl)benzoic acid
+T342	SYSTEMATIC 66765 66840	methyl 4-((2-(3,5-dimethoxybenzyl)cyclooct-1-enecarboxamido)methyl)benzoate
+T343	SYSTEMATIC 66930 67002	4-((2-(3,4-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T344	SYSTEMATIC 67011 67065	Ethyl 2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T345	SYSTEMATIC 67121 67186	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T346	SYSTEMATIC 67212 67244	3,4-dimethoxybenzylzinc chloride
+T347	ABBREVIATION 67290 67293	THF
+T348	SYSTEMATIC 67342 67396	ethyl 2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T349	FAMILY 67473 67480	hexanes
+T350	FORMULA 67485 67490	EtOAc
+T351	FAMILY 67491 67498	hexanes
+T352	SYSTEMATIC 67519 67571	2-(3,4-Dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T353	SYSTEMATIC 67627 67681	ethyl 2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxylate
+T354	SYSTEMATIC 67737 67789	2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T355	SYSTEMATIC 67799 67874	Methyl 4-((2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T356	SYSTEMATIC 67930 67982	2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxylic acid
+T357	SYSTEMATIC 68006 68050	methyl 4-(aminomethyl)benzoate hydrochloride
+T358	SYSTEMATIC 68106 68181	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T359	SYSTEMATIC 68191 68263	4-((2-(3,4-Dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T360	SYSTEMATIC 68322 68397	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T361	SYSTEMATIC 68487 68556	4-((2-(3,4-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T362	FAMILY 68571 68576	ester
+T363	SYSTEMATIC 68599 68671	Methyl 4-((2-(3,4-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T364	SYSTEMATIC 68727 68802	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T365	SYSTEMATIC 68859 68931	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T366	SYSTEMATIC 68976 69048	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T367	SYSTEMATIC 69080 69149	4-((2-(3,4-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T368	FAMILY 69164 69169	ester
+T369	SYSTEMATIC 69239 69311	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T370	SYSTEMATIC 69424 69493	4-((2-(3,4-Dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T371	FAMILY 69507 69512	ester
+T372	SYSTEMATIC 69598 69670	methyl 4-((2-(3,4-dimethoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T373	SYSTEMATIC 69781 69848	4-((2-(2-Chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T374	SYSTEMATIC 69857 69906	Ethyl 2-(2-chlorobenzyl)cyclohex-1-enecarboxylate
+T375	SYSTEMATIC 69962 70027	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T376	SYSTEMATIC 70053 70084	2-chlorobenzylzinc(II) chloride
+T377	ABBREVIATION 70125 70128	THF
+T378	SYSTEMATIC 70176 70225	ethyl 2-(2-chlorobenzyl)cyclohex-1-enecarboxylate
+T379	FAMILY 70302 70309	hexanes
+T380	FORMULA 70314 70319	EtOAc
+T381	FAMILY 70320 70327	hexanes
+T382	SYSTEMATIC 70348 70395	2-(2-Chlorobenzyl)cyclohex-1-enecarboxylic acid
+T383	SYSTEMATIC 70451 70500	ethyl 2-(2-chlorobenzyl)cyclohex-1-enecarboxylate
+T384	SYSTEMATIC 70557 70604	2-(2-chlorobenzyl)cyclohex-1-enecarboxylic acid
+T385	FAMILY 70680 70687	hexanes
+T386	FORMULA 70692 70697	EtOAc
+T387	FAMILY 70698 70705	hexanes
+T388	SYSTEMATIC 70726 70796	Methyl 4-((2-(2-chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T389	SYSTEMATIC 70849 70899	2, 2-(2-chlorobenzyl)cyclohex-1-enecarboxylic acid
+T390	SYSTEMATIC 70923 70967	methyl 4-(aminomethyl)benzoate hydrochloride
+T391	SYSTEMATIC 71022 71092	methyl 4-((2-(2-chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T392	SYSTEMATIC 71102 71169	4-((2-(2-Chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T393	SYSTEMATIC 71225 71295	methyl 4-((2-(2-chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T394	SYSTEMATIC 71384 71438	4-((2-Benzylcyclohexanecarboxamido)methyl)benzoic acid
+T395	FAMILY 71453 71458	ester
+T396	SYSTEMATIC 71481 71538	Methyl 4-((2-benzylcyclohexanecarboxamido)methyl)benzoate
+T397	SYSTEMATIC 71594 71664	methyl 4-((2-(2-chlorobenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T398	SYSTEMATIC 71720 71777	methyl 4-((2-benzylcyclohexanecarboxamido)methyl)benzoate
+T399	SYSTEMATIC 71821 71878	methyl 4-((2-benzylcyclohexanecarboxamido)methyl)benzoate
+T400	SYSTEMATIC 71937 71943	chloro
+T401	SYSTEMATIC 71978 72032	4-((2-Benzylcyclohexanecarboxamido)methyl)benzoic acid
+T402	FAMILY 72047 72052	ester
+T403	SYSTEMATIC 72122 72179	methyl 4-((2-benzylcyclohexanecarboxamido)methyl)benzoate
+T404	SYSTEMATIC 72292 72346	4-((2-Benzylcyclohexanecarboxamido)methyl)benzoic acid
+T405	FAMILY 72360 72365	ester
+T406	SYSTEMATIC 72435 72492	methyl 4-((2-benzylcyclohexanecarboxamido)methyl)benzoate
+T407	SYSTEMATIC 72602 72670	4-((2-(3-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T408	SYSTEMATIC 72679 72729	Ethyl 2-(3-methoxybenzyl)cyclohex-1-enecarboxylate
+T409	SYSTEMATIC 72785 72850	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T410	SYSTEMATIC 72876 72908	3-methoxybenzylzinc(II) chloride
+T411	ABBREVIATION 72954 72957	THF
+T412	SYSTEMATIC 73000 73050	ethyl 2-(3-methoxybenzyl)cyclohex-1-enecarboxylate
+T413	SYSTEMATIC 73073 73081	triflate
+T414	FAMILY 73176 73183	hexanes
+T415	FORMULA 73188 73193	EtOAc
+T416	FAMILY 73194 73201	hexanes
+T417	SYSTEMATIC 73348 73396	2-(3-Methoxybenzyl)cyclohex-1-enecarboxylic acid
+T418	SYSTEMATIC 73452 73502	ethyl 2-(3-methoxybenzyl)cyclohex-1-enecarboxylate
+T419	SYSTEMATIC 73596 73644	2-(3-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T420	FAMILY 73721 73728	hexanes
+T421	FORMULA 73733 73738	EtOAc
+T422	FAMILY 73739 73746	hexanes
+T423	SYSTEMATIC 73767 73838	Methyl 4-((2-(3-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T424	SYSTEMATIC 73894 73942	2-(3-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T425	SYSTEMATIC 73966 74010	methyl 4-(aminomethyl)benzoate hydrochloride
+T426	SYSTEMATIC 74069 74140	methyl 4-((2-(3-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T427	SYSTEMATIC 74150 74218	4-((2-(3-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T428	SYSTEMATIC 74274 74345	methyl 4-((2-(3-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T429	SYSTEMATIC 74433 74498	4-((2-(3-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T430	FAMILY 74513 74518	ester
+T431	SYSTEMATIC 74541 74609	Methyl 4-((2-(3-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T432	SYSTEMATIC 74665 74736	methyl 4-((2-(3-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T433	SYSTEMATIC 74791 74859	methyl 4-((2-(3-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T434	SYSTEMATIC 74903 74971	methyl 4-((2-(3-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T435	SYSTEMATIC 75003 75068	4-((2-(3-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T436	FAMILY 75083 75088	ester
+T437	SYSTEMATIC 75158 75226	methyl 4-((2-(3-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T438	SYSTEMATIC 75335 75400	4-((2-(3-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T439	FAMILY 75414 75419	ester
+T440	SYSTEMATIC 75489 75557	methyl 4-((2-(3-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T441	SYSTEMATIC 75666 75734	4-((2-(2-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T442	SYSTEMATIC 75743 75793	Ethyl 2-(2-methoxybenzyl)cyclohex-1-enecarboxylate
+T443	SYSTEMATIC 75849 75914	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T444	SYSTEMATIC 75940 75972	2-methoxybenzylzinc(II) chloride
+T445	ABBREVIATION 76018 76021	THF
+T446	SYSTEMATIC 76064 76114	ethyl 2-(2-methoxybenzyl)cyclohex-1-enecarboxylate
+T447	SYSTEMATIC 76137 76145	triflate
+T448	FAMILY 76240 76247	hexanes
+T449	FORMULA 76252 76257	EtOAc
+T450	FAMILY 76258 76265	hexanes
+T451	SYSTEMATIC 76412 76460	2-(2-Methoxybenzyl)cyclohex-1-enecarboxylic acid
+T452	SYSTEMATIC 76516 76566	ethyl 2-(2-methoxybenzyl)cyclohex-1-enecarboxylate
+T453	SYSTEMATIC 76658 76706	2-(2-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T454	FAMILY 76783 76790	hexanes
+T455	FORMULA 76795 76800	EtOAc
+T456	FAMILY 76801 76808	hexanes
+T457	SYSTEMATIC 76829 76900	Methyl 4-((2-(2-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T458	SYSTEMATIC 76956 77004	2-(2-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T459	SYSTEMATIC 77028 77072	methyl 4-(aminomethyl)benzoate hydrochloride
+T460	SYSTEMATIC 77128 77199	methyl 4-((2-(2-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T461	SYSTEMATIC 77209 77277	4-((2-(2-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T462	SYSTEMATIC 77333 77404	methyl 4-((2-(2-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T463	SYSTEMATIC 77494 77559	4-((2-(2-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T464	FAMILY 77574 77579	ester
+T465	SYSTEMATIC 77602 77670	Methyl 4-((2-(2-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T466	SYSTEMATIC 77726 77797	methyl 4-((2-(2-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T467	SYSTEMATIC 77853 77921	methyl 4-((2-(2-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T468	SYSTEMATIC 77966 78034	methyl 4-((2-(2-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T469	SYSTEMATIC 78066 78131	4-((2-(2-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T470	FAMILY 78146 78151	ester
+T471	SYSTEMATIC 78221 78289	methyl 4-((2-(2-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T472	SYSTEMATIC 78401 78466	4-((2-(2-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T473	FAMILY 78480 78485	ester
+T474	SYSTEMATIC 78555 78623	methyl 4-((2-(2-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T475	SYSTEMATIC 78734 78802	4-((2-(4-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T476	SYSTEMATIC 78811 78861	Ethyl 2-(4-methoxybenzyl)cyclohex-1-enecarboxylate
+T477	SYSTEMATIC 78917 78982	ethyl 2-(((trifluoromethyl)sulfonyl)oxy)cyclohex-1-enecarboxylate
+T478	SYSTEMATIC 79008 79040	4-methoxybenzylzinc(II) chloride
+T479	ABBREVIATION 79086 79089	THF
+T480	SYSTEMATIC 79132 79182	ethyl 2-(4-methoxybenzyl)cyclohex-1-enecarboxylate
+T481	SYSTEMATIC 79205 79213	triflate
+T482	FAMILY 79308 79315	hexanes
+T483	FORMULA 79320 79325	EtOAc
+T484	FAMILY 79326 79333	hexanes
+T485	SYSTEMATIC 79480 79528	2-(4-Methoxybenzyl)cyclohex-1-enecarboxylic acid
+T486	SYSTEMATIC 79584 79634	ethyl 2-(4-methoxybenzyl)cyclohex-1-enecarboxylate
+T487	SYSTEMATIC 79726 79774	2-(4-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T488	FAMILY 79851 79858	hexanes
+T489	FORMULA 79863 79868	EtOAc
+T490	FAMILY 79869 79876	hexanes
+T491	SYSTEMATIC 79897 79968	Methyl 4-((2-(4-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T492	SYSTEMATIC 80024 80072	2-(4-methoxybenzyl)cyclohex-1-enecarboxylic acid
+T493	SYSTEMATIC 80098 80142	methyl 4-(aminomethyl)benzoate hydrochloride
+T494	SYSTEMATIC 80200 80271	methyl 4-((2-(4-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T495	SYSTEMATIC 80281 80349	4-((2-(4-Methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoic acid
+T496	SYSTEMATIC 80405 80476	methyl 4-((2-(4-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T497	SYSTEMATIC 80566 80631	4-((2-(4-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T498	FAMILY 80646 80651	ester
+T499	SYSTEMATIC 80674 80742	Methyl 4-((2-(4-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T500	SYSTEMATIC 80798 80869	methyl 4-((2-(4-methoxybenzyl)cyclohex-1-enecarboxamido)methyl)benzoate
+T501	SYSTEMATIC 80925 80993	methyl 4-((2-(4-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T502	SYSTEMATIC 81038 81106	methyl 4-((2-(4-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T503	SYSTEMATIC 81138 81203	4-((2-(4-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T504	FAMILY 81218 81223	ester
+T505	SYSTEMATIC 81293 81361	methyl 4-((2-(4-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T506	SYSTEMATIC 81473 81538	4-((2-(4-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T507	FAMILY 81552 81557	ester
+T508	SYSTEMATIC 81627 81695	methyl 4-((2-(4-methoxybenzyl)cyclohexanecarboxamido)methyl)benzoate
+T509	SYSTEMATIC 81805 81890	4-((3-(3,5-Dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoic acid
+T510	SYSTEMATIC 81899 81946	Methyl 3-oxobicyclo[2.2.1]heptane-2-carboxylate
+T511	SYSTEMATIC 81961 81985	lithium diisopropylamide
+T512	ABBREVIATION 82017 82020	THF
+T513	TRIVIAL 82067 82077	norcamphor
+T514	ABBREVIATION 82110 82113	THF
+T515	SYSTEMATIC 82164 82183	methyl cyanoformate
+T516	ABBREVIATION 82207 82210	THF
+T517	FORMULA 82363 82368	NH4Cl
+T518	FORMULA 82388 82394	CH2Cl2
+T519	FORMULA 82435 82440	MgSO4
+T520	FORMULA 82572 82577	EtOAc
+T521	FAMILY 82578 82585	hexanes
+T522	FORMULA 82590 82595	EtOAc
+T523	FAMILY 82596 82603	hexanes
+T524	SYSTEMATIC 82642 82689	methyl 3-oxobicyclo[2.2.1]heptane-2-carboxylate
+T525	SYSTEMATIC 82699 82778	Methyl 3-(((trifluoromethyl)sulfonyl)oxy)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T526	SYSTEMATIC 82834 82881	methyl 3-oxobicyclo[2.2.1]heptane-2-carboxylate
+T527	SYSTEMATIC 82937 83016	methyl 3-(((trifluoromethyl)sulfonyl)oxy)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T528	SYSTEMATIC 83026 83094	Methyl 3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T529	SYSTEMATIC 83150 83229	methyl 3-(((trifluoromethyl)sulfonyl)oxy)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T530	SYSTEMATIC 83255 83291	3,5-dimethoxybenzylzinc(II) chloride
+T531	ABBREVIATION 83332 83335	THF
+T532	SYSTEMATIC 83425 83493	methyl 3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T533	FAMILY 83570 83577	hexanes
+T534	FORMULA 83582 83587	EtOAc
+T535	FAMILY 83588 83595	hexanes
+T536	SYSTEMATIC 83616 83681	3-(3,5-Dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxylic acid
+T537	SYSTEMATIC 83737 83805	methyl 3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxylate
+T538	SYSTEMATIC 83861 83926	3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxylic acid
+T539	SYSTEMATIC 83948 84019	(E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxylic acid
+T540	FAMILY 84130 84137	hexanes
+T541	FORMULA 84142 84147	EtOAc
+T542	FAMILY 84148 84155	hexanes
+T543	SYSTEMATIC 84176 84264	Methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoate
+T544	SYSTEMATIC 84320 84381	3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]-2-ene-2-carboxylic acid
+T545	SYSTEMATIC 84408 84452	methyl 4-(aminomethyl)benzoate hydrochloride
+T546	SYSTEMATIC 84512 84600	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoate
+T547	SYSTEMATIC 84610 84695	4-((3-(3,5-Dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoic acid
+T548	SYSTEMATIC 84751 84839	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoate
+T549	SYSTEMATIC 84927 85028	4-(((1 S,2R,4R,E)-3-(3,5-Dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoic acid
+T550	SYSTEMATIC 85047 85141	(E)-Methyl 4-((3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T551	SYSTEMATIC 85197 85268	(E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxylic acid
+T552	SYSTEMATIC 85323 85367	methyl 4-(aminomethyl)benzoate hydrochloride
+T553	SYSTEMATIC 85435 85538	methyl 4-(((1S,2R,4R,E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T554	SYSTEMATIC 85568 85672	methyl 4-(((1 S,2S,4R,E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T555	SYSTEMATIC 85682 85782	4-(((1S,2R,4R,E)-3-(3,5-Dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoic acid
+T556	SYSTEMATIC 85856 85960	methyl 4-(((1 S,2R,4R,E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T557	SYSTEMATIC 86072 86175	methyl 4-(((1S,2S,4R,E)-3-(3,5-dimethoxybenzylidene)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T558	SYSTEMATIC 86304 86386	4-((3-(3,5-Dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoic acid
+T559	FAMILY 86401 86406	ester
+T560	SYSTEMATIC 86429 86514	Methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T561	SYSTEMATIC 86570 86658	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]hept-2-ene-2-carboxamido)methyl)benzoate
+T562	SYSTEMATIC 86713 86798	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T563	SYSTEMATIC 86875 86960	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T564	SYSTEMATIC 87075 87140	4-((2-(4-Methoxybenzyl)cyclohexanecarboxamido)methyl)benzoic acid
+T565	FAMILY 87155 87160	ester
+T566	SYSTEMATIC 87230 87315	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate
+T567	SYSTEMATIC 87427 87509	4-((3-(3,5-Dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoic acid
+T568	FAMILY 87523 87528	ester
+T569	SYSTEMATIC 87598 87683	methyl 4-((3-(3,5-dimethoxybenzyl)bicyclo[2.2.1]heptane-2-carboxamido)methyl)benzoate

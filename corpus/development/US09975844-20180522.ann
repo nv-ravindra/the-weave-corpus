@@ -1,0 +1,81 @@
+T1	SYSTEMATIC 28797 28821	2,3-dimethylnitrobenzene
+T2	SYSTEMATIC 28833 28868	N,N-dimethylforamide dimethylacetal
+T3	SYSTEMATIC 28883 28903	N,N-dimethylforamide
+T4	SYSTEMATIC 28998 29049	2-{2-(N,N-dimethylamino)vinyl}-3-methylnitrobenzene
+T5	FORMULA 29058 29063	CDCl3
+T6	SYSTEMATIC 29254 29278	2,3-dimethylnitrobenzene
+T7	SYSTEMATIC 29290 29325	N,N-dimethylforamide dimethylacetal
+T8	SYSTEMATIC 29338 29349	pyrrolidine
+T9	SYSTEMATIC 29364 29381	copper (I) iodide
+T10	SYSTEMATIC 29497 29541	2-(2-pyrrolidinylvinyl)-3-methylnitrobenzene
+T11	FORMULA 29582 29587	CDCl3
+T12	SYSTEMATIC 29802 29826	2,3-dimethylnitrobenzene
+T13	SYSTEMATIC 29838 29873	N,N-dimethylforamide dimethylacetal
+T14	SYSTEMATIC 29889 29900	pyrrolidine
+T15	SYSTEMATIC 30016 30060	2-(2-pyrrolidinylvinyl)-3-methylnitrobenzene
+T16	SYSTEMATIC 30125 30176	2-{2-(N,N-dimethylamino)vinyl}-3-methylnitrobenzene
+T17	SYSTEMATIC 30200 30217	hydrogen peroxide
+T18	SYSTEMATIC 30244 30255	nitric acid
+T19	SYSTEMATIC 30275 30283	methanol
+T20	SYSTEMATIC 30330 30346	sodium bisulfite
+T21	SYSTEMATIC 30425 30438	ethyl acetate
+T22	SYSTEMATIC 30494 30512	sodium bicarbonate
+T23	SYSTEMATIC 30544 30558	sodium sulfate
+T24	SYSTEMATIC 30625 30653	2-methyl-6-nitrobenzoic acid
+T25	SYSTEMATIC 30686 30700	sodium nitrite
+T26	SYSTEMATIC 30714 30725	nitric acid
+T27	SYSTEMATIC 30780 30831	2-{2-(N,N-dimethylamino)vinyl}-3-methylnitrobenzene
+T28	TRIVIAL 30945 30951	saline
+T29	SYSTEMATIC 31021 31034	ethyl acetate
+T30	SYSTEMATIC 31055 31083	2-methyl-6-nitrobenzoic acid
+T31	ABBREVIATION 31093 31100	DMSO-d6
+T32	SYSTEMATIC 31232 31276	2-(2-pyrrolidinylvinyl)-3-methylnitrobenzene
+T33	SYSTEMATIC 31288 31310	potassium permanganate
+T34	SYSTEMATIC 31322 31341	potassium carbonate
+T35	SYSTEMATIC 31352 31364	acetonitrile
+T36	TRIVIAL 31378 31383	water
+T37	SYSTEMATIC 31442 31458	sodium bisulfate
+T38	SYSTEMATIC 31537 31550	ethyl acetate
+T39	SYSTEMATIC 31606 31624	sodium bicarbonate
+T40	SYSTEMATIC 31656 31670	sodium sulfate
+T41	SYSTEMATIC 31736 31764	2-methyl-6-nitrobenzaldehyde
+T42	FORMULA 31774 31779	CDCl3
+T43	SYSTEMATIC 31925 31953	2-methyl-6-nitrobenzaldehyde
+T44	SYSTEMATIC 31964 31979	tetrahydrofuran
+T45	SYSTEMATIC 31993 32001	methanol
+T46	SYSTEMATIC 32013 32031	sodium borohydride
+T47	SYSTEMATIC 32123 32141	sodium bicarbonate
+T48	SYSTEMATIC 32220 32233	ethyl acetate
+T49	SYSTEMATIC 32289 32307	sodium bicarbonate
+T50	SYSTEMATIC 32339 32353	sodium sulfate
+T51	SYSTEMATIC 32420 32461	2-(hydroxymethyl)-3-methyl-1-nitrobenzene
+T52	FORMULA 32471 32476	CDCl3
+T53	SYSTEMATIC 32613 32631	sodium borohydride
+T54	SYSTEMATIC 32646 32661	tetrahydrofuran
+T55	SYSTEMATIC 32738 32753	tetrahydrofuran
+T56	SYSTEMATIC 32776 32804	2-methyl-6-nitrobenzoic acid
+T57	SYSTEMATIC 32987 33007	methanesulfonic acid
+T58	TRIVIAL 33101 33106	water
+T59	SYSTEMATIC 33160 33173	ethyl acetate
+T60	SYSTEMATIC 33236 33253	hydrochloric acid
+T61	SYSTEMATIC 33306 33323	magnesium sulfate
+T62	SYSTEMATIC 33390 33428	2-(hydroxymethyl)-3-methylnitrobenzene
+T63	SYSTEMATIC 33464 33492	2-methyl-6-nitrobenzoic acid
+T64	SYSTEMATIC 33504 33519	tetrahydrofuran
+T65	SYSTEMATIC 33550 33568	sodium borohydride
+T66	SYSTEMATIC 33618 33634	dimethyl sulfate
+T67	TRIVIAL 33710 33715	Water
+T68	SYSTEMATIC 33785 33798	ethyl acetate
+T69	SYSTEMATIC 33867 33885	sodium bicarbonate
+T70	SYSTEMATIC 33938 33952	sodium sulfate
+T71	SYSTEMATIC 34019 34057	2-(hydroxymethyl)-3-methylnitrobenzene
+T72	SYSTEMATIC 34093 34131	2-(hydroxymethyl)-3-methylnitrobenzene
+T73	SYSTEMATIC 34146 34156	chloroform
+T74	SYSTEMATIC 34188 34209	phosphorus tribromide
+T75	TRIVIAL 34305 34310	Water
+T76	SYSTEMATIC 34380 34393	ethyl acetate
+T77	TRIVIAL 34442 34447	water
+T78	TRIVIAL 34462 34468	saline
+T79	SYSTEMATIC 34491 34508	magnesium sulfate
+T80	SYSTEMATIC 34575 34611	2-(bromomethyl)-3-methylnitrobenzene
+T81	FORMULA 34621 34626	CDCl3

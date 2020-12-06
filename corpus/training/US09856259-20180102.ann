@@ -1,0 +1,609 @@
+T1	SYSTEMATIC 243440 243509	1-[dideuterio-(4,4-difluorocyclohexyl)methyl]-4-nitrobenzenesulfonate
+T2	SYSTEMATIC 243549 243592	dideuterio-(4,4-difluorocyclohexyl)methanol
+T3	SYSTEMATIC 243601 243641	ethyl 4,4-difluorocyclohexanecarboxylate
+T4	SYSTEMATIC 243666 243681	tetrahydrofuran
+T5	ABBREVIATION 243684 243687	THF
+T6	SYSTEMATIC 243733 243759	lithium aluminum deuteride
+T7	SYSTEMATIC 243868 243894	sodium sulfate decahydrate
+T8	SYSTEMATIC 243969 243982	ethyl acetate
+T9	SYSTEMATIC 244062 244132	1-[dideuterio-(4,4-difluorocyclohexyl)methyl]-4-nitro-benzenesulfonate
+T10	SYSTEMATIC 244154 244197	dideuterio-(4,4-difluorocyclohexyl)methanol
+T11	SYSTEMATIC 244219 244237	methylene chloride
+T12	SYSTEMATIC 244257 244270	triethylamine
+T13	SYSTEMATIC 244296 244327	4-nitrobenzenesulfonyl chloride
+T14	TRIVIAL 244444 244449	water
+T15	SYSTEMATIC 244470 244483	ethyl acetate
+T16	TRIVIAL 244519 244524	brine
+T17	SYSTEMATIC 244537 244551	sodium sulfate
+T18	TRIVIAL 244614 244624	silica gel
+T19	SYSTEMATIC 244672 244685	ethyl acetate
+T20	SYSTEMATIC 244689 244695	hexane
+T21	SYSTEMATIC 244781 244812	2-[bromo(phenyl)methyl]pyridine
+T22	SYSTEMATIC 244851 244876	phenyl(2-pyridyl)methanol
+T23	SYSTEMATIC 244885 244911	phenyl(2-pyridyl)methanone
+T24	SYSTEMATIC 244935 244943	methanol
+T25	SYSTEMATIC 244994 245012	sodium borohydride
+T26	FORMULA 245163 245166	HCl
+T27	SYSTEMATIC 245240 245259	potassium carbonate
+T28	SYSTEMATIC 245280 245293	ethyl acetate
+T29	TRIVIAL 245329 245334	brine
+T30	SYSTEMATIC 245347 245361	sodium sulfate
+T31	SYSTEMATIC 245464 245495	2-[bromo(phenyl)methyl]pyridine
+T32	SYSTEMATIC 245517 245542	phenyl(2-pyridyl)methanol
+T33	SYSTEMATIC 245567 245585	methylene chloride
+T34	SYSTEMATIC 245636 245651	thionyl bromide
+T35	SYSTEMATIC 245789 245808	potassium carbonate
+T36	SYSTEMATIC 245829 245842	ethyl acetate
+T37	TRIVIAL 245878 245883	water
+T38	TRIVIAL 245888 245893	brine
+T39	SYSTEMATIC 245906 245923	magnesium sulfate
+T40	TRIVIAL 245986 245996	silica gel
+T41	SYSTEMATIC 246042 246055	ethyl acetate
+T42	SYSTEMATIC 246059 246065	hexane
+T43	SYSTEMATIC 246140 246259	4-[5-[dideuterio-(4,4-difluoro cyclo hexyl)methyl]-3-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-7-yl]benzoic acid
+T44	SYSTEMATIC 246291 246366	3-bromo-5-[dideuterio-(4,4-difluorocyclohexyl)methyl]pyrrolo[2,3-b]pyrazine
+T45	SYSTEMATIC 246375 246408	3-bromo-5H-pyrrolo[2,3-b]pyrazine
+T46	SYSTEMATIC 246429 246446	dimethylformamide
+T47	SYSTEMATIC 246466 246480	sodium hydride
+T48	SYSTEMATIC 246544 246612	1-[dideuterio-(4,4-difluorocyclohexyl)methyl]4-nitrobenzenesulfonate
+T49	TRIVIAL 246752 246757	water
+T50	SYSTEMATIC 246778 246791	ethyl acetate
+T51	TRIVIAL 246827 246832	brine
+T52	SYSTEMATIC 246845 246859	sodium sulfate
+T53	TRIVIAL 246920 246930	silica gel
+T54	SYSTEMATIC 246978 246991	ethyl acetate
+T55	SYSTEMATIC 246995 247001	hexane
+T56	SYSTEMATIC 247056 247154	4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]pyrrolo[2,3-b]pyrazin-3-yl]-3,5-dimethyl-isoxazole
+T57	SYSTEMATIC 247168 247243	3-bromo-5-[dideuterio-(4,4-difluorocyclohexyl)methyl]pyrrolo[2,3-b]pyrazine
+T58	SYSTEMATIC 247268 247280	acetonitrile
+T59	SYSTEMATIC 247299 247368	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T60	SYSTEMATIC 247389 247448	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T61	SYSTEMATIC 247478 247497	potassium carbonate
+T62	TRIVIAL 247501 247506	water
+T63	TRIVIAL 247611 247616	water
+T64	SYSTEMATIC 247636 247649	ethyl acetate
+T65	TRIVIAL 247685 247690	brine
+T66	SYSTEMATIC 247703 247717	sodium sulfate
+T67	TRIVIAL 247778 247788	silica gel
+T68	SYSTEMATIC 247834 247842	methanol
+T69	SYSTEMATIC 247846 247864	methylene chloride
+T70	SYSTEMATIC 247946 248052	4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]-7-iodo-pyrrolo[2,3-b]pyrazin-3-yl]-3,5-dimethyl-isoxazole
+T71	SYSTEMATIC 248066 248164	4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]pyrrolo[2,3-b]pyrazin-3-yl]-3,5-dimethyl-isoxazole
+T72	SYSTEMATIC 248192 248204	acetonitrile
+T73	SYSTEMATIC 248223 248240	N-iodosuccinimide
+T74	SYSTEMATIC 248388 248407	potassium carbonate
+T75	SYSTEMATIC 248427 248440	ethyl acetate
+T76	TRIVIAL 248476 248481	brine
+T77	SYSTEMATIC 248494 248508	sodium sulfate
+T78	TRIVIAL 248569 248579	silica gel
+T79	SYSTEMATIC 248627 248640	ethyl acetate
+T80	SYSTEMATIC 248644 248650	hexane
+T81	SYSTEMATIC 248731 248851	methyl 4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]-3-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-7-yl]benzoate
+T82	SYSTEMATIC 248865 248971	4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]-7-iodo-pyrrolo[2,3-b]pyrazin-3-yl]-3,5-dimethyl-isoxazole
+T83	ABBREVIATION 249003 249006	THF
+T84	SYSTEMATIC 249025 249087	methyl 4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate
+T85	SYSTEMATIC 249109 249168	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T86	SYSTEMATIC 249198 249217	potassium carbonate
+T87	TRIVIAL 249221 249226	water
+T88	TRIVIAL 249319 249324	water
+T89	SYSTEMATIC 249344 249357	ethyl acetate
+T90	TRIVIAL 249393 249398	brine
+T91	SYSTEMATIC 249411 249425	sodium sulfate
+T92	TRIVIAL 249486 249496	silica gel
+T93	SYSTEMATIC 249544 249557	ethyl acetate
+T94	SYSTEMATIC 249561 249567	hexane
+T95	SYSTEMATIC 249649 249766	4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]-3-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-7-yl]benzoic acid
+T96	SYSTEMATIC 249780 249900	methyl 4-[5-[dideuterio-(4,4-difluorocyclohexyl)methyl]-3-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-7-yl]benzoate
+T97	ABBREVIATION 249932 249935	THF
+T98	SYSTEMATIC 249957 249974	lithium hydroxide
+T99	TRIVIAL 250068 250073	water
+T100	FORMULA 250105 250108	HCl
+T101	SYSTEMATIC 250135 250148	ethyl acetate
+T102	TRIVIAL 250184 250189	brine
+T103	SYSTEMATIC 250202 250216	sodium sulfate
+T104	SYSTEMATIC 250288 250301	ethyl acetate
+T105	SYSTEMATIC 250306 250312	hexane
+T106	SYSTEMATIC 250381 250471	3,5-dimethyl-4-[3-(1-methylpyrazol-4-yl)-1-[phenyl(2-pyridyl)methyl]indazol-6-yl]isoxazole
+T107	SYSTEMATIC 250503 250545	4-(1H-indazol-6-yl)-3,5-dimethyl-isoxazole
+T108	SYSTEMATIC 250555 250574	6-bromo-1H-indazole
+T109	SYSTEMATIC 250601 250613	acetonitrile
+T110	SYSTEMATIC 250632 250701	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T111	SYSTEMATIC 250727 250746	potassium carbonate
+T112	TRIVIAL 250750 250755	water
+T113	SYSTEMATIC 250769 250828	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T114	SYSTEMATIC 250967 251036	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T115	SYSTEMATIC 251050 251109	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T116	TRIVIAL 251301 251306	water
+T117	SYSTEMATIC 251326 251339	ethyl acetate
+T118	TRIVIAL 251375 251380	brine
+T119	SYSTEMATIC 251393 251410	magnesium sulfate
+T120	TRIVIAL 251532 251542	silica gel
+T121	SYSTEMATIC 251588 251601	ethyl acetate
+T122	SYSTEMATIC 251605 251611	hexane
+T123	SYSTEMATIC 251689 251738	4-(3-iodo-1H-indazol-6-yl)-3,5-dimethyl-isoxazole
+T124	SYSTEMATIC 251748 251790	4-(1H-indazol-6-yl)-3,5-dimethyl-isoxazole
+T125	SYSTEMATIC 251818 251839	N,N-dimethylformamide
+T126	SYSTEMATIC 251891 251910	potassium hydroxide
+T127	SYSTEMATIC 251936 251942	iodine
+T128	SYSTEMATIC 252099 252117	sodium thiosulfate
+T129	FORMULA 252119 252126	Na2S2O3
+T130	SYSTEMATIC 252165 252178	ethyl acetate
+T131	SYSTEMATIC 252246 252264	sodium thiosulfate
+T132	FORMULA 252266 252273	Na2S2O3
+T133	TRIVIAL 252293 252298	water
+T134	TRIVIAL 252300 252305	brine
+T135	SYSTEMATIC 252327 252344	magnesium sulfate
+T136	TRIVIAL 252466 252476	silica gel
+T137	SYSTEMATIC 252523 252536	ethyl acetate
+T138	SYSTEMATIC 252540 252546	hexane
+T139	SYSTEMATIC 252609 252697	Preparation of 4-[3-iodo-1-[phenyl(2-pyridyl)methyl]indazol-6-yl]-3,5-dimethyl-isoxazole
+T140	SYSTEMATIC 252711 252760	4-(3-iodo-1H-indazol-6-yl)-3,5-dimethyl-isoxazole
+T141	ABBREVIATION 252788 252791	THF
+T142	SYSTEMATIC 252810 252826	cesium carbonate
+T143	SYSTEMATIC 252851 252882	2-[bromo(phenyl)methyl]pyridine
+T144	TRIVIAL 252989 252994	water
+T145	SYSTEMATIC 253014 253027	ethyl acetate
+T146	TRIVIAL 253063 253068	brine
+T147	SYSTEMATIC 253081 253098	magnesium sulfate
+T148	TRIVIAL 253220 253230	silica gel
+T149	SYSTEMATIC 253276 253289	ethyl acetate
+T150	SYSTEMATIC 253293 253299	hexane
+T151	SYSTEMATIC 253381 253471	3,5-dimethyl-4-[3-(1-methylpyrazol-4-yl)-1-[phenyl(2-pyridyl)methyl]indazol-6-yl]isoxazole
+T152	SYSTEMATIC 253485 253558	4-[3-iodo-1-[phenyl(2-pyridyl)methyl]indazol-6-yl]-3,5-dimethyl-isoxazole
+T153	SYSTEMATIC 253590 253602	acetonitrile
+T154	SYSTEMATIC 253620 253684	1-methyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazole
+T155	SYSTEMATIC 253710 253729	potassium carbonate
+T156	TRIVIAL 253733 253738	water
+T157	SYSTEMATIC 253753 253812	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T158	TRIVIAL 253953 253958	water
+T159	SYSTEMATIC 253978 253991	ethyl acetate
+T160	TRIVIAL 254027 254032	brine
+T161	SYSTEMATIC 254045 254062	magnesium sulfate
+T162	TRIVIAL 254184 254194	silica gel
+T163	SYSTEMATIC 254241 254254	ethyl acetate
+T164	SYSTEMATIC 254258 254264	hexane
+T165	SYSTEMATIC 254413 254585	3,5-dimethyl-4-[1-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridin-6-yl]isoxazole (P-2103) and 3,5-dimethyl-4-[3-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridin-6-yl]isoxazole
+T166	SYSTEMATIC 254617 254674	6-bromo-1-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridine
+T167	SYSTEMATIC 254684 254741	6-bromo-3-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridine
+T168	SYSTEMATIC 254751 254784	6-bromo-1H-imidazo[4,5-b]pyridine
+T169	ABBREVIATION 254811 254814	THF
+T170	SYSTEMATIC 254834 254850	cesium carbonate
+T171	SYSTEMATIC 254875 254906	2-[bromo(phenyl)methyl]pyridine
+T172	TRIVIAL 255019 255024	water
+T173	SYSTEMATIC 255044 255057	ethyl acetate
+T174	TRIVIAL 255093 255098	brine
+T175	SYSTEMATIC 255111 255128	magnesium sulfate
+T176	TRIVIAL 255250 255260	silica gel
+T177	SYSTEMATIC 255307 255320	ethyl acetate
+T178	SYSTEMATIC 255324 255330	hexane
+T179	SYSTEMATIC 255415 255494	3,5-dimethyl-4-[1-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridin-6-yl]isoxazole
+T180	SYSTEMATIC 255508 255565	6-bromo-1-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridine
+T181	SYSTEMATIC 255593 255605	acetonitrile
+T182	SYSTEMATIC 255623 255692	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T183	SYSTEMATIC 255714 255773	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T184	SYSTEMATIC 255803 255822	potassium carbonate
+T185	TRIVIAL 255826 255831	water
+T186	TRIVIAL 255937 255942	water
+T187	SYSTEMATIC 255962 255975	ethyl acetate
+T188	TRIVIAL 256011 256016	brine
+T189	SYSTEMATIC 256055 256069	sodium sulfate
+T190	TRIVIAL 256101 256111	silica gel
+T191	SYSTEMATIC 256157 256165	methanol
+T192	SYSTEMATIC 256169 256187	methylene chloride
+T193	SYSTEMATIC 256339 256418	3,5-dimethyl-4-[3-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridin-6-yl]isoxazole
+T194	SYSTEMATIC 256432 256489	6-bromo-3-[phenyl(2-pyridyl)methyl]imidazo[4,5-b]pyridine
+T195	SYSTEMATIC 256517 256529	acetonitrile
+T196	SYSTEMATIC 256547 256616	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T197	SYSTEMATIC 256638 256697	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T198	SYSTEMATIC 256727 256746	potassium carbonate
+T199	TRIVIAL 256750 256755	water
+T200	TRIVIAL 256861 256866	water
+T201	SYSTEMATIC 256886 256899	ethyl acetate
+T202	TRIVIAL 256935 256940	brine
+T203	SYSTEMATIC 256979 256993	sodium sulfate
+T204	TRIVIAL 257025 257035	silica gel
+T205	SYSTEMATIC 257081 257089	methanol
+T206	SYSTEMATIC 257093 257111	methylene chloride
+T207	SYSTEMATIC 257180 257300	6-[7-[(4,4-difluorocyclohexyl)methyl]-2-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-5-yl]pyridine-3-carboxylic acid
+T208	SYSTEMATIC 257332 257387	3,5-dimethyl-4-(5H-pyrrolo[2,3-b]pyrazin-2-yl)isoxazole
+T209	SYSTEMATIC 257397 257430	2-bromo-5H-pyrrolo[2,3-b]pyrazine
+T210	SYSTEMATIC 257458 257470	acetonitrile
+T211	SYSTEMATIC 257489 257558	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T212	SYSTEMATIC 257583 257602	potassium carbonate
+T213	TRIVIAL 257606 257611	water
+T214	SYSTEMATIC 257625 257684	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T215	SYSTEMATIC 257710 257718	nitrogen
+T216	TRIVIAL 257815 257820	water
+T217	SYSTEMATIC 257840 257853	ethyl acetate
+T218	TRIVIAL 257889 257894	brine
+T219	SYSTEMATIC 257907 257921	sodium sulfate
+T220	TRIVIAL 257982 257992	silica gel
+T221	SYSTEMATIC 258038 258051	ethyl acetate
+T222	SYSTEMATIC 258055 258061	hexane
+T223	SYSTEMATIC 258119 258213	(4,4-difluorocyclohexyl)-[2-(3,5-dimethylisoxazol-4-yl)-5H-pyrrolo[2,3-b]pyrazin-7-yl]methanol
+T224	SYSTEMATIC 258223 258278	3,5-dimethyl-4-(5H-pyrrolo[2,3-b]pyrazin-2-yl)isoxazole
+T225	SYSTEMATIC 258306 258314	methanol
+T226	SYSTEMATIC 258333 258368	4,4-difluorocyclohexanecarbaldehyde
+T227	SYSTEMATIC 258392 258411	potassium hydroxide
+T228	SYSTEMATIC 258550 258563	ethyl acetate
+T229	TRIVIAL 258599 258604	brine
+T230	SYSTEMATIC 258643 258657	sodium sulfate
+T231	TRIVIAL 258689 258699	silica gel
+T232	SYSTEMATIC 258745 258758	ethyl acetate
+T233	SYSTEMATIC 258762 258768	hexane
+T234	SYSTEMATIC 258824 258915	4-[7-[(4,4-difluorocyclohexyl)methyl]-5H-pyrrolo[2,3-b]pyrazin-2-yl]-3,5-dimethyl-isoxazole
+T235	SYSTEMATIC 258929 259023	(4,4-difluorocyclohexyl)-[2-(3,5-dimethylisoxazol-4-yl)-5H-pyrrolo[2,3-b]pyrazin-7-yl]methanol
+T236	SYSTEMATIC 259050 259064	dichloroethane
+T237	SYSTEMATIC 259083 259102	trifluoracetic acid
+T238	SYSTEMATIC 259126 259140	triethylsilane
+T239	TRIVIAL 259243 259248	water
+T240	SYSTEMATIC 259269 259282	ethyl acetate
+T241	TRIVIAL 259318 259323	brine
+T242	SYSTEMATIC 259336 259350	sodium sulfate
+T243	TRIVIAL 259412 259422	silica gel
+T244	SYSTEMATIC 259468 259481	ethyl acetate
+T245	SYSTEMATIC 259485 259491	hexane
+T246	SYSTEMATIC 259573 259693	6-[7-[(4,4-difluorocyclohexyl)methyl]-2-(3,5-dimethylisoxazol-4-yl)pyrrolo[2,3-b]pyrazin-5-yl]pyridine-3-carboxylic acid
+T247	SYSTEMATIC 259707 259798	4-[7-[(4,4-difluorocyclohexyl)methyl]-5H-pyrrolo[2,3-b]pyrazin-2-yl]-3,5-dimethyl-isoxazole
+T248	SYSTEMATIC 259829 259851	N-methyl-2-pyrrolidone
+T249	ABBREVIATION 259854 259857	NMP
+T250	SYSTEMATIC 259878 259914	ethyl 6-chloropyridine-3-carboxylate
+T251	SYSTEMATIC 259940 259956	cesium carbonate
+T252	TRIVIAL 260211 260216	water
+T253	SYSTEMATIC 260236 260249	ethyl acetate
+T254	TRIVIAL 260285 260290	brine
+T255	SYSTEMATIC 260303 260317	sodium sulfate
+T256	TRIVIAL 260375 260385	silica gel
+T257	SYSTEMATIC 260431 260444	ethyl acetate
+T258	SYSTEMATIC 260448 260454	hexane
+T259	SYSTEMATIC 260561 260670	2-[4-[6-(3,5-dimethylisoxazol-4-yl)-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-3-yl]phenyl]acetic acid
+T260	SYSTEMATIC 260702 260752	6-bromo-1-(p-tolylsulfonyl)pyrazolo[4,3-b]pyridine
+T261	SYSTEMATIC 260762 260796	6-bromo-1H-pyrazolo[4,3-b]pyridine
+T262	ABBREVIATION 260825 260828	THF
+T263	SYSTEMATIC 260847 260860	triethylamine
+T264	SYSTEMATIC 260865 260897	4-methylbenzenesulfonyl chloride
+T265	TRIVIAL 261032 261037	water
+T266	SYSTEMATIC 261057 261070	ethyl acetate
+T267	TRIVIAL 261106 261111	brine
+T268	SYSTEMATIC 261124 261141	magnesium sulfate
+T269	SYSTEMATIC 261289 261361	3,5-dimethyl-4-[1-(p-tolylsulfonyl)pyrazolo[4,3-b]pyridin-6-yl]isoxazole
+T270	SYSTEMATIC 261371 261421	6-bromo-1-(p-tolylsulfonyl)pyrazolo[4,3-b]pyridine
+T271	SYSTEMATIC 261448 261460	acetonitrile
+T272	SYSTEMATIC 261479 261548	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T273	SYSTEMATIC 261575 261594	potassium carbonate
+T274	TRIVIAL 261598 261603	water
+T275	SYSTEMATIC 261617 261676	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T276	TRIVIAL 261805 261810	water
+T277	SYSTEMATIC 261830 261843	ethyl acetate
+T278	TRIVIAL 261879 261884	brine
+T279	SYSTEMATIC 261897 261914	magnesium sulfate
+T280	TRIVIAL 261975 261985	silica gel
+T281	SYSTEMATIC 262032 262047	dichloromethane
+T282	SYSTEMATIC 262051 262057	hexane
+T283	SYSTEMATIC 262080 262093	ethyl acetate
+T284	SYSTEMATIC 262097 262112	dichloromethane
+T285	SYSTEMATIC 262190 262246	3,5-dimethyl-4-(1H-pyrazolo[4,3-b]pyridin-6-yl)isoxazole
+T286	SYSTEMATIC 262256 262328	3,5-dimethyl-4-[1-(p-tolylsulfonyl)pyrazolo[4,3-b]pyridin-6-yl]isoxazole
+T287	SYSTEMATIC 262381 262400	potassium hydroxide
+T288	FORMULA 262404 262408	MeOH
+T289	TRIVIAL 262568 262573	water
+T290	FORMULA 262589 262592	HCl
+T291	SYSTEMATIC 262612 262625	ethyl acetate
+T292	TRIVIAL 262671 262676	brine
+T293	SYSTEMATIC 262689 262706	magnesium sulfate
+T294	SYSTEMATIC 262816 262828	acetonitrile
+T295	SYSTEMATIC 262938 262950	acetonitrile
+T296	SYSTEMATIC 262995 263074	Preparation of 4-(3-iodo-1H-pyrazolo[4,3-b]pyridin-6-yl)-3,5-dimethyl-isoxazole
+T297	SYSTEMATIC 263084 263126	4-(1H-indazol-6-yl)-3,5-dimethyl-isoxazole
+T298	SYSTEMATIC 263154 263175	N,N-dimethylformamide
+T299	SYSTEMATIC 263229 263248	potassium hydroxide
+T300	SYSTEMATIC 263271 263277	iodine
+T301	SYSTEMATIC 263437 263455	sodium thiosulfate
+T302	FORMULA 263457 263464	Na2S2O3
+T303	SYSTEMATIC 263503 263516	ethyl acetate
+T304	SYSTEMATIC 263573 263591	sodium thiosulfate
+T305	FORMULA 263593 263600	Na2S2O3
+T306	TRIVIAL 263612 263617	water
+T307	TRIVIAL 263619 263624	brine
+T308	SYSTEMATIC 263646 263663	magnesium sulfate
+T309	TRIVIAL 263785 263795	silica gel
+T310	SYSTEMATIC 263842 263855	ethyl acetate
+T311	SYSTEMATIC 263859 263865	hexane
+T312	SYSTEMATIC 263922 264010	4-[3-iodo-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-6-yl]-3,5-dimethyl-isoxazole
+T313	SYSTEMATIC 264024 264088	4-(3-iodo-1H-pyrazolo[4,3-b]pyridin-6-yl)-3,5-dimethyl-isoxazole
+T314	SYSTEMATIC 264113 264131	triphenylphosphine
+T315	SYSTEMATIC 264157 264183	((1R)-1-(2-pyridyl)ethanol
+T316	ABBREVIATION 264216 264219	THF
+T317	SYSTEMATIC 264281 264309	diisopropyl azodicarboxylate
+T318	TRIVIAL 264593 264603	silica gel
+T319	SYSTEMATIC 264649 264662	ethyl acetate
+T320	SYSTEMATIC 264666 264672	hexane
+T321	SYSTEMATIC 264753 264865	methyl 2-[4-[6-(3,5-dimethylisoxazol-4-yl)-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-3-yl]phenyl]acetate
+T322	SYSTEMATIC 264875 264962	4[3-iodo-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-6-yl]-3,5-dimethyl-isoxazole
+T323	SYSTEMATIC 264993 265005	acetonitrile
+T324	SYSTEMATIC 265023 265094	methyl 2-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]acetate
+T325	SYSTEMATIC 265120 265139	potassium carbonate
+T326	TRIVIAL 265143 265148	water
+T327	SYSTEMATIC 265163 265222	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T328	TRIVIAL 265335 265340	water
+T329	SYSTEMATIC 265360 265373	ethyl acetate
+T330	TRIVIAL 265409 265414	brine
+T331	SYSTEMATIC 265427 265444	magnesium sulfate
+T332	TRIVIAL 265505 265515	silica gel
+T333	SYSTEMATIC 265561 265574	ethyl acetate
+T334	SYSTEMATIC 265578 265584	hexane
+T335	SYSTEMATIC 265661 265770	2-[4-[6-(3,5-dimethylisoxazol-4-yl)-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-3-yl]phenyl]acetic acid
+T336	SYSTEMATIC 265791 265896	2-[4-[6-(3,5-dimethylisoxazol-4-yl)-1-[(1S)-1-(2-pyridyl)ethyl]pyrazolo[4,3-b]pyridin-3-yl]phenyl]acetate
+T337	ABBREVIATION 265924 265927	THF
+T338	SYSTEMATIC 265950 265967	lithium hydroxide
+T339	TRIVIAL 265978 265983	water
+T340	TRIVIAL 266078 266083	water
+T341	FORMULA 266120 266123	HCl
+T342	SYSTEMATIC 266144 266157	ethyl acetate
+T343	TRIVIAL 266193 266198	brine
+T344	SYSTEMATIC 266211 266228	magnesium sulfate
+T345	SYSTEMATIC 266385 266461	4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)indazol-1-yl]-3-fluoro-benzoic acid
+T346	SYSTEMATIC 266493 266535	4-(1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T347	SYSTEMATIC 266545 266564	5-bromo-1H-indazole
+T348	SYSTEMATIC 266592 266604	acetonitrile
+T349	SYSTEMATIC 266623 266692	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T350	SYSTEMATIC 266718 266737	potassium carbonate
+T351	TRIVIAL 266741 266746	water
+T352	SYSTEMATIC 266760 266819	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T353	SYSTEMATIC 266846 266854	nitrogen
+T354	TRIVIAL 266951 266956	water
+T355	SYSTEMATIC 266976 266989	ethyl acetate
+T356	TRIVIAL 267025 267030	brine
+T357	SYSTEMATIC 267043 267057	sodium sulfate
+T358	TRIVIAL 267118 267128	silica gel
+T359	SYSTEMATIC 267174 267187	ethyl acetate
+T360	SYSTEMATIC 267191 267197	hexane
+T361	SYSTEMATIC 267254 267303	4-(3-iodo-1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T362	SYSTEMATIC 267324 267366	4-(1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T363	SYSTEMATIC 267393 267414	N,N-dimethylformamide
+T364	SYSTEMATIC 267473 267492	potassium hydroxide
+T365	SYSTEMATIC 267515 267521	iodine
+T366	SYSTEMATIC 267721 267739	sodium thiosulfate
+T367	FORMULA 267741 267748	Na2S2O3
+T368	SYSTEMATIC 267787 267800	ethyl acetate
+T369	SYSTEMATIC 267857 267875	sodium thiosulfate
+T370	FORMULA 267877 267884	Na2S2O3
+T371	TRIVIAL 267896 267901	water
+T372	TRIVIAL 267903 267908	brine
+T373	SYSTEMATIC 267930 267947	magnesium sulfate
+T374	TRIVIAL 268069 268079	silica gel
+T375	SYSTEMATIC 268126 268139	ethyl acetate
+T376	SYSTEMATIC 268143 268149	hexane
+T377	SYSTEMATIC 268228 268291	[5-(3,5-dimethylisoxazol-4-yl)-1H-indazol-3-yl]-phenyl-methanol
+T378	SYSTEMATIC 268315 268364	4-(3-iodo-1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T379	ABBREVIATION 268401 268404	THF
+T380	SYSTEMATIC 268422 268430	nitrogen
+T381	SYSTEMATIC 268445 268471	chloro(isopropyl)magnesium
+T382	ABBREVIATION 268485 268488	THF
+T383	SYSTEMATIC 268629 268641	benzaldehyde
+T384	FORMULA 268783 268786	HCl
+T385	TRIVIAL 268820 268825	water
+T386	SYSTEMATIC 268830 268843	ethyl acetate
+T387	TRIVIAL 268879 268884	brine
+T388	SYSTEMATIC 268897 268914	magnesium sulfate
+T389	TRIVIAL 268975 268985	silica gel
+T390	SYSTEMATIC 269031 269044	ethyl acetate
+T391	SYSTEMATIC 269048 269054	hexane
+T392	SYSTEMATIC 269132 269183	4-(3-benzyl-1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T393	SYSTEMATIC 269197 269260	[5-(3,5-dimethylisoxazol-4-yl)-1H-indazol-3-yl]-phenyl-methanol
+T394	SYSTEMATIC 269297 269315	1,2-dichloroethane
+T395	SYSTEMATIC 269326 269340	triethylsilane
+T396	SYSTEMATIC 269363 269383	trifluoroacetic acid
+T397	SYSTEMATIC 269556 269574	sodium bicarbonate
+T398	SYSTEMATIC 269579 269592	ethyl acetate
+T399	TRIVIAL 269628 269633	brine
+T400	SYSTEMATIC 269646 269663	magnesium sulfate
+T401	TRIVIAL 269724 269734	silica gel
+T402	SYSTEMATIC 269780 269793	ethyl acetate
+T403	SYSTEMATIC 269797 269803	hexane
+T404	SYSTEMATIC 269885 269962	ethyl 4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)indazol-1-yl]3-fluoro-benzoate
+T405	SYSTEMATIC 269976 270027	4-(3-benzyl-1H-indazol-5-yl)-3,5-dimethyl-isoxazole
+T406	SYSTEMATIC 270057 270079	N-methyl-2-pyrrolidone
+T407	SYSTEMATIC 270102 270118	cesium carbonate
+T408	SYSTEMATIC 270143 270169	ethyl 3,4-difluorobenzoate
+T409	TRIVIAL 270299 270304	water
+T410	SYSTEMATIC 270324 270337	ethyl acetate
+T411	TRIVIAL 270373 270378	brine
+T412	SYSTEMATIC 270391 270408	magnesium sulfate
+T413	TRIVIAL 270469 270479	silica gel
+T414	SYSTEMATIC 270525 270538	ethyl acetate
+T415	SYSTEMATIC 270542 270548	hexane
+T416	SYSTEMATIC 270629 270705	4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)indazol-1-yl]-3-fluoro-benzoic acid
+T417	SYSTEMATIC 270719 270797	ethyl 4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)indazol-1-yl]-3-fluoro-benzoate
+T418	ABBREVIATION 270827 270830	THF
+T419	SYSTEMATIC 270853 270870	lithium hydroxide
+T420	TRIVIAL 270881 270886	water
+T421	TRIVIAL 270982 270987	water
+T422	FORMULA 271024 271027	HCl
+T423	SYSTEMATIC 271048 271061	ethyl acetate
+T424	TRIVIAL 271097 271102	brine
+T425	SYSTEMATIC 271115 271132	magnesium sulfate
+T426	SYSTEMATIC 271192 271204	acetonitrile
+T427	SYSTEMATIC 271379 271470	4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)pyrazolo[3,4-b]pyridin-1-yl]-3-fluoro-benzoic acid
+T428	SYSTEMATIC 271502 271558	3,5-dimethyl-4-(1H-pyrazolo[3,4-b]pyridin-5-yl)isoxazole
+T429	SYSTEMATIC 271568 271602	5-bromo-1H-pyrazolo[3,4-b]pyridine
+T430	SYSTEMATIC 271629 271641	acetonitrile
+T431	SYSTEMATIC 271660 271729	3,5-dimethyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)isoxazole
+T432	SYSTEMATIC 271756 271775	potassium carbonate
+T433	TRIVIAL 271779 271784	water
+T434	SYSTEMATIC 271797 271856	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+T435	SYSTEMATIC 272007 272020	ethyl acetate
+T436	TRIVIAL 272056 272061	brine
+T437	SYSTEMATIC 272074 272091	magnesium sulfate
+T438	TRIVIAL 272152 272162	silica gel
+T439	SYSTEMATIC 272209 272222	ethyl acetate
+T440	SYSTEMATIC 272226 272232	hexane
+T441	SYSTEMATIC 272289 272353	4-(3-iodo-1H-pyrazolo[3,4-b]pyridin-5-yl)-3,5-dimethyl-isoxazole
+T442	SYSTEMATIC 272374 272430	3,5-dimethyl-4-(1H-pyrazolo[3,4-b]pyridin-5-yl)isoxazole
+T443	SYSTEMATIC 272457 272478	N,N-dimethylformamide
+T444	SYSTEMATIC 272537 272556	potassium hydroxide
+T445	SYSTEMATIC 272581 272587	iodine
+T446	SYSTEMATIC 272788 272806	sodium thiosulfate
+T447	FORMULA 272808 272815	Na2S2O3
+T448	SYSTEMATIC 272854 272867	ethyl acetate
+T449	SYSTEMATIC 272931 272942	thiosulfate
+T450	FORMULA 272944 272951	Na2S2O3
+T451	TRIVIAL 272963 272968	water
+T452	TRIVIAL 272970 272975	brine
+T453	SYSTEMATIC 272997 273014	magnesium sulfate
+T454	TRIVIAL 273136 273146	silica gel
+T455	SYSTEMATIC 273193 273206	ethyl acetate
+T456	SYSTEMATIC 273210 273216	hexane
+T457	SYSTEMATIC 273294 273372	[5-(3,5-dimethylisoxazol-4-yl)-1H-pyrazolo[3,4-b]pyridin-3-yl]-phenyl-methanol
+T458	SYSTEMATIC 273396 273460	4-(3-iodo-1H-pyrazolo[3,4-b]pyridin-5-yl)-3,5-dimethyl-isoxazole
+T459	ABBREVIATION 273497 273500	THF
+T460	SYSTEMATIC 273518 273526	nitrogen
+T461	SYSTEMATIC 273548 273574	chloro(isopropyl)magnesium
+T462	ABBREVIATION 273588 273591	THF
+T463	SYSTEMATIC 273665 273677	benzaldehyde
+T464	FORMULA 273822 273825	HCl
+T465	SYSTEMATIC 273869 273882	ethyl acetate
+T466	TRIVIAL 273918 273923	brine
+T467	SYSTEMATIC 273936 273953	magnesium sulfate
+T468	TRIVIAL 274014 274024	silica gel
+T469	SYSTEMATIC 274071 274084	ethyl acetate
+T470	SYSTEMATIC 274088 274094	hexane
+T471	SYSTEMATIC 274172 274238	4-(3-benzyl-1H-pyrazolo[3,4-b]pyridin-5-yl)-3,5-dimethyl-isoxazole
+T472	SYSTEMATIC 274252 274330	[5-(3,5-dimethylisoxazol-4-yl)-1H-pyrazolo[3,4-b]pyridin-3-yl]-phenyl-methanol
+T473	SYSTEMATIC 274366 274384	1,2-dichloroethane
+T474	SYSTEMATIC 274395 274409	triethylsilane
+T475	SYSTEMATIC 274430 274450	trifluoroacetic acid
+T476	SYSTEMATIC 274620 274638	sodium bicarbonate
+T477	SYSTEMATIC 274643 274656	ethyl acetate
+T478	TRIVIAL 274692 274697	brine
+T479	SYSTEMATIC 274710 274727	magnesium sulfate
+T480	TRIVIAL 274788 274798	silica gel
+T481	SYSTEMATIC 274834 274847	ethyl acetate
+T482	SYSTEMATIC 274851 274857	hexane
+T483	SYSTEMATIC 274939 275032	ethyl 4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)pyrazolo[3,4-b]pyridin-1-yl]-3-fluoro-benzoate
+T484	SYSTEMATIC 275046 275112	4-(3-benzyl-1H-pyrazolo[3,4-b]pyridin-5-yl)-3,5-dimethyl-isoxazole
+T485	SYSTEMATIC 275143 275164	N-methyl2-pyrrolidone
+T486	SYSTEMATIC 275182 275198	cesium carbonate
+T487	SYSTEMATIC 275223 275249	ethyl 3,4-difluorobenzoate
+T488	TRIVIAL 275380 275385	water
+T489	SYSTEMATIC 275405 275418	ethyl acetate
+T490	TRIVIAL 275454 275459	brine
+T491	SYSTEMATIC 275472 275489	magnesium sulfate
+T492	TRIVIAL 275550 275560	silica gel
+T493	SYSTEMATIC 275606 275619	ethyl acetate
+T494	SYSTEMATIC 275623 275629	hexane
+T495	SYSTEMATIC 275710 275801	4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)pyrazolo[3,4-b]pyridin-1-yl]-3-fluoro-benzoic acid
+T496	SYSTEMATIC 275815 275908	ethyl 4-[3-benzyl-5-(3,5-dimethylisoxazol-4-yl)pyrazolo[3,4-b]pyridin-1-yl]-3-fluoro-benzoate
+T497	ABBREVIATION 275939 275942	THF
+T498	SYSTEMATIC 275965 275982	lithium hydroxide
+T499	TRIVIAL 275995 276000	water
+T500	TRIVIAL 276094 276099	water
+T501	FORMULA 276135 276138	HCl
+T502	SYSTEMATIC 276159 276172	ethyl acetate
+T503	TRIVIAL 276208 276213	brine
+T504	SYSTEMATIC 276226 276243	magnesium sulfate
+T505	SYSTEMATIC 276303 276315	acetonitrile
+T506	SYSTEMATIC 276838 276939	4-[1-[(4,4- difluorocyclohexyl)methyl]-3-(1- methylpyrazol-4-yl)indazol-6-yl]- 3,5-dimethyl-isoxazole
+T507	SYSTEMATIC 276956 277074	4-[1-[(4,4- difluorocyclohexyl)methyl]-3-[1- (2,2,2-trifluoroethyl)pyrazol-4- yl]indazol-6-yl]-3,5-dimethyl- isoxazole
+T508	SYSTEMATIC 277091 277166	4-[3-iodo-1-[phenyl(2- pyridyl)methyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T509	SYSTEMATIC 277183 277276	3,5-dimethyl-4-[3-(1- methylpyrazol-4-yl)-1-[phenyl(2- pyridyl)methyl]indazol-6- yl]isoxazole
+T510	SYSTEMATIC 277293 277402	3,5-dimethyl-4-[1-[phenyl(2- pyridyl)methyl]-3-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]indazol-6-yl]isoxazole
+T511	SYSTEMATIC 277419 277511	methyl 4-[6-(3,5- dimethylisoxazol-4-yl)-1- [phenyl(2- pyridyl)methyl]indazol-3- yl]benzoate
+T512	SYSTEMATIC 277528 277616	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[phenyl(2- pyridyl)methyl]indazol-3- yl]benzoic acid
+T513	SYSTEMATIC 277633 277734	methyl 2-[4-[6-(3,5- dimethylisoxazol-4-yl)-1- [phenyl(2- pyridyl)methyl]indazol-3- yl]phenyl]acetate
+T514	SYSTEMATIC 277751 277848	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[phenyl(2- pyridyl)methyl]indazol-3- yl]phenyl]acetic acid
+T515	SYSTEMATIC 277865 277940	4-[3-iodo-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T516	SYSTEMATIC 277957 278048	methyl 4-[6-(3,5- dimethylisoxazol-4-yl)-1-[(1S)-1- (2-pyridyl)ethyl]indazol-3- yl]benzoate
+T517	SYSTEMATIC 278065 278165	methyl 2-[4-[6-(3,5- dimethylisoxazol-4-yl)-1-[(1S)-1- (2-pyridyl)ethyl]indazol-3- yl]phenyl]acetate
+T518	SYSTEMATIC 278182 278270	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3- yl]benzoic acid
+T519	SYSTEMATIC 278287 278384	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-3- yl]phenyl]acetic acid
+T520	SYSTEMATIC 278401 278498	4-[3-(2-methoxypyrimidin-5-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T521	SYSTEMATIC 278515 278608	3,5-dimethyl-4-[3-(1- methylpyrazol-4-yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6- yl]isoxazole
+T522	SYSTEMATIC 278625 278716	3,5-dimethyl-4-[3-(6-methyl-3- pyridyl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6- yl]isoxazole
+T523	SYSTEMATIC 278733 278834	4-[3-(2-cyclopropylpyrimidin-5- yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T524	SYSTEMATIC 278851 278949	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-2- fluoro-benzoic acid
+T525	SYSTEMATIC 278966 279064	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-3- fluoro-benzoic acid
+T526	SYSTEMATIC 279081 279179	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-2- methyl-benzoic acid
+T527	SYSTEMATIC 279196 279306	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-3- yl]phenyl]-2-methyl-propanoic acid
+T528	SYSTEMATIC 279323 279432	3,5-dimethyl-4-[1-[(1S)-1-(2- pyridyl)ethyl]-3-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]indazol-6-yl]isoxazole
+T529	SYSTEMATIC 279449 279546	2-chloro-4-[6-(3,5- dimethylisoxazol-4-yl)-1-[(1S)-1- (2-pyridyl)ethyl]indazol-3- yl]benzoic acid
+T530	SYSTEMATIC 279563 279654	3,5-dimethyl-4-[3-(6-methyl-3- pyridyl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6- yl]isoxazole
+T531	SYSTEMATIC 279664 279765	4-[3-(2-cyclopropylpyrimidin-5- yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T532	SYSTEMATIC 279775 279872	4-[3-(2-methoxypyrimidin-5-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-6-yl]-3,5- dimethyl-isoxazole
+T533	SYSTEMATIC 279882 279980	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-2- methyl-benzoic acid
+T534	SYSTEMATIC 279990 280088	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-3- fluoro-benzoic acid
+T535	SYSTEMATIC 280098 280196	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]indazol-3-yl]-2- fluoro-benzoic acid
+T536	SYSTEMATIC 280206 280315	3,5-dimethyl-4-[1-[(1S)-1-(2- pyridyl)ethyl]-3-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]indazol-6-yl]isoxazole
+T537	SYSTEMATIC 280325 280418	3,5-dimethyl-4-[3-(1- methylpyrazol-4-yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-6- yl]isoxazole
+T538	SYSTEMATIC 280428 280525	2-chloro-4-[6-(3,5- dimethylisoxazol-4-yl)-1-[(1S)-1- (2-pyridyl)ethyl]indazol-3- yl]benzoic acid
+T539	SYSTEMATIC 280535 280645	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[(1S)-1-(2- pyridyl)ethyl]indazol-3- yl]phenyl]-2-methyl-propanoic acid
+T540	SYSTEMATIC 280655 280707	4-(3-benzyl-1H-indazol-5-yl)-3,5- dimethyl-isoxazole
+T541	SYSTEMATIC 280724 280804	ethyl 4-[3-benzyl-5-(3,5- dimethylisoxazol-4-yl)indazol-1- yl]-3-fluoro-benzoate
+T542	SYSTEMATIC 280821 280899	4-[3-benzyl-5-(3,5- dimethylisoxazol-4-yl)indazol-1- yl]-3-fluoro-benzoic acid
+T543	SYSTEMATIC 280916 281017	4-[5-[dideuterio-(4,4- difluorocyclohexyl)methyl]pyrrolo [2,3-b]pyrazin-3-yl]-3,5- dimethyl-isoxazole
+T544	SYSTEMATIC 281034 281143	4-[5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-7- iodo-pyrrolo[2,3-b]pyrazin-3-yl]- 3,5-dimethyl-isoxazole
+T545	SYSTEMATIC 281160 281287	4-[5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-7-(1- methylpyrazol-4-yl)pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T546	SYSTEMATIC 281304 281403	5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3-(4- methyl-1H-triazol-5- yl)pyrrolo[2,3-b]pyrazine
+T547	SYSTEMATIC 281420 281536	5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3-[3- (difluoromethyl)-5-methyl- triazol-4-yl]pyrrolo[2,3- b]pyrazine
+T548	SYSTEMATIC 281553 281677	methyl 4-[5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3- (3,5-dimethylisoxazol-4- yl)pyrrolo[2,3-b]pyrazin-7- yl]benzoate
+T549	SYSTEMATIC 281694 281815	4-[5-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3- (3,5-dimethylisoxazol-4- yl)pyrrolo[2,3-b]pyrazin-7- yl]benzoic acid
+T550	SYSTEMATIC 281832 281938	methyl 4-[3-(3,5- dimethylisoxazol-4-yl)-5- [phenyl(2- pyridyl)methyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoate
+T551	SYSTEMATIC 281955 282057	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[phenyl(2- pyridyl)methyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoic acid
+T552	SYSTEMATIC 282074 282189	methyl 2-[4-[3-(3,5- dimethylisoxazol-4-yl)-5- [phenyl(2- pyridyl)methyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]acetate
+T553	SYSTEMATIC 282206 282317	2-[4-[3-(3,5-dimethylisoxazol-4- yl)-5-[phenyl(2- pyridyl)methyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]acetic acid
+T554	SYSTEMATIC 282334 282439	methyl 4-[3-(3,5- dimethylisoxazol-4-yl)-5-[(1S)-1- (2-pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoate
+T555	SYSTEMATIC 282456 282558	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoic acid
+T556	SYSTEMATIC 282575 282689	methyl 2-[4-[3-(3,5- dimethylisoxazol-4-yl)-5-[(1S)-1- (2-pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]acetate
+T557	SYSTEMATIC 282706 282817	2-[4-[3-(3,5-dimethylisoxazol-4- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]acetic acid
+T558	SYSTEMATIC 282834 282965	methyl 1-[4-[3-(3,5- dimethylisoxazol-4-yl)-5-[(1S)-1- (2-pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7- yl]phenyl]cyclopropanecarboxylate
+T559	SYSTEMATIC 282982 283110	1-[4-[3-(3,5-dimethylisoxazol-4- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7- yl]phenyl]cyclopropanecarboxylic acid
+T560	SYSTEMATIC 283127 283241	5-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]pyridine-2- carbonitrile
+T561	SYSTEMATIC 283258 283348	4-[7-iodo-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T562	SYSTEMATIC 283365 283477	4-[7-(2-methoxypyrimidin-5-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T563	SYSTEMATIC 283494 283601	3,5-dimethyl-4-[7-(1- methylpyrazol-4-yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]isoxazole
+T564	SYSTEMATIC 283618 283723	3,5-dimethyl-4-[7-(6-methyl-3- pyridyl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]isoxazole
+T565	SYSTEMATIC 283740 283856	4-[7-(2-cyclopropylpyrimidin-5- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T566	SYSTEMATIC 283873 283985	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-2-fluoro-benzoic acid
+T567	SYSTEMATIC 284002 284114	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-3-fluoro-benzoic acid
+T568	SYSTEMATIC 284131 284243	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-2-methyl-benzoic acid
+T569	SYSTEMATIC 284260 284385	2-[4-[3-(3,5-dimethylisoxazol-4- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]-2-methyl- propanoic acid
+T570	SYSTEMATIC 284402 284526	3,5-dimethyl-4-[5-[(1S)-1-(2- pyridyl)ethyl]-7-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]pyrrolo[2,3-b]pyrazin-3- yl]isoxazole
+T571	SYSTEMATIC 284543 284654	2-chloro-4-[3-(3,5- dimethylisoxazol-4-yl)-5-[(1S)-1- (2-pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoic acid
+T572	SYSTEMATIC 284671 284776	3,5-dimethyl-4-[7-(6-methyl-3- pyridyl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]isoxazole
+T573	SYSTEMATIC 284786 284902	4-[7-(2-cyclopropylpyrimidin-5- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T574	SYSTEMATIC 284912 285024	4-[7-(2-methoxypyrimidin-5-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]-3,5-dimethyl- isoxazole
+T575	SYSTEMATIC 285034 285146	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-2-methyl-benzoic acid
+T576	SYSTEMATIC 285156 285268	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-3-fluoro-benzoic acid
+T577	SYSTEMATIC 285278 285390	4-[3-(3,5-dimethylisoxazol-4-yl)- 5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]-2-fluoro-benzoic acid
+T578	SYSTEMATIC 285400 285524	3,5-dimethyl-4-[5-[(1S)-1-(2- pyridyl)ethyl]-7-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]pyrrolo[2,3-b]pyrazin-3- yl]isoxazole
+T579	SYSTEMATIC 285534 285641	3,5-dimethyl-4-[7-(1- methylpyrazol-4-yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-3-yl]isoxazole
+T580	SYSTEMATIC 285651 285762	2-chloro-4-[3-(3,5- dimethylisoxazol-4-yl)-5-[(1S)-1- (2-pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]benzoic acid
+T581	SYSTEMATIC 285772 285897	2-[4-[3-(3,5-dimethylisoxazol-4- yl)-5-[(1S)-1-(2- pyridyl)ethyl]pyrrolo[2,3- b]pyrazin-7-yl]phenyl]-2-methyl- propanoic acid
+T582	SYSTEMATIC 285907 286001	4-[7-[(4,4- difluorocyclohexyl)methyl]-5H- pyrrolo[2,3-b]pyrazin-2-yl]-3,5- dimethyl-isoxazole
+T583	SYSTEMATIC 286018 286141	6-[7-[(4,4- difluorocyclohexyl)methyl]-2- (3,5-dimethylisoxazol-4- yl)pyrrolo[2,3-b]prazin-5- yl]pyridine-3-carboxylic acid
+T584	SYSTEMATIC 286158 286250	4-[1-[(4,4- difluorocyclohexyl)methyl]pyra- zolo[4,3-b]pyridin-6-yl]-3,5- dimethyl-isoxazole
+T585	SYSTEMATIC 286267 286366	4-[1-[(4,4- difluorocyclohexyl)methyl]-3- iodo-pyrazolo[4,3-b]pyridin-6- yl]-3,5-dimethyl-isoxazole
+T586	SYSTEMATIC 286383 286500	4-[1-[(4,4- difluorocyclohexyl)methyl]-3-(1- methylpyrazol-4-yl)pyrazolo[4,3- b]pyridin-6-yl]-3,5-dimethyl- isoxazole
+T587	SYSTEMATIC 286517 286644	4-[1-[(4,4- difluorocyclohexyl)methyl]-3-[1- (difluoromethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T588	SYSTEMATIC 286661 286794	4-[1-[(4,4- difluorocyclohexyl)methyl]-3-[1- (2,2,2-trifluoroethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T589	SYSTEMATIC 286811 286949	4-[1-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3-[1- (difluoromethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T590	SYSTEMATIC 286966 287110	4-[1-[dideuterio-(4,4- difluorocyclohexyl)methyl]-3-[1- (2,2,2-trifluoroethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T591	SYSTEMATIC 287127 287244	4-[1-[(3,3- difluorocyclobutyl)methyl]-3-(1- methylpyrazol-4-yl)pyrazolo[4,3- b]pyridin-6-yl]-3,5-dimethyl- isoxazole
+T592	SYSTEMATIC 287261 287394	4-[1-[(3,3- difluorocyclobutyl)methyl]-3-[1- (2,2,2-trifluoroethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T593	SYSTEMATIC 287411 287534	4-[3-[1-(difluoromethyl)pyrazol- 4-yl]-1-[(1- fluorocyclohexyl)methyl]pyrazolo [4,3-b]pyridin-6-yl]-3,5- dimethyl-isoxazole
+T594	SYSTEMATIC 287551 287680	4-[1-[(1- fluorocyclohexyl)methyl]-3-[1- (2,2,2-trifluoroethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6-yl]- 3,5-dimethyl-isoxazole
+T595	SYSTEMATIC 287697 287812	1-[(4,4- difluorocyclohexyl)methyl]-6- (3,5-dimethyltriazol-4-yl)-3-(1- methylpyrazol-4-yl)pyrazolo[4,3- b]pyridine
+T596	SYSTEMATIC 287829 287920	4-[3-iodo-1-[(1S)-1-(2- pyridyl)ethyl]pyrazolo[4,3- b]pyridin-6-yl]-3,5-dimethyl- isoxazole
+T597	SYSTEMATIC 287937 288043	methyl 4-[6-(3,5- dimethylisoxazol-4-yl)-1-[(1S)-1- (2-pyridyl)ethyl]pyrazolo[4,3- b]pyridin-3-yl]benzoate
+T598	SYSTEMATIC 288060 288163	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[(1S)-1-(2- pyridyl)ethyl]pyrazolo[4,3- b]pyridin-3-yl]benzoic acid
+T599	SYSTEMATIC 288180 288292	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[(1S)-1-(2- pyridyl)ethyl]pyrazolo[4,3- b]pyridin-3-yl]phenyl]acetic acid
+T600	SYSTEMATIC 288309 288400	4-[3-iodo-1-[phenyl(2- pyridyl)methyl]pyrazolo[4,3- b]pyridin-6-yl]-3,5-dimethyl- isoxazole
+T601	SYSTEMATIC 288417 288520	4-[6-(3,5-dimethylisoxazol-4-yl)- 1-[phenyl(2- pyridyl)methyl]pyrazolo[4,3- b]pyridin-3-yl]benzoic acid
+T602	SYSTEMATIC 288537 288649	2-[4-[6-(3,5-dimethylisoxazol-4- yl)-1-[phenyl(2- pyridyl)methyl]pyrazolo[4,3- b]pyridin-3-yl]phenyl]acetic acid
+T603	SYSTEMATIC 288666 288791	3,5-dimethyl-4-[1-[(1S)-1-(2- pyridyl)ethyl]-3-[1-(2,2,2- trifluoroethyl)pyrazol-4- yl]pyrazolo[4,3-b]pyridin-6- yl]isoxazole
+T604	SYSTEMATIC 288808 288916	3,5-dimethyl-4-[3-(1- methylpyrazol-4-yl)-1-[(1S)-1-(2- pyridyl)ethyl]pyrazolo[4,3- b]pyridin-6-yl]isoxazole
+T605	SYSTEMATIC 288933 289001	4-(3-benzyl-1H-pyrazolo[3,4- b]pyridin-5-yl)-3,5-dimethyl- isoxazole
+T606	SYSTEMATIC 289018 289114	ethyl 4-[3-benzyl-5-(3,5- dimethylisoxazol-4- yl)pyrazolo[3,4-b]pyridin-1-yl]-3- fluoro-benzoate
+T607	SYSTEMATIC 289132 289226	4-[3-benzyl-5-(3,5- dimethylisoxazol-4- yl)pyrazolo[3,4-b]pyridin-1-yl]-3- fluoro-benzoic acid
+T608	SYSTEMATIC 289244 289325	3,5-dimethyl-4-[1-[phenyl(2- pyridyl)methyl]imidazo[4,5- b]pyridin-6-yl]isoxazole
+T609	SYSTEMATIC 289342 289423	3,5-dimethyl-4-[3-[phenyl(2- pyridyl)methyl]imidazo[4,5- b]pyridin-6-yl]isoxazole

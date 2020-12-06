@@ -1,0 +1,412 @@
+T1	SYSTEMATIC 25097 25243	4-(4-Fluoro-phenyl)-6- (1-methoxycarbonyl-1- methyl-ethoxymethyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T2	SYSTEMATIC 25260 25405	6-(1-Carboxy-2,2,2- trifluoro-ethoxymethyl)- 4-(4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T3	SYSTEMATIC 25422 25575	6-{[(1-Carboxy- cyclopropyl)-methyl- amino]-methyl}-4-(4- fluoro-phenyl)-4-methyl- 2-thiazol-2-yl-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T4	SYSTEMATIC 25592 25724	4-[6-(4-Fluoro-phenyl)- 5-methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid
+T5	SYSTEMATIC 25740 25889	4-[6-(4-Fluoro-phenyl)- 5-methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine- (S)-3-carboxylic acid methyl ester
+T6	SYSTEMATIC 25904 26040	4-[6-(4-Fluoro-phenyl)- 5-methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine- (S)-3-carboxylic acid
+T7	SYSTEMATIC 26055 26196	(S)-4-[6-(4-Fluoro- phenyl)-5- methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine- (S)-3-carboxylic acid
+T8	SYSTEMATIC 26212 26353	(S)-4-[6-(4-Fluoro- phenyl)-5- methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine- (R)-3-carboxylic acid
+T9	SYSTEMATIC 26369 26517	4-[6-(4-Fluoro-phenyl)- 2-(5-fluoro-pyridin-2-yl)- 5-methoxycarbonyl-6- methyl-3,6-dihydro- pyrimidin-4-ylmethyl]- morpholine-(R)-3- carboxylic acid
+T10	SYSTEMATIC 26534 26682	4-[6-(4-Fluoro-phenyl)- 2-(5-fluoro-pyridin-2-yl)- 5-methoxycarbonyl-6- methyl-3,6-dihydro- pyrimidin-4-ylmethyl]- morpholine-(S)-3- carboxylic acid
+T11	SYSTEMATIC 26699 26854	6-(2-(S)-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T12	SYSTEMATIC 26871 27026	6-(2-(R)-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T13	SYSTEMATIC 27041 27200	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T14	SYSTEMATIC 27217 27381	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(3,4- difluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T15	SYSTEMATIC 27397 27551	4-[(S)-6-(3,4-Difluoro- phenyl)-5- methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid methyl ester
+T16	SYSTEMATIC 27568 27705	4-[6-(3,4-Difluoro- phenyl)-5- methoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid
+T17	SYSTEMATIC 27722 27893	6-(4,4-Difluoro-2- methoxycarbonyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-2-(5- fluoro-pyridin-2-yl)-4- methyl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T18	SYSTEMATIC 27908 28071	6-(2-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-(5-fluoro- pyridin-2-yl)-4-methyl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T19	SYSTEMATIC 28086 28249	6-(2-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2-(5- methyl-thiazol-2-yl)-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T20	SYSTEMATIC 28266 28435	(S)-6-((S)-2-Carboxy- 4,4-difluoro-2-methyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T21	SYSTEMATIC 28451 28595	(S)-1-[(S)-5-Cyano-6-(4- fluoro-phenyl)-6-methyl- 2-thiazol-2-yl-3,6- dihydro-pyrimidin-4- ylmethyl]-4,4-difluoro- pyrrolidine-2-carboxylic acid
+T22	SYSTEMATIC 28610 28740	(S)-4-[5-Cyano-6-(3,4- difluoro-phenyl)-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid
+T23	SYSTEMATIC 28757 28905	(S)-1-[(S)-5-Cyano-6- (3,4-difluoro-phenyl)-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-4,4-difluoro- pyrrolidine-2-carboxylic acid
+T24	SYSTEMATIC 28919 29082	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(3,4- difluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid ethyl ester
+T25	SYSTEMATIC 29097 29251	(S)-6-(2-Carboxy-5,5- difluoro-piperidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T26	SYSTEMATIC 29267 29420	(S)-6-(2-Carboxy-4,4- difluoro-piperidin-1- ylmethyl)4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T27	SYSTEMATIC 29436 29611	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2-(1- methyl-1H-imidazol-2- yl)-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T28	SYSTEMATIC 29628 29791	(R)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(3,4- difluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid ethyl ester
+T29	SYSTEMATIC 29807 29947	(S)-4-[6-(3,4-Difluoro- phenyl)-5- ethoxycarbonyl-6- methyl-2-thiazol-2-yl- 3,6-dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid
+T30	SYSTEMATIC 29963 30120	(S)-4-[(S)-6-(4-Fluoro- phenyl)-5- methoxycarbonyl-6- methyl-2-(1-methyl-1H- imidazol-2-yl)-3,6- dihydro-pyrimidin-4- ylmethyl]-morpholine-3- carboxylic acid
+T31	SYSTEMATIC 30136 30307	(R)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2-(4- methyl-thiazol-2-yl)-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T32	SYSTEMATIC 30323 30494	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2-(4- methyl-thiazol-2-yl)-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T33	SYSTEMATIC 30509 30680	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-2-(5-chloro- thiazol-2-yl)-4-(4-fluoro- phenyl)-4-methyl-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T34	SYSTEMATIC 30695 30854	(S)-6-(2S,4R)-2- Carboxy-4-fluoro- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T35	SYSTEMATIC 30870 31026	6-((S)-2-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-isoxazol-3-yl- 4-methyl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T36	SYSTEMATIC 31040 31209	(R)-6-((S)-2-Carboxy- 4,4-difluoro-2-methyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T37	SYSTEMATIC 31225 31394	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-methyl-2-(5- methyl-thiazol-2-yl)-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T38	SYSTEMATIC 31409 31581	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-(5-fluoro- thiophen-2-yl)-4-methyl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T39	SYSTEMATIC 31592 31752	(S)-6-((2S,4S)-2- Carboxy-4-fluoro- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T40	SYSTEMATIC 31768 31936	6-((S)-2-Carboxy-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2-(5- methyl-isoxazol-3-yl)- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T41	SYSTEMATIC 31952 32124	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-(3-fluoro- thiophen-2-yl)-4-methyl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T42	SYSTEMATIC 32141 32313	(R)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-(3-fluoro- thiophen-2-yl)-4-methyl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T43	SYSTEMATIC 32329 32501	(S)-6-((S)-2-Carboxy- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-2-(4-fluoro- thiophen-2-yl)-4-methyl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T44	SYSTEMATIC 32518 32682	(S)-6-{[Carboxymethyl- (2,2,2-trifluoro-ethyl)- amino]-methyl}-4-(4- fluoro-phenyl)-4-methyl- 2-thiazol-2-yl-1,4- dihydro-pyrimidine-5- carboxylic acid methyl ester
+T45	SYSTEMATIC 32698 32866	(S)-6-((S)-4,4-Difluoro- 2-methoxycarbonyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T46	SYSTEMATIC 32883 33069	(S)-6-[(S)-2-(2- Dimethylamino- ethoxycarbonyl)-4,4- difluoro-pyrrolidin-1- ylmethyl]-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T47	SYSTEMATIC 33085 33242	(S)-6-(2-Carbamoyl-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T48	SYSTEMATIC 33259 33420	(S)-6-((S)-2-Carbamoyl- 4,4-difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T49	SYSTEMATIC 33436 33606	(S)-6-((S)-2- Dimethylcarbamoyl-4,4- difluoro-pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T50	SYSTEMATIC 33622 33786	6-((S)-4,4-Difluoro-2- methylcarbamoyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T51	SYSTEMATIC 33803 33987	(S)-6-((S)-4,4-Difluoro- 2- methanesulfonyl- aminocarbonyl- pyrrolidin-1- ylmethyl)-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T52	SYSTEMATIC 34003 34179	(S)-6-[(S)-4,4-Difluoro- 2-(thiazol-2- ylcarbamoyl)-pyrrolidin- 1-ylmethyl]-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T53	SYSTEMATIC 34197 34344	4-(4-Fluoro-phenyl)-6- ((R)-3-hydroxymethyl- morpholin-4-ylmethyl)- 4-methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T54	SYSTEMATIC 34360 34539	(S)-6-[(S)-4,4-Difluoro- 2-(1-hydroxy-1-methyl- ethyl)-pyrrolidin-1- ylmethyl]-4-(4-fluoro- phenyl)-4-methyl-2- thiazol-2-yl-1,4-dihydro- pyrimidine-5-carboxylic acid methyl ester
+T55	SYSTEMATIC 34555 34721	(S)-6-((S)-4,4-Difluoro- 2-hydroxymethyl- pyrrolidin-1-ylmethyl)-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T56	SYSTEMATIC 34738 34905	(S)-6-[4,4-Difluoro-2-(3- hydroxy-propyl)- pyrrolidin-1-ylmethyl]-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T57	SYSTEMATIC 34920 35106	(S)-6-[(S)-4,4-Difluoro- 2-(5-methyl- [1,3,4]oxadiazol-2-yl)- pyrrolidin-1-ylmethyl]-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T58	SYSTEMATIC 35123 35294	(S)-6-[(S)-4,4-Difluoro- 2-(1H-tetrazol-5-yl)- pyrrolidin-1-ylmethyl]-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T59	SYSTEMATIC 35311 35497	(S)-6-[(S)-4,4-Difluoro- 2-(3-methyl- [1,2,4]oxadiazol-5-yl)- pyrrolidin-1-ylmethyl]-4- (4-fluoro-phenyl)-4- methyl-2-thiazol-2-yl- 1,4-dihydro-pyrimidine- 5-carboxylic acid methyl ester
+T60	FORMULA 35599 35606	MeOD-d4
+T61	FORMULA 35840 35847	MeOD-d4
+T62	FORMULA 36066 36073	MeOD-d4
+T63	FORMULA 36326 36331	CD3OD
+T64	FORMULA 36568 36575	MeOD-d4
+T65	FORMULA 36856 36863	MeOD-d4
+T66	FORMULA 37150 37157	MeOD-d4
+T67	FORMULA 37433 37440	MeOD-d4
+T68	FORMULA 37732 37739	MeOD-d4
+T69	FORMULA 38065 38072	MeOD-d4
+T70	FORMULA 38398 38403	CD3OD
+T71	FORMULA 38650 38655	CD3OD
+T72	FORMULA 38891 38898	MeOD-d4
+T73	FORMULA 39198 39205	MeOD-d4
+T74	FORMULA 39531 39538	MeOD-d4
+T75	FORMULA 39867 39874	MeOD-d4
+T76	FORMULA 40137 40144	MeOD-d4
+T77	FORMULA 40441 40448	MeOD-d4
+T78	FORMULA 40786 40793	MeOH-d4
+T79	FORMULA 41008 41015	MeOH-d4
+T80	FORMULA 41233 41240	MeOD-d4
+T81	FORMULA 41512 41519	MeOD-d4
+T82	FORMULA 41761 41768	MeOD-d4
+T83	FORMULA 42030 42037	MeOD-d4
+T84	FORMULA 42402 42409	MeOD-d4
+T85	FORMULA 42659 42666	MeOD-d4
+T86	FORMULA 42986 42993	MeOD-d4
+T87	FORMULA 43292 43299	MeOD-d4
+T88	FORMULA 43676 43683	MeOD-d4
+T89	FORMULA 44018 44025	MeOD-d4
+T90	FORMULA 44271 44276	CDCl3
+T91	FORMULA 44625 44630	CDCl3
+T92	FORMULA 44968 44973	CDCl3
+T93	FORMULA 45241 45248	MeOD-d4
+T94	FORMULA 45525 45532	MeOD-d4
+T95	FORMULA 45805 45812	MeOD-d4
+T96	FORMULA 46080 46087	MeOD-d4
+T97	FORMULA 46379 46386	MeOD-d4
+T98	FORMULA 46723 46730	MeOD-d4
+T99	FORMULA 47040 47047	MeOD-d4
+T100	FORMULA 47301 47306	CDCl3
+T101	FORMULA 47588 47593	CDCl3
+T102	FORMULA 47875 47880	CDCl3
+T103	FORMULA 48114 48121	MeOD-d4
+T104	FORMULA 48351 48358	MeOD-d4
+T105	FORMULA 48707 48714	MeOD-d4
+T106	FORMULA 48993 49000	MeOD-d4
+T107	FORMULA 49283 49290	MeOD-d4
+T108	FORMULA 49554 49561	MeOD-d4
+T109	FORMULA 49837 49844	MeOD-d4
+T110	FORMULA 50099 50106	MeOD-d4
+T111	FORMULA 50401 50408	MeOD-d4
+T112	FORMULA 50695 50702	MeOD-d4
+T113	FORMULA 50967 50972	CDCl3
+T114	FORMULA 51314 51319	CDCl3
+T115	FORMULA 51547 51554	MeOD-d4
+T116	FORMULA 51930 51937	MeOD-d4
+T117	FORMULA 52223 52230	MeOD-d4
+T118	FORMULA 52528 52535	MeOD-d4
+T119	SYSTEMATIC 81049 81190	4-(4-Fluoro-phenyl)-6-(1-methoxycarbonyl-1-methyl-ethoxymethyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T120	FORMULA 81385 81390	NH4Cl
+T121	SYSTEMATIC 81394 81401	toluene
+T122	FORMULA 81421 81429	Al(CH3)3
+T123	SYSTEMATIC 81557 81580	thiazole-2-carbonitrile
+T124	SYSTEMATIC 81604 81611	toluene
+T125	ABBREVIATION 81786 81789	DCM
+T126	FORMULA 81862 81866	MeOH
+T127	SYSTEMATIC 81932 81956	thiazole-2-carboxamidine
+T128	SYSTEMATIC 82081 82112	3-oxo-butyric acid methyl ester
+T129	SYSTEMATIC 82133 82159	1-ethynyl-4-fluoro-benzene
+T130	FORMULA 82183 82191	In(OTf)3
+T131	SYSTEMATIC 82215 82223	o-xylene
+T132	FORMULA 82342 82347	EtOAc
+T133	FAMILY 82348 82363	petroleum ether
+T134	SYSTEMATIC 82446 82470	thiazole-2-carboxamidine
+T135	FORMULA 82498 82504	NaHCO3
+T136	ABBREVIATION 82527 82530	NMP
+T137	SYSTEMATIC 82591 82653	(E)-2-acetyl-3-(4-fluoro-phenyl)-but-2-enoic acid methyl ester
+T138	ABBREVIATION 82679 82682	NMP
+T139	FORMULA 82778 82783	EtOAc
+T140	TRIVIAL 82797 82802	water
+T141	FORMULA 82905 82910	EtOAc
+T142	FAMILY 82911 82926	petroleum ether
+T143	SYSTEMATIC 82949 83050	4-(4-fluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T144	FORMULA 83145 83149	MeOD
+T145	ABBREVIATION 83338 83341	DCM
+T146	ABBREVIATION 83360 83364	DMAP
+T147	FORMULA 83388 83393	Boc2O
+T148	TRIVIAL 83481 83486	water
+T149	FORMULA 83568 83574	Na2SO4
+T150	FORMULA 83648 83653	EtOAc
+T151	FAMILY 83654 83669	petroleum ether
+T152	SYSTEMATIC 83697 83814	4-(4-fluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-4H-pyrimidine-1,5-dicarboxylic acid 1-tert-butyl ester 5-methyl ester
+T153	ABBREVIATION 83903 83906	NBS
+T154	FORMULA 83930 83934	CCl4
+T155	ABBREVIATION 83970 83974	AIBN
+T156	FORMULA 84103 84108	EtOAc
+T157	FAMILY 84109 84124	petroleum ether
+T158	SYSTEMATIC 84152 84279	6-bromomethyl-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-4H-pyrimidine-1,5-dicarboxylic acid 1-tert-butyl ester 5-methyl ester
+T159	SYSTEMATIC 84326 84340	Sodium hydride
+T160	SYSTEMATIC 84386 84432	2-hydroxy-2-methyl-propionic acid methyl ester
+T161	ABBREVIATION 84454 84457	THF
+T162	FORMULA 84636 84641	EtOAc
+T163	ABBREVIATION 84797 84800	DCM
+T164	ABBREVIATION 84810 84813	TFA
+T165	FORMULA 85048 85052	MeOD
+T166	SYSTEMATIC 85243 85383	6-(1-Carboxy-2,2,2-trifluoro-ethoxymethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T167	SYSTEMATIC 85461 85514	3,3,3-trifluoro-2-hydroxy-propionic acid methyl ester
+T168	SYSTEMATIC 85526 85572	2-hydroxy-2-methyl-propionic acid methyl ester
+T169	FORMULA 85697 85701	MeOD
+T170	SYSTEMATIC 85878 86025	6-{[(1-Carboxy-cyclopropyl)-methyl-amino]-methyl}-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T171	SYSTEMATIC 86202 86329	6-bromomethyl-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-4H-pyrimidine-1,5-dicarboxylic acid 1-tert-butyl ester 5-methyl ester
+T172	SYSTEMATIC 86360 86379	potassium carbonate
+T173	ABBREVIATION 86383 86386	DMF
+T174	SYSTEMATIC 86397 86451	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T175	TRIVIAL 86607 86612	water
+T176	SYSTEMATIC 86617 86630	ethyl acetate
+T177	ABBREVIATION 86812 86815	DCM
+T178	ABBREVIATION 86825 86828	TFA
+T179	FORMULA 87083 87087	MeOH
+T180	FORMULA 87099 87103	LiOH
+T181	TRIVIAL 87107 87112	water
+T182	SYSTEMATIC 87314 87331	hydrochloric acid
+T183	FORMULA 87486 87490	MeOD
+T184	SYSTEMATIC 87700 87827	4-[6-(4-Fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid
+T185	SYSTEMATIC 87905 87946	morpholine-3-carboxylic acid methyl ester
+T186	SYSTEMATIC 87958 88012	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T187	FORMULA 88062 88066	MeOD
+T188	SYSTEMATIC 88262 88406	4-[6-(4-Fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(S)-3-carboxylic acid methyl ester
+T189	SYSTEMATIC 88484 88529	morpholine-(S)-3-carboxylic acid methyl ester
+T190	SYSTEMATIC 88541 88595	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T191	SYSTEMATIC 88607 88738	4-[6-(4-Fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(S)-3-carboxylic acid
+T192	FORMULA 88812 88816	LiOH
+T193	FORMULA 88820 88824	MeOH
+T194	SYSTEMATIC 88857 88992	(S)-4-[6-(4-Fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(S)-3-carboxylic acid
+T195	SYSTEMATIC 89395 89440	morpholine-(S)-3-carboxylic acid methyl ester
+T196	SYSTEMATIC 89459 89513	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T197	SYSTEMATIC 89553 89688	(S)-4-[6-(4-Fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(R)-3-carboxylic acid
+T198	SYSTEMATIC 89766 89811	morpholine-(R)-3-carboxylic acid methyl ester
+T199	SYSTEMATIC 89823 89877	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T200	SYSTEMATIC 89889 90031	4-[6-(4-Fluoro-phenyl)-2-(5-fluoro-pyridin-2-yl)-5-methoxycarbonyl-6-methyl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(R)-3-carboxylic acid
+T201	SYSTEMATIC 90108 90140	5-Fluoro-pyridine-2-carbonitrile
+T202	SYSTEMATIC 90322 90367	morpholine-(R)-3-carboxylic acid methyl ester
+T203	SYSTEMATIC 90412 90554	4-[6-(4-Fluoro-phenyl)-2-(5-fluoro-pyridin-2-yl)-5-methoxycarbonyl-6-methyl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-(S)-3-carboxylic acid
+T204	SYSTEMATIC 90632 90677	morpholine-(S)-3-carboxylic acid methyl ester
+T205	SYSTEMATIC 90689 90734	morpholine-(R)-3-carboxylic acid methyl ester
+T206	SYSTEMATIC 90775 90925	6-(2-(S)-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T207	SYSTEMATIC 91003 91062	4,4-difluoro-pyrrolidine-(S)-2-carboxylic acid methyl ester
+T208	SYSTEMATIC 91074 91128	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T209	SYSTEMATIC 91141 91291	6-(2-(R)-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T210	SYSTEMATIC 91369 91428	4,4-difluoro-pyrrolidine-(R)-2-carboxylic acid methyl ester
+T211	SYSTEMATIC 91440 91494	1-methylamino-cyclopropanecarboxylic acid methyl ester
+T212	SYSTEMATIC 91507 91661	(S)-6-((S)-2-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T213	SYSTEMATIC 91739 91798	4,4-difluoro-pyrrolidine-(S)-2-carboxylic acid methyl ester
+T214	SYSTEMATIC 91816 91861	morpholine-(S)-3-carboxylic acid methyl ester
+T215	SYSTEMATIC 91909 92067	(S)-6-((S)-2-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(3,4-difluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T216	SYSTEMATIC 92240 92265	3,4-difluoro-benzaldehyde
+T217	SYSTEMATIC 92287 92318	3-oxo-butyric acid methyl ester
+T218	SYSTEMATIC 92340 92350	piperidine
+T219	SYSTEMATIC 92375 92386	acetic acid
+T220	SYSTEMATIC 92420 92427	ethanol
+T221	FORMULA 92570 92575	EtOAc
+T222	SYSTEMATIC 92576 92582	hexane
+T223	SYSTEMATIC 92614 92690	2-[1-(3,4-difluoro-phenyl)-meth-(Z)-ylidene]-3-oxo-butyric acid methyl ester
+T224	SYSTEMATIC 92791 92803	methylithium
+T225	FAMILY 92814 92819	ether
+T226	SYSTEMATIC 92868 92884	copper(I) iodide
+T227	ABBREVIATION 92926 92929	THF
+T228	ABBREVIATION 93059 93062	THF
+T229	SYSTEMATIC 93199 93216	ammonium chloride
+T230	FORMULA 93242 93247	EtOAc
+T231	TRIVIAL 93261 93266	brine
+T232	SYSTEMATIC 93292 93306	sodium sulfate
+T233	FORMULA 93399 93404	EtOAc
+T234	SYSTEMATIC 93405 93411	hexane
+T235	FORMULA 93489 93492	NaH
+T236	ABBREVIATION 93585 93588	THF
+T237	SYSTEMATIC 93604 93609	argon
+T238	SYSTEMATIC 93625 93647	phenylselenyl chloride
+T239	ABBREVIATION 93670 93673	THF
+T240	SYSTEMATIC 93781 93788	pentene
+T241	FAMILY 93789 93794	ether
+T242	FORMULA 93836 93842	NaHCO3
+T243	TRIVIAL 93938 93943	brine
+T244	FORMULA 93962 93966	H2O2
+T245	ABBREVIATION 93991 93994	DCM
+T246	ABBREVIATION 94069 94072	DCM
+T247	SYSTEMATIC 94138 94156	sodium bicarbonate
+T248	SYSTEMATIC 94158 94172	sodium sulfite
+T249	TRIVIAL 94174 94179	water
+T250	TRIVIAL 94184 94189	brine
+T251	SYSTEMATIC 94229 94243	sodium sulfate
+T252	FORMULA 94336 94341	EtOAc
+T253	SYSTEMATIC 94342 94348	hexane
+T254	SYSTEMATIC 94478 94516	thiazole-2-carboxamidine hydrochloride
+T255	SYSTEMATIC 94542 94560	sodium bicarbonate
+T256	ABBREVIATION 94582 94585	NMP
+T257	SYSTEMATIC 94799 94904	4-(3,4-difluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T258	SYSTEMATIC 95306 95454	4-[(S)-6-(3,4-Difluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid methyl ester
+T259	SYSTEMATIC 95675 95806	4-[6-(3,4-Difluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid
+T260	FORMULA 95872 95876	LiOH
+T261	FORMULA 95880 95884	MeOH
+T262	SYSTEMATIC 95897 96062	6-(4,4-Difluoro-2-methoxycarbonyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(5-fluoro-pyridin-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T263	SYSTEMATIC 96140 96199	4,4-difluoro-pyrrolidine-(S)-2-carboxylic acid methyl ester
+T264	SYSTEMATIC 96211 96256	morpholine-(R)-3-carboxylic acid methyl ester
+T265	SYSTEMATIC 96305 96470	(S)-6-((S)-2-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(5-fluoro-pyridin-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T266	SYSTEMATIC 96974 97135	6-((S)-2-Carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(5-methyl-thiazol-2-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T267	SYSTEMATIC 97214 97246	5-methyl-thiazole-2-carbonitrile
+T268	SYSTEMATIC 97354 97413	4,4-difluoro-pyrrolidine-(S)-2-carboxylic acid methyl ester
+T269	SYSTEMATIC 97520 97675	6-(2-Carboxy-4,4-difluoro-2-methyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T270	SYSTEMATIC 97753 97817	4,4-difluoro-2-methyl-pyrrolidine-2-carboxylic acid methyl ester
+T271	SYSTEMATIC 97829 97870	morpholine-3-carboxylic acid methyl ester
+T272	SYSTEMATIC 97883 98022	(S)-1-[(S)-5-Cyano-6-(4-fluoro-phenyl)-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-4,4-difluoro-pyrrolidine-2-carboxylic acid
+T273	SYSTEMATIC 98192 98297	4-(4-fluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid tert-butyl ester
+T274	SYSTEMATIC 98358 98393	3-oxo-butyric acid tert-butyl ester
+T275	SYSTEMATIC 98398 98462	4-fluoro-benzaldehyde instead of 3-oxo-butyric acid methyl ester
+T276	SYSTEMATIC 98467 98492	3,4-difluoro-benzaldehyde
+T277	SYSTEMATIC 98540 98645	4-(4-fluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid tert-butyl ester
+T278	ABBREVIATION 98674 98677	DCM
+T279	ABBREVIATION 98696 98699	TFA
+T280	ABBREVIATION 98781 98784	TFA
+T281	ABBREVIATION 98840 98843	DCM
+T282	ABBREVIATION 98872 98876	HATU
+T283	FORMULA 98901 98904	NH3
+T284	SYSTEMATIC 98908 98915	dioxane
+T285	ABBREVIATION 99000 99003	DCM
+T286	FORMULA 99037 99043	NaHCO3
+T287	TRIVIAL 99048 99053	brine
+T288	FORMULA 99109 99115	Na2SO4
+T289	SYSTEMATIC 99151 99245	4-(4-fluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid amide
+T290	ABBREVIATION 99377 99380	THF
+T291	ABBREVIATION 99390 99394	TFAA
+T292	ABBREVIATION 99467 99470	THF
+T293	ABBREVIATION 99482 99486	TFAA
+T294	FORMULA 99517 99521	MeOH
+T295	FORMULA 99548 99553	K2CO3
+T296	FORMULA 99685 99690	EtOAc
+T297	FORMULA 99793 99798	EtOAc
+T298	FAMILY 99799 99814	petroleum ether
+T299	SYSTEMATIC 100050 100175	(S)-4-[5-Cyano-6-(3,4-difluoro-phenyl)-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid
+T300	SYSTEMATIC 100345 100454	4-(3,4-difluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid tert-butyl ester
+T301	SYSTEMATIC 100515 100550	3-oxo-butyric acid tert-butyl ester
+T302	SYSTEMATIC 100555 100579	3,4-difluorobenzaldehyde
+T303	SYSTEMATIC 100611 100700	4-(3,4-difluoro-phenyl)-4,6-dimethyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carbonitrile
+T304	SYSTEMATIC 100724 100740	tert-butyl ester
+T305	SYSTEMATIC 100892 100937	morpholine-(S)-3-carboxylic acid methyl ester
+T306	SYSTEMATIC 100985 101126	(S)-[(S)-5-Cyano-6-(3,4-difluoro-phenyl)-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-4,4-difluoro-pyrrolidine-2-carboxylic acid
+T307	SYSTEMATIC 101646 101803	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(3,4-difluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid ethyl ester
+T308	SYSTEMATIC 101881 101911	4-ethynyl-1,2-difluoro-benzene
+T309	SYSTEMATIC 101923 101968	(S)-morpholine-3-carboxylic acid methyl ester
+T310	SYSTEMATIC 101996 102145	(S)-6-(2-carboxy-5,5-difluoro-piperidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T311	SYSTEMATIC 102223 102264	5,5-difluoro-piperidine-2-carboxylic acid
+T312	SYSTEMATIC 102276 102321	(S)-morpholine-3-carboxylic acid methyl ester
+T313	SYSTEMATIC 102349 102498	(S)-6-(2-carboxy-4,4-difluoro-piperidin-1-ylmethyl) 4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T314	SYSTEMATIC 102576 102617	4,4-difluoro-piperidine-2-carboxylic acid
+T315	SYSTEMATIC 102629 102674	(S)-morpholine-3-carboxylic acid methyl ester
+T316	SYSTEMATIC 102702 102871	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(1-methyl-1H-imidazol-2-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T317	SYSTEMATIC 102949 102985	1-methyl-1H-imidazole-2-carbonitrile
+T318	SYSTEMATIC 102997 103020	thiazole-2-carbonitrile
+T319	SYSTEMATIC 103048 103205	(R)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(3,4-difluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid ethyl ester
+T320	SYSTEMATIC 103283 103313	4-ethynyl-1,2-difluoro-benzene
+T321	SYSTEMATIC 103325 103351	1-ethynyl-4-fluoro-benzene
+T322	SYSTEMATIC 103379 103513	(S)-4-[6-(3,4-difluoro-phenyl)-5-ethoxycarbonyl-6-methyl-2-thiazol-2-yl-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid
+T323	SYSTEMATIC 103580 103612	(S)-morpholine-3-carboxylic acid
+T324	SYSTEMATIC 103624 103670	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid
+T325	SYSTEMATIC 103698 103848	(S)-4-[(S)-6-(4-fluoro-phenyl)-5-methoxycarbonyl-6-methyl-2-(1-methyl-1H-imidazol-2-yl)-3,6-dihydro-pyrimidin-4-ylmethyl]-morpholine-3-carboxylic acid
+T326	SYSTEMATIC 103915 103947	(S)-morpholine-3-carboxylic acid
+T327	SYSTEMATIC 103959 104005	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid
+T328	SYSTEMATIC 104033 104198	(R)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(4-methyl-thiazol-2-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T329	SYSTEMATIC 104265 104297	4-methyl-thiazole-2-carbonitrile
+T330	SYSTEMATIC 104309 104332	thiazole-2-carbonitrile
+T331	SYSTEMATIC 104360 104525	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(4-methyl-thiazol-2-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T332	SYSTEMATIC 104592 104624	4-methyl-thiazole-2-carbonitrile
+T333	SYSTEMATIC 104636 104659	thiazole-2-carbonitrile
+T334	SYSTEMATIC 104687 104852	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-2-(5-chloro-thiazol-2-yl)-4-(4-fluoro-phenyl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T335	SYSTEMATIC 104919 104951	5-chloro-thiazole-2-carbonitrile
+T336	SYSTEMATIC 104963 104986	thiazole-2-carbonitrile
+T337	SYSTEMATIC 105014 105168	(S)-6-((2S,4R)-2-Carboxy-4-fluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T338	SYSTEMATIC 105246 105292	(2S,4R)-4-fluoro-pyrrolidine-2-carboxylic acid
+T339	SYSTEMATIC 105304 105349	(S)-morpholine-3-carboxylic acid methyl ester
+T340	SYSTEMATIC 105377 105528	6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-isoxazol-3-yl-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T341	SYSTEMATIC 105595 105619	isoxazole-3-carbonitrile
+T342	SYSTEMATIC 105631 105654	thiazole-2-carbonitrile
+T343	SYSTEMATIC 105682 105845	(R)-6-((S)-2-carboxy-4,4-difluoro-2-methyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T344	SYSTEMATIC 105923 105978	(S)-4,4-difluoro-2-methyl-pyrrolidine-2-carboxylic acid
+T345	SYSTEMATIC 105990 106035	(S)-morpholine-3-carboxylic acid methyl ester
+T346	SYSTEMATIC 106063 106228	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(5-methyl-thiazol-2-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T347	SYSTEMATIC 106295 106327	5-methyl-thiazole-2-carbonitrile
+T348	SYSTEMATIC 106339 106362	thiazole-2-carbonitrile
+T349	SYSTEMATIC 106390 106556	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(5-fluoro-thiophen-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T350	SYSTEMATIC 106623 106656	5-fluoro-thiophene-2-carbonitrile
+T351	SYSTEMATIC 106668 106691	thiazole-2-carbonitrile
+T352	SYSTEMATIC 106719 106873	(S)-6-((2S,4S)-2-carboxy-4-fluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T353	SYSTEMATIC 106951 106997	(2S,4S)-4-fluoro-pyrrolidine-2-carboxylic acid
+T354	SYSTEMATIC 107009 107054	(S)-morpholine-3-carboxylic acid methyl ester
+T355	SYSTEMATIC 107082 107244	6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-(5-methyl-isoxazol-3-yl)-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T356	SYSTEMATIC 107311 107344	5-methyl-isoxazole-3-carbonitrile
+T357	SYSTEMATIC 107356 107379	thiazole-2-carbonitrile
+T358	SYSTEMATIC 107407 107573	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(3-fluoro-thiophen-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T359	SYSTEMATIC 107640 107673	3-fluoro-thiophene-2-carbonitrile
+T360	SYSTEMATIC 107685 107708	thiazole-2-carbonitrile
+T361	SYSTEMATIC 107736 107902	(R)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(3-fluoro-thiophen-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T362	SYSTEMATIC 107969 108002	3-fluoro-thiophene-2-carbonitrile
+T363	SYSTEMATIC 108014 108037	thiazole-2-carbonitrile
+T364	SYSTEMATIC 108065 108231	(S)-6-((S)-2-carboxy-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-2-(4-fluoro-thiophen-2-yl)-4-methyl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T365	SYSTEMATIC 108298 108331	4-fluoro-thiophene-2-carbonitrile
+T366	SYSTEMATIC 108343 108366	thiazole-2-carbonitrile
+T367	SYSTEMATIC 108394 108552	(S)-6-{[carboxymethyl-(2,2,2-trifluoro-ethyl)-amino]-methyl}-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T368	SYSTEMATIC 108630 108670	(2,2,2-trifluoro-ethylamino)-acetic acid
+T369	SYSTEMATIC 108682 108727	(S)-morpholine-3-carboxylic acid methyl ester
+T370	SYSTEMATIC 108755 108917	(S)-6-((S)-4,4-difluoro-2-methoxycarbonyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T371	SYSTEMATIC 108995 109054	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid methyl ester
+T372	SYSTEMATIC 109066 109111	(S)-morpholine-3-carboxylic acid methyl ester
+T373	SYSTEMATIC 109139 109318	(S)-6-[(S)-2-(2-dimethylamino-ethoxycarbonyl)-4,4-difluoro-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T374	SYSTEMATIC 109396 109470	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid 2-dimethylamino-ethyl ester
+T375	SYSTEMATIC 109482 109527	(S)-morpholine-3-carboxylic acid methyl ester
+T376	SYSTEMATIC 109555 109707	(S)-6-(2-carbamoyl-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T377	SYSTEMATIC 109785 109833	4,4-difluoro-pyrrolidine-2-carboxylic acid amide
+T378	SYSTEMATIC 109845 109890	(S)-morpholine-3-carboxylic acid methyl ester
+T379	SYSTEMATIC 109918 110074	(S)-6-((S)-2-carbamoyl-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T380	SYSTEMATIC 110152 110204	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid amide
+T381	SYSTEMATIC 110216 110261	(S)-morpholine-3-carboxylic acid methyl ester
+T382	SYSTEMATIC 110289 110453	(S)-6-((S)-2-dimethylcarbamoyl-4,4-difluoro-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T383	SYSTEMATIC 110531 110591	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid dimethylamide
+T384	SYSTEMATIC 110603 110648	(S)-morpholine-3-carboxylic acid methyl ester
+T385	SYSTEMATIC 110676 110834	6-((S)-4,4-difluoro-2-methylcarbamoyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T386	SYSTEMATIC 110912 110970	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid methylamide
+T387	SYSTEMATIC 110982 111027	(S)-morpholine-3-carboxylic acid methyl ester
+T388	SYSTEMATIC 111055 111230	(S)-6-((S)-4,4-difluoro-2-methanesulfonylaminocarbonyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T389	SYSTEMATIC 111308 111370	N—((S)-4,4-difluoro-pyrrolidine-2-carbonyl)-methanesulfonamide
+T390	SYSTEMATIC 111382 111427	(S)-morpholine-3-carboxylic acid methyl ester
+T391	SYSTEMATIC 111455 111625	(S)-6-[(S)-4,4-difluoro-2-(thiazol-2-ylcarbamoyl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T392	SYSTEMATIC 111703 111767	(S)-4,4-difluoro-pyrrolidine-2-carboxylic acid thiazol-2-ylamide
+T393	SYSTEMATIC 111779 111824	(S)-morpholine-3-carboxylic acid methyl ester
+T394	SYSTEMATIC 111852 111994	4-(4-fluoro-phenyl)-6-((R)-3-hydroxymethyl-morpholin-4-ylmethyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T395	SYSTEMATIC 112072 112100	(R)-1-morpholin-3-yl-methaol
+T396	SYSTEMATIC 112112 112157	(S)-morpholine-3-carboxylic acid methyl ester
+T397	SYSTEMATIC 112185 112358	(S)-6-[(S)-4,4-difluoro-2-(1-hydroxy-1-methyl-ethyl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T398	SYSTEMATIC 112436 112484	2-((S)-4,4-difluoro-pyrrolidin-2-yl)-propan-2-ol
+T399	SYSTEMATIC 112496 112541	(S)-morpholine-3-carboxylic acid methyl ester
+T400	SYSTEMATIC 112569 112729	(S)-6-((S)-4,4-difluoro-2-hydroxymethyl-pyrrolidin-1-ylmethyl)-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T401	SYSTEMATIC 112807 112850	((S)-4,4-difluoro-pyrrolidin-2-yl)-methanol
+T402	SYSTEMATIC 112862 112907	(S)-morpholine-3-carboxylic acid methyl ester
+T403	SYSTEMATIC 112935 113096	(S)-6-[4,4-difluoro-2-(3-hydroxy-propyl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T404	SYSTEMATIC 113174 113275	3-(4,4-difluoro-pyrrolidin-2-yl)-propan-1-ol instead of (S)-morpholine-3-carboxylic acid methyl ester
+T405	SYSTEMATIC 113303 113482	(S)-6-[(S)-4,4-difluoro-2-(5-methyl-[1,3,4]oxadiazol-2-yl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T406	SYSTEMATIC 113560 113623	2-((S)-4,4-difluoro-pyrrolidin-2-yl)-5-methyl-[1,3,4]oxadiazole
+T407	SYSTEMATIC 113635 113680	(S)-morpholine-3-carboxylic acid methyl ester
+T408	SYSTEMATIC 113708 113873	(S)-6-[(S)-4,4-difluoro-2-(1H-tetrazol-5-yl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T409	SYSTEMATIC 113951 114057	5-((S)-4,4-difluoro-pyrrolidin-2-yl)-1H-tetrazole instead of (S)-morpholine-3-carboxylic acid methyl ester
+T410	SYSTEMATIC 114085 114264	(S)-6-[(S)-4,4-difluoro-2-(3-methyl-[1,2,4]oxadiazol-5-yl)-pyrrolidin-1-ylmethyl]-4-(4-fluoro-phenyl)-4-methyl-2-thiazol-2-yl-1,4-dihydro-pyrimidine-5-carboxylic acid methyl ester
+T411	SYSTEMATIC 114342 114405	5-((S)-4,4-difluoro-pyrrolidin-2-yl)-3-methyl-[1,2,4]oxadiazole
+T412	SYSTEMATIC 114417 114461	(S)-morpholine-3-carboxylicacid methyl ester

@@ -1,0 +1,128 @@
+T1	SYSTEMATIC 53515 53555	5-cyclopropylisoxazole-3-carboxylic Acid
+T2	SYSTEMATIC 53577 53615	ethyl 4-cyclopropyl-2,4-dioxobutanoate
+T3	FORMULA 53715 53717	Na
+T4	SYSTEMATIC 53763 53770	ethanol
+T5	FORMULA 53792 53800	(CO2Et)2
+T6	SYSTEMATIC 53825 53849	1-cyclopropylethan-1-one
+T7	FORMULA 54070 54073	H2O
+T8	SYSTEMATIC 54105 54122	hydrochloric acid
+T9	SYSTEMATIC 54172 54185	ethyl acetate
+T10	FORMULA 54234 54240	NaHCO3
+T11	SYSTEMATIC 54321 54359	ethyl 4-cyclopropyl-2,4-dioxobutanoate
+T12	SYSTEMATIC 54380 54393	ethyl acetate
+T13	FAMILY 54394 54409	petroleum ether
+T14	SYSTEMATIC 54445 54487	ethyl 5-cyclopropylisoxazole-3-carboxylate
+T15	SYSTEMATIC 54545 54583	ethyl 4-cyclopropyl-2,4-dioxobutanoate
+T16	SYSTEMATIC 54595 54602	ethanol
+T17	FORMULA 54615 54624	NH2OH—HCl
+T18	TRIVIAL 54865 54875	silica gel
+T19	SYSTEMATIC 54888 54901	ethyl acetate
+T20	FAMILY 54902 54917	petroleum ether
+T21	SYSTEMATIC 54983 55025	ethyl 5-cyclopropylisoxazole-3-carboxylate
+T22	SYSTEMATIC 55048 55061	ethyl acetate
+T23	FAMILY 55062 55077	petroleum ether
+T24	SYSTEMATIC 55113 55153	5-cyclopropylisoxazole-3-carboxylic Acid
+T25	SYSTEMATIC 55196 55238	ethyl 5-cyclopropylisoxazole-3-carboxylate
+T26	SYSTEMATIC 55287 55303	sodium hydroxide
+T27	TRIVIAL 55328 55333	water
+T28	SYSTEMATIC 55443 55448	ether
+T29	SYSTEMATIC 55512 55529	hydrochloric acid
+T30	SYSTEMATIC 55579 55592	ethyl acetate
+T31	SYSTEMATIC 55688 55728	5-cyclopropylisoxazole-3-carboxylic acid
+T32	FORMULA 55821 55826	CDCl3
+T33	SYSTEMATIC 55943 56024	N-((1 r,4r)-4-aminocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T34	SYSTEMATIC 56046 56124	tert-butyl (1r,4r)-4-(5-cyclopropylisoxazole-3-carboxamido)cyclohexylcarbamate
+T35	SYSTEMATIC 56156 56196	5-cyclopropylisoxazole-3-carboxylic acid
+T36	SYSTEMATIC 56230 56279	tert-butyl N-[(1r,4r)-4-aminocyclohexyl]carbamate
+T37	ABBREVIATION 56316 56319	TEA
+T38	SYSTEMATIC 56376 56391	dichloromethane
+T39	ABBREVIATION 56398 56402	HATU
+T40	TRIVIAL 56606 56616	silica gel
+T41	SYSTEMATIC 56629 56642	ethyl acetate
+T42	FAMILY 56643 56658	petroleum ether
+T43	SYSTEMATIC 56696 56774	tert-butyl (1r,4r)-4-(5-cyclopropylisoxazole-3-carboxamido)cyclohexylcarbamate
+T44	SYSTEMATIC 56868 56948	N-((1r,4r)-4-aminocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T45	SYSTEMATIC 56993 57071	tert-butyl (1r,4r)-4-(5-cyclopropylisoxazole-3-carboxamido)cyclohexylcarbamate
+T46	SYSTEMATIC 57108 57119	1,4-dioxane
+T47	SYSTEMATIC 57166 57183	hydrogen chloride
+T48	SYSTEMATIC 57191 57198	dioxane
+T49	SYSTEMATIC 57348 57428	N-((1r,4r)-4-aminocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T50	FORMULA 57464 57467	D2O
+T51	SYSTEMATIC 57681 57753	N-((1 r,4r)-4-acrylamidocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide
+T52	SYSTEMATIC 57797 57814	prop-2-enoic acid
+T53	SYSTEMATIC 57848 57929	N-((1 r,4r)-4-aminocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T54	SYSTEMATIC 57963 57978	dichloromethane
+T55	ABBREVIATION 57988 57991	TEA
+T56	ABBREVIATION 58029 58033	HATU
+T57	FORMULA 58223 58228	CH3CN
+T58	FORMULA 58229 58232	H2O
+T59	SYSTEMATIC 58274 58345	N-((1r,4r)-4-acrylamidocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide
+T60	ABBREVIATION 58381 58388	DMSO-d6
+T61	SYSTEMATIC 58706 58785	5-cyclopropyl-N-((1r,4r)-4-(vinylsulfonamido)cyclohexyl)isoxazole-3-carboxamide
+T62	SYSTEMATIC 58843 58923	N-((1r,4r)-4-aminocyclohexyl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T63	SYSTEMATIC 58994 59009	dichloromethane
+T64	ABBREVIATION 59022 59025	TEA
+T65	SYSTEMATIC 59064 59087	ethenesulfonyl chloride
+T66	TRIVIAL 59326 59336	silica gel
+T67	SYSTEMATIC 59349 59362	ethyl acetate
+T68	FAMILY 59363 59378	petroleum ether
+T69	TRIVIAL 59554 59559	WATER
+T70	ABBREVIATION 59571 59574	TFA
+T71	FORMULA 59579 59583	MeCN
+T72	FORMULA 59590 59594	MeCN
+T73	SYSTEMATIC 59677 59756	5-cyclopropyl-N-((1r,4r)-4-(vinylsulfonamido)cyclohexyl)isoxazole-3-carboxamide
+T74	FORMULA 59792 59796	MeOD
+T75	SYSTEMATIC 60092 60157	N-(1-acryloylpiperidin-4-yl)-5-cyclopropylisoxazole-3-carboxamide
+T76	SYSTEMATIC 60214 60283	5-cyclopropyl-N-(piperidin-4-yl)isoxazole-3-carboxamide hydrochloride
+T77	SYSTEMATIC 60317 60334	prop-2-enoic acid
+T78	SYSTEMATIC 60367 60382	dichloromethane
+T79	ABBREVIATION 60392 60396	HATU
+T80	ABBREVIATION 60435 60438	TEA
+T81	FORMULA 60648 60653	CH3CN
+T82	FORMULA 60654 60657	H2O
+T83	SYSTEMATIC 60699 60764	N-(1-acryloylpiperidin-4-yl)-5-cyclopropylisoxazole-3-carboxamide
+T84	ABBREVIATION 60800 60807	DMSO-d6
+T85	SYSTEMATIC 61200 61271	5-cyclopropyl-N-(1-(vinylsulfonyl)azetidin-3-yl)isoxazole-3-carboxamide
+T86	SYSTEMATIC 61306 61380	tert-butyl 3-(5-cyclopropylisoxazole-3-carboxamido)azetidine-1-carboxylate
+T87	SYSTEMATIC 61426 61467	tert-butyl 3-aminoazetidine-1-carboxylate
+T88	SYSTEMATIC 61501 61541	5-cyclopropylisoxazole-3-carboxylic acid
+T89	SYSTEMATIC 61575 61590	dichloromethane
+T90	ABBREVIATION 61604 61608	HATU
+T91	ABBREVIATION 61646 61649	TEA
+T92	ABBREVIATION 61814 61817	DCM
+T93	TRIVIAL 61843 61848	water
+T94	TRIVIAL 61948 61958	silica gel
+T95	ABBREVIATION 61967 61969	EA
+T96	ABBREVIATION 61971 61973	PE
+T97	SYSTEMATIC 62002 62076	tert-butyl 3-(5-cyclopropylisoxazole-3-carboxamido)azetidine-1-carboxylate
+T98	SYSTEMATIC 62170 62238	N-(azetidin-3-yl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T99	SYSTEMATIC 62284 62358	tert-butyl 3-(5-cyclopropylisoxazole-3-carboxamido)azetidine-1-carboxylate
+T100	SYSTEMATIC 62395 62410	dichloromethane
+T101	SYSTEMATIC 62425 62442	hydrogen chloride
+T102	SYSTEMATIC 62608 62676	N-(azetidin-3-yl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T103	SYSTEMATIC 62774 62845	5-cyclopropyl-N-(1-(vinylsulfonyl)azetidin-3-yl)isoxazole-3-carboxamide
+T104	SYSTEMATIC 62889 62957	N-(azetidin-3-yl)-5-cyclopropylisoxazole-3-carboxamide hydrochloride
+T105	SYSTEMATIC 62991 63006	dichloromethane
+T106	ABBREVIATION 63019 63022	TEA
+T107	SYSTEMATIC 63061 63084	ethenesulfonyl chloride
+T108	TRIVIAL 63256 63261	water
+T109	FORMULA 63320 63326	Na2SO4
+T110	TRIVIAL 63406 63416	Silica gel
+T111	ABBREVIATION 63425 63427	PE
+T112	ABBREVIATION 63428 63430	EA
+T113	TRIVIAL 63634 63639	WATER
+T114	ABBREVIATION 63651 63654	TFA
+T115	FORMULA 63659 63663	MeCN
+T116	FORMULA 63670 63674	MeCN
+T117	SYSTEMATIC 63758 63829	5-cyclopropyl-N-(1-(vinylsulfonyl)azetidin-3-yl)isoxazole-3-carboxamide
+T118	ABBREVIATION 63865 63872	DMSO-d6
+T119	SYSTEMATIC 64191 64264	N-(1-(2-chloroacetyl)piperidin-4-yl)-5-cyclopropylisoxazole-3-carboxamide
+T120	SYSTEMATIC 64322 64391	5-cyclopropyl-N-(piperidin-4-yl)isoxazole-3-carboxamide hydrochloride
+T121	SYSTEMATIC 64425 64440	dichloromethane
+T122	ABBREVIATION 64454 64457	TEA
+T123	SYSTEMATIC 64496 64519	2-chloroacetyl chloride
+T124	TRIVIAL 64730 64740	silica gel
+T125	SYSTEMATIC 64753 64768	dichloromethane
+T126	SYSTEMATIC 64769 64777	methanol
+T127	SYSTEMATIC 64808 64881	N-(1-(2-chloroacetyl)piperidin-4-yl)-5-cyclopropylisoxazole-3-carboxamide
+T128	ABBREVIATION 64921 64928	DMSO-d6

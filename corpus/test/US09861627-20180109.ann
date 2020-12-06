@@ -1,0 +1,180 @@
+T1	SYSTEMATIC 58108 58196	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N-(1-methoxypropan-2-yl)-3-nitroquinolin-4-amine
+T2	SYSTEMATIC 58214 58279	4-(4-chloro-6-methoxy-3-nitroquinolin-7-yl)-3,5-dimethylisoxazole
+T3	SYSTEMATIC 58323 58334	1,4-dioxane
+T4	SYSTEMATIC 58354 58377	1-methoxypropan-2-amine
+T5	SYSTEMATIC 58542 58555	ethyl acetate
+T6	TRIVIAL 58571 58576	water
+T7	SYSTEMATIC 58692 58780	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N-(1-methoxypropan-2-yl)-3-nitroquinolin-4-amine
+T8	ABBREVIATION 58864 58871	D6-DMSO
+T9	SYSTEMATIC 59084 59170	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N4-(1-methoxypropan-2-yl)quinoline-3,4-diamine
+T10	SYSTEMATIC 59171 59259	7-(3,5-Dimethylisoxazol-4-yl)-6-methoxy-N-(1-methoxypropan-2-yl)-3-nitroquinolin-4-amine
+T11	SYSTEMATIC 59348 59361	ethyl acetate
+T12	ABBREVIATION 59376 59380	DMSO
+T13	FORMULA 59526 59530	Pd/C
+T14	SYSTEMATIC 59708 59721	ethyl acetate
+T15	TRIVIAL 59735 59740	water
+T16	SYSTEMATIC 59805 59818	ethyl acetate
+T17	ABBREVIATION 59956 59959	DCM
+T18	TRIVIAL 59977 59983	silica
+T19	SYSTEMATIC 60038 60045	ammonia
+T20	SYSTEMATIC 60049 60057	methanol
+T21	ABBREVIATION 60058 60061	DCM
+T22	SYSTEMATIC 60165 60251	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N4-(1-methoxypropan-2-yl)quinoline-3,4-diamine
+T23	SYSTEMATIC 60266 60355	7-(3,5-di methylisoxazol-4-yl)-6-methoxy-N-(1-methoxypropan-2-yl)-3-nitroquinolin-4-amine
+T24	SYSTEMATIC 60413 60426	ethyl acetate
+T25	FORMULA 60571 60575	Pd/C
+T26	ABBREVIATION 60699 60702	DCM
+T27	TRIVIAL 60720 60726	silica
+T28	SYSTEMATIC 60781 60788	ammonia
+T29	SYSTEMATIC 60792 60800	methanol
+T30	ABBREVIATION 60801 60804	DCM
+T31	SYSTEMATIC 60908 60994	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N4-(1-methoxypropan-2-yl)quinoline-3,4-diamine
+T32	SYSTEMATIC 61040 61126	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N4-(1-methoxypropan-2-yl)quinoline-3,4-diamine
+T33	ABBREVIATION 61193 61200	D6-DMSO
+T34	SYSTEMATIC 61426 61547	N-(7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-4-((1-methoxypropan-2-yl)amino)quinolin-3-yl)tetrahydro-2H-pyran-4-carboxamide
+T35	SYSTEMATIC 61562 61648	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-N4-(1-methoxypropan-2-yl)quinoline-3,4-diamine
+T36	ABBREVIATION 61699 61702	DCM
+T37	SYSTEMATIC 61729 61737	pyridine
+T38	SYSTEMATIC 61750 61789	tetrahydro-2H-pyran-4-carbonyl chloride
+T39	SYSTEMATIC 61830 61838	nitrogen
+T40	SYSTEMATIC 61933 61941	nitrogen
+T41	ABBREVIATION 62019 62022	DCM
+T42	TRIVIAL 62027 62032	water
+T43	TRIVIAL 62068 62073	water
+T44	ABBREVIATION 62117 62120	DCM
+T45	TRIVIAL 62167 62172	brine
+T46	TRIVIAL 62267 62272	brine
+T47	SYSTEMATIC 62309 62334	sodium hydrogen carbonate
+T48	ABBREVIATION 62366 62369	DCM
+T49	SYSTEMATIC 62570 62583	diethyl ether
+T50	SYSTEMATIC 62698 62711	diethyl ether
+T51	SYSTEMATIC 62734 62855	N-(7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-4-((1-methoxypropan-2-yl)amino)quinolin-3-yl)tetrahydro-2H-pyran-4-carboxamide
+T52	ABBREVIATION 62895 62902	D6-DMSO
+T53	SYSTEMATIC 63168 63288	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T54	SYSTEMATIC 63305 63426	N-(7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-4-((1-methoxypropan-2-yl)amino)quinolin-3-yl)tetrahydro-2H-pyran-4-carboxamide
+T55	SYSTEMATIC 63489 63500	acetic acid
+T56	TRIVIAL 63998 64003	Water
+T57	SYSTEMATIC 64092 64117	sodium hydrogen carbonate
+T58	ABBREVIATION 64157 64160	DCM
+T59	ABBREVIATION 64367 64370	DCM
+T60	TRIVIAL 64402 64408	silica
+T61	ABBREVIATION 64455 64458	DCM
+T62	SYSTEMATIC 64506 64513	ammonia
+T63	SYSTEMATIC 64517 64525	methanol
+T64	SYSTEMATIC 64527 64535	methanol
+T65	ABBREVIATION 64543 64546	DCM
+T66	SYSTEMATIC 64818 64831	diethyl ether
+T67	SYSTEMATIC 64924 64937	diethyl ether
+T68	SYSTEMATIC 64988 65001	diethyl ether
+T69	SYSTEMATIC 65015 65135	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T70	SYSTEMATIC 65178 65191	diethyl ether
+T71	SYSTEMATIC 65192 65205	ethyl acetate
+T72	SYSTEMATIC 65299 65312	diethyl ether
+T73	SYSTEMATIC 65457 65470	diethyl ether
+T74	SYSTEMATIC 65479 65599	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T75	SYSTEMATIC 65669 65682	diethyl ether
+T76	SYSTEMATIC 65764 65777	diethyl ether
+T77	SYSTEMATIC 65816 65936	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T78	ABBREVIATION 65973 65980	D6-DMSO
+T79	SYSTEMATIC 66259 66379	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T80	SYSTEMATIC 66393 66514	N-(7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-4-((1-methoxypropan-2-yl)amino)quinolin-3-yl)tetrahydro-2H-pyran-4-carboxamide
+T81	SYSTEMATIC 66579 66601	p-toluenesulfonic acid
+T82	SYSTEMATIC 66624 66631	toluene
+T83	SYSTEMATIC 66658 66666	nitrogen
+T84	SYSTEMATIC 66726 66748	p-toluenesulfonic acid
+T85	TRIVIAL 66810 66815	Water
+T86	SYSTEMATIC 66893 66918	sodium hydrogen carbonate
+T87	SYSTEMATIC 66960 66973	ethyl acetate
+T88	SYSTEMATIC 67116 67121	ether
+T89	FAMILY 67241 67246	ether
+T90	SYSTEMATIC 67336 67456	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T91	SYSTEMATIC 67498 67503	ether
+T92	SYSTEMATIC 67639 67759	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T93	SYSTEMATIC 67800 67807	formate
+T94	SYSTEMATIC 67897 67902	ether
+T95	SYSTEMATIC 68049 68169	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T96	SYSTEMATIC 68209 68216	formate
+T97	SYSTEMATIC 68251 68375	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T98	SYSTEMATIC 68397 68517	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T99	SYSTEMATIC 68744 68752	n-Hexane
+T100	SYSTEMATIC 68763 68777	isopropylamine
+T101	SYSTEMATIC 68818 68825	Ethanol
+T102	SYSTEMATIC 68836 68850	isopropylamine
+T103	SYSTEMATIC 68935 69055	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T104	SYSTEMATIC 69082 69089	ethanol
+T105	SYSTEMATIC 69094 69109	ethylene glycol
+T106	SYSTEMATIC 69170 69184	Isopropylamine
+T107	SYSTEMATIC 69629 69636	ethanol
+T108	SYSTEMATIC 69653 69660	ethanol
+T109	SYSTEMATIC 69694 69702	nitrogen
+T110	SYSTEMATIC 69720 69844	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T111	SYSTEMATIC 69907 69920	diethyl ether
+T112	SYSTEMATIC 70013 70026	diethyl ether
+T113	SYSTEMATIC 70054 70178	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T114	ABBREVIATION 70214 70221	D6-DMSO
+T115	SYSTEMATIC 70476 70600	4-(8-methoxy-1-((S)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T116	SYSTEMATIC 70622 70742	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T117	SYSTEMATIC 70969 70976	Heptane
+T118	SYSTEMATIC 70993 71000	Ethanol
+T119	SYSTEMATIC 71061 71181	4-(8-methoxy-1-(1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T120	SYSTEMATIC 71207 71214	ethanol
+T121	SYSTEMATIC 71533 71540	ethanol
+T122	SYSTEMATIC 71615 71623	nitrogen
+T123	SYSTEMATIC 71648 71772	4-(8-methoxy-1-((S)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T124	ABBREVIATION 71790 71797	D6-DMSO
+T125	SYSTEMATIC 72089 72213	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T126	SYSTEMATIC 72233 72357	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T127	SYSTEMATIC 72439 72456	isopropyl acetate
+T128	SYSTEMATIC 72521 72532	Cyclohexane
+T129	SYSTEMATIC 72660 72671	cyclohexane
+T130	SYSTEMATIC 72672 72688	isopropylacetate
+T131	SYSTEMATIC 72706 72717	cyclohexane
+T132	SYSTEMATIC 72916 73040	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T133	SYSTEMATIC 73084 73101	isopropyl acetate
+T134	SYSTEMATIC 73115 73126	cyclohexane
+T135	SYSTEMATIC 73149 73273	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T136	SYSTEMATIC 73440 73451	cyclohexane
+T137	SYSTEMATIC 73453 73470	isopropyl acetate
+T138	SYSTEMATIC 73489 73500	cyclohexane
+T139	ABBREVIATION 73513 73517	TBME
+T140	SYSTEMATIC 73739 73863	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T141	SYSTEMATIC 73865 73872	hydrate
+T142	SYSTEMATIC 73898 73905	ethanol
+T143	TRIVIAL 73921 73926	water
+T144	SYSTEMATIC 73950 74074	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T145	TRIVIAL 74238 74243	water
+T146	ABBREVIATION 74247 74251	TBME
+T147	SYSTEMATIC 74440 74564	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T148	SYSTEMATIC 74584 74716	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole hydrate
+T149	SYSTEMATIC 74894 75032	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole hydrochloride
+T150	SYSTEMATIC 75034 75047	hydrochloride
+T151	SYSTEMATIC 75082 75214	7-(3,5-dimethylisoxazol-4-yl)-6-methoxy-4-(N—((R)-1-methoxypropan-2-yl)tetrahydro-2H-pyran-4-carboxamido)quinoline-3-carboxylic acid
+T152	ABBREVIATION 75260 75263	DCM
+T153	ABBREVIATION 75277 75282	DIPEA
+T154	SYSTEMATIC 75310 75322	acetonitrile
+T155	SYSTEMATIC 75337 75355	di-iso-propylamine
+T156	SYSTEMATIC 75415 75439	Diphenylphosphoryl azide
+T157	SYSTEMATIC 75565 75589	diphenylphosphoryl azide
+T158	SYSTEMATIC 75751 75769	dimethyl formamide
+T159	TRIVIAL 75783 75788	water
+T160	SYSTEMATIC 75926 75938	acetonitrile
+T161	SYSTEMATIC 76157 76173	sodium hydroxide
+T162	SYSTEMATIC 76239 76254	Dichloromethane
+T163	TRIVIAL 76268 76273	water
+T164	SYSTEMATIC 76360 76375	dichloromethane
+T165	TRIVIAL 76431 76436	water
+T166	TRIVIAL 76447 76452	Water
+T167	SYSTEMATIC 76517 76532	sodium chloride
+T168	SYSTEMATIC 76645 76653	methanol
+T169	SYSTEMATIC 76749 76757	methanol
+T170	SYSTEMATIC 76774 76791	hydrochloric acid
+T171	SYSTEMATIC 76795 76803	methanol
+T172	SYSTEMATIC 76984 76996	acetonitrile
+T173	SYSTEMATIC 77092 77104	acetonitrile
+T174	SYSTEMATIC 77199 77211	acetonitrile
+T175	SYSTEMATIC 77305 77317	acetonitrile
+T176	SYSTEMATIC 77491 77503	acetonitrile
+T177	SYSTEMATIC 77652 77776	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T178	SYSTEMATIC 77801 77814	Hydrochloride
+T179	SYSTEMATIC 78598 78722	4-(8-methoxy-1-((R)-1-methoxypropan-2-yl)-2-(tetrahydro-2H-pyran-4-yl)-1H-imidazo[4,5-c]quinolin-7-yl)-3,5-dimethylisoxazole
+T180	SYSTEMATIC 78747 78760	hydrochloride

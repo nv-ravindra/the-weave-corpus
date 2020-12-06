@@ -1,0 +1,1195 @@
+T1	SYSTEMATIC 41198 41262	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)isoquinoline
+T2	SYSTEMATIC 41270 41282	Isoquinoline
+T3	SYSTEMATIC 41345 41358	sulfuric acid
+T4	SYSTEMATIC 41449 41462	sulfuric acid
+T5	TRIVIAL 41587 41590	ice
+T6	TRIVIAL 41701 41706	water
+T7	SYSTEMATIC 41744 41772	isoquinoline-5-sulfonic acid
+T8	FORMULA 41841 41844	D2O
+T9	SYSTEMATIC 42016 42044	isoquinoline-5-sulfonic acid
+T10	SYSTEMATIC 42076 42092	thionyl chloride
+T11	SYSTEMATIC 42104 42121	dimethylformamide
+T12	SYSTEMATIC 42226 42242	thionyl chloride
+T13	SYSTEMATIC 42268 42283	dichloromethane
+T14	SYSTEMATIC 42317 42349	isoquinoline-5-sulfonyl chloride
+T15	FORMULA 42437 42439	N2
+T16	SYSTEMATIC 42452 42484	isoquinoline-5-sulfonyl chloride
+T17	SYSTEMATIC 42540 42555	dichloromethane
+T18	SYSTEMATIC 42557 42620	cis-tert-butyl hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T19	SYSTEMATIC 42671 42696	N,N-diisopropylethylamine
+T20	SYSTEMATIC 42839 42854	dichloromethane
+T21	TRIVIAL 42867 42872	water
+T22	SYSTEMATIC 42897 42912	dichloromethane
+T23	FORMULA 42978 42984	Na2OS4
+T24	TRIVIAL 43082 43093	silical gel
+T25	FORMULA 43124 43129	EtOAc
+T26	ABBREVIATION 43130 43132	PE
+T27	SYSTEMATIC 43154 43241	tert-butyl 4-(isoquinolin-5-ylsulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T28	FORMULA 43382 43387	EtOAc
+T29	FORMULA 43418 43423	EtOAc
+T30	FORMULA 43429 43432	HCl
+T31	FORMULA 43562 43567	EtOAc
+T32	SYSTEMATIC 43615 43694	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl) sulfonyl)isoquinoline hydrochloride
+T33	FORMULA 43748 43751	D2O
+T34	SYSTEMATIC 44048 44112	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)isoquinoline
+T35	SYSTEMATIC 44134 44163	1-benzyl-1H-pyrrole-2,5-dione
+T36	SYSTEMATIC 44188 44206	2-chloroethylamine
+T37	SYSTEMATIC 44227 44240	triethylamine
+T38	SYSTEMATIC 44268 44279	1,4-dioxane
+T39	TRIVIAL 44433 44443	silica gel
+T40	FORMULA 44474 44479	EtOAc
+T41	ABBREVIATION 44480 44482	PE
+T42	SYSTEMATIC 44492 44546	1-benzyl-3-((2-chloroethyl)amino)pyrrolidine-2,5-dione
+T43	FORMULA 44588 44593	CDCl3
+T44	FORMULA 44739 44741	N2
+T45	FORMULA 44754 44757	NaH
+T46	ABBREVIATION 44811 44814	DMF
+T47	SYSTEMATIC 44838 44892	1-benzyl-3-((2-chloroethyl)amino)pyrrolidine-2,5-dione
+T48	ABBREVIATION 44922 44925	DMF
+T49	TRIVIAL 45024 45029	water
+T50	FORMULA 45070 45075	EtOAc
+T51	FORMULA 45142 45148	Na2SO4
+T52	TRIVIAL 45246 45256	silica gel
+T53	FORMULA 45287 45291	MeOH
+T54	FORMULA 45292 45297	EtOAc
+T55	SYSTEMATIC 45307 45363	5-benzyltetrahydropyrrolo[3,4-b]pyrrole-4,6(2H,5H)-dione
+T56	FORMULA 45419 45424	CDCl3
+T57	FORMULA 45570 45572	N2
+T58	FORMULA 45585 45591	LiAlH4
+T59	ABBREVIATION 45631 45634	THF
+T60	SYSTEMATIC 45697 45758	cis-5-benzyltetrahydropyrrolo[3,4-b]pyrrole-4,6 (2H,5H)-dione
+T61	ABBREVIATION 45790 45793	THF
+T62	TRIVIAL 45955 45960	water
+T63	FORMULA 45977 45981	NaOH
+T64	TRIVIAL 45994 45999	water
+T65	SYSTEMATIC 46116 46154	5-benzyloctahydropyrrolo[3,4-b]pyrrole
+T66	SYSTEMATIC 46251 46289	5-benzyloctahydropyrrolo[3,4-b]pyrrole
+T67	SYSTEMATIC 46319 46334	dichloromethane
+T68	SYSTEMATIC 46345 46378	N-ethyl-N-isopropylpropan-2-amine
+T69	SYSTEMATIC 46400 46425	di-tert-butyl dicarbonate
+T70	TRIVIAL 46573 46583	silica gel
+T71	FORMULA 46614 46619	EtOAc
+T72	ABBREVIATION 46620 46622	PE
+T73	SYSTEMATIC 46632 46699	tert-butyl 5-benzylhexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T74	SYSTEMATIC 46797 46864	tert-butyl 5-benzylhexahydropyrrolo[3,4-b]pyrrole-1(2H) carboxylate
+T75	ABBREVIATION 46889 46892	THF
+T76	FORMULA 46913 46922	Pd(OH)2/C
+T77	SYSTEMATIC 46942 46947	argon
+T78	FORMULA 46990 46992	H2
+T79	SYSTEMATIC 47193 47256	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T80	FORMULA 47314 47319	CD3OD
+T81	SYSTEMATIC 47464 47527	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T82	SYSTEMATIC 47555 47587	isoquinoline-5-sulfonyl chloride
+T83	SYSTEMATIC 47625 47702	5-(isoquinolin-5-ylsulfonyl)hexahydro pyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T84	SYSTEMATIC 47842 47906	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)isoquinoline
+T85	SYSTEMATIC 47922 47999	5-(isoquinolin-5-ylsulfonyl)hexahydro pyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T86	FORMULA 48146 48151	CD3OD
+T87	SYSTEMATIC 48370 48439	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T88	SYSTEMATIC 48452 48516	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T89	SYSTEMATIC 48568 48600	isoquinoline-5-sulfonyl chloride
+T90	SYSTEMATIC 48639 48727	tert-butyl 6-(isoquinolin-5-ylsulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T91	SYSTEMATIC 48868 48938	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl) isoquinoline
+T92	SYSTEMATIC 48955 49043	tert-butyl 6-(isoquinolin-5-ylsulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T93	FORMULA 49189 49194	CD3OD
+T94	SYSTEMATIC 49466 49522	(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)isoquinoline
+T95	SYSTEMATIC 49535 49618	tert-butyl 3-(isoquinolin-5-ylsulfonyl-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T96	SYSTEMATIC 49669 49701	isoquinoline-5-sulfonyl chloride
+T97	SYSTEMATIC 49740 49825	tert-butyl 3-(isoquinolin-5-ylsulfonyl)-3,6-diazabicycle[3.2.0]heptanes-6-carboxylate
+T98	SYSTEMATIC 50009 50067	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)isoquinoline
+T99	SYSTEMATIC 50084 50169	tert-butyl 3-(isoquinolin-5-ylsulfonyl)-3,6-diazabicycle[3.2.0]heptanes-6-carboxylate
+T100	FORMULA 50314 50317	D2O
+T101	SYSTEMATIC 50616 50671	6-(isoquinolin-5-ylsulfonyl)decahydro-1,6-naphthyridine
+T102	SYSTEMATIC 50696 50736	tert-butyl 4-oxopiperidine-1-carboxylate
+T103	SYSTEMATIC 50768 50775	toluene
+T104	SYSTEMATIC 50786 50804	1-phenylethanamine
+T105	SYSTEMATIC 50999 51058	tert-butyl 4-((1-phenylethyl)imino)piperidine-1-carboxylate
+T106	FORMULA 51168 51170	N2
+T107	SYSTEMATIC 51183 51198	n-butyl lithium
+T108	SYSTEMATIC 51263 51279	diisopropylamine
+T109	ABBREVIATION 51319 51322	THF
+T110	SYSTEMATIC 51459 51518	tert-butyl 4-((1-phenylethyl)imino)piperidine-1-carboxylate
+T111	ABBREVIATION 51561 51564	THF
+T112	SYSTEMATIC 51659 51682	1-bromo-3-chloropropane
+T113	ABBREVIATION 51712 51715	THF
+T114	TRIVIAL 51995 52000	water
+T115	SYSTEMATIC 52029 52052	methyl tert-butyl ether
+T116	TRIVIAL 52110 52115	brine
+T117	FORMULA 52147 52153	Na2SO4
+T118	SYSTEMATIC 52230 52316	tert-butyl 1-(1-phenylethyl)-1,2,3,4,7,8-hexahydro-1,6-naphthyridine-6(5H)-carboxylate
+T119	SYSTEMATIC 52472 52558	tert-butyl 1-(1-phenylethyl)-1,2,3,4,7,8-hexahydro-1,6-naphthyridine-6(5H)-carboxylate
+T120	ABBREVIATION 52588 52591	THF
+T121	FORMULA 52606 52610	Pd/C
+T122	FORMULA 52666 52668	H2
+T123	FORMULA 52763 52767	Pd/C
+T124	TRIVIAL 52866 52876	silica gel
+T125	FORMULA 52907 52912	EtOAc
+T126	SYSTEMATIC 52925 52999	tert-butyl 1-(1-phenylethyl) octahydro-1,6-naphthyridine-6(2H)-carboxylate
+T127	SYSTEMATIC 53099 53173	tert-butyl 1-(1-phenylethyl) octahydro-1,6-naphthyridine-6(2H)-carboxylate
+T128	FORMULA 53205 53210	EtOAc
+T129	FORMULA 53227 53232	EtOAc
+T130	FORMULA 53248 53251	HCl
+T131	SYSTEMATIC 53365 53409	1-(1-phenylethyl)decahydro-1,6-naphthyridine
+T132	SYSTEMATIC 53498 53542	1-(1-phenylethyl)decahydro-1,6-naphthyridine
+T133	SYSTEMATIC 53570 53602	isoquinoline-5-sulfonyl chloride
+T134	SYSTEMATIC 53640 53713	6-(isoquinolin-5-ylsulfonyl)-1-(1-phenylethyl)decahydro-1,6-naphthyridine
+T135	SYSTEMATIC 53891 53964	6-(isoquinolin-5-ylsulfonyl)-1-(1-phenylethyl)decahydro-1,6-naphthyridine
+T136	ABBREVIATION 53996 53999	TFA
+T137	SYSTEMATIC 54152 54207	6-(isoquinolin-5-ylsulfonyl)decahydro-1,6-naphthyridine
+T138	FORMULA 54260 54265	CD3OD
+T139	SYSTEMATIC 54489 54554	5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T140	SYSTEMATIC 54579 54604	1H-pyrrolo[3,2-b]pyridine
+T141	SYSTEMATIC 54637 54652	dichloromethane
+T142	SYSTEMATIC 54663 54686	4-dimethylaminopyridine
+T143	SYSTEMATIC 54708 54721	triethylamine
+T144	SYSTEMATIC 54746 54771	di-tert-butyl dicarbonate
+T145	TRIVIAL 54926 54936	silica gel
+T146	FORMULA 54964 54969	EtOAc
+T147	ABBREVIATION 54970 54972	PE
+T148	SYSTEMATIC 54982 55032	tert-butyl 1H-pyrrolo[3,2-b]pyridine-1-carboxylate
+T149	SYSTEMATIC 55132 55182	tert-butyl 1H-pyrrolo[3,2-b]pyridine-1-carboxylate
+T150	SYSTEMATIC 55215 55226	acetic acid
+T151	FORMULA 55237 55241	PtO2
+T152	FORMULA 55304 55306	H2
+T153	SYSTEMATIC 55463 55523	tert-butyl octahydro-1H-pyrrolo[3,2-b]pyridine-1-carboxylate
+T154	SYSTEMATIC 55679 55739	tert-butyl octahydro-1H-pyrrolo[3,2-b]pyridine-1-carboxylate
+T155	SYSTEMATIC 55772 55787	dichloromethane
+T156	SYSTEMATIC 55798 55823	N,N-diisopropylethylamine
+T157	SYSTEMATIC 55848 55885	Carboxylic acid chloride benzyl ester
+T158	FORMULA 55921 55923	N2
+T159	TRIVIAL 56075 56080	water
+T160	FORMULA 56121 56126	EtOAc
+T161	TRIVIAL 56183 56188	brine
+T162	FORMULA 56219 56225	Na2SO4
+T163	TRIVIAL 56298 56308	silica gel
+T164	FORMULA 56336 56341	EtOAc
+T165	ABBREVIATION 56342 56344	PE
+T166	SYSTEMATIC 56354 56433	4-benzyl 1-tert-butyl hexahydro-1H-pyrrolo[3,2-b]pyridine-1,4(2H)-dicarboxylate
+T167	SYSTEMATIC 56533 56612	4-benzyl 1-tert-butyl hexahydro-1H-pyrrolo[3,2-b]pyridine-1,4(2H)-dicarboxylate
+T168	FORMULA 56644 56649	EtOAc
+T169	FORMULA 56666 56671	EtOAc
+T170	FORMULA 56687 56690	HCl
+T171	SYSTEMATIC 56810 56870	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T172	SYSTEMATIC 56958 57018	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T173	SYSTEMATIC 57046 57078	isoquinoline-5-sulfonyl chloride
+T174	SYSTEMATIC 57113 57202	benzyl 1-(isoquinolin-5-ylsulfonyl) hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T175	SYSTEMATIC 57387 57453	5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl) isoquinoline
+T176	SYSTEMATIC 57470 57559	benzyl 1-(isoquinolin-5-ylsulfonyl) hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T177	FORMULA 57713 57718	CD3OD
+T178	SYSTEMATIC 58018 58082	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)isoquinoline
+T179	SYSTEMATIC 58095 58158	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T180	SYSTEMATIC 58209 58241	isoquinoline-5-sulfonyl chloride
+T181	SYSTEMATIC 58280 58367	tert-butyl 5-(isoquinolin-5-ylsulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T182	SYSTEMATIC 58512 58577	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl) sulfonyl)isoquinoline
+T183	SYSTEMATIC 58594 58681	tert-butyl 5-(isoquinolin-5-ylsulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T184	FORMULA 58833 58838	CD3OD
+T185	SYSTEMATIC 59005 59074	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)isoquinoline
+T186	SYSTEMATIC 59096 59126	pyridine-3,4-dicarboxylic acid
+T187	SYSTEMATIC 59159 59175	acetic anhydride
+T188	SYSTEMATIC 59290 59306	acetic anhydride
+T189	SYSTEMATIC 59350 59379	furo[3,4-c]pyridine-1,3-dione
+T190	SYSTEMATIC 59432 59444	Benzyl amine
+T191	SYSTEMATIC 59483 59512	furo[3,4-c]pyridine-1,3-dione
+T192	SYSTEMATIC 59672 59705	4-(benzylcarbamoyl)nicotinic acid
+T193	SYSTEMATIC 59754 59787	4-(benzylcarbamoyl)nicotinic acid
+T194	SYSTEMATIC 59838 59854	acetic anhydride
+T195	SYSTEMATIC 59996 60012	acetic anhydride
+T196	TRIVIAL 60101 60106	water
+T197	FORMULA 60111 60116	EtOAc
+T198	FORMULA 60145 60150	EtOAc
+T199	FORMULA 60229 60235	NaHCO3
+T200	TRIVIAL 60244 60249	water
+T201	TRIVIAL 60261 60266	brine
+T202	FORMULA 60302 60308	Na2SO4
+T203	TRIVIAL 60372 60382	silica gel
+T204	FORMULA 60414 60419	EtOAc
+T205	ABBREVIATION 60420 60422	PE
+T206	SYSTEMATIC 60444 60492	2-benzyl-1H-pyrrolo[3,4-c]pyridine-1,3(2H)-dione
+T207	FORMULA 60545 60550	CDCl3
+T208	SYSTEMATIC 60689 60737	2-benzyl-1H-pyrrolo[3,4-c]pyridine-1,3(2H)-dione
+T209	FORMULA 60771 60775	MeOH
+T210	FORMULA 60790 60794	Pd/C
+T211	FORMULA 60854 60856	H2
+T212	FORMULA 60994 60998	Pd/C
+T213	SYSTEMATIC 61042 61099	2-benzylhexahydro-1H-pyrrolo[3,4-c]pyridine-1,3(2H)-dione
+T214	SYSTEMATIC 61169 61226	2-benzylhexahydro-1H-pyrrolo[3,4-c]pyridine-1,3(2H)-dione
+T215	ABBREVIATION 61260 61263	THF
+T216	FORMULA 61274 61280	LiAlH4
+T217	FORMULA 61316 61318	N2
+T218	TRIVIAL 61528 61533	water
+T219	FORMULA 61548 61552	NaOH
+T220	TRIVIAL 61563 61568	water
+T221	SYSTEMATIC 61731 61774	2-benzyloctahydro-1H-pyrrolo[3,4-c]pyridine
+T222	SYSTEMATIC 61856 61899	2-benzyloctahydro-1H-pyrrolo[3,4-c]pyridine
+T223	SYSTEMATIC 61926 61947	diisopropylethylamine
+T224	SYSTEMATIC 61979 61994	dichloromethane
+T225	SYSTEMATIC 62019 62044	di-tert-butyl dicarbonate
+T226	SYSTEMATIC 62075 62090	dichloromethane
+T227	FORMULA 62118 62120	N2
+T228	TRIVIAL 62313 62318	water
+T229	SYSTEMATIC 62369 62384	dichloromethane
+T230	TRIVIAL 62447 62452	water
+T231	TRIVIAL 62463 62468	brine
+T232	FORMULA 62504 62510	Na2SO4
+T233	TRIVIAL 62579 62589	silica gel
+T234	FORMULA 62616 62620	MeOH
+T235	SYSTEMATIC 62621 62636	DICHLOROMETHANE
+T236	SYSTEMATIC 62646 62718	tert-butyl 2-benzylhexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T237	SYSTEMATIC 62782 62854	tert-butyl 2-benzylhexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T238	FORMULA 62891 62898	Pd(OH)2
+T239	ABBREVIATION 62915 62918	THF
+T240	FORMULA 62936 62938	H2
+T241	FORMULA 63056 63063	Pd(OH)2
+T242	TRIVIAL 63111 63121	silica gel
+T243	FORMULA 63154 63158	MeOH
+T244	SYSTEMATIC 63159 63174	DICHLOROMETHANE
+T245	SYSTEMATIC 63184 63248	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T246	SYSTEMATIC 63324 63388	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T247	SYSTEMATIC 63416 63448	isoquinoline-5-sulfonyl chloride
+T248	SYSTEMATIC 63487 63579	tert-butyl 2-(isoquinolin-5-ylsulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T249	SYSTEMATIC 63736 63807	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl) sulfonyl) isoquinoline
+T250	SYSTEMATIC 63824 63917	tert-butyl 2-(isoquinolin-5-ylsulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5 (6H)-carboxylate
+T251	FORMULA 64066 64071	CD3OD
+T252	SYSTEMATIC 64357 64382	1H-pyrrolo[2,3-c]pyridine
+T253	SYSTEMATIC 64415 64430	dichloromethane
+T254	SYSTEMATIC 64446 64459	triethylamine
+T255	SYSTEMATIC 64464 64489	di-tert-butyl dicarbonate
+T256	SYSTEMATIC 64519 64534	dichloromethane
+T257	SYSTEMATIC 64679 64729	tert-butyl 1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T258	SYSTEMATIC 64799 64849	tert-butyl 1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T259	SYSTEMATIC 64880 64891	acetic acid
+T260	FORMULA 64902 64906	PtO2
+T261	FORMULA 64965 64967	H2
+T262	FORMULA 65073 65077	PtO2
+T263	TRIVIAL 65148 65158	silica gel
+T264	FORMULA 65189 65193	MeOH
+T265	SYSTEMATIC 65194 65209	dichloromethane
+T266	SYSTEMATIC 65219 65279	tert-butyl octahydro-1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T267	SYSTEMATIC 65355 65415	tert-butyl octahydro-1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T268	SYSTEMATIC 65443 65475	isoquinoline-5-sulfonyl chloride
+T269	SYSTEMATIC 65513 65602	tert-butyl 6-(isoquinolin-5-ylsulfonyl) octahydro-1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T270	SYSTEMATIC 65793 65863	5-((hexahydro-1H-pyrrolo[2,3-c]pyridin-6(2H)-yl)sulfonyl) isoquinoline
+T271	SYSTEMATIC 65880 65969	tert-butyl 6-(isoquinolin-5-ylsulfonyl) octahydro-1H-pyrrolo[2,3-c]pyridine-1-carboxylate
+T272	FORMULA 66099 66104	CD3OD
+T273	SYSTEMATIC 66450 66508	5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-amine
+T274	SYSTEMATIC 66521 66567	tert-butyl 5-azaspiro[2.4]heptan-7-ylcarbamate
+T275	SYSTEMATIC 66595 66627	isoquinoline-5-sulfonyl chloride
+T276	SYSTEMATIC 66664 66741	tert-butyl (5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-yl)carbamate
+T277	SYSTEMATIC 66917 66975	5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-amine
+T278	SYSTEMATIC 66993 67070	tert-butyl (5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-yl)carbamate
+T279	FORMULA 67217 67220	D2O
+T280	SYSTEMATIC 67483 67549	N-ethyl-5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-amine
+T281	SYSTEMATIC 67574 67652	tert-butyl (5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-yl) carbamate
+T282	SYSTEMATIC 67706 67727	N,N-dimethylformamide
+T283	FORMULA 67738 67741	NaH
+T284	FORMULA 67777 67779	N2
+T285	SYSTEMATIC 67853 67863	iodoethane
+T286	TRIVIAL 67971 67976	brine
+T287	FORMULA 68017 68022	EtOAc
+T288	FORMULA 68078 68084	Na2SO4
+T289	TRIVIAL 68167 68177	silica gel
+T290	FORMULA 68208 68213	EtOAc
+T291	ABBREVIATION 68214 68216	PE
+T292	SYSTEMATIC 68226 68309	tert-butyl ethyl (5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-yl)carbamate
+T293	SYSTEMATIC 68404 68470	N-ethyl-5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-amine
+T294	SYSTEMATIC 68488 68571	tert-butyl ethyl (5-(isoquinolin-5-ylsulfonyl)-5-azaspiro[2.4]heptan-7-yl)carbamate
+T295	FORMULA 68716 68719	D2O
+T296	SYSTEMATIC 69029 69087	7-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,4-b]azepine
+T297	SYSTEMATIC 69092 69150	2-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,4-c]azepine
+T298	SYSTEMATIC 69178 69194	cyclohex-2-enone
+T299	SYSTEMATIC 69228 69243	dichloromethane
+T300	SYSTEMATIC 69254 69310	N-benzyl-1-methoxy-N-((trimethylsilyl)methyl)methanamine
+T301	ABBREVIATION 69346 69349	TFA
+T302	FORMULA 69423 69425	N2
+T303	FORMULA 69502 69508	NaHCO3
+T304	SYSTEMATIC 69530 69545	dichloromethane
+T305	FORMULA 69589 69595	NaHCO3
+T306	FORMULA 69651 69657	Na2SO4
+T307	SYSTEMATIC 69707 69746	2-benzylhexahydro-1H-isoindol-4(2H)-one
+T308	SYSTEMATIC 69867 69906	2-benzylhexahydro-1H-isoindol-4(2H)-one
+T309	SYSTEMATIC 69940 69950	chloroform
+T310	FORMULA 69961 69965	NaN3
+T311	SYSTEMATIC 69990 70009	methylsulfonic acid
+T312	FORMULA 70045 70047	N2
+T313	TRIVIAL 70150 70155	water
+T314	SYSTEMATIC 70196 70211	dichloromethane
+T315	FORMULA 70292 70298	NaHCO3
+T316	FORMULA 70321 70327	Na2SO4
+T317	SYSTEMATIC 70367 70414	7-benzyloctahydropyrrolo[3,4-b]azepin-2(1H)-one
+T318	SYSTEMATIC 70424 70472	2-benzyloctahydro pyrrolo[3,4-c]azepin-4(2H)-one
+T319	SYSTEMATIC 70606 70658	7-benzyloctahydropyrrolo[3,4-b]azepin-2(1H)-one 12d1
+T320	SYSTEMATIC 70663 70710	2-benzyloctahydropyrrolo[3,4-c]azepin-4(2H)-one
+T321	ABBREVIATION 70745 70748	THF
+T322	FORMULA 70759 70765	LiALH4
+T323	FORMULA 70801 70803	N2
+T324	TRIVIAL 70877 70882	water
+T325	FORMULA 70897 70901	NaOH
+T326	TRIVIAL 70911 70916	water
+T327	FORMULA 71050 71055	EtOAc
+T328	TRIVIAL 71116 71121	brine
+T329	FORMULA 71144 71150	Na2SO4
+T330	SYSTEMATIC 71190 71228	7-benzyldecahydropyrrolo[3,4-b]azepine
+T331	SYSTEMATIC 71238 71276	2-benzyldecahydropyrrolo[3,4-c]azepine
+T332	SYSTEMATIC 71372 71458	7-benzyldecahydropyrrolo[3,4-b]azepine 12e1 and 2-benzyldecahydropyrrolo[3,4-c]azepine
+T333	ABBREVIATION 71493 71496	THF
+T334	SYSTEMATIC 71507 71532	di-tert-butyl dicarbonate
+T335	SYSTEMATIC 71557 71570	triethylamine
+T336	FORMULA 71617 71619	N2
+T337	TRIVIAL 71732 71737	water
+T338	FORMULA 71763 71768	EtOAc
+T339	FORMULA 71839 71845	NaHCO3
+T340	FORMULA 71868 71874	Na2SO4
+T341	SYSTEMATIC 71914 71981	tert-butyl 7-benzyloctahydropyrrolo[3,4-b]azepine-1(2H)-carboxylate
+T342	SYSTEMATIC 71991 72058	tert-butyl 2-benzyloctahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T343	SYSTEMATIC 72191 72258	tert-butyl 7-benzyloctahydropyrrolo[3,4-b]azepine-1(2H)-carboxylate
+T344	SYSTEMATIC 72268 72335	tert-butyl 2-benzyloctahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T345	FORMULA 72370 72374	MeOH
+T346	FORMULA 72396 72400	Pd/C
+T347	FORMULA 72441 72443	H2
+T348	SYSTEMATIC 72597 72657	tert-butyl octahydropyrrolo[3,4-b]azepine-1 (2H)-carboxylate
+T349	SYSTEMATIC 72667 72726	tert-butyl octahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T350	SYSTEMATIC 72849 72908	tert-butyl octahydropyrrolo[3,4-b]azepine-1(2H)-carboxylate
+T351	SYSTEMATIC 72918 72977	tert-butyl octahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T352	SYSTEMATIC 73007 73039	isoquinoline-5-sulfonyl chloride
+T353	SYSTEMATIC 73077 73163	tert-butyl7-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,4-b]azepine-1(2H)-carboxylate
+T354	SYSTEMATIC 73174 73261	tert-butyl 2-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T355	SYSTEMATIC 73466 73524	7-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,4-b]azepine
+T356	SYSTEMATIC 73550 73608	2-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,4-c]azepine
+T357	SYSTEMATIC 73636 73722	tert-butyl7-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,4-b]azepine-1(2H)-carboxylate
+T358	SYSTEMATIC 73733 73820	tert-butyl 2-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,4-c]azepine-5(1H)-carboxylate
+T359	FORMULA 73938 73943	CDCl3
+T360	FORMULA 74226 74231	CDCl3
+T361	SYSTEMATIC 74531 74589	4-(isoquinolin-5-ylsulfonyl)-4-azaspiro[2.4]heptan-7-amine
+T362	SYSTEMATIC 74614 74630	diisopropylamine
+T363	ABBREVIATION 74659 74662	THF
+T364	SYSTEMATIC 74673 74688	n-butyl lithium
+T365	FORMULA 74735 74737	N2
+T366	SYSTEMATIC 74860 74876	but-2-enenitrile
+T367	SYSTEMATIC 74978 74998	ethyl 2-bromoacetate
+T368	FORMULA 75126 75131	NH4Cl
+T369	FORMULA 75219 75224	EtOAc
+T370	TRIVIAL 75286 75291	water
+T371	TRIVIAL 75303 75308	brine
+T372	FORMULA 75351 75357	Na2SO4
+T373	TRIVIAL 75449 75459	silica gel
+T374	FORMULA 75490 75495	EtOAc
+T375	ABBREVIATION 75496 75498	PE
+T376	SYSTEMATIC 75508 75534	ethyl 3-cyanopent-4-enoate
+T377	FORMULA 75593 75598	CDCl3
+T378	SYSTEMATIC 75759 75785	ethyl 3-cyanopent-4-enoate
+T379	SYSTEMATIC 75824 75829	ether
+T380	FORMULA 75841 75851	(i-PrO)4Ti
+T381	SYSTEMATIC 75878 75901	ethyl magnesium bromide
+T382	ABBREVIATION 75930 75933	THF
+T383	FORMULA 75984 75986	N2
+T384	TRIVIAL 76098 76103	Water
+T385	TRIVIAL 76294 76304	silica gel
+T386	FORMULA 76335 76340	EtOAc
+T387	ABBREVIATION 76341 76343	PE
+T388	SYSTEMATIC 76353 76388	7-vinyl-4-azaspiro[2.4]heptan-5-one
+T389	FORMULA 76443 76448	CDCl3
+T390	SYSTEMATIC 76663 76698	7-vinyl-4-azaspiro[2.4]heptan-5-one
+T391	SYSTEMATIC 76741 76752	acetonitril
+T392	SYSTEMATIC 76763 76790	4-N,N-dimethylaminopyridine
+T393	SYSTEMATIC 76816 76841	di-tert-butyl dicarbonate
+T394	SYSTEMATIC 76871 76882	acetonitril
+T395	TRIVIAL 77004 77009	water
+T396	FORMULA 77026 77031	EtOAc
+T397	FORMULA 77097 77103	Na2SO4
+T398	TRIVIAL 77212 77222	silica gel
+T399	FORMULA 77253 77258	EtOAc
+T400	ABBREVIATION 77259 77261	PE
+T401	SYSTEMATIC 77271 77332	tert-butyl 5-oxo-7-vinyl-4-azaspiro[2.4]heptane-4-carboxylate
+T402	FORMULA 77387 77392	CDCl3
+T403	SYSTEMATIC 77625 77686	tert-butyl 5-oxo-7-vinyl-4-azaspiro[2.4]heptane-4-carboxylate
+T404	FORMULA 77738 77742	MeOH
+T405	FORMULA 77753 77756	H2O
+T406	SYSTEMATIC 77767 77783	sodium periodate
+T407	SYSTEMATIC 77805 77824	osmium (VIII) oxide
+T408	TRIVIAL 77946 77951	water
+T409	FORMULA 77984 77989	EtOAc
+T410	FORMULA 78055 78061	Na2SO4
+T411	TRIVIAL 78130 78140	silica gel
+T412	FORMULA 78171 78176	EtOAc
+T413	ABBREVIATION 78177 78179	PE
+T414	SYSTEMATIC 78189 78251	tert-butyl 7-formyl-5-oxo-4-azaspiro[2.4]heptane-4-carboxylate
+T415	SYSTEMATIC 78350 78412	tert-butyl 7-formyl-5-oxo-4-azaspiro[2.4]heptane-4-carboxylate
+T416	SYSTEMATIC 78465 78481	tertiary butanol
+T417	ABBREVIATION 78492 78495	THF
+T418	SYSTEMATIC 78506 78514	2-butene
+T419	FORMULA 78526 78532	NaClO2
+T420	FORMULA 78557 78569	NaH2PO3.2H2O
+T421	TRIVIAL 78599 78604	water
+T422	SYSTEMATIC 78713 78730	hydrochloric acid
+T423	FORMULA 78747 78752	EtOAc
+T424	FORMULA 78818 78824	Na2SO4
+T425	SYSTEMATIC 78901 78971	4-(tert-butoxycarbonyl)-5-oxo-4-azaspiro[2.4]heptane-7-carboxylic acid
+T426	ABBREVIATION 79032 79036	DMSO
+T427	SYSTEMATIC 79229 79299	4-(tert-butoxycarbonyl)-5-oxo-4-azaspiro[2.4]heptane-7-carboxylic acid
+T428	SYSTEMATIC 79333 79340	toluene
+T429	SYSTEMATIC 79351 79376	N,N-diisopropylethylamine
+T430	SYSTEMATIC 79401 79425	diphenyl phosphorazidate
+T431	SYSTEMATIC 79584 79598	benzyl alcohol
+T432	TRIVIAL 79714 79719	water
+T433	FORMULA 79739 79744	EtOAc
+T434	FORMULA 79810 79816	Na2SO4
+T435	TRIVIAL 79921 79931	silica gel
+T436	FORMULA 79962 79967	EtOAc
+T437	ABBREVIATION 79968 79970	PE
+T438	SYSTEMATIC 79980 80064	tert-butyl 7-(((benzyloxy)carbonyl)amino)-5-oxo-4-azaspiro[2.4]heptane-4-carboxylate
+T439	SYSTEMATIC 80165 80249	tert-butyl 7-(((benzyloxy)carbonyl)amino)-5-oxo-4-azaspiro[2.4]heptane-4-carboxylate
+T440	ABBREVIATION 80282 80285	THF
+T441	SYSTEMATIC 80296 80302	borane
+T442	SYSTEMATIC 80306 80328	dimethyl sulfide ether
+T443	SYSTEMATIC 80356 80378	dimethyl sulfide ether
+T444	FORMULA 80395 80397	N2
+T445	TRIVIAL 80490 80495	water
+T446	FORMULA 80516 80521	EtOAc
+T447	FORMULA 80587 80593	Na2SO4
+T448	TRIVIAL 80682 80692	silica gel
+T449	FORMULA 80723 80728	EtOAc
+T450	ABBREVIATION 80729 80731	PE
+T451	SYSTEMATIC 80741 80820	tert-butyl 7-(((benzyloxy)carbonyl) amino)-4-azaspiro[2.4]heptane-4-carboxylate
+T452	SYSTEMATIC 80912 80991	tert-butyl 7-(((benzyloxy)carbonyl) amino)-4-azaspiro[2.4]heptane-4-carboxylate
+T453	SYSTEMATIC 81030 81072	benzyl 4-azaspiro[2.4]heptan-7-ylcarbamate
+T454	SYSTEMATIC 81243 81285	benzyl 4-azaspiro[2.4]heptan-7-ylcarbamate
+T455	SYSTEMATIC 81313 81345	isoquinoline-5-sulfonyl chloride
+T456	SYSTEMATIC 81382 81456	benzyl (4-(isoquinolin-5-ylsulfonyl)-4-azaspiro[2.4]heptan-7-yl) carbamate
+T457	SYSTEMATIC 81636 81694	4-(isoquinolin-5-ylsulfonyl)-4-azaspiro[2.4]heptan-7-amine
+T458	SYSTEMATIC 81712 81786	benzyl (4-(isoquinolin-5-ylsulfonyl)-4-azaspiro[2.4]heptan-7-yl) carbamate
+T459	FORMULA 81913 81918	CD3OD
+T460	SYSTEMATIC 82258 82316	1-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,2-b]azepine
+T461	SYSTEMATIC 82341 82362	cyclohexane-1,3-dione
+T462	ABBREVIATION 82393 82396	THF
+T463	SYSTEMATIC 82407 82421	2-aminoethanol
+T464	SYSTEMATIC 82510 82517	toluene
+T465	TRIVIAL 82726 82736	silica gel
+T466	FORMULA 82764 82769	EtOAc
+T467	ABBREVIATION 82770 82772	PE
+T468	SYSTEMATIC 82782 82823	3-((2-hydroxyethyl)amino)cyclohex-2-enone
+T469	ABBREVIATION 82881 82888	DMSO-d6
+T470	SYSTEMATIC 83045 83086	3-((2-hydroxyethyl)amino)cyclohex-2-enone
+T471	SYSTEMATIC 83121 83142	N,N-dimethylformamide
+T472	SYSTEMATIC 83153 83181	triphenylphosphine palladium
+T473	SYSTEMATIC 83203 83224	trimethylbromobenzene
+T474	SYSTEMATIC 83249 83268	potassium carbonate
+T475	FORMULA 83315 83317	N2
+T476	FORMULA 83510 83515	EtOAc
+T477	TRIVIAL 83562 83567	brine
+T478	FORMULA 83590 83596	Na2SO4
+T479	TRIVIAL 83638 83648	silica gel
+T480	FORMULA 83676 83681	EtOAc
+T481	ABBREVIATION 83682 83684	PE
+T482	SYSTEMATIC 83694 83731	1,5,6,7-tetrahydro-1H-indol-4(5H)-one
+T483	SYSTEMATIC 83833 83863	6,7-dihydro-1H-indol-4(5H)-one
+T484	SYSTEMATIC 83898 83910	acetonitrile
+T485	SYSTEMATIC 83921 83946	N,N-diisopropylethylamine
+T486	SYSTEMATIC 83968 83993	di-tert-butyl dicarbonate
+T487	SYSTEMATIC 84018 84043	N,N-dimethylaminopyridine
+T488	TRIVIAL 84182 84192	silica gel
+T489	FORMULA 84220 84225	EtOAc
+T490	ABBREVIATION 84226 84228	PE
+T491	SYSTEMATIC 84238 84297	tert-butyl 4-oxo-4,5,6,7-tetrahydro-1H-indole-1-carboxylate
+T492	SYSTEMATIC 84358 84417	tert-butyl 4-oxo-4,5,6,7-tetrahydro-1H-indole-1-carboxylate
+T493	FORMULA 84451 84455	MeOH
+T494	SYSTEMATIC 84476 84487	acetic acid
+T495	FORMULA 84498 84502	PtO2
+T496	FORMULA 84564 84566	H2
+T497	TRIVIAL 84703 84713	silica gel
+T498	FORMULA 84741 84746	EtOAc
+T499	ABBREVIATION 84747 84749	PE
+T500	SYSTEMATIC 84759 84812	tert-butyl 4-hydroxyoctahydro-1H-indole-1-carboxylate
+T501	SYSTEMATIC 84878 84931	tert-butyl 4-hydroxyoctahydro-1H-indole-1-carboxylate
+T502	SYSTEMATIC 84964 84979	dichloromethane
+T503	SYSTEMATIC 84990 85014	Dess-Marteen Periodinane
+T504	FORMULA 85130 85136	NaHCO3
+T505	SYSTEMATIC 85179 85194	dichloromethane
+T506	TRIVIAL 85257 85262	brine
+T507	FORMULA 85285 85291	Na2SO4
+T508	TRIVIAL 85333 85343	silica gel
+T509	FORMULA 85371 85376	EtOAc
+T510	ABBREVIATION 85377 85379	PE
+T511	SYSTEMATIC 85389 85438	tert-butyl 4-oxooctahydro-1H-indole-1-carboxylate
+T512	SYSTEMATIC 85547 85596	tert-butyl 4-oxooctahydro-1H-indole-1-carboxylate
+T513	SYSTEMATIC 85630 85640	chloroform
+T514	FORMULA 85651 85655	NaN3
+T515	SYSTEMATIC 85680 85699	methylsulfonic acid
+T516	FORMULA 85855 85861	NaHCO3
+T517	FORMULA 85935 85940	EtOAc
+T518	SYSTEMATIC 86006 86045	octahydropyrrolo[3,2-b]azepin-5(1H)-one
+T519	SYSTEMATIC 86128 86167	octahydropyrrolo[3,2-b]azepin-5(1H)-one
+T520	TRIVIAL 86201 86206	water
+T521	SYSTEMATIC 86217 86237	benzyl chloroformate
+T522	SYSTEMATIC 86262 86281	potassium carbonate
+T523	FORMULA 86427 86432	EtOAc
+T524	TRIVIAL 86462 86467	brine
+T525	FORMULA 86490 86496	Na2SO4
+T526	FORMULA 86572 86577	EtOAc
+T527	ABBREVIATION 86578 86580	PE
+T528	SYSTEMATIC 86590 86650	benzyl 5-oxooctahydropyrrolo[3,2-b]azepine-1(2H)-carboxylate
+T529	FORMULA 86710 86715	CDCl3
+T530	SYSTEMATIC 86891 86951	benzyl 5-oxooctahydropyrrolo[3,2-b]azepine-1(2H)-carboxylate
+T531	ABBREVIATION 86985 86988	THF
+T532	SYSTEMATIC 86999 87005	borane
+T533	SYSTEMATIC 87034 87050	dimethyl sulfide
+T534	FORMULA 87261 87265	MeOH
+T535	SYSTEMATIC 87304 87359	benzyl octahydropyrrolo[3,2-b]azepine-1(2H)-carboxylate
+T536	SYSTEMATIC 87434 87489	benzyl octahydropyrrolo[3,2-b]azepine-1(2H)-carboxylate
+T537	SYSTEMATIC 87523 87538	dichloromethane
+T538	SYSTEMATIC 87549 87574	N,N-diisopropylethylamine
+T539	SYSTEMATIC 87596 87623	4-N,N-dimethylaminopyridine
+T540	SYSTEMATIC 87647 87672	di-tert-butyl dicarbonate
+T541	TRIVIAL 87800 87805	water
+T542	SYSTEMATIC 87836 87851	dichloromethane
+T543	TRIVIAL 87912 87917	brine
+T544	FORMULA 87940 87946	Na2SO4
+T545	FORMULA 88024 88029	EtOAc
+T546	ABBREVIATION 88030 88032	PE
+T547	SYSTEMATIC 88042 88119	1-benzyl 4-tert-butyl hexahydropyrrolo[3,2-b]azepine-1,4(2H,5H)-dicarboxylate
+T548	SYSTEMATIC 88229 88306	1-benzyl 4-tert-butyl hexahydropyrrolo[3,2-b]azepine-1,4(2H,5H)-dicarboxylate
+T549	ABBREVIATION 88340 88343	THF
+T550	FORMULA 88364 88368	Pd/C
+T551	FORMULA 88395 88397	N2
+T552	FORMULA 88450 88452	H2
+T553	SYSTEMATIC 88562 88621	tert-butyl octahydropyrrolo[3,2-b]azepine-4(2H)-carboxylate
+T554	SYSTEMATIC 88675 88734	tert-butyl octahydropyrrolo[3,2-b]azepine-4(2H)-carboxylate
+T555	SYSTEMATIC 88762 88794	isoquinoline-5-sulfonyl chloride
+T556	SYSTEMATIC 88831 88918	tert-butyl 1-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,2-b]azepine-4(2H)-carboxylate
+T557	SYSTEMATIC 89103 89161	1-(isoquinolin-5-ylsulfonyl)decahydropyrrolo[3,2-b]azepine
+T558	SYSTEMATIC 89179 89266	tert-butyl 1-(isoquinolin-5-ylsulfonyl)octahydropyrrolo[3,2-b]azepine-4(2H)-carboxylate
+T559	FORMULA 89411 89414	D2O
+T560	SYSTEMATIC 89791 89860	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-5(6H)-yl)sulfonyl)isoquinoline
+T561	SYSTEMATIC 89885 89948	tert-butyl 5-oxohexahydrocyclopenta[c]pyrrole-2(1H)-carboxylate
+T562	SYSTEMATIC 89979 89989	chloroform
+T563	FORMULA 90000 90004	NaN3
+T564	SYSTEMATIC 90028 90047	methylsulfonic acid
+T565	FORMULA 90216 90222	NaHCO3
+T566	SYSTEMATIC 90239 90254	dichloromethane
+T567	FORMULA 90320 90326	Na2SO4
+T568	SYSTEMATIC 90360 90404	hexahydro-1H-pyrrolo[3,4-c]pyridin-6(2H)-one
+T569	SYSTEMATIC 90479 90523	hexahydro-1H-pyrrolo[3,4-c]pyridin-6(2H)-one
+T570	FORMULA 90565 90569	NaOH
+T571	ABBREVIATION 90574 90577	THF
+T572	SYSTEMATIC 90598 90623	di-tert-butyl dicarbonate
+T573	FORMULA 90725 90730	EtOAc
+T574	FORMULA 90796 90802	Na2SO4
+T575	TRIVIAL 90878 90888	silica gel
+T576	FORMULA 90918 90922	MeOH
+T577	FORMULA 90923 90928	EtOAc
+T578	SYSTEMATIC 90938 91007	tert-butyl 6-oxohexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T579	SYSTEMATIC 91069 91138	tert-butyl 6-oxohexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T580	ABBREVIATION 91171 91174	THF
+T581	FORMULA 91199 91205	LiAlH4
+T582	ABBREVIATION 91233 91236	THF
+T583	TRIVIAL 91353 91358	water
+T584	FORMULA 91376 91380	NaOH
+T585	TRIVIAL 91393 91398	water
+T586	SYSTEMATIC 91543 91607	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T587	SYSTEMATIC 91684 91748	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T588	SYSTEMATIC 91799 91831	isoquinoline-5-sulfonyl chloride
+T589	SYSTEMATIC 91869 91961	tert-butyl 5-(isoquinolin-5-ylsulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T590	SYSTEMATIC 92138 92207	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-5(6H)-yl)sulfonyl)isoquinoline
+T591	SYSTEMATIC 92225 92317	tert-butyl 5-(isoquinolin-5-ylsulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-carboxylate
+T592	FORMULA 92461 92466	CD3OD
+T593	SYSTEMATIC 92776 92849	4-chloro-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)isoquinoline
+T594	SYSTEMATIC 92874 92894	4-chloroisoquinoline
+T595	SYSTEMATIC 92939 92952	sulfuric acid
+T596	SYSTEMATIC 92977 92994	potassium nitrate
+T597	SYSTEMATIC 93037 93050	sulfuric acid
+T598	TRIVIAL 93206 93211	water
+T599	FORMULA 93242 93248	Na2CO3
+T600	FORMULA 93265 93270	EtOAc
+T601	FORMULA 93337 93343	Na2SO4
+T602	TRIVIAL 93407 93417	silica gel
+T603	FORMULA 93448 93453	EtOAc
+T604	ABBREVIATION 93454 93456	PE
+T605	SYSTEMATIC 93466 93494	4-chloro-5-nitroisoquinoline
+T606	SYSTEMATIC 93596 93624	4-chloro-5-nitroisoquinoline
+T607	SYSTEMATIC 93671 93688	hydrochloric acid
+T608	FORMULA 93699 93709	SnCl2.2H2O
+T609	FORMULA 93867 93873	NaHCO3
+T610	FORMULA 93906 93911	EtOAc
+T611	FORMULA 93982 93988	Na2SO4
+T612	TRIVIAL 94049 94059	silica gel
+T613	FORMULA 94090 94095	EtOAc
+T614	ABBREVIATION 94096 94098	PE
+T615	SYSTEMATIC 94108 94135	4-chloroisoquinolin-5-amine
+T616	SYSTEMATIC 94238 94265	4-chloroisoquinolin-5-amine
+T617	SYSTEMATIC 94308 94325	hydrochloric acid
+T618	FORMULA 94350 94355	NaNO2
+T619	TRIVIAL 94384 94389	water
+T620	SYSTEMATIC 94524 94535	acetic acid
+T621	FORMULA 94541 94545	CuCl
+T622	TRIVIAL 94574 94579	water
+T623	FORMULA 94594 94597	SO2
+T624	TRIVIAL 94733 94738	water
+T625	FORMULA 94789 94795	NaHCO3
+T626	SYSTEMATIC 94833 94848	dichloromethane
+T627	FORMULA 94915 94921	Na2SO4
+T628	SYSTEMATIC 94974 95014	4-chloroisoquinoline-5-sulfonyl chloride
+T629	SYSTEMATIC 95105 95168	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T630	SYSTEMATIC 95196 95236	4-chloroisoquinoline-5-sulfonyl chloride
+T631	SYSTEMATIC 95277 95374	tert-butyl 4-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T632	SYSTEMATIC 95550 95624	4-chloro-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl) isoquinoline
+T633	SYSTEMATIC 95642 95739	tert-butyl 4-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T634	FORMULA 95885 95888	D2O
+T635	SYSTEMATIC 96160 96234	4-chloro-5-((hexahydropyrrolo[3,4-b]pyrrol-5 (1H)-yl)sulfonyl)isoquinoline
+T636	SYSTEMATIC 96247 96310	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T637	SYSTEMATIC 96349 96389	4-chloroisoquinoline-5-sulfonyl chloride
+T638	SYSTEMATIC 96428 96525	tert-butyl 5-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T639	SYSTEMATIC 96701 96774	4-chloro-5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)isoquinoline
+T640	SYSTEMATIC 96792 96889	tert-butyl 5-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T641	FORMULA 97035 97038	D2O
+T642	SYSTEMATIC 97295 97373	4-chloro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T643	SYSTEMATIC 97386 97450	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T644	SYSTEMATIC 97488 97528	4-chloroisoquinoline-5-sulfonyl chloride
+T645	SYSTEMATIC 97547 97645	tert-butyl 6-((4-chloroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T646	SYSTEMATIC 97821 97899	4-chloro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T647	SYSTEMATIC 97917 98015	tert-butyl 6-((4-chloroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T648	FORMULA 98162 98165	D2O
+T649	SYSTEMATIC 98433 98500	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-chloroisoquinoline
+T650	SYSTEMATIC 98513 98568	tert-butyl 3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T651	SYSTEMATIC 98595 98635	4-chloroisoquinoline-5-sulfonyl chloride
+T652	SYSTEMATIC 98673 98767	tert-butyl 3((4-chloroisoquinolin-5-yl) sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T653	SYSTEMATIC 98943 99010	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-chloroisoquinoline
+T654	SYSTEMATIC 99028 99122	tert-butyl 3((4-chloroisoquinolin-5-yl) sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T655	FORMULA 99267 99270	D2O
+T656	SYSTEMATIC 99530 99595	6-((4-chloroisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T657	SYSTEMATIC 99620 99693	tert-butyl 1-(1-phenylethyl)octahydro-1,6-naphthyridine-6(2H)-carboxylate
+T658	ABBREVIATION 99725 99728	THF
+T659	FORMULA 99745 99752	Pd(OH)2
+T660	SYSTEMATIC 99761 99767	carbon
+T661	FORMULA 99809 99811	H2
+T662	TRIVIAL 100012 100022	silica gel
+T663	FORMULA 100050 100054	MeOH
+T664	FORMULA 100055 100060	EtOAc
+T665	SYSTEMATIC 100070 100126	tert-butyl octahydro-1,6-naphthyridine-6(2H)-carboxylate
+T666	SYSTEMATIC 100226 100282	tert-butyl octahydro-1,6-naphthyridine-6(2H)-carboxylate
+T667	SYSTEMATIC 100315 100330	dichloromethane
+T668	SYSTEMATIC 100341 100366	N,N-diisopropylethylamine
+T669	SYSTEMATIC 100391 100411	benzyl chloroformate
+T670	TRIVIAL 100548 100553	water
+T671	FORMULA 100619 100624	EtOAc
+T672	TRIVIAL 100687 100692	brine
+T673	FORMULA 100715 100721	Na2SO4
+T674	ABBREVIATION 100767 100769	PE
+T675	FORMULA 100770 100775	EtOAc
+T676	SYSTEMATIC 100785 100859	1-benzyl 6-tert-butyl hexahydro-1,6-naphthyridine-1,6(2H,7H)-dicarboxylate
+T677	SYSTEMATIC 100948 101022	1-benzyl 6-tert-butyl hexahydro-1,6-naphthyridine-1,6(2H,7H)-dicarboxylate
+T678	SYSTEMATIC 101061 101113	benzyl octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T679	SYSTEMATIC 101282 101334	benzyl octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T680	SYSTEMATIC 101362 101402	4-chloroisoquinoline-5-sulfonyl chloride
+T681	SYSTEMATIC 101440 101530	benzyl 6-((4-chloroisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T682	SYSTEMATIC 101706 101771	6-((4-chloroisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T683	SYSTEMATIC 101789 101879	benzyl 6-((4-chloroisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T684	FORMULA 102024 102029	CD3OD
+T685	SYSTEMATIC 102263 102337	4-chloro-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T686	SYSTEMATIC 102350 102410	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T687	SYSTEMATIC 102448 102488	4-chloroisoquinoline-5-sulfonyl chloride
+T688	SYSTEMATIC 102526 102624	benzyl 1-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T689	SYSTEMATIC 102800 102874	4-chloro-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T690	SYSTEMATIC 102892 102991	benzyl 1-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4 (2H)-carboxylate
+T691	FORMULA 103137 103140	D2O
+T692	SYSTEMATIC 103411 103484	4-chloro-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)isoquinoline
+T693	SYSTEMATIC 103497 103560	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T694	SYSTEMATIC 103586 103626	4-chloroisoquinoline-5-sulfonyl chloride
+T695	SYSTEMATIC 103665 103761	tert-butyl 5((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T696	SYSTEMATIC 103937 104011	4-chloro-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl) isoquinoline
+T697	SYSTEMATIC 104029 104126	tert-butyl 5-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T698	FORMULA 104281 104284	D2O
+T699	SYSTEMATIC 104490 104568	4-chloro-5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)isoquinoline
+T700	SYSTEMATIC 104581 104645	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T701	SYSTEMATIC 104673 104713	4-chloroisoquinoline-5-sulfonyl chloride
+T702	SYSTEMATIC 104751 104853	tert-butyl 2-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T703	SYSTEMATIC 105027 105106	4-chloro-5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl) isoquinoline
+T704	SYSTEMATIC 105124 105227	tert-butyl 2-((4-chloroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5 (6H)-carboxylate
+T705	FORMULA 105370 105373	D2O
+T706	SYSTEMATIC 105636 105709	4-fluoro-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)isoquinoline
+T707	SYSTEMATIC 105734 105749	n-butyl lithium
+T708	ABBREVIATION 105780 105783	THF
+T709	ABBREVIATION 105795 105798	THF
+T710	SYSTEMATIC 105823 105842	4-bromoisoquinoline
+T711	ABBREVIATION 105875 105878	THF
+T712	SYSTEMATIC 106024 106050	N-fluorobenzenesulfonimide
+T713	ABBREVIATION 106083 106086	THF
+T714	FORMULA 106307 106312	NH4Cl
+T715	FORMULA 106346 106351	EtOAc
+T716	TRIVIAL 106416 106421	brine
+T717	FORMULA 106444 106450	Na2SO4
+T718	TRIVIAL 106503 106513	silica gel
+T719	FORMULA 106544 106549	EtOAc
+T720	ABBREVIATION 106550 106552	PE
+T721	SYSTEMATIC 106562 106582	4-fluoroisoquinoline
+T722	SYSTEMATIC 106629 106649	4-fluoroisoquinoline
+T723	SYSTEMATIC 106686 106714	4-fluoro-5-nitroisoquinoline
+T724	SYSTEMATIC 106783 106811	4-chloro-5-nitroisoquinoline
+T725	SYSTEMATIC 106877 106905	4-fluoro-5-nitroisoquinoline
+T726	SYSTEMATIC 106942 106969	4-fluoroisoquinolin-5-amine
+T727	SYSTEMATIC 107038 107065	4-chloroisoquinolin-5-amine
+T728	SYSTEMATIC 107131 107158	4-fluoroisoquinolin-5-amine
+T729	SYSTEMATIC 107196 107236	4-fluoroisoquinoline-5-sulfonyl chloride
+T730	SYSTEMATIC 107305 107345	4-chloroisoquinoline-5-sulfonyl chloride
+T731	FORMULA 107415 107420	CDCl3
+T732	SYSTEMATIC 107518 107581	cis-tert-butyl hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T733	SYSTEMATIC 107609 107649	4-fluoroisoquinoline-5-sulfonyl chloride
+T734	SYSTEMATIC 107687 107784	tert-butyl 4-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T735	SYSTEMATIC 107961 108035	4-fluoro-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl) isoquinoline
+T736	SYSTEMATIC 108053 108150	tert-butyl 4-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T737	FORMULA 108273 108276	D2O
+T738	SYSTEMATIC 108491 108564	4-fluoro-5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)isoquinoline
+T739	SYSTEMATIC 108577 108640	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T740	SYSTEMATIC 108678 108718	4-fluoroisoquinoline-5-sulfonyl chloride
+T741	SYSTEMATIC 108767 108864	tert-butyl 5-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T742	SYSTEMATIC 109022 109096	4-fluoro-5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl) isoquinoline
+T743	SYSTEMATIC 109114 109211	tert-butyl 5 ((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T744	FORMULA 109335 109338	D2O
+T745	SYSTEMATIC 109530 109608	4-fluoro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T746	SYSTEMATIC 109616 109656	4-fluoroisoquinoline-5-sulfonyl chloride
+T747	SYSTEMATIC 109700 109764	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T748	SYSTEMATIC 109812 109910	tert-butyl 6-((4-fluoroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T749	SYSTEMATIC 110028 110107	4-fluoro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl) isoquinoline
+T750	SYSTEMATIC 110125 110223	tert-butyl 6-((4-fluoroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T751	FORMULA 110346 110351	CD3OD
+T752	SYSTEMATIC 110609 110676	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-fluoroisoquinoline
+T753	SYSTEMATIC 110689 110744	tert-butyl 3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T754	SYSTEMATIC 110771 110811	4-fluoroisoquinoline-5-sulfonyl chloride
+T755	SYSTEMATIC 110861 110954	tert-butyl 3((4-fluoroisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T756	SYSTEMATIC 111108 111175	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-fluoroisoquinoline
+T757	SYSTEMATIC 111193 111286	tert-butyl 3((4-fluoroisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T758	FORMULA 111409 111412	D2O
+T759	SYSTEMATIC 111721 111795	4-fluoro-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T760	SYSTEMATIC 111808 111868	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T761	SYSTEMATIC 111906 111946	4-fluoroisoquinoline-5-sulfonyl chloride
+T762	SYSTEMATIC 111995 112093	benzyl 1-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T763	SYSTEMATIC 112247 112322	4-fluoro-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl) isoquinoline
+T764	SYSTEMATIC 112340 112438	benzyl 1-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T765	SYSTEMATIC 112517 112572	6-(isoquinolin-5-ylsulfonyl)decahydro-1,6-naphthyridine
+T766	FORMULA 112640 112645	CD3OD
+T767	SYSTEMATIC 112980 113053	4-fluoro-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)isoquinoline
+T768	SYSTEMATIC 113066 113129	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T769	SYSTEMATIC 113167 113207	4-fluoroisoquinoline-5-sulfonyl chloride
+T770	SYSTEMATIC 113245 113342	tert-butyl 5-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T771	SYSTEMATIC 113496 113570	4-fluoro-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl) isoquinoline
+T772	SYSTEMATIC 113588 113685	tert-butyl 5-((4-fluoroisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T773	FORMULA 113808 113811	D2O
+T774	SYSTEMATIC 114043 114121	4-fluoro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T775	SYSTEMATIC 114134 114198	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T776	SYSTEMATIC 114237 114277	4-fluoroisoquinoline-5-sulfonyl chloride
+T777	SYSTEMATIC 114327 114425	tert-butyl 6-((4-fluoroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T778	SYSTEMATIC 114578 114657	4-fluoro-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl) isoquinoline
+T779	SYSTEMATIC 114675 114773	tert-butyl 6-((4-fluoroisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T780	FORMULA 114896 114899	D2O
+T781	SYSTEMATIC 115167 115250	4-(difluoromethyl)-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)isoquinoline
+T782	SYSTEMATIC 115275 115294	4-bromoisoquinoline
+T783	ABBREVIATION 115339 115342	THF
+T784	SYSTEMATIC 115353 115368	n-butyl lithium
+T785	ABBREVIATION 115396 115399	THF
+T786	FORMULA 115429 115431	N2
+T787	SYSTEMATIC 115516 115537	N,N-dimethylformamide
+T788	FORMULA 115678 115683	NH4Cl
+T789	FORMULA 115754 115759	EtOAc
+T790	TRIVIAL 115823 115828	brine
+T791	FORMULA 115851 115857	Na2SO4
+T792	TRIVIAL 115922 115932	silica gel
+T793	FORMULA 115963 115968	EtOAc
+T794	ABBREVIATION 115969 115971	PE
+T795	SYSTEMATIC 115981 116008	isoquinoline-4-carbaldehyde
+T796	FORMULA 116066 116071	CDCl3
+T797	SYSTEMATIC 116274 116301	isoquinoline-4-carbaldehyde
+T798	SYSTEMATIC 116344 116359	dichloromethane
+T799	SYSTEMATIC 116370 116401	diethylaminosulphur trifluoride
+T800	FORMULA 116435 116437	N2
+T801	FORMULA 116627 116633	NaHCO3
+T802	SYSTEMATIC 116655 116670	dichloromethane
+T803	FORMULA 116736 116742	Na2SO4
+T804	TRIVIAL 116820 116830	silica gel
+T805	FORMULA 116861 116866	EtOAc
+T806	ABBREVIATION 116867 116869	PE
+T807	SYSTEMATIC 116879 116909	4-(difluoromethyl)isoquinoline
+T808	FORMULA 116964 116969	CDCl3
+T809	SYSTEMATIC 117171 117209	4-(difluoromethyl)-5-nitroisoquinoline
+T810	SYSTEMATIC 117228 117258	4-(difluoromethyl)isoquinoline
+T811	FORMULA 117383 117388	CD3OD
+T812	SYSTEMATIC 117580 117618	4-(difluoromethyl)-5-nitroisoquinoline
+T813	SYSTEMATIC 117652 117659	ethanol
+T814	FORMULA 117674 117678	Pd/C
+T815	SYSTEMATIC 117696 117713	hydrazine hydrate
+T816	FORMULA 117744 117746	N2
+T817	TRIVIAL 117895 117905	silica gel
+T818	FORMULA 117933 117938	EtOAc
+T819	ABBREVIATION 117939 117941	PE
+T820	SYSTEMATIC 117951 117988	4-(difluoromethyl)isoquinolin-5-amine
+T821	FORMULA 118047 118052	CDCl3
+T822	SYSTEMATIC 118200 118250	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T823	SYSTEMATIC 118269 118306	4-(difluoromethyl)isoquinolin-5-amine
+T824	SYSTEMATIC 118386 118426	4-chloroisoquinoline-5-sulfonyl chloride
+T825	SYSTEMATIC 118532 118595	cis-tert-butyl hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T826	SYSTEMATIC 118633 118683	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T827	SYSTEMATIC 118721 118829	tert-butyl 4-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T828	SYSTEMATIC 118984 119068	4-(difluoromethyl)-5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl) isoquinoline
+T829	SYSTEMATIC 119086 119194	tert-butyl 4-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T830	FORMULA 119317 119320	D2O
+T831	SYSTEMATIC 119573 119656	4-(difluoromethyl)-5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)isoquinoline
+T832	SYSTEMATIC 119669 119732	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T833	SYSTEMATIC 119770 119820	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T834	SYSTEMATIC 119870 119978	tert-butyl 5-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T835	SYSTEMATIC 120133 120217	4-(difluoromethyl)-5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl) isoquinoline
+T836	SYSTEMATIC 120235 120343	tert-butyl 5-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T837	FORMULA 120465 120468	D2O
+T838	SYSTEMATIC 120702 120790	4-(difluoromethyl)-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)isoquinoline
+T839	SYSTEMATIC 120803 120867	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T840	SYSTEMATIC 120905 120955	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T841	SYSTEMATIC 121005 121113	tert-butyl 6-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T842	SYSTEMATIC 121268 121357	4-(difluoromethyl)-5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl) sulfonyl)isoquinoline
+T843	SYSTEMATIC 121375 121483	tert-butyl 6-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T844	FORMULA 121607 121610	D2O
+T845	SYSTEMATIC 121869 121946	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-(difluoromethyl)isoquinoline
+T846	SYSTEMATIC 121959 122014	tert-butyl 3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T847	SYSTEMATIC 122052 122102	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T848	SYSTEMATIC 122152 122257	tert-butyl 3-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptanes-6-carboxylate
+T849	SYSTEMATIC 122412 122490	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-(difluoromethyl) isoquinoline
+T850	SYSTEMATIC 122508 122613	tert-butyl 3-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptanes-6-carboxylate
+T851	FORMULA 122737 122740	D2O
+T852	SYSTEMATIC 123004 123087	4-(difluoromethyl)-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)isoquinoline
+T853	SYSTEMATIC 123100 123163	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T854	SYSTEMATIC 123201 123251	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T855	SYSTEMATIC 123301 123409	tert-butyl 5-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T856	SYSTEMATIC 123564 123648	4-(difluoromethyl)-5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl) isoquinoline
+T857	SYSTEMATIC 123666 123774	tert-butyl 5-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T858	FORMULA 123890 123893	D2O
+T859	SYSTEMATIC 124089 124177	4-(difluoromethyl)-5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)isoquinoline
+T860	SYSTEMATIC 124190 124254	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T861	SYSTEMATIC 124293 124343	4-(difluoromethyl)isoquinoline-5-sulfonyl chloride
+T862	SYSTEMATIC 124393 124506	tert-butyl 2-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T863	SYSTEMATIC 124665 124754	4-(difluoromethyl)-5-((hexahydro-1H-pyrrolo[3,4-c]pyridine-2(3H)-yl)sulfonyl)isoquinoline
+T864	SYSTEMATIC 124772 124885	tert-butyl 2-((4-(difluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T865	FORMULA 125009 125014	CD3OD
+T866	SYSTEMATIC 125336 125409	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)-4-methylisoquinoline
+T867	SYSTEMATIC 125434 125453	4-bromoisoquinoline
+T868	SYSTEMATIC 125479 125497	methylboronic acid
+T869	FORMULA 125520 125525	K3PO4
+T870	SYSTEMATIC 125555 125562	toluene
+T871	FORMULA 125573 125582	Pd2(dba)3
+T872	SYSTEMATIC 125605 125669	Dicyclohexyl (2′,6′-dimethoxy-[1,1′-biphenyls]-2-base) phosphine
+T873	FORMULA 125695 125697	N2
+T874	TRIVIAL 125843 125848	water
+T875	FORMULA 125889 125894	EtOAc
+T876	FORMULA 125961 125967	Na2SO4
+T877	TRIVIAL 126020 126030	silica gel
+T878	FORMULA 126060 126065	EtOAc
+T879	ABBREVIATION 126066 126068	PE
+T880	SYSTEMATIC 126078 126098	4-methylisoquinoline
+T881	SYSTEMATIC 126157 126185	4-methyl-5-nitroisoquinoline
+T882	SYSTEMATIC 126204 126224	4-methylisoquinoline
+T883	SYSTEMATIC 126350 126377	4-methylisoquinolin-5-amine
+T884	SYSTEMATIC 126396 126424	4-methyl-5-nitroisoquinoline
+T885	SYSTEMATIC 126553 126593	4-methylisoquinoline-5-sulfonyl chloride
+T886	SYSTEMATIC 126612 126639	4-methylisoquinolin-5-amine
+T887	ABBREVIATION 126765 126772	DMSO-d6
+T888	SYSTEMATIC 126877 126940	cis-tert-butyl hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T889	SYSTEMATIC 126967 127007	4-methylisoquinoline-5-sulfonyl chloride
+T890	SYSTEMATIC 127045 127142	tert-butyl 4-((4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T891	SYSTEMATIC 127295 127369	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)-4-methyl isoquinoline
+T892	SYSTEMATIC 127387 127484	tert-butyl 4-((4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T893	FORMULA 127609 127612	D2O
+T894	SYSTEMATIC 127885 127959	5-((hexahydropyrrolo[3,4-d]pyrrol-5 (1H)-yl)sulfonyl)-4-methylisoquinoline
+T895	SYSTEMATIC 127972 128035	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T896	SYSTEMATIC 128073 128113	4-methylisoquinoline-5-sulfonyl chloride
+T897	SYSTEMATIC 128151 128248	tert-butyl 54(4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1 (2H)-carboxylate
+T898	SYSTEMATIC 128366 128440	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-methyl isoquinoline
+T899	SYSTEMATIC 128458 128556	tert-butyl 5-((4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1 (2H)-carboxylate
+T900	FORMULA 128680 128683	D2O
+T901	SYSTEMATIC 128903 128980	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-methylisoquinolin-1-ol
+T902	SYSTEMATIC 129005 129103	tert-butyl 5-((4-methylisoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T903	SYSTEMATIC 129136 129151	dichloromethane
+T904	ABBREVIATION 129162 129168	m-CPBA
+T905	TRIVIAL 129317 129327	silica gel
+T906	FORMULA 129358 129363	EtOAc
+T907	ABBREVIATION 129364 129366	PE
+T908	SYSTEMATIC 129376 129480	5-((1-(tert-butoxycarbonyl)hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-methylisoquinoline 2-oxide
+T909	SYSTEMATIC 129539 129645	5-((1-(tert-butoxycarbonyl) hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl) sulfonyl)-4-methylisoquinoline 2-oxide
+T910	SYSTEMATIC 129677 129693	acetic anhydride
+T911	ABBREVIATION 129840 129843	THF
+T912	FORMULA 129848 129854	Na2CO3
+T913	TRIVIAL 129882 129887	water
+T914	SYSTEMATIC 129987 130002	dichloromethane
+T915	FORMULA 130068 130074	Na2SO4
+T916	TRIVIAL 130105 130115	silica gel
+T917	FORMULA 130146 130151	EtOAc
+T918	ABBREVIATION 130152 130154	PE
+T919	SYSTEMATIC 130164 130271	tert-butyl 5-((1-hydroxy-4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T920	SYSTEMATIC 130329 130407	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-methyl isoquinolin-1-ol
+T921	SYSTEMATIC 130425 130532	tert-butyl 5-((1-hydroxy-4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T922	FORMULA 130656 130659	D2O
+T923	SYSTEMATIC 130854 130932	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)-4-methylisoquinoline
+T924	SYSTEMATIC 130945 131009	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T925	SYSTEMATIC 131047 131087	4-methylisoquinoline-5-sulfonyl chloride
+T926	SYSTEMATIC 131126 131224	tert-butyl 6-((4-methylisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T927	SYSTEMATIC 131377 131456	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)-4-methyl isoquinoline
+T928	SYSTEMATIC 131474 131572	tert-butyl 6-((4-methylisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T929	FORMULA 131696 131701	CDCl3
+T930	SYSTEMATIC 132004 132059	tert-butyl 3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T931	SYSTEMATIC 132097 132137	4-methylisoquinoline-5-sulfonyl chloride
+T932	SYSTEMATIC 132187 132280	tert-butyl 3((4-methylisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T933	SYSTEMATIC 132433 132500	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-methylisoquinoline
+T934	SYSTEMATIC 132518 132611	tert-butyl 3((4-methylisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T935	FORMULA 132735 132738	D2O
+T936	SYSTEMATIC 132986 133060	4-methyl-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T937	SYSTEMATIC 133073 133133	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T938	SYSTEMATIC 133171 133211	4-methylisoquinoline-5-sulfonyl chloride
+T939	SYSTEMATIC 133262 133360	benzyl 1-((4-methylisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T940	SYSTEMATIC 133513 133588	4-methyl-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl) isoquinoline
+T941	SYSTEMATIC 133606 133704	benzyl 1-((4-methylisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T942	SYSTEMATIC 133784 133839	6-(isoquinolin-5-ylsulfonyl)decahydro-1,6-naphthyridine
+T943	FORMULA 133907 133910	D2O
+T944	SYSTEMATIC 134178 134251	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)-4-methylisoquinoline
+T945	SYSTEMATIC 134264 134327	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T946	SYSTEMATIC 134365 134405	4-methylisoquinoline-5-sulfonyl chloride
+T947	SYSTEMATIC 134455 134552	tert-butyl 5-((4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T948	SYSTEMATIC 134705 134779	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)-4-methyl isoquinoline
+T949	SYSTEMATIC 134797 134894	tert-butyl 5-((4-methylisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T950	FORMULA 135017 135020	D2O
+T951	SYSTEMATIC 135244 135322	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)-4-methylisoquinoline
+T952	SYSTEMATIC 135335 135399	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T953	SYSTEMATIC 135438 135478	4-methylisoquinoline-5-sulfonyl chloride
+T954	SYSTEMATIC 135527 135629	tert-butyl 2-((4-methylisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T955	SYSTEMATIC 135747 135826	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)-4-methyl isoquinoline
+T956	SYSTEMATIC 135844 135946	tert-butyl 2-((4-methylisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T957	FORMULA 136069 136072	D2O
+T958	SYSTEMATIC 136315 136380	6-((4-methylisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T959	SYSTEMATIC 136393 136445	benzyl octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T960	SYSTEMATIC 136485 136525	4-methylisoquinoline-5-sulfonyl chloride
+T961	SYSTEMATIC 136575 136665	benzyl 6-((4-methylisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T962	SYSTEMATIC 136783 136848	6-((4-methylisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T963	SYSTEMATIC 136866 136956	benzyl 6-((4-methylisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T964	SYSTEMATIC 137036 137091	6-(isoquinolin-5-ylsulfonyl)decahydro-1,6-naphthyridine
+T965	FORMULA 137159 137162	D2O
+T966	SYSTEMATIC 137391 137476	5-((hexahydropyrrolo[3,4-b]pyrrol-5 (1H)-yl)sulfonyl)-4-(trifluoromethyl)isoquinoline
+T967	SYSTEMATIC 137497 137524	4-bromo-5-nitroisoquinoline
+T968	SYSTEMATIC 137543 137562	4-bromoisoquinoline
+T969	SYSTEMATIC 137640 137668	4-fluoro-5-nitroisoquinoline
+T970	SYSTEMATIC 137786 137813	4-bromo-5-nitroisoquinoline
+T971	SYSTEMATIC 137847 137867	1-methyl pyrrolidone
+T972	SYSTEMATIC 137878 137896	Potassium fluoride
+T973	SYSTEMATIC 137918 137950	Trimethyl(trifluoromethyl)silane
+T974	SYSTEMATIC 137975 137989	cuprous iodide
+T975	FORMULA 138016 138018	N2
+T976	FORMULA 138138 138143	EtOAc
+T977	TRIVIAL 138219 138224	water
+T978	TRIVIAL 138235 138240	brine
+T979	FORMULA 138275 138281	Na2SO4
+T980	TRIVIAL 138396 138406	silica gel
+T981	FORMULA 138434 138439	EtOAc
+T982	ABBREVIATION 138440 138442	PE
+T983	SYSTEMATIC 138452 138491	5-nitro-4-(trifluoromethyl)isoquinoline
+T984	ABBREVIATION 138549 138556	DMSO-d6
+T985	SYSTEMATIC 138713 138751	4-(trifluoromethyl)isoquinolin-5-amine
+T986	SYSTEMATIC 138770 138809	5-nitro-4-(trifluoromethyl)isoquinoline
+T987	SYSTEMATIC 138889 138926	4-(difluoromethyl)isoquinolin-5-amine
+T988	ABBREVIATION 138999 139003	DMSO
+T989	SYSTEMATIC 139146 139197	4-(trifluoromethyl)isoquinoline-5-sulfonyl chloride
+T990	SYSTEMATIC 139216 139254	4-(trifluoromethyl)isoquinolin-5-amine
+T991	SYSTEMATIC 139334 139374	4-chloroisoquinoline-5-sulfonyl chloride
+T992	ABBREVIATION 139452 139459	DMSO-d6
+T993	SYSTEMATIC 139571 139634	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T994	SYSTEMATIC 139672 139723	4-(trifluoromethyl)isoquinoline-5-sulfonyl chloride
+T995	SYSTEMATIC 139761 139870	tert-butyl 5-((4-(trifluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T996	SYSTEMATIC 140025 140110	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-(trifluoromethyl) isoquinoline
+T997	SYSTEMATIC 140128 140237	tert-butyl 5-((4-(trifluoromethyl)isoquinolin-5-yl)sulfonyl) hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T998	FORMULA 140361 140366	CD3OD
+T999	SYSTEMATIC 140599 140673	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1000	SYSTEMATIC 140694 140720	4-bromoisoquinolin-5-amine
+T1001	SYSTEMATIC 140739 140766	4-bromo-5-nitroisoquinoline
+T1002	SYSTEMATIC 140858 140885	4-chloroisoquinolin-5-amine
+T1003	ABBREVIATION 140963 140967	DMSO
+T1004	SYSTEMATIC 141101 141140	4-bromoisoquinoline-5-sulfonyl chloride
+T1005	SYSTEMATIC 141159 141185	4-bromoisoquinolin-5-amine
+T1006	SYSTEMATIC 141265 141305	4-chloroisoquinoline-5-sulfonyl chloride
+T1007	ABBREVIATION 141384 141388	DMSO
+T1008	SYSTEMATIC 141500 141563	cis-tert-butyl hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T1009	SYSTEMATIC 141590 141629	4-bromoisoquinoline-5-sulfonyl chloride
+T1010	SYSTEMATIC 141667 141763	tert-butyl 4-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T1011	FORMULA 141877 141882	CDCl3
+T1012	SYSTEMATIC 142153 142249	tert-butyl 4-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T1013	FORMULA 142291 142295	MeOH
+T1014	SYSTEMATIC 142306 142314	pyridine
+T1015	FORMULA 142337 142342	NaOMe
+T1016	FORMULA 142367 142370	CuI
+T1017	FORMULA 142397 142399	N2
+T1018	FORMULA 142518 142523	EtOAc
+T1019	FORMULA 142610 142615	NH4Cl
+T1020	TRIVIAL 142622 142627	water
+T1021	TRIVIAL 142644 142649	brine
+T1022	FORMULA 142684 142690	Na2SO4
+T1023	FORMULA 142791 142796	EtOAc
+T1024	SYSTEMATIC 142806 142904	tert-butyl 4-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T1025	SYSTEMATIC 143001 143076	5-((hexahydropyrrolo[3,2-b]pyrrol-1(2H)-yl)sulfonyl)-4-methoxy isoquinoline
+T1026	SYSTEMATIC 143094 143192	tert-butyl 4-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,2-b]pyrrole-1(2H)-carboxylate
+T1027	FORMULA 143316 143319	D2O
+T1028	SYSTEMATIC 143634 143709	5-((hexahydropyrrolo[3,4-b]pyrrol-5 (1H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1029	SYSTEMATIC 143722 143785	cis-tert-butyl hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T1030	SYSTEMATIC 143823 143862	4-bromoisoquinoline-5-sulfonyl chloride
+T1031	SYSTEMATIC 143912 144008	tert-butyl 5-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T1032	SYSTEMATIC 144125 144223	tert-butyl 5-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T1033	SYSTEMATIC 144242 144337	tert-butyl 5((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T1034	SYSTEMATIC 144504 144579	5-((hexahydropyrrolo[3,4-b]pyrrol-5(1H)-yl)sulfonyl)-4-methoxy isoquinoline
+T1035	SYSTEMATIC 144597 144695	tert-butyl 5-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-b]pyrrole-1(2H)-carboxylate
+T1036	FORMULA 144817 144820	D2O
+T1037	SYSTEMATIC 145106 145185	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1038	SYSTEMATIC 145198 145262	cis-tert-butyl octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T1039	SYSTEMATIC 145289 145328	4-bromoisoquinoline-5-sulfonyl chloride
+T1040	SYSTEMATIC 145378 145475	tert-butyl 6-((4-bromoisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T1041	FORMULA 145588 145593	CDCl3
+T1042	SYSTEMATIC 145888 145987	tert-butyl 6-((4-methoxyisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T1043	SYSTEMATIC 146006 146103	tert-butyl 6-((4-bromoisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T1044	SYSTEMATIC 146268 146348	5-((hexahydro-1H-pyrrolo[3,4-b]pyridin-6(2H)-yl)sulfonyl)-4-methoxy isoquinoline
+T1045	SYSTEMATIC 146366 146465	tert-butyl 6-((4-methoxyisoquinolin-5-yl)sulfonyl)octahydro-1H-pyrrolo[3,4-b]pyridine-1-carboxylate
+T1046	FORMULA 146588 146591	D2O
+T1047	SYSTEMATIC 146876 146944	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-methoxyisoquinoline
+T1048	SYSTEMATIC 146957 147012	tert-butyl 3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T1049	SYSTEMATIC 147050 147089	4-bromoisoquinoline-5-sulfonyl chloride
+T1050	SYSTEMATIC 147139 147232	tert-butyl 3-((4-bromoisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T1051	FORMULA 147346 147351	CDCl3
+T1052	SYSTEMATIC 147599 147694	tert-butyl 3-((4-methoxyisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T1053	SYSTEMATIC 147713 147805	tert-butyl 3((4-bromoisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T1054	SYSTEMATIC 147970 148038	5-(3,6-diazabicyclo[3.2.0]heptan-3-ylsulfonyl)-4-methoxyisoquinoline
+T1055	SYSTEMATIC 148056 148151	tert-butyl 3-((4-methoxyisoquinolin-5-yl)sulfonyl)-3,6-diazabicyclo[3.2.0]heptane-6-carboxylate
+T1056	FORMULA 148275 148278	D2O
+T1057	SYSTEMATIC 148562 148637	4-methoxy-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T1058	SYSTEMATIC 148650 148710	benzyl hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T1059	SYSTEMATIC 148746 148785	4-bromoisoquinoline-5-sulfonyl chloride
+T1060	SYSTEMATIC 148835 148932	benzyl 1-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T1061	FORMULA 149045 149050	CDCl3
+T1062	SYSTEMATIC 149361 149460	methyl 1-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T1063	SYSTEMATIC 149479 149576	benzyl 1-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T1064	SYSTEMATIC 149745 149844	methyl 1-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,2-b]pyridine-4(2H)-carboxylate
+T1065	FORMULA 149873 149878	NaOMe
+T1066	FORMULA 149906 149910	MeOH
+T1067	FORMULA 149936 149940	NaOH
+T1068	FORMULA 150009 150011	N2
+T1069	FORMULA 150106 150111	EtOAc
+T1070	TRIVIAL 150157 150162	brine
+T1071	FORMULA 150207 150213	Na2SO4
+T1072	FORMULA 150299 150303	MeOH
+T1073	FORMULA 150304 150309	EtOAc
+T1074	SYSTEMATIC 150319 150394	4-methoxy-5-((octahydro-1H-pyrrolo[3,2-b]pyridin-1-yl)sulfonyl)isoquinoline
+T1075	FORMULA 150449 150454	CD3OD
+T1076	SYSTEMATIC 150759 150833	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1077	SYSTEMATIC 150846 150909	cis-tert-butyl hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T1078	SYSTEMATIC 150947 150986	4-bromoisoquinoline-5-sulfonyl chloride
+T1079	SYSTEMATIC 151036 151132	tert-butyl 5-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T1080	FORMULA 151245 151250	CDCl3
+T1081	SYSTEMATIC 151469 151567	tert-butyl 5-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T1082	SYSTEMATIC 151586 151682	tert-butyl 5-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T1083	SYSTEMATIC 151847 151922	5-((hexahydropyrrolo[3,4-c]pyrrol-2(1H)-yl)sulfonyl)-4-methoxy isoquinoline
+T1084	SYSTEMATIC 151940 152038	tert-butyl 5-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydropyrrolo[3,4-c]pyrrole-2(1H)-carboxylate
+T1085	FORMULA 152160 152163	D2O
+T1086	SYSTEMATIC 152373 152452	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1087	SYSTEMATIC 152465 152529	tert-butyl hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T1088	SYSTEMATIC 152568 152607	4-bromoisoquinoline-5-sulfonyl chloride
+T1089	SYSTEMATIC 152657 152758	tert-butyl 2-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T1090	SYSTEMATIC 152913 153016	tert-butyl 2-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T1091	SYSTEMATIC 153035 153137	tert-butyl 2-((4-bromoisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5 (6H)-carboxylate
+T1092	SYSTEMATIC 153303 153382	5-((hexahydro-1H-pyrrolo[3,4-c]pyridin-2(3H)-yl)sulfonyl)-4-methoxyisoquinoline
+T1093	SYSTEMATIC 153400 153503	tert-butyl 2-((4-methoxyisoquinolin-5-yl)sulfonyl)hexahydro-1H-pyrrolo[3,4-c]pyridine-5(6H)-carboxylate
+T1094	FORMULA 153627 153630	D2O
+T1095	SYSTEMATIC 153926 153992	6-((4-methoxyisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T1096	SYSTEMATIC 154005 154057	benzyl octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T1097	SYSTEMATIC 154097 154136	4-bromoisoquinoline-5-sulfonyl chloride
+T1098	SYSTEMATIC 154186 154275	benzyl 6-((4-bromoisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T1099	FORMULA 154389 154394	CDCl3
+T1100	SYSTEMATIC 154651 154742	benzyl 6-((4-methoxyisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T1101	SYSTEMATIC 154761 154850	benzyl 6-((4-bromoisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T1102	SYSTEMATIC 155016 155082	6-((4-methoxyisoquinolin-5-yl)sulfonyl)decahydro-1,6-naphthyridine
+T1103	SYSTEMATIC 155100 155191	benzyl 6-((4-methoxyisoquinolin-5-yl)sulfonyl)octahydro-1,6-naphthyridine-1(2H)-carboxylate
+T1104	FORMULA 155313 155318	CD3OD
+T1105	SYSTEMATIC 155566 155628	3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.2.0]heptan-1-amine
+T1106	SYSTEMATIC 155653 155679	5,6-dihydro-2H-pyran-2-one
+T1107	SYSTEMATIC 155708 155764	N-benzyl-1-methoxy-N-((trimethylsilyl)methyl)methanamine
+T1108	SYSTEMATIC 155798 155813	dichloromethane
+T1109	ABBREVIATION 155824 155827	TFA
+T1110	SYSTEMATIC 155858 155873	DICHLOROMETHANE
+T1111	FORMULA 155892 155894	N2
+T1112	SYSTEMATIC 155990 156005	dichloromethane
+T1113	FORMULA 156033 156038	K2CO3
+T1114	TRIVIAL 156053 156058	brine
+T1115	FORMULA 156126 156132	Na2SO4
+T1116	FORMULA 156226 156231	EtOAc
+T1117	ABBREVIATION 156232 156234	PE
+T1118	SYSTEMATIC 156244 156290	2-benzylhexahydropyrano[3,4-c]pyrrol-4(2H)-one
+T1119	FORMULA 156349 156354	CDCl3
+T1120	SYSTEMATIC 156611 156657	2-benzylhexahydropyrano[3,4-c]pyrrol-4(2H)-one
+T1121	FORMULA 156689 156693	EtOH
+T1122	FORMULA 156723 156726	HBr
+T1123	FORMULA 156954 156958	EtOH
+T1124	SYSTEMATIC 156967 157023	ethyl 1-benzyl-4-(2-bromoethyl)pyrrolidine-3-carboxylate
+T1125	FORMULA 157079 157084	CDCl3
+T1126	SYSTEMATIC 157379 157429	1-benzyl-4-(2-bromoethyl)pyrrolidine-3-carboxylate
+T1127	ABBREVIATION 157474 157477	THF
+T1128	SYSTEMATIC 157488 157516	Lithium Hexamethyldisilazide
+T1129	ABBREVIATION 157547 157550	THF
+T1130	FORMULA 157580 157582	N2
+T1131	FORMULA 157678 157683	EtOAc
+T1132	FORMULA 157727 157732	NH4Cl
+T1133	TRIVIAL 157748 157753	brine
+T1134	FORMULA 157799 157805	Na2SO4
+T1135	FORMULA 157904 157909	EtOAc
+T1136	ABBREVIATION 157910 157912	PE
+T1137	SYSTEMATIC 157922 157977	ethyl 3-benzyl-3-azabicyclo[3.2.0]heptane-1-carboxylate
+T1138	FORMULA 158034 158039	CDCl3
+T1139	SYSTEMATIC 158315 158369	thyl 3-benzyl-3-azabicyclo[3.2.0]heptane-1-carboxylate
+T1140	ABBREVIATION 158418 158421	THF
+T1141	FORMULA 158422 158426	EtOH
+T1142	FORMULA 158427 158430	H2O
+T1143	FORMULA 158455 158464	LiOH. H2O
+T1144	SYSTEMATIC 158586 158603	hydrochloric acid
+T1145	TRIVIAL 158621 158626	brine
+T1146	FORMULA 158683 158688	EtOAc
+T1147	ABBREVIATION 158689 158692	THF
+T1148	TRIVIAL 158759 158764	water
+T1149	TRIVIAL 158777 158782	brine
+T1150	FORMULA 158829 158835	Na2SO4
+T1151	SYSTEMATIC 158922 158975	3-benzyl-3-azabicyclo[3.2.0]heptane-1-carboxylic acid
+T1152	ABBREVIATION 159076 159083	DMSO-d6
+T1153	SYSTEMATIC 159235 159288	3-benzyl-3-azabicyclo[3.2.0]heptane-1-carboxylic acid
+T1154	SYSTEMATIC 159313 159338	N,N-diisopropylethylamine
+T1155	SYSTEMATIC 159362 159386	diphenyl phosphorazidate
+T1156	SYSTEMATIC 159414 159430	tertiary butanol
+T1157	TRIVIAL 159559 159564	brine
+T1158	FORMULA 159579 159584	EtOAc
+T1159	TRIVIAL 159647 159652	water
+T1160	TRIVIAL 159664 159669	brine
+T1161	FORMULA 159704 159710	Na2SO4
+T1162	SYSTEMATIC 159787 159848	tert-butyl (3-benzyl-3-azabicyclo[3.2.0]heptan-1-yl)carbamate
+T1163	SYSTEMATIC 159990 160051	tert-butyl (3-benzyl-3-azabicyclo[3.2.0]heptan-1-yl)carbamate
+T1164	ABBREVIATION 160084 160087	THF
+T1165	FORMULA 160098 160107	Pd(OH)2/C
+T1166	FORMULA 160129 160131	N2
+T1167	FORMULA 160183 160185	H2
+T1168	SYSTEMATIC 160333 160383	tert-butyl 3-azabicyclo[3.2.0]heptan-1-ylcarbamate
+T1169	SYSTEMATIC 160518 160568	tert-butyl 3-azabicyclo[3.2.0]heptan-1-ylcarbamate
+T1170	SYSTEMATIC 160598 160630	isoquinoline-5-sulfonyl chloride
+T1171	SYSTEMATIC 160668 160749	tert-butyl (3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.2.0]heptan-1-yl)carbamate
+T1172	SYSTEMATIC 160950 161020	(3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.2.0]heptan-1-yl)carbamate
+T1173	SYSTEMATIC 161063 161078	dichloromethane
+T1174	ABBREVIATION 161089 161092	TFA
+T1175	SYSTEMATIC 161109 161124	dichloromethane
+T1176	FORMULA 161152 161154	N2
+T1177	SYSTEMATIC 161265 161280	dichloromethane
+T1178	FORMULA 161308 161314	NaHCO3
+T1179	TRIVIAL 161326 161331	brine
+T1180	FORMULA 161375 161381	Na2SO4
+T1181	SYSTEMATIC 161488 161550	3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.2.0]heptan-1-amine
+T1182	FORMULA 161604 161609	CD3OD
+T1183	SYSTEMATIC 161886 161947	3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-amine
+T1184	SYSTEMATIC 161960 162009	tert-butyl 3-azabicyclo[3.1.0]hexan-1-ylcarbamate
+T1185	SYSTEMATIC 162037 162069	isoquinoline-5-sulfonyl chloride
+T1186	SYSTEMATIC 162117 162198	tert-butyl (3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-yl) carbamate
+T1187	SYSTEMATIC 162351 162412	3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-amine
+T1188	SYSTEMATIC 162430 162511	tert-butyl (3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-yl) carbamate
+T1189	FORMULA 162635 162638	D2O
+T1190	SYSTEMATIC 162915 162984	N-ethyl-3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-amine
+T1191	SYSTEMATIC 163005 163090	tert-butyl ethyl(3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-yl)carbamate
+T1192	SYSTEMATIC 163109 163190	tert-butyl (3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-yl) carbamate
+T1193	SYSTEMATIC 163354 163423	N-ethyl-3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-amine
+T1194	SYSTEMATIC 163441 163526	tert-butyl ethyl(3-(isoquinolin-5-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-1-yl)carbamate
+T1195	FORMULA 163651 163654	D2O

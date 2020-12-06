@@ -1,0 +1,1039 @@
+T1	SYSTEMATIC 133672 133817	5-(tert-butyl)-N-(7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-yl)-1,2,4-oxadiazole-3-carboxamide
+T2	SYSTEMATIC 133834 133881	N-(3-bromophenethyl)-4-methylbenzenesulfonamide
+T3	SYSTEMATIC 133898 133925	2-(3-bromophenyl)ethanamine
+T4	FORMULA 133944 133950	CH2Cl2
+T5	SYSTEMATIC 133960 133973	triethylamine
+T6	FORMULA 133996 134000	TsCl
+T7	FORMULA 134093 134097	NaOH
+T8	FORMULA 134130 134136	CH2Cl2
+T9	TRIVIAL 134181 134186	water
+T10	TRIVIAL 134197 134202	brine
+T11	FORMULA 134220 134226	Na2SO4
+T12	SYSTEMATIC 134262 134309	N-(3-bromophenethyl)-4-methylbenzenesulfonamide
+T13	FORMULA 134387 134392	CDCl3
+T14	SYSTEMATIC 134633 134696	ethyl 2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetate
+T15	SYSTEMATIC 134713 134760	N-(3-bromophenethyl)-4-methylbenzenesulfonamide
+T16	FORMULA 134781 134789	(CH3)2CO
+T17	FORMULA 134799 134804	K2CO3
+T18	SYSTEMATIC 134828 134848	ethyl 2-bromoacetate
+T19	SYSTEMATIC 135024 135087	ethyl 2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetate
+T20	FORMULA 135166 135171	CDCl3
+T21	SYSTEMATIC 135431 135492	2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetic Acid
+T22	SYSTEMATIC 135510 135573	ethyl 2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetate
+T23	FORMULA 135596 135600	EtOH
+T24	FORMULA 135613 135616	H2O
+T25	FORMULA 135635 135639	NaOH
+T26	FORMULA 135778 135781	HCl
+T27	FORMULA 135820 135825	EtOAc
+T28	FORMULA 135874 135880	Na2SO4
+T29	SYSTEMATIC 135916 135977	2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetic acid
+T30	FORMULA 136057 136062	CDCl3
+T31	SYSTEMATIC 136288 136346	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-one
+T32	SYSTEMATIC 136364 136425	2-(N-(3-bromophenethyl)-4-methylphenylsulfonamido)acetic acid
+T33	FORMULA 136446 136452	CH2Cl2
+T34	FORMULA 136472 136477	SOCl2
+T35	ABBREVIATION 136501 136504	DMF
+T36	FORMULA 136674 136680	CH2Cl2
+T37	FORMULA 136717 136722	AlCl3
+T38	FORMULA 136836 136839	HCl
+T39	FORMULA 136867 136872	EtOAc
+T40	TRIVIAL 136921 136926	water
+T41	TRIVIAL 136937 136942	brine
+T42	FORMULA 136960 136966	Na2SO4
+T43	TRIVIAL 137037 137047	silica gel
+T44	FAMILY 137056 137071	petroleum ether
+T45	FORMULA 137072 137077	EtOAc
+T46	SYSTEMATIC 137091 137149	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-one
+T47	FORMULA 137229 137234	CDCl3
+T48	SYSTEMATIC 137428 137488	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T49	SYSTEMATIC 137502 137562	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T50	TRIVIAL 137625 137635	silica gel
+T51	FORMULA 137644 137650	CH2Cl2
+T52	FORMULA 137651 137655	MeOH
+T53	SYSTEMATIC 137670 137730	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T54	FORMULA 137810 137815	CDCl3
+T55	SYSTEMATIC 138052 138112	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T56	SYSTEMATIC 138126 138186	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T57	FORMULA 138209 138212	HBr
+T58	FORMULA 138213 138217	HOAc
+T59	FORMULA 138312 138317	EtOAc
+T60	SYSTEMATIC 138400 138460	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T61	FORMULA 138539 138544	CDCl3
+T62	SYSTEMATIC 138703 138778	tert-butyl 1-amino-7-bromo-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T63	SYSTEMATIC 138795 138855	7-bromo-3-tosyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-amine
+T64	SYSTEMATIC 138879 138892	triethylamine
+T65	FORMULA 138915 138921	CH2Cl2
+T66	FORMULA 138931 138936	Boc2O
+T67	FORMULA 139026 139032	CH2Cl2
+T68	TRIVIAL 139077 139082	water
+T69	TRIVIAL 139095 139100	brine
+T70	FORMULA 139117 139123	Na2SO4
+T71	SYSTEMATIC 139169 139244	tert-butyl 1-amino-7-bromo-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T72	FORMULA 139322 139327	CDCl3
+T73	SYSTEMATIC 139514 139631	tert-butyl 7-bromo-1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T74	SYSTEMATIC 139648 139703	potassium 5-(tert-butyl)-1,2,4-oxadiazole-3-carboxylate
+T75	FORMULA 139726 139732	CH2Cl2
+T76	FORMULA 139742 139749	(COCl)2
+T77	ABBREVIATION 139773 139776	DMF
+T78	FORMULA 139937 139943	CH2Cl2
+T79	SYSTEMATIC 139953 140028	tert-butyl 1-amino-7-bromo-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T80	SYSTEMATIC 140052 140065	triethylamine
+T81	FORMULA 140153 140159	CH2Cl2
+T82	TRIVIAL 140204 140209	water
+T83	TRIVIAL 140222 140227	brine
+T84	TRIVIAL 140282 140292	silica gel
+T85	ABBREVIATION 140301 140303	PE
+T86	FAMILY 140305 140320	petroleum ether
+T87	FORMULA 140322 140327	EtOAc
+T88	SYSTEMATIC 140329 140342	ethyl acetate
+T89	SYSTEMATIC 140357 140475	tert-butyl 7-bromo-1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[d]azepine-3 (2H)-carboxylate
+T90	FORMULA 140557 140562	CD3OD
+T91	SYSTEMATIC 140792 140820	2-chloro-4-methoxypyrimidine
+T92	SYSTEMATIC 140838 140860	2,4-dichloropyrimidine
+T93	FORMULA 140881 140885	MeOH
+T94	FORMULA 140932 140937	NaOMe
+T95	FORMULA 140961 140965	MeOH
+T96	TRIVIAL 141148 141153	water
+T97	FORMULA 141192 141197	EtOAc
+T98	FORMULA 141241 141247	Na2SO4
+T99	SYSTEMATIC 141283 141311	2-chloro-4-methoxypyrimidine
+T100	FORMULA 141396 141401	CDCl3
+T101	SYSTEMATIC 141485 141540	4-methoxy-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T102	SYSTEMATIC 141558 141586	2-chloro-4-methoxypyrimidine
+T103	SYSTEMATIC 141608 141615	dioxane
+T104	SYSTEMATIC 141632 141672	1-methyl-1H-pyazol-4-amine hydrochloride
+T105	FORMULA 141692 141698	Cs2CO3
+T106	IDENTIFIER 141719 141725	S-Phos
+T107	FORMULA 141749 141758	Pd2(dba)3
+T108	FORMULA 141829 141831	N2
+T109	TRIVIAL 141897 141902	water
+T110	FORMULA 141987 141992	EtOAc
+T111	TRIVIAL 142047 142052	brine
+T112	FORMULA 142067 142073	Na2SO4
+T113	TRIVIAL 142128 142138	silica gel
+T114	ABBREVIATION 142155 142157	PE
+T115	FORMULA 142158 142163	EtOAc
+T116	SYSTEMATIC 142184 142239	4-methoxy-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T117	SYSTEMATIC 142314 142368	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T118	SYSTEMATIC 142372 142427	4-methoxy-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T119	FORMULA 142456 142459	HBr
+T120	FORMULA 142614 142619	POCl3
+T121	TRIVIAL 142795 142800	Water
+T122	FORMULA 142895 142899	NaOH
+T123	FORMULA 142950 142955	EtOAc
+T124	TRIVIAL 143011 143016	brine
+T125	FORMULA 143031 143037	Na2SO4
+T126	TRIVIAL 143092 143102	silica gel
+T127	ABBREVIATION 143119 143121	PE
+T128	FORMULA 143122 143127	EtOAc
+T129	SYSTEMATIC 143148 143202	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T130	SYSTEMATIC 143280 143443	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T131	SYSTEMATIC 143460 143577	tert-butyl 7-bromo-1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T132	SYSTEMATIC 143602 143611	PinB-BPin
+T133	SYSTEMATIC 143638 143649	1,4-dioxane
+T134	FORMULA 143659 143663	KOAc
+T135	FORMULA 143688 143706	Pd(dppf)Cl2.CH2Cl2
+T136	FORMULA 143750 143752	N2
+T137	FORMULA 143804 143806	N2
+T138	SYSTEMATIC 143828 143882	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T139	FORMULA 143904 143909	K2CO3
+T140	FORMULA 143934 143937	H2O
+T141	FORMULA 144009 144011	N2
+T142	TRIVIAL 144078 144088	silica gel
+T143	FORMULA 144097 144103	CH2Cl2
+T144	ABBREVIATION 144104 144106	PE
+T145	FORMULA 144107 144112	EtOAc
+T146	SYSTEMATIC 144128 144291	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T147	FORMULA 144371 144376	CD3OD
+T148	SYSTEMATIC 144645 144790	5-(tert-butyl)-N-(7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-yl)-1,2,4-oxadiazole-3-carboxamide
+T149	ABBREVIATION 144808 144811	TFA
+T150	FORMULA 144822 144828	CH2Cl2
+T151	SYSTEMATIC 144846 145009	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T152	FORMULA 145115 145120	CH3CN
+T153	TRIVIAL 145121 145126	water
+T154	FORMULA 145127 145134	NH4HCO3
+T155	SYSTEMATIC 145167 145312	5-(tert-butyl)-N-(7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[d]azepin-1-yl)-1,2,4-oxadiazole-3-carboxamide
+T156	FORMULA 145374 145379	CD3OD
+T157	SYSTEMATIC 145618 145783	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T158	SYSTEMATIC 145824 145874	3-(3-Bromo-benzylamino)-propionic acid ethyl ester
+T159	SYSTEMATIC 145892 145915	ethyl 3-aminopropanoate
+T160	SYSTEMATIC 145938 145957	3-bromobenzaldehyde
+T161	FORMULA 145979 145983	MeOH
+T162	SYSTEMATIC 146003 146016	triethylamine
+T163	FORMULA 146039 146046	NaCNBH3
+T164	TRIVIAL 146208 146213	water
+T165	FORMULA 146255 146260	EtOAc
+T166	TRIVIAL 146316 146321	brine
+T167	FORMULA 146353 146359	Na2SO4
+T168	SYSTEMATIC 146404 146454	3-(3-bromo-benzylamino)-propionic acid ethyl ester
+T169	ABBREVIATION 146507 146514	DMSO-d6
+T170	SYSTEMATIC 146713 146787	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid ethyl ester
+T171	SYSTEMATIC 146805 146855	3-(3-bromo-benzylamino)-propionic acid ethyl ester
+T172	SYSTEMATIC 146878 146886	pyridine
+T173	TRIVIAL 147111 147121	silica gel
+T174	FAMILY 147123 147138	petroleum ether
+T175	FORMULA 147139 147144	EtOAc
+T176	SYSTEMATIC 147168 147242	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid ethyl ester
+T177	ABBREVIATION 147293 147300	DMSO-d6
+T178	SYSTEMATIC 147523 147585	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid
+T179	SYSTEMATIC 147603 147677	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid ethyl ester
+T180	FORMULA 147719 147723	EtOH
+T181	FORMULA 147737 147740	H2O
+T182	FORMULA 147759 147763	NaOH
+T183	FORMULA 147932 147935	HCl
+T184	FORMULA 148018 148023	EtOAc
+T185	FORMULA 148069 148075	Na2SO4
+T186	SYSTEMATIC 148121 148183	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid
+T187	ABBREVIATION 148233 148240	DMSO-d6
+T188	SYSTEMATIC 148431 148497	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionyl chloride
+T189	SYSTEMATIC 148515 148577	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionic acid
+T190	FORMULA 148600 148606	CH2Cl2
+T191	ABBREVIATION 148637 148640	DMF
+T192	SYSTEMATIC 148652 148667	oxalyl chloride
+T193	SYSTEMATIC 148810 148876	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionyl chloride
+T194	SYSTEMATIC 148993 149063	8-Bromo-2-(toluene-4-sulfonyl)-1,2,3,4-tetrahydro-benzo[c]azepin-5-one
+T195	SYSTEMATIC 149081 149147	3-[(3-Bromo-benzyl)-(toluene-4-sulfonyl)-amino]-propionyl chloride
+T196	FORMULA 149180 149186	CH2Cl2
+T197	FORMULA 149207 149212	AlCl3
+T198	TRIVIAL 149345 149350	water
+T199	TRIVIAL 149518 149528	silica gel
+T200	FAMILY 149530 149545	petroleum ether
+T201	FORMULA 149546 149551	EtOAc
+T202	SYSTEMATIC 149574 149644	8-bromo-2-(toluene-4-sulfonyl)-1,2,3,4-tetrahydro-benzo[c]azepin-5-one
+T203	ABBREVIATION 149690 149697	DMSO-d6
+T204	SYSTEMATIC 149872 149977	[8-Bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl]-carbamic acid tert-butyl ester
+T205	SYSTEMATIC 149995 150065	8-bromo-2-(toluene-4-sulfonyl)-1,2,3,4-tetrahydro-benzo[c]azepin-5-one
+T206	FORMULA 150088 150092	EtOH
+T207	FORMULA 150113 150119	NH4OAc
+T208	FORMULA 150143 150150	NaCNBH3
+T209	TRIVIAL 150280 150285	water
+T210	FORMULA 150304 150308	EtOH
+T211	FORMULA 150362 150368	CH2Cl2
+T212	FORMULA 150451 150457	CH2Cl2
+T213	SYSTEMATIC 150482 150495	triethylamine
+T214	FORMULA 150519 150526	(Boc)2O
+T215	TRIVIAL 150708 150718	silica gel
+T216	FAMILY 150720 150735	petroleum ether
+T217	FORMULA 150736 150741	EtOAc
+T218	SYSTEMATIC 150764 150869	[8-bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl]-carbamic acid tert-butyl ester
+T219	ABBREVIATION 150917 150924	DMSO d6
+T220	SYSTEMATIC 151215 151292	8-Bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-ylamine
+T221	SYSTEMATIC 151307 151412	[8-bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl]-carbamic acid tert-butyl ester
+T222	FORMULA 151435 151438	HCl
+T223	FORMULA 151439 151444	EtOAc
+T224	FORMULA 151534 151538	MeOH
+T225	FORMULA 151543 151547	Et2O
+T226	SYSTEMATIC 151568 151645	8-bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-ylamine
+T227	ABBREVIATION 151693 151700	DMSO-d6
+T228	SYSTEMATIC 151978 152030	8-bromo-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-amine
+T229	SYSTEMATIC 152045 152122	8-bromo-2-(toluene-4-sulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-ylamine
+T230	FORMULA 152146 152149	HBr
+T231	SYSTEMATIC 152167 152178	acetic acid
+T232	FORMULA 152263 152268	EtOAc
+T233	SYSTEMATIC 152365 152417	8-bromo-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-amine
+T234	FORMULA 152519 152524	CD3OD
+T235	SYSTEMATIC 152714 152789	tert-butyl 5-amino-8-bromo-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T236	SYSTEMATIC 152807 152859	8-bromo-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-amine
+T237	SYSTEMATIC 152884 152897	triethylamine
+T238	FORMULA 152920 152926	CH2Cl2
+T239	FORMULA 152946 152952	Boc)2O
+T240	FORMULA 153033 153039	CH2Cl2
+T241	TRIVIAL 153078 153083	brine
+T242	FORMULA 153182 153187	CH3CN
+T243	FORMULA 153188 153191	H2O
+T244	FORMULA 153203 153210	NH3.H2O
+T245	SYSTEMATIC 153236 153311	tert-butyl 5-amino-8-bromo-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T246	SYSTEMATIC 153398 153515	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T247	SYSTEMATIC 153529 153646	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T248	SYSTEMATIC 153670 153787	tert-butyl 7-bromo-1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T249	FORMULA 153855 153860	CH3CN
+T250	FORMULA 153861 153864	H2O
+T251	FORMULA 153876 153883	NH4HCO3
+T252	SYSTEMATIC 153909 154026	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T253	SYSTEMATIC 154111 154274	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T254	SYSTEMATIC 154288 154451	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T255	SYSTEMATIC 154475 154638	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T256	TRIVIAL 154696 154706	silica gel
+T257	FORMULA 154729 154734	EtOAc
+T258	FORMULA 154735 154739	MeOH
+T259	SYSTEMATIC 154754 154917	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T260	FORMULA 154994 154999	CD3OD
+T261	SYSTEMATIC 155269 155414	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T262	SYSTEMATIC 155432 155595	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T263	FORMULA 155618 155624	CH2Cl2
+T264	ABBREVIATION 155642 155645	TFA
+T265	SYSTEMATIC 155850 156011	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T266	SYSTEMATIC 156029 156174	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T267	SYSTEMATIC 156199 156221	dihydrofuran-3(2H)-one
+T268	FORMULA 156244 156248	MeOH
+T269	FORMULA 156268 156275	NaBH3CN
+T270	FORMULA 156299 156304	ZnCl2
+T271	TRIVIAL 156402 156407	water
+T272	FORMULA 156448 156453	EtOAc
+T273	FORMULA 156508 156511	H2O
+T274	FORMULA 156583 156588	CH3CN
+T275	FORMULA 156589 156592	H2O
+T276	FORMULA 156604 156611	NH4HCO3
+T277	SYSTEMATIC 156637 156798	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T278	FORMULA 156878 156883	CD3OD
+T279	SYSTEMATIC 157182 157347	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T280	SYSTEMATIC 157348 157509	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T281	SYSTEMATIC 157563 157571	methanol
+T282	FORMULA 157572 157575	CO2
+T283	SYSTEMATIC 157632 157640	methanol
+T284	SYSTEMATIC 157778 157944	5-tert-butyl-1,2,4-oxadiazole-3-carboxylic acid {(R)-8-[2-(1-methyl-1H-pyrazol-4-ylamino)-pyrimidin-4-yl]-2-oxetan-3-yl-2,3,4,5-tetrahydro-1H-2-benzazepin-5-yl}-amide
+T285	SYSTEMATIC 157994 158005	METHANOL-d4
+T286	SYSTEMATIC 158268 158343	tert-butyl 5-amino-8-bromo-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T287	SYSTEMATIC 158352 158434	tert-butyl (R)-5-amino-8-bromo-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T288	SYSTEMATIC 158449 158520	(11bS)-4-hydroxydinaphtho[2,1-d:1′,2′-f][1,3,2]dioxaphosphepine 4-oxide
+T289	SYSTEMATIC 158530 158605	tert-butyl 5-amino-8-bromo-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T290	FORMULA 158634 158638	MeOH
+T291	SYSTEMATIC 158651 158702	(S)-(−)-1,1′-binaphthyl-2,2′-diyl hydrogenphosphate
+T292	FORMULA 158910 158914	IPAc
+T293	FORMULA 159094 159098	IPAc
+T294	FORMULA 159279 159283	IPAc
+T295	SYSTEMATIC 159324 159406	tert-butyl (R)-5-amino-8-bromo-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T296	SYSTEMATIC 159421 159492	(11bS)-4-hydroxydinaphtho[2,1-d:1′,2′-f][1,3,2]dioxaphosphepine 4-oxide
+T297	SYSTEMATIC 159680 159804	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T298	SYSTEMATIC 159822 159877	potassium 5-(tert-butyl)-1,2,4-oxadiazole-3-carboxylate
+T299	SYSTEMATIC 159901 159916	oxalyl chloride
+T300	FORMULA 159937 159943	CH2Cl2
+T301	ABBREVIATION 159962 159965	DMF
+T302	FORMULA 160058 160064	CH2Cl2
+T303	FORMULA 160101 160107	CH2Cl2
+T304	SYSTEMATIC 160120 160202	tert-butyl (R)-5-amino-8-bromo-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T305	SYSTEMATIC 160217 160288	(11bR)-4-hydroxydinaphtho[2,1-d:1′,2′-f][1,3,2]dioxaphosphepine 4-oxide
+T306	SYSTEMATIC 160317 160330	triethylamine
+T307	TRIVIAL 160466 160476	silica gel
+T308	ABBREVIATION 160494 160496	PE
+T309	FORMULA 160497 160502	EtOAc
+T310	SYSTEMATIC 160516 160640	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T311	FORMULA 160720 160725	CDCl3
+T312	SYSTEMATIC 160931 161101	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T313	SYSTEMATIC 161115 161285	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T314	SYSTEMATIC 161309 161472	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T315	TRIVIAL 161531 161541	silica gel
+T316	FORMULA 161558 161563	EtOAc
+T317	FORMULA 161564 161568	MeOH
+T318	SYSTEMATIC 161583 161753	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T319	SYSTEMATIC 161831 161980	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T320	SYSTEMATIC 161998 162168	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T321	FORMULA 162190 162196	CH2Cl2
+T322	ABBREVIATION 162215 162218	TFA
+T323	SYSTEMATIC 162455 162620	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T324	SYSTEMATIC 162643 162808	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T325	SYSTEMATIC 162832 162993	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T326	TRIVIAL 163067 163077	silica gel
+T327	FORMULA 163094 163099	EtOAc
+T328	FORMULA 163100 163104	MeOH
+T329	SYSTEMATIC 163119 163284	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T330	FORMULA 163360 163365	CD3OD
+T331	SYSTEMATIC 163652 163816	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T332	SYSTEMATIC 163847 163992	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T333	FORMULA 164016 164021	CH3CN
+T334	SYSTEMATIC 164041 164054	2-iodoethanol
+T335	FORMULA 164079 164084	K2CO3
+T336	FORMULA 164178 164183	EtOAc
+T337	TRIVIAL 164206 164211	water
+T338	FORMULA 164283 164288	CH3CN
+T339	FORMULA 164289 164292	H2O
+T340	FORMULA 164304 164311	NH4HCO3
+T341	SYSTEMATIC 164337 164501	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T342	FORMULA 164580 164585	CD3OD
+T343	SYSTEMATIC 164877 165041	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T344	SYSTEMATIC 165068 165232	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T345	SYSTEMATIC 165256 165420	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T346	FORMULA 165481 165486	CH3CN
+T347	FORMULA 165487 165490	H2O
+T348	FORMULA 165502 165509	NH4HCO3
+T349	SYSTEMATIC 165535 165699	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T350	FORMULA 165778 165783	CDCl3
+T351	SYSTEMATIC 166074 166235	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T352	SYSTEMATIC 166266 166411	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T353	SYSTEMATIC 166436 166458	dihydrofuran-3(2H)-one
+T354	FORMULA 166481 166485	MeOH
+T355	FORMULA 166505 166512	NaBH3CN
+T356	FORMULA 166536 166541	ZnCl2
+T357	TRIVIAL 166639 166644	water
+T358	FORMULA 166685 166690	EtOAc
+T359	FORMULA 166745 166748	H2O
+T360	FORMULA 166820 166825	CH3CN
+T361	FORMULA 166826 166829	H2O
+T362	FORMULA 166841 166848	NH4HCO3
+T363	SYSTEMATIC 166874 167035	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T364	FORMULA 167115 167120	CD3OD
+T365	SYSTEMATIC 167407 167576	5-(tert-butyl)-N-(2-(3-hydroxycyclobutyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T366	SYSTEMATIC 167603 167772	5-(tert-butyl)-N-(2-(3-hydroxycyclobutyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T367	SYSTEMATIC 167796 167957	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T368	TRIVIAL 168006 168016	silica gel
+T369	FORMULA 168033 168038	EtOAc
+T370	FORMULA 168039 168043	MeOH
+T371	SYSTEMATIC 168058 168227	5-(tert-butyl)-N-(2-(3-hydroxycyclobutyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T372	FORMULA 168307 168312	CD3OD
+T373	SYSTEMATIC 168614 168774	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T374	SYSTEMATIC 168804 168858	4-methoxy-N-(1-ethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T375	SYSTEMATIC 168872 168927	4-methoxy-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T376	SYSTEMATIC 168951 169006	4-methoxy-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T377	TRIVIAL 169065 169075	silica gel
+T378	ABBREVIATION 169092 169094	PE
+T379	FORMULA 169095 169100	EtOAc
+T380	SYSTEMATIC 169114 169168	4-methoxy-N-(1-ethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T381	SYSTEMATIC 169244 169298	4-chloro-N-(1-eethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T382	SYSTEMATIC 169302 169356	4-methoxy-N-(1-ethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T383	FORMULA 169386 169389	HBr
+T384	FORMULA 169542 169547	POCl3
+T385	TRIVIAL 169719 169728	ice-water
+T386	FORMULA 169787 169791	NaOH
+T387	FORMULA 169842 169847	EtOAc
+T388	TRIVIAL 169904 169909	brine
+T389	FORMULA 169927 169933	Na2SO4
+T390	TRIVIAL 169988 169998	silica gel
+T391	ABBREVIATION 170015 170017	PE
+T392	FORMULA 170018 170023	EtOAc
+T393	SYSTEMATIC 170037 170090	4-chloro-N-(1-ethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T394	SYSTEMATIC 170168 170333	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T395	SYSTEMATIC 170350 170470	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T396	SYSTEMATIC 170495 170504	PinB-BPin
+T397	SYSTEMATIC 170532 170543	1,4-dioxane
+T398	FORMULA 170553 170557	KOAc
+T399	FORMULA 170582 170600	Pd(dppf)Cl2.CH2Cl2
+T400	FORMULA 170645 170647	N2
+T401	FORMULA 170699 170701	N2
+T402	SYSTEMATIC 170723 170776	4-chloro-N-(1-ethyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T403	FORMULA 170798 170803	K2CO3
+T404	FORMULA 170825 170843	Pd(dppf)Cl2.CH2Cl2
+T405	FORMULA 170867 170870	H2O
+T406	FORMULA 170940 170942	N2
+T407	TRIVIAL 171009 171019	silica gel
+T408	ABBREVIATION 171028 171030	PE
+T409	FORMULA 171031 171036	EtOAc
+T410	SYSTEMATIC 171050 171215	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T411	SYSTEMATIC 171300 171444	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T412	SYSTEMATIC 171462 171627	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T413	FORMULA 171651 171657	CH2Cl2
+T414	ABBREVIATION 171675 171678	TFA
+T415	SYSTEMATIC 171877 172037	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T416	SYSTEMATIC 172063 172207	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T417	SYSTEMATIC 172232 172254	dihydrofuran-3(2H)-one
+T418	FORMULA 172278 172282	MeOH
+T419	FORMULA 172302 172309	NaBH3CN
+T420	FORMULA 172333 172338	ZnCl2
+T421	TRIVIAL 172436 172441	water
+T422	FORMULA 172482 172487	EtOAc
+T423	FORMULA 172542 172545	H2O
+T424	FORMULA 172616 172622	CH2Cl2
+T425	FORMULA 172623 172627	MeOH
+T426	SYSTEMATIC 172642 172802	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T427	FORMULA 172881 172886	CDCl3
+T428	SYSTEMATIC 173221 173395	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T429	SYSTEMATIC 173422 173596	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T430	SYSTEMATIC 173620 173794	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T431	FORMULA 173863 173868	CH3CN
+T432	FORMULA 173869 173872	H2O
+T433	FORMULA 173884 173891	NH4HCO3
+T434	SYSTEMATIC 173917 174091	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T435	FORMULA 174170 174175	CD3OD
+T436	SYSTEMATIC 174471 174643	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2-hydroxyethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T437	SYSTEMATIC 174673 174837	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T438	SYSTEMATIC 174851 174975	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T439	SYSTEMATIC 174996 175055	4,4,4′,4′,5,5,5′,5′-octamethyl-2,2′-bi(1,3,2-dioxaborolane)
+T440	FORMULA 175077 175081	KOAc
+T441	FORMULA 175106 175121	Pd(dppf)Cl2.DCM
+T442	SYSTEMATIC 175151 175162	1,4-dioxane
+T443	SYSTEMATIC 175199 175207	nitrogen
+T444	FORMULA 175273 175278	EtOAc
+T445	TRIVIAL 175301 175306	water
+T446	FORMULA 175329 175335	Na2SO4
+T447	SYSTEMATIC 175361 175525	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T448	SYSTEMATIC 175627 175770	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-chloropyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T449	SYSTEMATIC 175784 175948	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T450	SYSTEMATIC 175970 175992	2,4-dichloropyrimidine
+T451	FORMULA 176014 176025	Pd(dppf)Cl2
+T452	FORMULA 176050 176055	K2CO3
+T453	SYSTEMATIC 176088 176095	dioxane
+T454	FORMULA 176096 176099	H2O
+T455	FORMULA 176143 176145	N2
+T456	TRIVIAL 176214 176224	silica-gel
+T457	FORMULA 176241 176247	CH2Cl2
+T458	FORMULA 176248 176252	MeOH
+T459	SYSTEMATIC 176267 176410	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-chloropyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T460	SYSTEMATIC 176503 176677	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T461	SYSTEMATIC 176691 176834	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-chloropyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T462	SYSTEMATIC 176856 176887	1,5-dimethyl-1H-pyrazol-4-amine
+T463	FORMULA 176909 176915	Cs2CO3
+T464	FORMULA 176937 176946	Pd2(dba)3
+T465	IDENTIFIER 176971 176977	S-Phos
+T466	SYSTEMATIC 177007 177018	1,4-dioxane
+T467	SYSTEMATIC 177056 177064	nitrogen
+T468	FORMULA 177095 177100	EtOAc
+T469	TRIVIAL 177126 177131	water
+T470	FORMULA 177176 177182	Na2SO4
+T471	TRIVIAL 177235 177245	silica gel
+T472	ABBREVIATION 177262 177265	DCM
+T473	FORMULA 177266 177270	MeOH
+T474	SYSTEMATIC 177285 177459	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T475	FORMULA 177539 177544	CDCl3
+T476	SYSTEMATIC 177854 178007	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T477	SYSTEMATIC 178021 178174	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T478	SYSTEMATIC 178192 178337	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T479	SYSTEMATIC 178459 178631	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2-hydroxyethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T480	SYSTEMATIC 178645 178817	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2-hydroxyethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T481	SYSTEMATIC 178841 179005	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T482	TRIVIAL 179055 179065	silica gel
+T483	FORMULA 179082 179088	CH2Cl2
+T484	FORMULA 179089 179093	MeOH
+T485	SYSTEMATIC 179108 179280	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2-hydroxyethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T486	FORMULA 179358 179363	CD3OD
+T487	SYSTEMATIC 179665 179835	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T488	SYSTEMATIC 179863 180033	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T489	FORMULA 180132 180137	CH3CN
+T490	FORMULA 180138 180141	H2O
+T491	FORMULA 180153 180160	NH4HCO3
+T492	SYSTEMATIC 180186 180356	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T493	FORMULA 180435 180440	CD3OD
+T494	SYSTEMATIC 180714 180888	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T495	SYSTEMATIC 180919 181089	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T496	SYSTEMATIC 181103 181273	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T497	SYSTEMATIC 181297 181460	tert-butyl 1-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-7-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[d]azepine-3(2H)-carboxylate
+T498	TRIVIAL 181519 181529	silica gel
+T499	FORMULA 181546 181551	EtOAc
+T500	FORMULA 181552 181556	MeOH
+T501	SYSTEMATIC 181571 181741	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T502	SYSTEMATIC 181819 181968	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T503	SYSTEMATIC 181986 182156	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T504	FORMULA 182178 182184	CH2Cl2
+T505	ABBREVIATION 182203 182206	TFA
+T506	SYSTEMATIC 182443 182617	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T507	SYSTEMATIC 182635 182784	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T508	FORMULA 182807 182812	CH3CN
+T509	SYSTEMATIC 182831 182877	2,2,2-trifluoroethyl trifluoromethanesulfonate
+T510	ABBREVIATION 182900 182905	DIPEA
+T511	ABBREVIATION 183039 183042	DCM
+T512	FORMULA 183043 183047	MeOH
+T513	SYSTEMATIC 183062 183236	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T514	FORMULA 183315 183320	CD3OD
+T515	SYSTEMATIC 183622 183796	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T516	SYSTEMATIC 183833 183950	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T517	SYSTEMATIC 183968 184023	potassium 5-(tert-butyl)-1,3,4-oxadiazole-2-carboxylate
+T518	ABBREVIATION 184046 184050	HATU
+T519	ABBREVIATION 184072 184075	DMF
+T520	SYSTEMATIC 184095 184108	triethylamine
+T521	SYSTEMATIC 184133 184208	tert-butyl 5-amino-8-bromo-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T522	TRIVIAL 184287 184292	water
+T523	FORMULA 184333 184338	EtOAc
+T524	TRIVIAL 184390 184395	brine
+T525	TRIVIAL 184464 184474	silica gel
+T526	ABBREVIATION 184497 184499	PE
+T527	FORMULA 184500 184505	EtOAc
+T528	SYSTEMATIC 184519 184636	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T529	FORMULA 184716 184721	CD3OD
+T530	SYSTEMATIC 184933 185096	tert-butyl 5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T531	SYSTEMATIC 185110 185227	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T532	SYSTEMATIC 185247 185256	PinB-BPin
+T533	FORMULA 185278 185282	KOAc
+T534	FORMULA 185306 185324	Pd(dppf)Cl2.CH2Cl2
+T535	SYSTEMATIC 185358 185369	1,4-dioxane
+T536	SYSTEMATIC 185407 185415	nitrogen
+T537	SYSTEMATIC 185453 185507	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T538	FORMULA 185529 185547	Pd(dppf)Cl2.CH2Cl2
+T539	FORMULA 185569 185574	K2CO3
+T540	FORMULA 185597 185600	H2O
+T541	FORMULA 185714 185719	EtOAc
+T542	TRIVIAL 185742 185747	water
+T543	FORMULA 185770 185776	Na2SO4
+T544	TRIVIAL 185830 185840	silica gel
+T545	FORMULA 185864 185869	EtOAc
+T546	FORMULA 185870 185874	MeOH
+T547	SYSTEMATIC 185889 186052	tert-butyl 5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T548	FORMULA 186129 186134	CD3OD
+T549	SYSTEMATIC 186364 186509	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T550	SYSTEMATIC 186527 186690	tert-butyl 5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T551	FORMULA 186714 186720	CH2Cl2
+T552	ABBREVIATION 186738 186741	TFA
+T553	SYSTEMATIC 186996 187170	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T554	SYSTEMATIC 187188 187333	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T555	SYSTEMATIC 187358 187377	dihydro-pyran-4-one
+T556	FORMULA 187401 187405	MeOH
+T557	FORMULA 187425 187432	NaBH3CN
+T558	FORMULA 187457 187464	CH3COOH
+T559	FORMULA 187580 187585	NH4OH
+T560	FORMULA 187653 187658	CH3CN
+T561	FORMULA 187659 187662	H2O
+T562	FORMULA 187674 187681	NH4HCO3
+T563	SYSTEMATIC 187707 187881	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T564	FORMULA 187959 187964	CD3OD
+T565	SYSTEMATIC 188271 188432	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T566	SYSTEMATIC 188460 188621	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T567	SYSTEMATIC 188645 188819	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(tetrahydro-2H-pyran-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T568	FORMULA 188879 188884	CH3CN
+T569	FORMULA 188885 188888	H2O
+T570	FORMULA 188900 188907	NH4HCO3
+T571	SYSTEMATIC 188933 189094	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T572	FORMULA 189173 189178	CD3OD
+T573	SYSTEMATIC 189500 189665	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T574	SYSTEMATIC 189685 189850	(S)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T575	SYSTEMATIC 189875 190037	5-tert-Butyl-1,3,4-oxadiazole-2-carboxylic acid {8-[2-(1-methyl-1H-pyrazol-4-ylamino)-pyrimidin-4-yl]-2-oxetan-3-yl-2,3,4,5-tetrahydro-1H-2-benzazepin-5-yl}-amide
+T576	SYSTEMATIC 190100 190108	methanol
+T577	ABBREVIATION 190115 190118	DEA
+T578	FORMULA 190120 190123	CO2
+T579	SYSTEMATIC 190180 190188	methanol
+T580	SYSTEMATIC 190322 190488	5-tert-butyl-1,3,4-oxadiazole-2-carboxylic acid {(R)-8-[2-(1-methyl-1H-pyrazol-4-ylamino)-pyrimidin-4-yl]-2-oxetan-3-yl-2,3,4,5-tetrahydro-1H-2-benzazepin-5-yl}-amide
+T581	SYSTEMATIC 190537 190548	METHANOL-d4
+T582	SYSTEMATIC 190853 191019	5-tert-butyl-1,3,4-oxadiazole-2-carboxylic acid {(S)-8-[2-(1-methyl-1H-pyrazol-4-ylamino)-pyrimidin-4-yl]-2-oxetan-3-yl-2,3,4,5-tetrahydro-1H-2-benzazepin-5-yl}-amide
+T583	SYSTEMATIC 191068 191079	METHANOL-d4
+T584	SYSTEMATIC 191375 191499	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T585	SYSTEMATIC 191517 191599	tert-butyl (R)-5-amino-8-bromo-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T586	SYSTEMATIC 191622 191635	triethylamine
+T587	ABBREVIATION 191658 191661	DCM
+T588	ABBREVIATION 191682 191686	HATU
+T589	SYSTEMATIC 191709 191764	potassium 5-(tert-butyl)-1,3,4-oxadiazole-2-carboxylate
+T590	TRIVIAL 191829 191834	water
+T591	ABBREVIATION 191889 191892	DCM
+T592	TRIVIAL 191990 192000	silica gel
+T593	FAMILY 192024 192039	petroleum ether
+T594	FORMULA 192040 192045	EtOAc
+T595	SYSTEMATIC 192059 192183	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T596	SYSTEMATIC 192258 192422	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T597	SYSTEMATIC 192436 192560	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T598	SYSTEMATIC 192581 192603	bis(pinocolato)diboron
+T599	FORMULA 192625 192629	KOAc
+T600	FORMULA 192654 192669	Pd(dppf)Cl2.DCM
+T601	SYSTEMATIC 192699 192710	1,4-dioxane
+T602	SYSTEMATIC 192747 192755	nitrogen
+T603	FORMULA 192807 192812	EtOAc
+T604	TRIVIAL 192835 192840	water
+T605	FORMULA 192863 192869	Na2SO4
+T606	SYSTEMATIC 192906 193070	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T607	SYSTEMATIC 193154 193324	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T608	SYSTEMATIC 193338 193502	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T609	SYSTEMATIC 193524 193578	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T610	FORMULA 193600 193611	Pd(dppf)Cl2
+T611	FORMULA 193635 193640	K2CO3
+T612	SYSTEMATIC 193662 193669	dioxane
+T613	FORMULA 193670 193673	H2O
+T614	FORMULA 193739 193741	N2
+T615	TRIVIAL 193827 193837	silica-gel
+T616	FORMULA 193854 193859	EtOAc
+T617	ABBREVIATION 193860 193862	PE
+T618	SYSTEMATIC 193876 194046	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T619	SYSTEMATIC 194124 194273	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T620	SYSTEMATIC 194291 194461	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T621	ABBREVIATION 194484 194487	DCM
+T622	ABBREVIATION 194506 194509	TFA
+T623	FORMULA 194656 194660	MeOH
+T624	SYSTEMATIC 194703 194710	ammonia
+T625	TRIVIAL 194717 194722	water
+T626	ABBREVIATION 194776 194779	DCM
+T627	FORMULA 194780 194784	MeOH
+T628	SYSTEMATIC 194871 195020	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T629	SYSTEMATIC 195157 195322	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T630	SYSTEMATIC 195349 195498	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T631	SYSTEMATIC 195522 195534	oxetan-3-one
+T632	FORMULA 195557 195561	MeOH
+T633	FORMULA 195580 195587	NaBH3CN
+T634	FORMULA 195612 195617	ZnCl2
+T635	FORMULA 195721 195724	H2O
+T636	ABBREVIATION 195765 195768	DCM
+T637	FORMULA 195769 195773	MeOH
+T638	TRIVIAL 195886 195896	silica-gel
+T639	ABBREVIATION 195913 195916	DCM
+T640	FORMULA 195917 195921	MeOH
+T641	SYSTEMATIC 195944 196109	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T642	FORMULA 196188 196193	CDCl3
+T643	SYSTEMATIC 196472 196636	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T644	SYSTEMATIC 196668 196813	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T645	FORMULA 196837 196843	CH2Cl2
+T646	FORMULA 196863 196867	MsCl
+T647	SYSTEMATIC 196890 196903	triethylamine
+T648	FORMULA 196992 196998	CH2Cl2
+T649	TRIVIAL 197021 197026	brine
+T650	FORMULA 197099 197104	CH3CN
+T651	FORMULA 197105 197108	H2O
+T652	FORMULA 197120 197127	NH4HCO3
+T653	SYSTEMATIC 197153 197317	5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(methylsulfonyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T654	ABBREVIATION 197397 197404	DMSO-d6
+T655	SYSTEMATIC 197755 197926	(R)-5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T656	SYSTEMATIC 197957 198081	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T657	SYSTEMATIC 198099 198181	tert-butyl (R)-5-amino-8-bromo-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T658	SYSTEMATIC 198204 198217	triethylamine
+T659	ABBREVIATION 198240 198243	DCM
+T660	ABBREVIATION 198264 198268	HATU
+T661	SYSTEMATIC 198291 198346	potassium 5-(tert-butyl)-1,3,4-oxadiazole-2-carboxylate
+T662	TRIVIAL 198411 198416	water
+T663	ABBREVIATION 198471 198474	DCM
+T664	TRIVIAL 198572 198582	silica gel
+T665	FAMILY 198606 198621	petroleum ether
+T666	FORMULA 198622 198627	EtOAc
+T667	SYSTEMATIC 198641 198765	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T668	SYSTEMATIC 198840 199004	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T669	SYSTEMATIC 199018 199142	tert-butyl (R)-8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T670	SYSTEMATIC 199163 199185	bis(pinocolato)diboron
+T671	FORMULA 199207 199211	KOAc
+T672	FORMULA 199236 199251	Pd(dppf)Cl2.DCM
+T673	SYSTEMATIC 199281 199292	1,4-dioxane
+T674	SYSTEMATIC 199329 199337	nitrogen
+T675	FORMULA 199389 199394	EtOAc
+T676	TRIVIAL 199417 199422	water
+T677	FORMULA 199445 199451	Na2SO4
+T678	SYSTEMATIC 199488 199652	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T679	SYSTEMATIC 199736 199879	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-chloropyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T680	SYSTEMATIC 199893 200081	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate, 2,4-dichloropyrimidine
+T681	FORMULA 200103 200108	K2CO3
+T682	FORMULA 200132 200147	Pd(dppf)Cl2.DCM
+T683	SYSTEMATIC 200177 200188	1,4-dioxane
+T684	TRIVIAL 200198 200203	water
+T685	SYSTEMATIC 200241 200249	nitrogen
+T686	FORMULA 200279 200284	EtOAc
+T687	TRIVIAL 200310 200315	water
+T688	FORMULA 200360 200366	Na2SO4
+T689	TRIVIAL 200419 200429	silica gel
+T690	ABBREVIATION 200453 200456	DCM
+T691	FORMULA 200457 200461	MeOH
+T692	SYSTEMATIC 200476 200619	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-chloropyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T693	SYSTEMATIC 200711 200884	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T694	SYSTEMATIC 200898 201071	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T695	SYSTEMATIC 201095 201269	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T696	TRIVIAL 201325 201335	silica gel
+T697	FORMULA 201359 201364	EtOAc
+T698	FAMILY 201365 201380	petroleum ether
+T699	SYSTEMATIC 201394 201567	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T700	SYSTEMATIC 201646 201798	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T701	SYSTEMATIC 201812 201964	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T702	SYSTEMATIC 201988 202141	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T703	SYSTEMATIC 202169 202321	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T704	SYSTEMATIC 202437 202608	(R)-5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T705	SYSTEMATIC 202626 202778	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T706	SYSTEMATIC 202803 202816	2-iodoethanol
+T707	FORMULA 202849 202854	CH3CN
+T708	FORMULA 202865 202870	K2CO3
+T709	FORMULA 202966 202969	H2O
+T710	ABBREVIATION 203010 203013	DCM
+T711	FORMULA 203014 203018	MeOH
+T712	FORMULA 203086 203092	Na2SO4
+T713	ABBREVIATION 203150 203153	DCM
+T714	FORMULA 203154 203158	MeOH
+T715	SYSTEMATIC 203173 203344	(R)-5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T716	FORMULA 203424 203429	CD3OD
+T717	SYSTEMATIC 203765 203933	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T718	SYSTEMATIC 203961 204113	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T719	SYSTEMATIC 204135 204147	oxetan-3-one
+T720	FORMULA 204169 204176	NaBH3CN
+T721	FORMULA 204201 204206	ZnCl2
+T722	FORMULA 204236 204240	MeOH
+T723	FORMULA 204297 204302	EtOAc
+T724	TRIVIAL 204328 204333	water
+T725	FORMULA 204378 204384	Na2SO4
+T726	TRIVIAL 204437 204447	silica gel
+T727	ABBREVIATION 204464 204467	DCM
+T728	FORMULA 204468 204472	MeOH
+T729	SYSTEMATIC 204487 204655	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T730	FORMULA 204735 204740	CDCl3
+T731	SYSTEMATIC 205033 205207	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T732	SYSTEMATIC 205238 205408	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T733	SYSTEMATIC 205422 205586	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T734	SYSTEMATIC 205608 205662	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T735	FORMULA 205684 205695	Pd(dppf)Cl2
+T736	FORMULA 205719 205724	K2CO3
+T737	SYSTEMATIC 205746 205753	dioxane
+T738	FORMULA 205754 205757	H2O
+T739	FORMULA 205823 205825	N2
+T740	TRIVIAL 205911 205921	silica-gel
+T741	FORMULA 205938 205943	EtOAc
+T742	ABBREVIATION 205944 205946	PE
+T743	SYSTEMATIC 205960 206130	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T744	SYSTEMATIC 206208 206357	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T745	SYSTEMATIC 206375 206545	tert-butyl (R)-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T746	ABBREVIATION 206568 206571	DCM
+T747	ABBREVIATION 206590 206593	TFA
+T748	FORMULA 206740 206744	MeOH
+T749	SYSTEMATIC 206787 206794	ammonia
+T750	TRIVIAL 206801 206806	water
+T751	ABBREVIATION 206860 206863	DCM
+T752	FORMULA 206864 206868	MeOH
+T753	SYSTEMATIC 206955 207104	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T754	SYSTEMATIC 207241 207415	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T755	SYSTEMATIC 207433 207582	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T756	ABBREVIATION 207605 207610	DIPEA
+T757	FORMULA 207633 207638	CH3CN
+T758	SYSTEMATIC 207657 207703	2,2,2-trifluoroethyl trifluoromethanesulfonate
+T759	TRIVIAL 207787 207792	water
+T760	ABBREVIATION 207834 207837	DCM
+T761	TRIVIAL 207895 207900	brine
+T762	FORMULA 207918 207924	Na2SO4
+T763	TRIVIAL 207988 207998	silica gel
+T764	ABBREVIATION 208015 208018	DCM
+T765	FORMULA 208019 208023	MeOH
+T766	SYSTEMATIC 208038 208212	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(2,2,2-trifluoroethyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T767	FORMULA 208291 208296	CD3OD
+T768	SYSTEMATIC 208579 208743	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T769	SYSTEMATIC 208771 208935	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T770	SYSTEMATIC 208959 209123	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T771	FORMULA 209183 209188	CH3CN
+T772	FORMULA 209189 209192	H2O
+T773	FORMULA 209204 209211	NH4HCO3
+T774	SYSTEMATIC 209237 209401	5-(tert-butyl)-N-(2-(2-hydroxyethyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T775	FORMULA 209481 209486	CD3OD
+T776	SYSTEMATIC 209774 209952	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T777	SYSTEMATIC 209983 210033	(S)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T778	SYSTEMATIC 210051 210075	(S)-tetrahydrofuran-3-ol
+T779	SYSTEMATIC 210099 210107	pyridine
+T780	ABBREVIATION 210130 210133	DCM
+T781	FORMULA 210163 210167	Tf2O
+T782	FORMULA 210266 210269	HCl
+T783	FORMULA 210325 210331	Na2SO4
+T784	ABBREVIATION 210360 210363	DCM
+T785	SYSTEMATIC 210376 210426	(S)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T786	SYSTEMATIC 210489 210667	5-(tert-butyl)-N—((R)-8-(2-((I-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T787	SYSTEMATIC 210685 210834	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T788	ABBREVIATION 210856 210859	THF
+T789	ABBREVIATION 210872 210875	DMF
+T790	FORMULA 210893 210898	KHMDS
+T791	SYSTEMATIC 210982 210990	nitrogen
+T792	SYSTEMATIC 211035 211085	(S)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T793	TRIVIAL 211201 211206	water
+T794	ABBREVIATION 211247 211250	DCM
+T795	TRIVIAL 211307 211312	brine
+T796	FORMULA 211329 211335	Na2SO4
+T797	TRIVIAL 211399 211409	silica gel
+T798	ABBREVIATION 211426 211429	DCM
+T799	FORMULA 211430 211434	MeOH
+T800	SYSTEMATIC 211449 211627	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T801	ABBREVIATION 211707 211714	DMSO-d6
+T802	SYSTEMATIC 212015 212188	5-(tert-butyl)-N—((R)-2-((S)-2-hydroxypropyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T803	SYSTEMATIC 212220 212369	(R)-5-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T804	FORMULA 212393 212397	MeOH
+T805	SYSTEMATIC 212415 212434	(S)-2-methyloxirane
+T806	SYSTEMATIC 212458 212474	cesium carbonate
+T807	TRIVIAL 212674 212684	silica gel
+T808	ABBREVIATION 212701 212704	DCM
+T809	FORMULA 212705 212709	MeOH
+T810	SYSTEMATIC 212724 212897	5-(tert-butyl)-N—((R)-2-((S)-2-hydroxypropyl)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T811	SYSTEMATIC 212976 212987	METHANOL-d4
+T812	SYSTEMATIC 213307 213485	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T813	SYSTEMATIC 213516 213566	(R)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T814	SYSTEMATIC 213580 213630	(R)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T815	SYSTEMATIC 213655 213705	(S)-tetrahydrofuran-3-yl trifluoromethanesulfonate
+T816	ABBREVIATION 213744 213747	DCM
+T817	SYSTEMATIC 213823 214001	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T818	SYSTEMATIC 214024 214202	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T819	SYSTEMATIC 214226 214404	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T820	TRIVIAL 214462 214472	silica gel
+T821	ABBREVIATION 214489 214492	DCM
+T822	FORMULA 214493 214497	MeOH
+T823	SYSTEMATIC 214512 214690	5-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T824	SYSTEMATIC 214769 214780	METHANOL-d4
+T825	SYSTEMATIC 215090 215251	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T826	SYSTEMATIC 215288 215409	tert-butyl 8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T827	SYSTEMATIC 215427 215548	tert-butyl 8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T828	FORMULA 215572 215578	CH2Cl2
+T829	ABBREVIATION 215598 215602	HATU
+T830	ABBREVIATION 215627 215632	DIPEA
+T831	SYSTEMATIC 215698 215748	1-(tert-butyl)-1H-1,2,3-triazole-4-carboxylic acid
+T832	FORMULA 215849 215855	CH2Cl2
+T833	TRIVIAL 215878 215883	water
+T834	TRIVIAL 215894 215899	brine
+T835	TRIVIAL 215968 215978	silica gel
+T836	ABBREVIATION 215987 215989	PE
+T837	FORMULA 215990 215995	EtOAc
+T838	SYSTEMATIC 216009 216130	tert-butyl 8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T839	FORMULA 216209 216214	CDCl3
+T840	SYSTEMATIC 216421 216587	tert-butyl 5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T841	SYSTEMATIC 216601 216767	tert-butyl 5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T842	SYSTEMATIC 216791 216956	tert-butyl 5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T843	TRIVIAL 217005 217015	silica gel
+T844	FORMULA 217039 217045	CH2Cl2
+T845	FORMULA 217046 217050	MeOH
+T846	SYSTEMATIC 217065 217231	tert-butyl 5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T847	SYSTEMATIC 217312 217457	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T848	SYSTEMATIC 217471 217616	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T849	SYSTEMATIC 217640 217784	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T850	SYSTEMATIC 217938 218099	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T851	SYSTEMATIC 218113 218274	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T852	SYSTEMATIC 218298 218458	5-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T853	TRIVIAL 218507 218517	silica gel
+T854	FORMULA 218541 218546	EtOAc
+T855	FORMULA 218547 218551	MeOH
+T856	SYSTEMATIC 218566 218727	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T857	ABBREVIATION 218806 218813	DMSO-d6
+T858	SYSTEMATIC 219158 219323	(R)-1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T859	SYSTEMATIC 219343 219508	(S)-1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T860	SYSTEMATIC 219524 219685	1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T861	SYSTEMATIC 219759 219767	methanol
+T862	SYSTEMATIC 219778 219792	isopropylamine
+T863	FORMULA 219793 219796	CO2
+T864	SYSTEMATIC 219826 219834	methanol
+T865	SYSTEMATIC 219967 220132	(R)-1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T866	SYSTEMATIC 220181 220192	METHANOL-d4
+T867	SYSTEMATIC 220615 220780	(S)-1-(tert-butyl)-N-(8-(2-((1-ethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T868	SYSTEMATIC 220829 220840	METHANOL-d4
+T869	SYSTEMATIC 221250 221419	(R)-1-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T870	SYSTEMATIC 221450 221624	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T871	SYSTEMATIC 221638 221812	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T872	SYSTEMATIC 221836 222010	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T873	TRIVIAL 222067 222077	silica gel
+T874	FORMULA 222094 222099	EtOAc
+T875	ABBREVIATION 222100 222102	PE
+T876	SYSTEMATIC 222116 222290	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T877	SYSTEMATIC 222369 222522	(R)-1-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T878	SYSTEMATIC 222536 222689	(R)-1-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T879	SYSTEMATIC 222713 222866	(R)-5-(tert-butyl)-N-(8-(2-((1,5-dimethyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,2,4-oxadiazole-3-carboxamide
+T880	SYSTEMATIC 223058 223227	(R)-1-(tert-butyl)-N-(8-(2-((I-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T881	SYSTEMATIC 223250 223419	(R)-1-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T882	SYSTEMATIC 223443 223611	(R)-5-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1,3,4-oxadiazole-2-carboxamide
+T883	TRIVIAL 223662 223672	silica gel
+T884	ABBREVIATION 223689 223692	DCM
+T885	FORMULA 223693 223697	MeOH
+T886	SYSTEMATIC 223712 223881	(R)-1-(tert-butyl)-N-(8-(2-((1-isopropyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T887	FORMULA 223961 223966	CDCl3
+T888	SYSTEMATIC 224372 224551	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T889	SYSTEMATIC 224569 224748	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T890	SYSTEMATIC 224780 224905	tert-butyl (R)-8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T891	SYSTEMATIC 224919 225044	tert-butyl (R)-8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T892	SYSTEMATIC 225068 225185	tert-butyl 8-bromo-5-(5-(tert-butyl)-1,3,4-oxadiazole-2-carboxamido)-4,5-dihydro-1H-benzo[c]azepine-2(3H)-carboxylate
+T893	TRIVIAL 225243 225253	silica gel
+T894	FORMULA 225277 225282	EtOAc
+T895	FAMILY 225283 225298	petroleum ether
+T896	SYSTEMATIC 225312 225437	tert-butyl (R)-8-bromo-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T897	SYSTEMATIC 225513 225678	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T898	SYSTEMATIC 225692 225857	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T899	SYSTEMATIC 225890 226054	tert-butyl (R)-5-(5-(tert-butyl)-1,2,4-oxadiazole-3-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T900	SYSTEMATIC 226188 226359	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T901	SYSTEMATIC 226377 226542	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T902	SYSTEMATIC 226565 226572	dioxane
+T903	FORMULA 226573 226576	H2O
+T904	SYSTEMATIC 226596 226650	4-chloro-N-(1-methyl-1H-pyrazol-4-yl)pyrimidin-2-amine
+T905	FORMULA 226671 226676	K2CO3
+T906	FORMULA 226700 226711	Pd(dppf)Cl2
+T907	SYSTEMATIC 226792 226800	nitrogen
+T908	TRIVIAL 226868 226878	silica gel
+T909	FAMILY 226902 226917	petroleum ether
+T910	FORMULA 226918 226923	EtOAc
+T911	SYSTEMATIC 226937 227108	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T912	FORMULA 227187 227192	CDCl3
+T913	SYSTEMATIC 227478 227628	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T914	SYSTEMATIC 227646 227817	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T915	ABBREVIATION 227839 227842	DCM
+T916	ABBREVIATION 227861 227864	TFA
+T917	FORMULA 227965 227969	MeOH
+T918	TRIVIAL 227978 227983	water
+T919	FORMULA 228023 228028	NH4OH
+T920	ABBREVIATION 228058 228061	DCM
+T921	TRIVIAL 228118 228123	brine
+T922	FORMULA 228136 228142	Na2SO4
+T923	SYSTEMATIC 228178 228328	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T924	SYSTEMATIC 228404 228583	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T925	SYSTEMATIC 228586 228765	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T926	SYSTEMATIC 228783 228933	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T927	FORMULA 228956 228960	MeOH
+T928	SYSTEMATIC 228980 229002	dihydrofuran-3(2H)-one
+T929	FORMULA 229023 229028	ZnCl2
+T930	FORMULA 229052 229059	NaBH3CN
+T931	TRIVIAL 229169 229179	silica gel
+T932	ABBREVIATION 229203 229206	DCM
+T933	FORMULA 229207 229211	MeOH
+T934	SYSTEMATIC 229294 229473	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((S)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T935	SYSTEMATIC 229487 229666	1-(tert-butyl)-N—((R)-8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-((R)-tetrahydrofuran-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T936	FORMULA 229762 229767	CD3OD
+T937	FORMULA 230104 230109	CD3OD
+T938	SYSTEMATIC 230427 230593	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T939	SYSTEMATIC 230625 230775	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T940	FORMULA 230798 230802	MeOH
+T941	SYSTEMATIC 230822 230834	oxetan-3-one
+T942	FORMULA 230855 230860	ZnCl2
+T943	FORMULA 230883 230890	NaBH3CN
+T944	TRIVIAL 231022 231032	silica gel
+T945	FORMULA 231049 231055	CH2Cl2
+T946	FORMULA 231056 231060	MeOH
+T947	SYSTEMATIC 231096 231262	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T948	FORMULA 231342 231347	CD3OD
+T949	SYSTEMATIC 231655 231826	(R)-1-(tert-butyl)-N-(8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T950	SYSTEMATIC 231843 231875	1-(methyl-d3)-1H-pyrazol-4-amine
+T951	SYSTEMATIC 231889 231907	4-nitro-1-pyrazole
+T952	SYSTEMATIC 231929 231948	d6-dimethyl sulfate
+T953	FORMULA 231988 231992	NaOH
+T954	TRIVIAL 231996 232001	water
+T955	TRIVIAL 232087 232092	water
+T956	FORMULA 232105 232111	Na2SO4
+T957	SYSTEMATIC 232121 232151	1-d3-methyl-4-nitro-1-pyrazole
+T958	ABBREVIATION 232240 232247	DMSO-d6
+T959	SYSTEMATIC 232296 232329	1-(methyl-d3)-4-nitro-1H-pyrazole
+T960	SYSTEMATIC 232344 232374	1-d3-methyl-4-nitro-1-pyrazole
+T961	FORMULA 232395 232399	EtOH
+T962	SYSTEMATIC 232428 232436	nitrogen
+T963	SYSTEMATIC 232470 232479	palladium
+T964	SYSTEMATIC 232483 232489	carbon
+T965	SYSTEMATIC 232557 232565	hydrogen
+T966	SYSTEMATIC 232669 232700	1-(d3-methyl-1H-pyrazol-4-amine
+T967	SYSTEMATIC 232809 232869	4-methoxy-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T968	SYSTEMATIC 232887 232915	2-chloro-4-methoxypyrimidine
+T969	SYSTEMATIC 232938 232949	1,4-dioxane
+T970	SYSTEMATIC 232968 232997	1-methyl-d3-1H-pyazol-4-amine
+T971	FORMULA 233016 233022	Cs2CO3
+T972	IDENTIFIER 233043 233049	S-Phos
+T973	FORMULA 233073 233082	Pd2(dba)3
+T974	FORMULA 233152 233154	N2
+T975	TRIVIAL 233256 233266	silica gel
+T976	FORMULA 233288 233293	EtOAc
+T977	TRIVIAL 233390 233400	silica gel
+T978	SYSTEMATIC 233417 233424	heptane
+T979	FORMULA 233425 233430	EtOAc
+T980	SYSTEMATIC 233455 233515	4-methoxy-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T981	FORMULA 233600 233605	CDCl3
+T982	SYSTEMATIC 233716 233775	4-chloro-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T983	SYSTEMATIC 233779 233839	4-methoxy-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T984	FORMULA 233869 233872	HBr
+T985	SYSTEMATIC 234073 234080	toluene
+T986	FORMULA 234136 234139	HBr
+T987	FORMULA 234208 234213	POCl3
+T988	SYSTEMATIC 234354 234361	Toluene
+T989	FORMULA 234413 234418	EtOAc
+T990	TRIVIAL 234432 234437	water
+T991	FORMULA 234514 234519	EtOAc
+T992	TRIVIAL 234580 234585	brine
+T993	FORMULA 234603 234609	Na2SO4
+T994	FORMULA 234693 234698	EtOAc
+T995	FAMILY 234699 234707	heptanes
+T996	SYSTEMATIC 234733 234792	4-chloro-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T997	SYSTEMATIC 234869 235045	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T998	SYSTEMATIC 235063 235228	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T999	SYSTEMATIC 235250 235261	1,4-dioxane
+T1000	TRIVIAL 235275 235280	water
+T1001	SYSTEMATIC 235299 235358	4-chloro-N-(1-(methyl-d3)-1H-pyrazol-4-yl)pyrimidin-2-amine
+T1002	FORMULA 235378 235383	K2CO3
+T1003	FORMULA 235405 235416	Pd(dppf)Cl2
+T1004	SYSTEMATIC 235498 235506	nitrogen
+T1005	FORMULA 235558 235563	EtOAc
+T1006	TRIVIAL 235599 235604	brine
+T1007	FORMULA 235652 235657	EtOAc
+T1008	FORMULA 235708 235714	Na2SO4
+T1009	TRIVIAL 235805 235815	silica gel
+T1010	FAMILY 235848 235856	heptanes
+T1011	FORMULA 235857 235862	EtOAc
+T1012	SYSTEMATIC 235884 236060	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T1013	SYSTEMATIC 236138 236293	(R)-1-(tert-butyl)-N-(8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T1014	SYSTEMATIC 236311 236487	tert-butyl (R)-5-(1-(tert-butyl)-1H-1,2,3-triazole-4-carboxamido)-8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-1,3,4,5-tetrahydro-2H-benzo[c]azepine-2-carboxylate
+T1015	FORMULA 236509 236515	CH2Cl2
+T1016	ABBREVIATION 236534 236537	TFA
+T1017	FORMULA 236653 236657	MeOH
+T1018	TRIVIAL 236666 236671	water
+T1019	FORMULA 236711 236716	NH4OH
+T1020	FORMULA 236746 236752	CH2Cl2
+T1021	TRIVIAL 236810 236815	brine
+T1022	FORMULA 236837 236843	Na2SO4
+T1023	SYSTEMATIC 236888 237043	(R)-1-(tert-butyl)-N-(8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T1024	SYSTEMATIC 237108 237279	(R)-1-(tert-butyl)-N-(8-(2-((1-(methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T1025	SYSTEMATIC 237280 237434	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T1026	FORMULA 237471 237475	MeOH
+T1027	SYSTEMATIC 237502 237514	oxetan-3-one
+T1028	FORMULA 237536 237541	ZnCl2
+T1029	FORMULA 237565 237572	NaBH3CN
+T1030	TRIVIAL 237699 237709	silica gel
+T1031	FORMULA 237735 237741	CH2Cl2
+T1032	FORMULA 237742 237746	MeOH
+T1033	FORMULA 237829 237833	MeOH
+T1034	FORMULA 237847 237853	CH2Cl2
+T1035	TRIVIAL 237879 237884	water
+T1036	TRIVIAL 237908 237913	brine
+T1037	FORMULA 237964 237970	Na2SO4
+T1038	SYSTEMATIC 238018 238188	(R)-1-(tert-butyl)-N-(8-(2-((1-methyl-d3)-1H-pyrazol-4-yl)amino)pyrimidin-4-yl)-2-(oxetan-3-yl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-1H-1,2,3-triazole-4-carboxamide
+T1039	ABBREVIATION 238272 238279	DMSO-d6

@@ -1,0 +1,902 @@
+T1	SYSTEMATIC 15726 15733	dioxane
+T2	SYSTEMATIC 15740 15757	potassium acetate
+T3	SYSTEMATIC 15759 15781	bis(pinacolato)diboron
+T4	FORMULA 15783 15791	B2(pin)2
+T5	SYSTEMATIC 15797 15806	palladium
+T6	SYSTEMATIC 15816 15871	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T7	TRIVIAL 16019 16024	water
+T8	SYSTEMATIC 16041 16054	ethyl acetate
+T9	TRIVIAL 16117 16122	brine
+T10	SYSTEMATIC 16156 16170	sodium sulfate
+T11	SYSTEMATIC 16268 16319	3-bromo-4-chloropyridine or 2-bromo-1-chlorobenzene
+T12	SYSTEMATIC 16336 16354	dimethyl formamide
+T13	TRIVIAL 16359 16364	water
+T14	SYSTEMATIC 16401 16417	sodium carbonate
+T15	SYSTEMATIC 16419 16428	palladium
+T16	SYSTEMATIC 16438 16494	[1,1′-bis(diphenylphosphino) ferrocene]dichloropalladium
+T17	TRIVIAL 16613 16618	water
+T18	SYSTEMATIC 16635 16648	ethyl acetate
+T19	TRIVIAL 16672 16677	brine
+T20	SYSTEMATIC 16704 16718	sodium sulfate
+T21	SYSTEMATIC 16866 16884	dimethyl formamide
+T22	SYSTEMATIC 16895 16909	sodium sulfide
+T23	SYSTEMATIC 17016 17035	potassium carbonate
+T24	TRIVIAL 17263 17268	water
+T25	SYSTEMATIC 17288 17301	ethyl acetate
+T26	SYSTEMATIC 17350 17364	sodium sulfate
+T27	SYSTEMATIC 17572 17589	lithium hydroxide
+T28	SYSTEMATIC 17593 17608	tetrahydrofuran
+T29	SYSTEMATIC 17640 17655	Tetrahydrofuran
+T30	SYSTEMATIC 17721 17736	dichloromethane
+T31	SYSTEMATIC 17805 17822	hydrochloric acid
+T32	SYSTEMATIC 17861 17876	dichloromethane
+T33	SYSTEMATIC 18437 18455	triphenylphosphine
+T34	SYSTEMATIC 18460 18484	diethyl azodicarboxylate
+T35	SYSTEMATIC 18511 18530	3-bromopyridin-4-ol
+T36	SYSTEMATIC 18534 18547	2-bromophenol
+T37	SYSTEMATIC 18567 18582	tetrahydrofuran
+T38	SYSTEMATIC 18607 18615	nitrogen
+T39	TRIVIAL 18766 18776	silica gel
+T40	SYSTEMATIC 18865 18881	sodium carbonate
+T41	SYSTEMATIC 18902 18943	tetrakis(triphenylphosphine) palladium(0)
+T42	SYSTEMATIC 18957 18964	dioxane
+T43	SYSTEMATIC 19108 19121	ethyl acetate
+T44	TRIVIAL 19139 19144	water
+T45	TRIVIAL 19149 19154	brine
+T46	TRIVIAL 19235 19245	silica gel
+T47	SYSTEMATIC 19301 19318	lithium hydroxide
+T48	SYSTEMATIC 19322 19338	sodium hydroxide
+T49	SYSTEMATIC 19352 19367	tetrahydrofuran
+T50	TRIVIAL 19368 19373	water
+T51	SYSTEMATIC 19501 19518	hydrochloric acid
+T52	SYSTEMATIC 19560 19573	ethyl acetate
+T53	TRIVIAL 19587 19592	water
+T54	TRIVIAL 19597 19602	brine
+T55	TRIVIAL 19683 19693	silica gel
+T56	SYSTEMATIC 19775 19782	dioxane
+T57	SYSTEMATIC 19789 19806	potassium acetate
+T58	SYSTEMATIC 19808 19830	bis(pinacolato)diboron
+T59	FORMULA 19832 19840	B2(pin)2
+T60	SYSTEMATIC 19846 19855	palladium
+T61	SYSTEMATIC 19865 19920	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T62	TRIVIAL 20073 20078	water
+T63	SYSTEMATIC 20098 20111	ethyl acetate
+T64	TRIVIAL 20174 20179	brine
+T65	SYSTEMATIC 20213 20227	sodium sulfate
+T66	SYSTEMATIC 20325 20349	3-bromo-4-chloropyridine
+T67	SYSTEMATIC 20353 20376	2-bromo-1-chlorobenzene
+T68	SYSTEMATIC 20393 20411	dimethyl formamide
+T69	TRIVIAL 20416 20421	water
+T70	SYSTEMATIC 20458 20474	sodium carbonate
+T71	SYSTEMATIC 20476 20485	palladium
+T72	SYSTEMATIC 20495 20550	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T73	TRIVIAL 20686 20691	water
+T74	SYSTEMATIC 20708 20721	ethyl acetate
+T75	TRIVIAL 20745 20750	brine
+T76	SYSTEMATIC 20763 20777	sodium sulfate
+T77	SYSTEMATIC 20925 20943	dimethyl formamide
+T78	SYSTEMATIC 20954 20968	sodium sulfide
+T79	SYSTEMATIC 21075 21094	potassium carbonate
+T80	TRIVIAL 21325 21330	water
+T81	SYSTEMATIC 21350 21363	ethyl acetate
+T82	SYSTEMATIC 21402 21416	sodium sulfate
+T83	SYSTEMATIC 21624 21641	lithium hydroxide
+T84	SYSTEMATIC 21645 21660	tetrahydrofuran
+T85	SYSTEMATIC 21692 21707	Tetrahydrofuran
+T86	SYSTEMATIC 21773 21788	dichloromethane
+T87	SYSTEMATIC 21861 21878	hydrochloric acid
+T88	SYSTEMATIC 21917 21932	dichloromethane
+T89	SYSTEMATIC 22060 22084	3-bromo-4-methylpyridine
+T90	SYSTEMATIC 22101 22116	tetrahydrofuran
+T91	SYSTEMATIC 22150 22174	lithium diisopropylamide
+T92	ABBREVIATION 22176 22179	LDA
+T93	SYSTEMATIC 22397 22415	sodium bicarbonate
+T94	SYSTEMATIC 22471 22484	ethyl acetate
+T95	TRIVIAL 22498 22503	water
+T96	TRIVIAL 22508 22513	brine
+T97	TRIVIAL 22594 22604	silica gel
+T98	SYSTEMATIC 22680 22696	sodium carbonate
+T99	SYSTEMATIC 22714 22769	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T100	SYSTEMATIC 22783 22801	dimethyl formamide
+T101	SYSTEMATIC 22866 22879	ethyl acetate
+T102	TRIVIAL 22893 22898	water
+T103	TRIVIAL 22903 22908	brine
+T104	TRIVIAL 22989 22999	silica gel
+T105	SYSTEMATIC 23058 23075	lithium hydroxide
+T106	SYSTEMATIC 23089 23104	tetrahydrofuran
+T107	TRIVIAL 23105 23110	water
+T108	SYSTEMATIC 23196 23213	hydrochloric acid
+T109	SYSTEMATIC 23266 23279	ethyl acetate
+T110	TRIVIAL 23293 23298	water
+T111	TRIVIAL 23303 23308	brine
+T112	TRIVIAL 23389 23399	silica gel
+T113	SYSTEMATIC 23465 23484	potassium carbonate
+T114	SYSTEMATIC 23511 23529	dimethyl formamide
+T115	SYSTEMATIC 23665 23678	ethyl acetate
+T116	TRIVIAL 23735 23740	brine
+T117	SYSTEMATIC 23753 23767	sodium sulfate
+T118	SYSTEMATIC 24021 24036	tetrahydrofuran
+T119	SYSTEMATIC 24101 24115	sodium hydride
+T120	SYSTEMATIC 24119 24137	dimethyl formamide
+T121	SYSTEMATIC 24177 24191	Iodomethane-d3
+T122	SYSTEMATIC 24195 24213	dimethyl formamide
+T123	TRIVIAL 24355 24360	water
+T124	SYSTEMATIC 24390 24407	hydrochloric acid
+T125	SYSTEMATIC 24622 24639	lithium hydroxide
+T126	SYSTEMATIC 24653 24668	tetrahydrofuran
+T127	TRIVIAL 24669 24674	water
+T128	SYSTEMATIC 24775 24792	hydrochloric acid
+T129	SYSTEMATIC 24841 24854	ethyl acetate
+T130	TRIVIAL 24871 24876	brine
+T131	SYSTEMATIC 31126 31191	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolane-2-yl)-1-naphthonitrile
+T132	SYSTEMATIC 31232 31249	potassium acetate
+T133	SYSTEMATIC 31270 31292	bis(pinacolato)diboron
+T134	FORMULA 31294 31302	B2(pin)2
+T135	SYSTEMATIC 31328 31337	palladium
+T136	SYSTEMATIC 31347 31402	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T137	SYSTEMATIC 31437 31461	4-bromo-1-naphthonitrile
+T138	SYSTEMATIC 31494 31501	dioxane
+T139	FORMULA 31534 31536	N2
+T140	TRIVIAL 31698 31703	water
+T141	SYSTEMATIC 31723 31736	ethyl acetate
+T142	TRIVIAL 31818 31823	brine
+T143	SYSTEMATIC 31876 31890	sodium sulfate
+T144	FAMILY 31956 31971	petroleum ether
+T145	SYSTEMATIC 31972 31985	ethyl acetate
+T146	SYSTEMATIC 32032 32097	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolane-2-yl)-1-naphthonitrile
+T147	SYSTEMATIC 32126 32167	4-(4-chloropyridin-3-yl)-1-naphthonitrile
+T148	SYSTEMATIC 32208 32273	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolane-2-yl)-1-naphthonitrile
+T149	SYSTEMATIC 32312 32328	sodium carbonate
+T150	SYSTEMATIC 32350 32359	palladium
+T151	SYSTEMATIC 32369 32424	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T152	SYSTEMATIC 32476 32500	3-bromo-4-chloropyridine
+T153	SYSTEMATIC 32532 32550	dimethyl formamide
+T154	TRIVIAL 32563 32568	water
+T155	FORMULA 32602 32604	N2
+T156	TRIVIAL 32739 32744	water
+T157	SYSTEMATIC 32761 32774	ethyl acetate
+T158	TRIVIAL 32816 32821	brine
+T159	SYSTEMATIC 32855 32869	sodium sulfate
+T160	FAMILY 32935 32950	petroleum ether
+T161	SYSTEMATIC 32951 32964	ethyl acetate
+T162	FAMILY 32970 32985	petroleum ether
+T163	SYSTEMATIC 32986 32999	ethyl acetate
+T164	SYSTEMATIC 33000 33015	dichloromethane
+T165	SYSTEMATIC 33059 33100	4-(4-chloropyridin-3-yl)-1-naphthonitrile
+T166	SYSTEMATIC 33129 33215	methyl 1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropanecarboxylate
+T167	FORMULA 33280 33282	N2
+T168	SYSTEMATIC 33284 33325	4-(4-chloropyridin-3-yl)-1-naphthonitrile
+T169	SYSTEMATIC 33382 33400	dimethyl formamide
+T170	SYSTEMATIC 33410 33424	sodium sulfide
+T171	SYSTEMATIC 33588 33607	potassium carbonate
+T172	SYSTEMATIC 33632 33677	methyl 1-(bromomethyl)cyclopropanecarboxylate
+T173	TRIVIAL 33912 33917	water
+T174	SYSTEMATIC 33960 33973	ethyl acetate
+T175	SYSTEMATIC 34041 34055	sodium sulfate
+T176	SYSTEMATIC 34129 34215	methyl 1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropanecarboxylate
+T177	SYSTEMATIC 34301 34384	1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropanecarboxylic acid
+T178	SYSTEMATIC 34398 34484	Methyl 1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropanecarboxylate
+T179	SYSTEMATIC 34525 34542	lithium hydroxide
+T180	SYSTEMATIC 34563 34578	tetrahydrofuran
+T181	TRIVIAL 34591 34596	water
+T182	FORMULA 34675 34677	N2
+T183	SYSTEMATIC 34787 34802	tetrahydrofuran
+T184	SYSTEMATIC 34845 34860	dichloromethane
+T185	SYSTEMATIC 34959 34976	hydrochloric acid
+T186	SYSTEMATIC 35020 35035	dichloromethane
+T187	SYSTEMATIC 35098 35112	sodium sulfate
+T188	ABBREVIATION 35281 35288	d6-DMSO
+T189	SYSTEMATIC 35613 35658	methyl 1-(bromomethyl)cyclopropanecarboxylate
+T190	FORMULA 35760 35765	CD3OD
+T191	SYSTEMATIC 36038 36083	methyl 1-(bromomethyl)cyclopropanecarboxylate
+T192	FORMULA 36185 36190	CDCl3
+T193	SYSTEMATIC 36444 36464	2,2-dimethylthiirane
+T194	SYSTEMATIC 36472 36493	Potassium thiocyanate
+T195	SYSTEMATIC 36547 36566	2,2-dimethyloxirane
+T196	SYSTEMATIC 36735 36756	potassium thiocyanate
+T197	FAMILY 36861 36866	ether
+T198	TRIVIAL 36879 36884	water
+T199	TRIVIAL 36940 36945	brine
+T200	SYSTEMATIC 37068 37101	4-mercapto-4-methylpentanenitrile
+T201	SYSTEMATIC 37143 37157	n-butyllithium
+T202	SYSTEMATIC 37168 37174	hexane
+T203	SYSTEMATIC 37209 37224	tetrahydrofuran
+T204	SYSTEMATIC 37257 37265	nitrogen
+T205	SYSTEMATIC 37308 37320	acetonitrile
+T206	SYSTEMATIC 37470 37485	tetrahydrofuran
+T207	SYSTEMATIC 37616 37633	hydrochloric acid
+T208	SYSTEMATIC 37693 37706	ethyl acetate
+T209	TRIVIAL 37733 37738	brine
+T210	SYSTEMATIC 37856 37925	4-(4-((4-cyano-2-methylbutan-2-yl)thio)pyridin-3-yl)-1-naphthonitrile
+T211	SYSTEMATIC 38004 38023	potassium carbonate
+T212	SYSTEMATIC 38086 38104	dimethyl formamide
+T213	SYSTEMATIC 38218 38231	ethyl acetate
+T214	TRIVIAL 38253 38258	water
+T215	TRIVIAL 38271 38276	brine
+T216	TRIVIAL 38355 38365	silica gel
+T217	FAMILY 38374 38389	petroleum ether
+T218	SYSTEMATIC 38390 38403	ethyl acetate
+T219	SYSTEMATIC 38454 38525	4-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)-4-methylpentanoic acid
+T220	SYSTEMATIC 38587 38603	sodium hydroxide
+T221	SYSTEMATIC 38638 38653	tetrahydrofuran
+T222	SYSTEMATIC 38654 38662	methanol
+T223	SYSTEMATIC 38826 38843	hydrochloric acid
+T224	SYSTEMATIC 38868 38881	ethyl acetate
+T225	TRIVIAL 38906 38911	brine
+T226	ABBREVIATION 39107 39114	DMSO-d6
+T227	SYSTEMATIC 39389 39473	methyl 2-1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T228	FORMULA 39538 39540	N2
+T229	SYSTEMATIC 39552 39571	potassium carbonate
+T230	SYSTEMATIC 39596 39643	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T231	SYSTEMATIC 39691 39732	4-(4-chloropyridin-3-yl)-1-naphthonitrile
+T232	SYSTEMATIC 39765 39783	dimethyl formamide
+T233	TRIVIAL 39946 39951	water
+T234	SYSTEMATIC 39995 40008	ethyl acetate
+T235	TRIVIAL 40083 40088	brine
+T236	SYSTEMATIC 40151 40165	sodium sulfate
+T237	SYSTEMATIC 40306 40388	2-(1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropyl)acetic acid
+T238	SYSTEMATIC 40402 40487	Methyl 2-(1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T239	SYSTEMATIC 40528 40545	lithium hydroxide
+T240	SYSTEMATIC 40566 40581	tetrahydrofuran
+T241	TRIVIAL 40594 40599	water
+T242	FORMULA 40678 40680	N2
+T243	SYSTEMATIC 40797 40812	tetrahydrofuran
+T244	SYSTEMATIC 40855 40870	dichloromethane
+T245	SYSTEMATIC 40981 40998	hydrochloric acid
+T246	SYSTEMATIC 41042 41057	dichloromethane
+T247	SYSTEMATIC 41120 41134	sodium sulfate
+T248	FORMULA 41313 41318	CDCl3
+T249	SYSTEMATIC 41598 41645	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T250	FORMULA 41747 41752	CDCl3
+T251	SYSTEMATIC 42087 42134	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T252	FORMULA 42236 42241	CDCl3
+T253	SYSTEMATIC 42552 42599	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T254	ABBREVIATION 42701 42708	d6-DMSO
+T255	SYSTEMATIC 43075 43122	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T256	ABBREVIATION 43224 43231	d6-DMSO
+T257	SYSTEMATIC 43494 43541	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T258	ABBREVIATION 43643 43650	d6-DMSO
+T259	SYSTEMATIC 43952 43999	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T260	FORMULA 44101 44106	CD3OD
+T261	SYSTEMATIC 44400 44436	4-(4-chloropyridin-3-yl)benzonitrile
+T262	SYSTEMATIC 44444 44468	3-bromo-4-chloropyridine
+T263	SYSTEMATIC 44507 44523	sodium carbonate
+T264	SYSTEMATIC 44546 44571	4-cyanophenylboronic acid
+T265	SYSTEMATIC 44593 44634	tetrakis(triphenylphosphine)palladium (0)
+T266	SYSTEMATIC 44669 44676	dioxane
+T267	SYSTEMATIC 44740 44748	nitrogen
+T268	SYSTEMATIC 44861 44874	ethyl acetate
+T269	TRIVIAL 44901 44906	water
+T270	TRIVIAL 44920 44925	brine
+T271	TRIVIAL 45017 45027	silica gel
+T272	SYSTEMATIC 45035 45048	ethyl acetate
+T273	FAMILY 45049 45064	petroleum ether
+T274	SYSTEMATIC 45125 45201	methyl 2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T275	SYSTEMATIC 45209 45256	Methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T276	SYSTEMATIC 45278 45297	potassium carbonate
+T277	SYSTEMATIC 45322 45358	4-(4-chloropyridin-3-yl)benzonitrile
+T278	SYSTEMATIC 45396 45414	dimethyl formamide
+T279	SYSTEMATIC 45562 45575	ethyl acetate
+T280	TRIVIAL 45602 45607	water
+T281	TRIVIAL 45621 45626	brine
+T282	TRIVIAL 45720 45730	silica gel
+T283	SYSTEMATIC 45738 45751	ethyl acetate
+T284	FAMILY 45752 45767	petroleum ether
+T285	SYSTEMATIC 45827 45900	2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetic acid
+T286	SYSTEMATIC 45906 45982	Methyl 2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T287	SYSTEMATIC 46025 46041	sodium hydroxide
+T288	SYSTEMATIC 46080 46088	methanol
+T289	SYSTEMATIC 46252 46269	hydrochloric acid
+T290	FORMULA 46418 46423	CDCl3
+T291	SYSTEMATIC 46633 46679	methyl 1-(hydroxymethyl)cyclobutanecarboxylate
+T292	SYSTEMATIC 46687 46730	1-(hydroxymethyl)cyclobutanecarboxylic acid
+T293	SYSTEMATIC 46765 46773	methanol
+T294	SYSTEMATIC 46816 46832	thionyl chloride
+T295	SYSTEMATIC 47007 47020	ethyl acetate
+T296	SYSTEMATIC 47066 47084	sodium bicarbonate
+T297	TRIVIAL 47097 47102	brine
+T298	SYSTEMATIC 47220 47280	methyl 1-(((methylsulfonyl)oxy)methyl)cyclobutanecarboxylate
+T299	SYSTEMATIC 47330 47345	dichloromethane
+T300	SYSTEMATIC 47387 47412	N,N-diisopropylethylamine
+T301	SYSTEMATIC 47436 47461	methane sulfonyl chloride
+T302	TRIVIAL 47610 47615	water
+T303	SYSTEMATIC 47648 47666	sodium bicarbonate
+T304	SYSTEMATIC 47784 47869	methyl 1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclobutanecarboxylate
+T305	SYSTEMATIC 47917 47938	N,N-dimethylformamide
+T306	SYSTEMATIC 47981 47995	sodium sulfide
+T307	TRIVIAL 48134 48139	water
+T308	SYSTEMATIC 48233 48250	hydrochloric acid
+T309	SYSTEMATIC 48263 48276	ethyl acetate
+T310	TRIVIAL 48321 48326	water
+T311	TRIVIAL 48339 48344	brine
+T312	SYSTEMATIC 48495 48514	potassium carbonate
+T313	SYSTEMATIC 48577 48598	N,N-dimethylformamide
+T314	SYSTEMATIC 48737 48750	ethyl acetate
+T315	TRIVIAL 48776 48781	water
+T316	TRIVIAL 48794 48799	brine
+T317	TRIVIAL 48889 48899	silica gel
+T318	SYSTEMATIC 48907 48920	ethyl acetate
+T319	FAMILY 48921 48936	petroleum ether
+T320	SYSTEMATIC 48997 49079	1-(((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)methyl)cyclobutanecarboxylic acid
+T321	SYSTEMATIC 49141 49158	lithium hydroxide
+T322	SYSTEMATIC 49194 49209	tetrahydrofuran
+T323	SYSTEMATIC 49368 49385	hydrochloric acid
+T324	SYSTEMATIC 49403 49416	ethyl acetate
+T325	TRIVIAL 49442 49447	water
+T326	TRIVIAL 49537 49547	silica gel
+T327	SYSTEMATIC 49555 49568	ethyl acetate
+T328	FAMILY 49569 49584	petroleum ether
+T329	ABBREVIATION 49668 49675	DMSO-d6
+T330	SYSTEMATIC 49979 50022	1-(hydroxymethyl)cyclobutanecarboxylic acid
+T331	FORMULA 50124 50129	CD3OD
+T332	SYSTEMATIC 50469 50512	1-(hydroxymethyl)cyclobutanecarboxylic acid
+T333	ABBREVIATION 50614 50621	DMSO-d6
+T334	SYSTEMATIC 50831 50893	(1-((ethoxycarbonyl)methyl)cyclopropyl)methyl methanesulfonate
+T335	SYSTEMATIC 50901 50946	Ethyl 2-(1-(hydroxymethyl)cyclopropyl)acetate
+T336	SYSTEMATIC 50968 50981	triethylamine
+T337	SYSTEMATIC 51017 51032	dichloromethane
+T338	SYSTEMATIC 51074 51098	methanesulfonyl chloride
+T339	TRIVIAL 51144 51149	water
+T340	SYSTEMATIC 51280 51293	ethyl acetate
+T341	TRIVIAL 51319 51324	water
+T342	TRIVIAL 51337 51342	brine
+T343	SYSTEMATIC 51461 51518	ethyl 2-(1-((2-bromophenylthio)methyl)cyclopropyl)acetate
+T344	SYSTEMATIC 51526 51588	(1-((ethoxycarbonyl)methyl)cyclopropyl)methyl methanesulfonate
+T345	SYSTEMATIC 51619 51638	potassium carbonate
+T346	SYSTEMATIC 51663 51682	2-bromobenzenethiol
+T347	SYSTEMATIC 51721 51739	dimethyl formamide
+T348	SYSTEMATIC 51887 51900	ethyl acetate
+T349	TRIVIAL 51935 51940	water
+T350	TRIVIAL 51953 51958	brine
+T351	TRIVIAL 52049 52059	silica gel
+T352	SYSTEMATIC 52067 52080	ethyl acetate
+T353	FAMILY 52081 52096	petroleum ether
+T354	SYSTEMATIC 52156 52223	ethyl 2-(1-((2-(4-cyanophenyl)phenylthio)methyl)cyclopropyl)acetate
+T355	SYSTEMATIC 52231 52288	Ethyl 2-(1-((2-bromophenylthio)methyl)cyclopropyl)acetate
+T356	SYSTEMATIC 52328 52344	sodium carbonate
+T357	SYSTEMATIC 52370 52395	4-cyanophenylboronic acid
+T358	SYSTEMATIC 52418 52459	tetrakis(triphenylphosphine)palladium (0)
+T359	SYSTEMATIC 52493 52500	dioxane
+T360	SYSTEMATIC 52563 52571	nitrogen
+T361	SYSTEMATIC 52682 52695	ethyl acetate
+T362	TRIVIAL 52717 52722	water
+T363	TRIVIAL 52735 52740	brine
+T364	TRIVIAL 52831 52841	silica gel
+T365	SYSTEMATIC 52849 52862	ethyl acetate
+T366	FAMILY 52863 52878	petroleum ether
+T367	SYSTEMATIC 52938 53003	2-(1-((2-(4-cyanophenyl)phenylthio)methyl)cyclopropyl)acetic acid
+T368	SYSTEMATIC 53018 53085	Ethyl 2-(1-((2-(4-cyanophenyl)phenylthio)methyl)cyclopropyl)acetate
+T369	SYSTEMATIC 53129 53145	sodium hydroxide
+T370	SYSTEMATIC 53180 53188	methanol
+T371	SYSTEMATIC 53359 53376	hydrochloric acid
+T372	SYSTEMATIC 53389 53402	ethyl acetate
+T373	TRIVIAL 53428 53433	water
+T374	TRIVIAL 53446 53451	brine
+T375	TRIVIAL 53542 53552	silica gel
+T376	SYSTEMATIC 53560 53573	ethyl acetate
+T377	FAMILY 53574 53589	petroleum ether
+T378	FORMULA 53675 53680	CDCl3
+T379	SYSTEMATIC 53964 53983	2-bromobenzenethiol
+T380	FORMULA 54086 54091	CDCl3
+T381	SYSTEMATIC 54263 54328	ethyl 2-(1-((2-(4-cyanophenyl)sulfonyl)methyl)cyclopropyl)acetate
+T382	SYSTEMATIC 54336 54400	Ethyl 2-(1-((4-cyanophenyl)phenylthio)methyl)cyclopropyl)acetate
+T383	SYSTEMATIC 54425 54461	potassium monopersulfate triple salt
+T384	SYSTEMATIC 54500 54508	methanol
+T385	TRIVIAL 54509 54514	water
+T386	SYSTEMATIC 54661 54674	ethyl acetate
+T387	TRIVIAL 54697 54702	water
+T388	TRIVIAL 54715 54720	brine
+T389	TRIVIAL 54801 54811	silica gel
+T390	SYSTEMATIC 54819 54832	ethyl acetate
+T391	FAMILY 54833 54848	petroleum ether
+T392	SYSTEMATIC 54911 54974	2-(1-((2-(4-cyanophenyl)sulfonyl)methyl)cyclopropyl)acetic acid
+T393	SYSTEMATIC 54980 55047	Ethyl 2-(1-((2-(4-cyanobiphenyl)sulfonyl)methyl)cyclopropyl)acetate
+T394	SYSTEMATIC 55092 55109	lithium hydroxide
+T395	SYSTEMATIC 55148 55156	methanol
+T396	SYSTEMATIC 55322 55339	hydrochloric acid
+T397	ABBREVIATION 55475 55482	DMSO-d6
+T398	SYSTEMATIC 55698 55756	2-(3-(1-cyanonaphthalen-4-yl)pyridin-4-ylamino)acetic acid
+T399	SYSTEMATIC 55771 55817	4-(4-chloropyridin-3-yl)naphtha-1-carbonitrile
+T400	SYSTEMATIC 55837 55846	2-glycine
+T401	SYSTEMATIC 55869 55875	phenol
+T402	FORMULA 56249 56254	CD3OD
+T403	SYSTEMATIC 56498 56505	glycine
+T404	FORMULA 56609 56614	CD3OD
+T405	SYSTEMATIC 56834 56841	glycine
+T406	ABBREVIATION 56946 56953	DMSO-d6
+T407	SYSTEMATIC 57249 57256	glycine
+T408	ABBREVIATION 57361 57368	DMSO-d6
+T409	SYSTEMATIC 57610 57646	4-(4-chloropyridin-3-yl)benzonitrile
+T410	SYSTEMATIC 57666 57673	glycine
+T411	SYSTEMATIC 57697 57703	phenol
+T412	FAMILY 57905 57910	ether
+T413	FORMULA 58071 58076	CD3OD
+T414	SYSTEMATIC 58285 58349	ethyl 2-(1-(((3-bromopyridin-4-yl)oxy)methyl)cyclopropyl)acetate
+T415	SYSTEMATIC 58357 58376	3-bromopyridin-4-ol
+T416	SYSTEMATIC 58413 58428	tetrahydrofuran
+T417	SYSTEMATIC 58471 58515	ethyl 2-(1-hydroxymethyl)cyclopropyl)acetate
+T418	SYSTEMATIC 58536 58554	triphenylphosphine
+T419	SYSTEMATIC 58578 58601	diethylazodicarboxylate
+T420	SYSTEMATIC 58681 58689	nitrogen
+T421	TRIVIAL 58878 58888	silica gel
+T422	SYSTEMATIC 58896 58909	ethyl acetate
+T423	FAMILY 58910 58925	petroleum ether
+T424	SYSTEMATIC 58977 59051	ethyl 2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)oxy)methyl)cyclopropyl)acetate
+T425	SYSTEMATIC 59058 59122	Ethyl 2-(1-(((3-bromopyridin-4-yl)oxy)methyl)cyclopropyl)acetate
+T426	SYSTEMATIC 59170 59186	sodium carbonate
+T427	SYSTEMATIC 59208 59233	4-cyanophenylboronic acid
+T428	SYSTEMATIC 59257 59298	tetrakis(triphenylphosphine)palladium (0)
+T429	SYSTEMATIC 59332 59339	dioxane
+T430	SYSTEMATIC 59393 59401	nitrogen
+T431	SYSTEMATIC 59544 59557	ethyl acetate
+T432	TRIVIAL 59583 59588	water
+T433	TRIVIAL 59601 59606	brine
+T434	TRIVIAL 59697 59707	silica gel
+T435	SYSTEMATIC 59715 59730	dichloromethane
+T436	SYSTEMATIC 59731 59739	methanol
+T437	SYSTEMATIC 59800 59872	2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)oxy)methyl)cyclopropyl)acetic acid
+T438	SYSTEMATIC 59878 59952	Ethyl 2-(1-(((3-(4-cyanophenyl)pyridin-4-yl)oxy)methyl)cyclopropyl)acetate
+T439	SYSTEMATIC 59976 59993	lithium hydroxide
+T440	SYSTEMATIC 60027 60042	tetrahydrofuran
+T441	TRIVIAL 60043 60048	water
+T442	SYSTEMATIC 60218 60235	hydrochloric acid
+T443	SYSTEMATIC 60248 60261	ethyl acetate
+T444	TRIVIAL 60287 60292	water
+T445	TRIVIAL 60305 60310	brine
+T446	TRIVIAL 60401 60411	silica gel
+T447	SYSTEMATIC 60419 60434	dichloromethane
+T448	SYSTEMATIC 60435 60443	methanol
+T449	FORMULA 60529 60534	CDCl3
+T450	SYSTEMATIC 60792 60819	(4-cyanophenyl)boronic acid
+T451	FORMULA 60921 60926	CD3OD
+T452	SYSTEMATIC 61222 61274	methyl 2-(3-bromopyridin-4-yloxy)-2-methylpropanoate
+T453	SYSTEMATIC 61282 61315	Methyl 2-bromo-2-methylpropanoate
+T454	SYSTEMATIC 61334 61353	potassium carbonate
+T455	SYSTEMATIC 61375 61400	3-bromo-4-hydroxypyridine
+T456	SYSTEMATIC 61436 61454	dimethyl formamide
+T457	SYSTEMATIC 61615 61628	ethyl acetate
+T458	TRIVIAL 61655 61660	water
+T459	TRIVIAL 61673 61678	brine
+T460	TRIVIAL 61759 61769	silica gel
+T461	SYSTEMATIC 61778 61793	dichloromethane
+T462	SYSTEMATIC 61794 61802	methanol
+T463	SYSTEMATIC 61871 61930	2-(3-(4-cyanophenyl)pyridin-4-yloxy)-2-methylpropanoic acid
+T464	SYSTEMATIC 61936 61988	Methyl 2-(3-bromopyridin-4-yloxy)-2-methylpropanoate
+T465	SYSTEMATIC 62029 62045	sodium carbonate
+T466	SYSTEMATIC 62071 62096	4-cyanophenylboronic acid
+T467	SYSTEMATIC 62119 62160	tetrakis(triphenylphosphine)palladium (0)
+T468	SYSTEMATIC 62194 62201	dioxane
+T469	SYSTEMATIC 62257 62265	nitrogen
+T470	SYSTEMATIC 62426 62439	ethyl acetate
+T471	TRIVIAL 62466 62471	water
+T472	TRIVIAL 62485 62490	brine
+T473	FORMULA 62688 62693	CD3OD
+T474	SYSTEMATIC 62832 62883	1-(4-chloropyridin-3-yl)isoquinoline-4-carbonitrile
+T475	SYSTEMATIC 62949 62957	nitrogen
+T476	SYSTEMATIC 62959 62994	1-chloroisoquinoline-4-carbonitrile
+T477	SYSTEMATIC 63032 63039	toluene
+T478	SYSTEMATIC 63070 63134	4-chloro-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+T479	SYSTEMATIC 63156 63172	sodium carbonate
+T480	SYSTEMATIC 63197 63206	palladium
+T481	SYSTEMATIC 63216 63257	tetrakis(triphenylphosphine)palladium (0)
+T482	TRIVIAL 63453 63458	water
+T483	SYSTEMATIC 63506 63519	ethyl acetate
+T484	TRIVIAL 63571 63576	brine
+T485	SYSTEMATIC 63617 63631	sodium sulfate
+T486	FAMILY 63691 63706	petroleum ether
+T487	SYSTEMATIC 63707 63720	ethyl acetate
+T488	FAMILY 63726 63741	petroleum ether
+T489	SYSTEMATIC 63742 63755	ethyl acetate
+T490	SYSTEMATIC 63756 63771	dichloromethane
+T491	SYSTEMATIC 63838 63913	methyl 2-((3-(4-cyanoisoquinolin-1-yl)pyridin-4-yl)thio)-2-methylpropanoate
+T492	SYSTEMATIC 63979 63987	nitrogen
+T493	SYSTEMATIC 63989 64040	1-(4-chloropyridin-3-yl)isoquinoline-4-carbonitrile
+T494	SYSTEMATIC 64097 64115	dimethyl formamide
+T495	SYSTEMATIC 64158 64172	sodium sulfide
+T496	SYSTEMATIC 64328 64347	potassium carbonate
+T497	SYSTEMATIC 64377 64422	methyl 1-(bromomethyl)cyclopropanecarboxylate
+T498	TRIVIAL 64628 64633	water
+T499	SYSTEMATIC 64704 64717	ethyl acetate
+T500	SYSTEMATIC 64779 64793	sodium sulfate
+T501	FAMILY 64860 64875	petroleum ether
+T502	SYSTEMATIC 64876 64889	ethyl acetate
+T503	FAMILY 64895 64910	petroleum ether
+T504	SYSTEMATIC 64911 64924	ethyl acetate
+T505	SYSTEMATIC 64925 64940	dichloromethane
+T506	SYSTEMATIC 65002 65074	2-((3-(4-cyanoisoquinolin-1-yl)pyridin-4-yl)thio)-2-methylpropanoic acid
+T507	SYSTEMATIC 65089 65164	methyl 2-((3-(4-cyanoisoquinolin-1-yl)pyridin-4-yl)thio)-2-methylpropanoate
+T508	SYSTEMATIC 65204 65221	lithium hydroxide
+T509	SYSTEMATIC 65242 65257	tetrahydrofuran
+T510	TRIVIAL 65270 65275	water
+T511	FORMULA 65353 65355	N2
+T512	SYSTEMATIC 65412 65427	Tetrahydrofuran
+T513	SYSTEMATIC 65499 65514	dichloromethane
+T514	SYSTEMATIC 65596 65613	hydrochloric acid
+T515	SYSTEMATIC 65651 65666	dichloromethane
+T516	SYSTEMATIC 65734 65748	sodium sulfate
+T517	FORMULA 65899 65904	CD3OD
+T518	SYSTEMATIC 66085 66134	1-(4-chloropyridin-3-yl)-1H-indole-3-carbonitrile
+T519	FORMULA 66194 66196	N2
+T520	SYSTEMATIC 66198 66212	copper acetate
+T521	SYSTEMATIC 66237 66245	pyridine
+T522	SYSTEMATIC 66294 66318	1H-indole-3-carbonitrile
+T523	SYSTEMATIC 66342 66406	4-chloro-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+T524	SYSTEMATIC 66451 66469	dimethyl formamide
+T525	SYSTEMATIC 66529 66593	4-chloro-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+T526	TRIVIAL 66714 66719	water
+T527	SYSTEMATIC 66797 66810	ethyl acetate
+T528	TRIVIAL 66855 66860	brine
+T529	SYSTEMATIC 66923 66937	sodium sulfate
+T530	SYSTEMATIC 67033 67106	methyl 2-((3-(3-cyano-1H-indol-1-yl)pyridin-4-yl)thio)-2-methylpropanoate
+T531	FORMULA 67171 67173	N2
+T532	SYSTEMATIC 67175 67224	1-(4-chloropyridin-3-yl)-1H-indole-3-carbonitrile
+T533	SYSTEMATIC 67281 67299	dimethyl formamide
+T534	SYSTEMATIC 67314 67328	sodium sulfide
+T535	SYSTEMATIC 67499 67518	potassium carbonate
+T536	SYSTEMATIC 67548 67593	methyl 1-(bromomethyl)cyclopropanecarboxylate
+T537	TRIVIAL 67791 67796	water
+T538	SYSTEMATIC 67871 67884	ethyl acetate
+T539	SYSTEMATIC 67947 67961	sodium sulfate
+T540	SYSTEMATIC 68064 68134	2-((3-(3-cyano-1H-indol-1-yl)pyridin-4-yl)thio)-2-methylpropanoic acid
+T541	SYSTEMATIC 68148 68221	Methyl 2-((3-(3-cyano-1H-indol-1-yl)pyridin-4-yl)thio)-2-methylpropanoate
+T542	SYSTEMATIC 68261 68278	lithium hydroxide
+T543	SYSTEMATIC 68299 68314	tetrahydrofuran
+T544	TRIVIAL 68327 68332	water
+T545	FORMULA 68409 68411	N2
+T546	SYSTEMATIC 68456 68471	Tetrahydrofuran
+T547	SYSTEMATIC 68543 68558	dichloromethane
+T548	SYSTEMATIC 68639 68656	hydrochloric acid
+T549	SYSTEMATIC 68694 68709	dichloromethane
+T550	SYSTEMATIC 68772 68786	sodium sulfate
+T551	FORMULA 68940 68945	CD3OD
+T552	SYSTEMATIC 69172 69196	1H-indole-3-carbonitrile
+T553	FORMULA 69298 69303	CD3OD
+T554	SYSTEMATIC 69551 69615	methyl 2-(1-((3-bromopyridin-4-ylthio)methyl)cyclopropyl)acetate
+T555	SYSTEMATIC 69657 69704	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T556	SYSTEMATIC 69723 69742	potassium carbonate
+T557	SYSTEMATIC 69766 69790	3-bromo-4-chloropyridine
+T558	SYSTEMATIC 69826 69844	dimethyl formamide
+T559	SYSTEMATIC 69978 69991	ethyl acetate
+T560	TRIVIAL 70018 70023	water
+T561	TRIVIAL 70037 70042	brine
+T562	TRIVIAL 70130 70140	silica gel
+T563	SYSTEMATIC 70149 70162	ethyl acetate
+T564	FAMILY 70163 70178	petroleum ether
+T565	SYSTEMATIC 70244 70328	methyl 2-(1-((3-(4-(hydroxymethyl)phenylpyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T566	SYSTEMATIC 70336 70400	Methyl 2-(1-((3-bromopyridin-4-ylthio)methyl)cyclopropyl)acetate
+T567	SYSTEMATIC 70441 70457	sodium carbonate
+T568	SYSTEMATIC 70479 70510	4-hydroxymethylphenylboric acid
+T569	SYSTEMATIC 70533 70573	tetrakis(triphenylphosphine)palladium(0)
+T570	SYSTEMATIC 70607 70614	dioxane
+T571	SYSTEMATIC 70668 70676	nitrogen
+T572	SYSTEMATIC 70819 70832	ethyl acetate
+T573	TRIVIAL 70859 70864	water
+T574	TRIVIAL 70878 70883	brine
+T575	TRIVIAL 70974 70984	silica gel
+T576	SYSTEMATIC 70992 71005	ethyl acetate
+T577	FAMILY 71006 71021	petroleum ether
+T578	SYSTEMATIC 71082 71163	2-(1-((3-(4-(hydroxymethyl)phenyl)pyridin-4-ylthio)methyl)cyclopropyl)acetic acid
+T579	SYSTEMATIC 71203 71289	methyl 2-(1-(((3-(4-(hydroxymethyl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T580	SYSTEMATIC 71333 71351	aluminum hydroxide
+T581	SYSTEMATIC 71390 71398	methanol
+T582	SYSTEMATIC 71530 71547	hydrochloric acid
+T583	TRIVIAL 71590 71600	silica gel
+T584	SYSTEMATIC 71608 71623	dichloromethane
+T585	SYSTEMATIC 71624 71632	methanol
+T586	ABBREVIATION 71717 71724	DMSO-d6
+T587	SYSTEMATIC 71934 71962	3-(4-bromophenyl)oxetan-3-ol
+T588	SYSTEMATIC 72027 72035	nitrogen
+T589	SYSTEMATIC 72037 72055	1,4-dibromobenzene
+T590	SYSTEMATIC 72093 72108	tetrahydrofuran
+T591	SYSTEMATIC 72172 72186	n-butyllithium
+T592	SYSTEMATIC 72217 72223	hexane
+T593	SYSTEMATIC 72289 72301	oxetan-3-one
+T594	SYSTEMATIC 72443 72460	ammonium chloride
+T595	SYSTEMATIC 72507 72520	ethyl acetate
+T596	TRIVIAL 72547 72552	brine
+T597	TRIVIAL 72642 72652	silica gel
+T598	FAMILY 72660 72675	petroleum ether
+T599	SYSTEMATIC 72676 72689	ethyl acetate
+T600	SYSTEMATIC 72741 72809	3-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)oxetan-3-ol
+T601	SYSTEMATIC 72842 72859	potassium acetate
+T602	SYSTEMATIC 72880 72902	bis(pinacolato)diboron
+T603	SYSTEMATIC 72938 72993	[1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium
+T604	SYSTEMATIC 73028 73039	1,4-dioxane
+T605	SYSTEMATIC 73095 73103	nitrogen
+T606	SYSTEMATIC 73226 73239	ethyl acetate
+T607	TRIVIAL 73265 73270	water
+T608	TRIVIAL 73348 73358	silica gel
+T609	FAMILY 73367 73382	petroleum ether
+T610	SYSTEMATIC 73383 73396	ethyl acetate
+T611	SYSTEMATIC 73448 73541	methyl 2-(1-(((3-(4-(3-hydroxyoxetan-3-yl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T612	SYSTEMATIC 73595 73611	sodium carbonate
+T613	SYSTEMATIC 73667 73707	tetrakis(triphenylphosphine)palladium(0)
+T614	SYSTEMATIC 73742 73749	dioxane
+T615	SYSTEMATIC 73813 73821	nitrogen
+T616	SYSTEMATIC 73935 73948	ethyl acetate
+T617	TRIVIAL 73974 73979	water
+T618	TRIVIAL 74069 74079	silica gel
+T619	FAMILY 74087 74102	petroleum ether
+T620	SYSTEMATIC 74103 74116	ethyl acetate
+T621	SYSTEMATIC 74168 74258	2-(1-(((3-(4-(3-hydroxyoxetan-3-yl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetic acid
+T622	SYSTEMATIC 74375 74392	lithium hydroxide
+T623	SYSTEMATIC 74422 74437	tetrahydrofuran
+T624	SYSTEMATIC 74563 74580	hydrochloric acid
+T625	SYSTEMATIC 74593 74605	chloroform-d
+T626	SYSTEMATIC 74606 74617	isopropanol
+T627	TRIVIAL 74648 74653	brine
+T628	ABBREVIATION 74849 74856	DMSO-d6
+T629	SYSTEMATIC 75121 75166	3-(4-(4-chloropyridin-3-yl)phenyl)oxetan-3-ol
+T630	SYSTEMATIC 75220 75236	sodium carbonate
+T631	SYSTEMATIC 75262 75286	3-bromo-4-chloropyridine
+T632	SYSTEMATIC 75312 75352	tetrakis(triphenylphosphine)palladium(0)
+T633	SYSTEMATIC 75387 75394	dioxane
+T634	SYSTEMATIC 75448 75456	nitrogen
+T635	SYSTEMATIC 75571 75584	ethyl acetate
+T636	TRIVIAL 75609 75614	water
+T637	TRIVIAL 75704 75714	silica gel
+T638	SYSTEMATIC 75722 75735	ethyl acetate
+T639	FAMILY 75736 75752	petroleum ether:
+T640	SYSTEMATIC 75811 75890	2-((3-(4-(3-hydroxyoxetan-3-yl)phenyl)pyridin-4-yl)thio)-2-methylpropanoic acid
+T641	SYSTEMATIC 75959 75973	sodium sulfide
+T642	SYSTEMATIC 76007 76025	dimethyl formamide
+T643	SYSTEMATIC 76159 76178	potassium carbonate
+T644	SYSTEMATIC 76199 76224	methyl 2-bromoisobutyrate
+T645	FAMILY 76351 76356	ether
+T646	TRIVIAL 76369 76374	water
+T647	SYSTEMATIC 76431 76448	hydrochloric acid
+T648	SYSTEMATIC 76486 76498	chloroform-d
+T649	SYSTEMATIC 76499 76510	isopropanol
+T650	TRIVIAL 76542 76547	brine
+T651	ABBREVIATION 76713 76720	DMSO-d6
+T652	SYSTEMATIC 76933 76972	methyl 4-(4-chloropyridin-3-yl)benzoate
+T653	SYSTEMATIC 76980 77004	3-bromo-4-chloropyridine
+T654	SYSTEMATIC 77043 77059	sodium carbonate
+T655	SYSTEMATIC 77082 77119	4-(methoxycarbonyl)phenylboronic acid
+T656	SYSTEMATIC 77138 77155	potassium acetate
+T657	SYSTEMATIC 77178 77218	tetrakis(triphenylphosphine)palladium(0)
+T658	SYSTEMATIC 77252 77259	dioxane
+T659	SYSTEMATIC 77315 77323	nitrogen
+T660	SYSTEMATIC 77434 77447	ethyl acetate
+T661	TRIVIAL 77474 77479	water
+T662	TRIVIAL 77493 77498	brine
+T663	TRIVIAL 77577 77587	silica gel
+T664	SYSTEMATIC 77596 77609	ethyl acetate
+T665	FAMILY 77610 77625	petroleum ether
+T666	SYSTEMATIC 77689 77736	1-(4-(4-chloropyridin-3-yl)phenyl)cyclopropanol
+T667	SYSTEMATIC 77777 77799	ethylmagnesium bromide
+T668	FAMILY 77804 77809	ether
+T669	SYSTEMATIC 77908 77934	titanium tetraisopropoxide
+T670	SYSTEMATIC 77957 77964	toluene
+T671	SYSTEMATIC 78107 78133	titanium tetraisopropoxide
+T672	SYSTEMATIC 78157 78179	ethylmagnesium bromide
+T673	FORMULA 78189 78193	Et2O
+T674	TRIVIAL 78278 78283	water
+T675	SYSTEMATIC 78300 78313	ethyl acetate
+T676	TRIVIAL 78339 78344	water
+T677	TRIVIAL 78358 78363	brine
+T678	SYSTEMATIC 78536 78610	3-(4-(1-((tert-butyldimethylsilyl)oxy)cyclopropyl)phenyl)-4-chloropyridine
+T679	SYSTEMATIC 78722 78731	imidazole
+T680	SYSTEMATIC 78752 78770	dimethyl formamide
+T681	SYSTEMATIC 78793 78825	tert-butyldimethylsilyl chloride
+T682	SYSTEMATIC 78943 78956	ethyl acetate
+T683	TRIVIAL 78982 78987	water
+T684	TRIVIAL 79000 79005	brine
+T685	TRIVIAL 79083 79093	silica gel
+T686	SYSTEMATIC 79101 79114	ethyl acetate
+T687	FAMILY 79115 79130	petroleum ether
+T688	SYSTEMATIC 79190 79306	methyl 2-(1-(((3-(4-(1-((tert-butyldimethylsilyl)oxy)cyclopropyl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetate
+T689	SYSTEMATIC 79382 79401	potassium carbonate
+T690	SYSTEMATIC 79424 79471	methyl 2-(1-(mercaptomethyl)cyclopropyl)acetate
+T691	SYSTEMATIC 79508 79526	dimethyl formamide
+T692	SYSTEMATIC 79632 79645	ethyl acetate
+T693	TRIVIAL 79672 79677	water
+T694	TRIVIAL 79691 79696	brine
+T695	TRIVIAL 79789 79799	silica gel
+T696	SYSTEMATIC 79807 79820	ethyl acetate
+T697	FAMILY 79821 79836	petroleum ether
+T698	SYSTEMATIC 79896 80008	2-(1-(((3-(4-(1-(tert-butyldimethylsilyl)oxy)cyclopropyl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetic acid
+T699	SYSTEMATIC 80099 80116	lithium hydroxide
+T700	SYSTEMATIC 80157 80165	methanol
+T701	SYSTEMATIC 80280 80297	hydrochloric acid
+T702	SYSTEMATIC 80349 80439	2-(1-(((3-(4-(1-hydroxycyclopropyl)phenyl)pyridin-4-yl)thio)methyl)cyclopropyl)acetic acid
+T703	SYSTEMATIC 80527 80554	tetrabutylammonium fluoride
+T704	ABBREVIATION 80556 80560	TBAF
+T705	SYSTEMATIC 80600 80615	tetrahydrofuran
+T706	SYSTEMATIC 80707 80720	ethyl acetate
+T707	TRIVIAL 80745 80750	water
+T708	TRIVIAL 80763 80768	brine
+T709	FORMULA 80966 80971	CD3OD
+T710	SYSTEMATIC 81205 81280	4-chloro-3-(4-(1-((tetrahydro-2H-pyran-2-yl)oxy)cyclopropyl)phenyl)pyridine
+T711	SYSTEMATIC 81365 81388	p-toluene sulfonic acid
+T712	ABBREVIATION 81390 81394	PTSA
+T713	SYSTEMATIC 81417 81432	dichloromethane
+T714	SYSTEMATIC 81455 81467	dihydropyran
+T715	ABBREVIATION 81469 81472	DHP
+T716	SYSTEMATIC 81592 81605	ethyl acetate
+T717	TRIVIAL 81636 81641	water
+T718	TRIVIAL 81654 81659	brine
+T719	TRIVIAL 81737 81747	silica gel
+T720	SYSTEMATIC 81755 81768	ethyl acetate
+T721	FAMILY 81769 81784	petroleum ether
+T722	SYSTEMATIC 81847 81953	methyl 2-methyl-2-((3-(4-(1-((tetrahydro-2H-pyran-2-yl)oxy)cyclopropyl)phenyl)pyridin-4-yl)thio)propanoate
+T723	SYSTEMATIC 82023 82037	sodium sulfide
+T724	SYSTEMATIC 82075 82093	dimethyl formamide
+T725	SYSTEMATIC 82217 82236	potassium carbonate
+T726	SYSTEMATIC 82260 82285	methyl 2-bromoisobutyrate
+T727	SYSTEMATIC 82432 82445	ethyl acetate
+T728	TRIVIAL 82471 82476	water
+T729	TRIVIAL 82489 82494	brine
+T730	TRIVIAL 82584 82594	silica gel
+T731	SYSTEMATIC 82602 82615	ethyl acetate
+T732	FAMILY 82616 82631	petroleum ether
+T733	SYSTEMATIC 82693 82796	2-methyl-2-((3-(4-(1-((tetrahydro-2H-pyran-2-yl)oxy)cyclopropyl)phenyl)pyridin-4-yl)thio)propanoic acid
+T734	SYSTEMATIC 82890 82907	lithium hydroxide
+T735	SYSTEMATIC 82948 82956	methanol
+T736	SYSTEMATIC 83071 83088	hydrochloric acid
+T737	SYSTEMATIC 83167 83246	2-((3-(4-(1-hydroxycyclopropyl)phenyl)pyridin-4-yl)thio)-2-methylpropanoic acid
+T738	SYSTEMATIC 83312 83335	p-toluene sulfonic acid
+T739	SYSTEMATIC 83368 83376	methanol
+T740	SYSTEMATIC 83466 83479	ethyl acetate
+T741	TRIVIAL 83505 83510	water
+T742	TRIVIAL 83523 83528	brine
+T743	TRIVIAL 83620 83630	silica gel
+T744	SYSTEMATIC 83638 83653	dichloromethane
+T745	SYSTEMATIC 83654 83662	methanol
+T746	ABBREVIATION 83753 83760	DMSO-d6
+T747	SYSTEMATIC 83966 84003	4′-chloro-[2,3′-bipyridine]-5-nitrile
+T748	SYSTEMATIC 84011 84075	4-chloro-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+T749	SYSTEMATIC 84121 84137	sodium carbonate
+T750	SYSTEMATIC 84163 84192	6-bromopyridin-3-carbonitrile
+T751	SYSTEMATIC 84217 84258	tetrakis(triphenylphosphine)palladium (0)
+T752	SYSTEMATIC 84293 84300	dioxane
+T753	SYSTEMATIC 84359 84367	nitrogen
+T754	SYSTEMATIC 84481 84494	ethyl acetate
+T755	TRIVIAL 84520 84525	water
+T756	TRIVIAL 84538 84543	brine
+T757	TRIVIAL 84633 84643	silica gel
+T758	SYSTEMATIC 84651 84664	ethyl acetate
+T759	FAMILY 84665 84680	petroleum ether
+T760	SYSTEMATIC 84741 84808	methyl 2-((5-cyano-[2,3′-bipyridine]-4′-yl)thio)-2-methylpropanoate
+T761	SYSTEMATIC 84878 84892	sodium sulfide
+T762	SYSTEMATIC 84930 84948	dimethyl formamide
+T763	SYSTEMATIC 85081 85100	potassium carbonate
+T764	SYSTEMATIC 85124 85149	methyl 2-bromoisobutyrate
+T765	SYSTEMATIC 85262 85275	ethyl acetate
+T766	TRIVIAL 85301 85306	water
+T767	TRIVIAL 85319 85324	brine
+T768	TRIVIAL 85414 85424	silica gel
+T769	SYSTEMATIC 85432 85445	ethyl acetate
+T770	FAMILY 85446 85461	petroleum ether
+T771	SYSTEMATIC 85523 85587	2-((5-cyano-[2,3′-bipyridine]-4′-yl)thio)-2-methylpropanoic acid
+T772	SYSTEMATIC 85655 85672	lithium hydroxide
+T773	SYSTEMATIC 85706 85721	tetrahydrofuran
+T774	TRIVIAL 85722 85727	water
+T775	SYSTEMATIC 85840 85857	hydrochloric acid
+T776	SYSTEMATIC 85876 85889	ethyl acetate
+T777	TRIVIAL 85914 85919	water
+T778	TRIVIAL 85932 85937	brine
+T779	FORMULA 86104 86109	CD3OD
+T780	SYSTEMATIC 86375 86404	6-bromopyridin-3-carbonitrile
+T781	FORMULA 86506 86511	CD3OD
+T782	SYSTEMATIC 86717 86798	methyl 2-(1-(((5-cyano-[2,3′-bipyridine]-4′-yl)thio)methyl)cyclopropyl)propionate
+T783	SYSTEMATIC 86869 86919	methyl 2-(1-(mercaptomethyl)cyclopropyl)propionate
+T784	SYSTEMATIC 86958 86976	dimethyl formamide
+T785	SYSTEMATIC 86995 87014	potassium carbonate
+T786	SYSTEMATIC 87149 87162	ethyl acetate
+T787	TRIVIAL 87188 87193	water
+T788	TRIVIAL 87206 87211	brine
+T789	TRIVIAL 87301 87311	silica gel
+T790	SYSTEMATIC 87319 87332	ethyl acetate
+T791	FAMILY 87333 87348	petroleum ether
+T792	SYSTEMATIC 87400 87472	2-(1-(((5-cyano-2,3′-bipyridin-4′-yl)thio)methyl)cyclopropyl)acetic acid
+T793	SYSTEMATIC 87540 87557	lithium hydroxide
+T794	SYSTEMATIC 87591 87606	tetrahydrofuran
+T795	TRIVIAL 87607 87612	water
+T796	SYSTEMATIC 87714 87731	hydrochloric acid
+T797	SYSTEMATIC 87750 87763	ethyl acetate
+T798	TRIVIAL 87789 87794	water
+T799	TRIVIAL 87807 87812	brine
+T800	FORMULA 87979 87984	CD3OD
+T801	SYSTEMATIC 88208 88291	4′-(((1-(carboxymethyl)cyclopropyl)methyl)thio)-[2,3′-bipyridine]-5-carboxylic acid
+T802	SYSTEMATIC 88359 88376	lithium hydroxide
+T803	SYSTEMATIC 88410 88425	tetrahydrofuran
+T804	TRIVIAL 88426 88431	water
+T805	SYSTEMATIC 88525 88542	hydrochloric acid
+T806	SYSTEMATIC 88561 88574	ethyl acetate
+T807	TRIVIAL 88600 88605	water
+T808	TRIVIAL 88618 88623	brine
+T809	FORMULA 88792 88797	CD3OD
+T810	SYSTEMATIC 89005 89044	ethyl 3-(3-bromopyridin-4-yl)propanoate
+T811	SYSTEMATIC 89121 89145	3-bromo-4-methylpyridine
+T812	SYSTEMATIC 89186 89201	tetrahydrofuran
+T813	SYSTEMATIC 89276 89300	lithium diisopropylamide
+T814	ABBREVIATION 89302 89305	LDA
+T815	SYSTEMATIC 89353 89373	ethyl 2-bromoacetate
+T816	SYSTEMATIC 89502 89520	sodium bicarbonate
+T817	SYSTEMATIC 89568 89581	ethyl acetate
+T818	TRIVIAL 89607 89612	water
+T819	TRIVIAL 89625 89630	brine
+T820	TRIVIAL 89720 89730	silica gel
+T821	FAMILY 89738 89753	petroleum ether
+T822	SYSTEMATIC 89754 89767	ethyl acetate
+T823	SYSTEMATIC 89829 89888	ethyl 3-(3-(4-cyanonaphthalen-1-yl)pyridin-4-yl) propanoate
+T824	SYSTEMATIC 89946 89962	sodium carbonate
+T825	SYSTEMATIC 89988 90055	4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1-cyano-naphthalene
+T826	SYSTEMATIC 90081 90137	[1,1′-bis(diphenylphosphino) ferrocene]dichloropalladium
+T827	SYSTEMATIC 90171 90189	dimethyl formamide
+T828	SYSTEMATIC 90243 90251	nitrogen
+T829	SYSTEMATIC 90366 90379	ethyl acetate
+T830	TRIVIAL 90405 90410	water
+T831	TRIVIAL 90423 90428	brine
+T832	TRIVIAL 90518 90528	silica gel
+T833	FAMILY 90536 90551	petroleum ether
+T834	SYSTEMATIC 90552 90565	ethyl acetate
+T835	SYSTEMATIC 90624 90681	3-(3-(4-cyanonaphthalen-1-yl)pyridin-4-yl) propanoic acid
+T836	SYSTEMATIC 90748 90765	lithium hydroxide
+T837	SYSTEMATIC 90799 90814	tetrahydrofuran
+T838	TRIVIAL 90815 90820	water
+T839	SYSTEMATIC 90951 90968	hydrochloric acid
+T840	SYSTEMATIC 90986 90999	ethyl acetate
+T841	TRIVIAL 91030 91035	water
+T842	TRIVIAL 91048 91053	brine
+T843	FORMULA 91221 91226	CD3OD
+T844	SYSTEMATIC 91484 91511	ethyl 2-(acetylthio)acetate
+T845	SYSTEMATIC 91568 91588	ethyl 2-bromoacetate
+T846	SYSTEMATIC 91613 91634	potassium thioacetate
+T847	SYSTEMATIC 91670 91688	dimethyl formamide
+T848	SYSTEMATIC 91816 91829	ethyl acetate
+T849	TRIVIAL 91871 91876	brine
+T850	SYSTEMATIC 91892 91906	sodium sulfate
+T851	SYSTEMATIC 92082 92143	ethyl 2-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)acetate
+T852	SYSTEMATIC 92219 92238	potassium carbonate
+T853	SYSTEMATIC 92296 92314	dimethyl formamide
+T854	TRIVIAL 92518 92523	water
+T855	SYSTEMATIC 92528 92541	ethyl acetate
+T856	TRIVIAL 92583 92588	brine
+T857	SYSTEMATIC 92601 92615	sodium sulfate
+T858	FAMILY 92751 92766	petroleum ether
+T859	SYSTEMATIC 92767 92780	ethyl acetate
+T860	FORMULA 92820 92825	CDCl3
+T861	SYSTEMATIC 93056 93129	di(methyl-d3)-2-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)acetic acid
+T862	SYSTEMATIC 93205 93220	tetrahydrofuran
+T863	SYSTEMATIC 93275 93289	sodium hydride
+T864	SYSTEMATIC 93317 93335	dimethyl formamide
+T865	SYSTEMATIC 93443 93457	iodomethane-d3
+T866	SYSTEMATIC 93481 93499	dimethyl formamide
+T867	SYSTEMATIC 93665 93682	hydrochloric acid
+T868	FORMULA 93878 93883	CD3OD
+T869	SYSTEMATIC 94065 94129	ethyl 2-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)propanoate
+T870	SYSTEMATIC 94196 94210	sodium sulfide
+T871	SYSTEMATIC 94242 94260	dimethyl formamide
+T872	SYSTEMATIC 94391 94410	potassium carbonate
+T873	SYSTEMATIC 94432 94452	ethyl 2-bromoacetate
+T874	SYSTEMATIC 94596 94609	ethyl acetate
+T875	TRIVIAL 94635 94640	water
+T876	TRIVIAL 94653 94658	brine
+T877	TRIVIAL 94748 94758	silica gel
+T878	SYSTEMATIC 94766 94779	ethyl acetate
+T879	FAMILY 94780 94795	petroleum ether
+T880	ABBREVIATION 94851 94858	d6-DMSO
+T881	SYSTEMATIC 95183 95259	ethyl 2-methyl-d3-2-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio)propanoate
+T882	SYSTEMATIC 95325 95333	nitrogen
+T883	SYSTEMATIC 95335 95349	sodium hydride
+T884	SYSTEMATIC 95395 95413	dimethyl formamide
+T885	SYSTEMATIC 95506 95521	tetrahydrofuran
+T886	SYSTEMATIC 95665 95679	iodomethane-d3
+T887	SYSTEMATIC 95700 95718	dimethyl formamide
+T888	SYSTEMATIC 95832 95845	ethyl acetate
+T889	TRIVIAL 95871 95876	water
+T890	TRIVIAL 95889 95894	brine
+T891	TRIVIAL 95984 95994	silica gel
+T892	SYSTEMATIC 96002 96015	ethyl acetate
+T893	FAMILY 96016 96031	petroleum ether
+T894	ABBREVIATION 96087 96094	d6-DMSO
+T895	SYSTEMATIC 96374 96449	2-methyl-d3-2-((3-(4-cyanonaphthalen-1-yl)pyridin-4-yl)thio) propanoic acid
+T896	SYSTEMATIC 96517 96534	lithium hydroxide
+T897	SYSTEMATIC 96568 96583	tetrahydrofuran
+T898	TRIVIAL 96584 96589	water
+T899	SYSTEMATIC 96703 96720	hydrochloric acid
+T900	SYSTEMATIC 96739 96752	ethyl acetate
+T901	TRIVIAL 96778 96783	brine
+T902	ABBREVIATION 96950 96957	d6-DMSO

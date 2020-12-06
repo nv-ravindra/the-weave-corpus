@@ -1,0 +1,136 @@
+T1	SYSTEMATIC 149115 149160	N-Hydroxy-1-(2-nitrophenyl)methanesulfonamide
+T2	SYSTEMATIC 149190 149203	hydroxylamine
+T3	SYSTEMATIC 149246 149261	tetrahydrofuran
+T4	TRIVIAL 149273 149278	water
+T5	SYSTEMATIC 149320 149359	(2-nitrophenyl)methanesulfonyl chloride
+T6	SYSTEMATIC 149515 149532	sulfonyl chloride
+T7	SYSTEMATIC 149618 149633	dichloromethane
+T8	TRIVIAL 149693 149698	water
+T9	SYSTEMATIC 149720 149734	sodium sulfate
+T10	SYSTEMATIC 149800 149820	N-hydroxysulfonamide
+T11	SYSTEMATIC 149875 149893	sodium bicarbonate
+T12	SYSTEMATIC 149934 149947	sulfinic acid
+T13	FAMILY 149994 150002	heptanes
+T14	ABBREVIATION 150003 150006	DCM
+T15	ABBREVIATION 150140 150147	DMSO-d6
+T16	SYSTEMATIC 150509 150522	hydroxylamine
+T17	SYSTEMATIC 150562 150577	tetrahydrofuran
+T18	TRIVIAL 150590 150595	water
+T19	SYSTEMATIC 150660 150686	benzylic sulfonyl chloride
+T20	SYSTEMATIC 150854 150871	sulfonyl chloride
+T21	SYSTEMATIC 150955 150970	dichloromethane
+T22	TRIVIAL 151031 151036	water
+T23	SYSTEMATIC 151052 151069	ammonium chloride
+T24	SYSTEMATIC 151091 151105	sodium sulfate
+T25	SYSTEMATIC 151171 151191	N-hydroxysulfonamide
+T26	SYSTEMATIC 151244 151251	heptane
+T27	SYSTEMATIC 151293 151339	1-(4-Chlorophenyl)-N-hydroxymethanesulfonamide
+T28	SYSTEMATIC 151375 151415	(4-chlorophenyl)methanesulfonyl chloride
+T29	ABBREVIATION 151519 151526	DMSO-d6
+T30	SYSTEMATIC 151625 151671	1-(3-Chlorophenyl)-N-hydroxymethanesulfonamide
+T31	SYSTEMATIC 151707 151747	(3-chlorophenyl)methanesulfonyl chloride
+T32	ABBREVIATION 151850 151857	DMSO-d6
+T33	SYSTEMATIC 151932 151978	1-(2-Chlorophenyl)-N-hydroxymethanesulfonamide
+T34	SYSTEMATIC 152014 152054	(2-chlorophenyl)methanesulfonyl chloride
+T35	ABBREVIATION 152157 152164	DMSO-d6
+T36	SYSTEMATIC 152239 152285	N-Hydroxy-1-(3-methylphenyl)methanesulfonamide
+T37	SYSTEMATIC 152321 152361	(3-methylphenyl)methanesulfonyl chloride
+T38	ABBREVIATION 152464 152471	DMSO-d6
+T39	SYSTEMATIC 152594 152640	1-(4-Fluorophenyl)-N-hydroxymethanesulfonamide
+T40	SYSTEMATIC 152676 152716	(4-fluorophenyl)methanesulfonyl chloride
+T41	SYSTEMATIC 152819 152831	Chloroform-d
+T42	SYSTEMATIC 153007 153022	dichloromethane
+T43	SYSTEMATIC 153061 153107	1-(4-fluorophenyl)-N-hydroxymethanesulfonamide
+T44	SYSTEMATIC 153148 153160	chloroform-d
+T45	SYSTEMATIC 153270 153327	N-Hydroxy-1-[2-(trifluoromethyl)phenyl]methanesulfonamide
+T46	SYSTEMATIC 153363 153414	[2-(trifluoromethyl)phenyl]methanesulfonyl chloride
+T47	SYSTEMATIC 153516 153528	Chloroform-d
+T48	SYSTEMATIC 153623 153673	1-(2,4-Difluorophenyl)-N-hydroxymethanesulfonamide
+T49	SYSTEMATIC 153709 153753	(2,4-difluorophenyl)methanesulfonyl chloride
+T50	ABBREVIATION 153856 153863	DMSO-d6
+T51	SYSTEMATIC 154018 154068	1-(2,5-Difluorophenyl)-N-hydroxymethanesulfonamide
+T52	SYSTEMATIC 154104 154148	(2,5-difluorophenyl)methanesulfonyl chloride
+T53	ABBREVIATION 154251 154258	DMSO-d6
+T54	SYSTEMATIC 154334 154384	1-(2,5-Dichlorophenyl)-N-hydroxymethanesulfonamide
+T55	SYSTEMATIC 154421 154465	(2,5-dichlorophenyl)methanesulfonyl chloride
+T56	ABBREVIATION 154572 154579	DMSO-d6
+T57	SYSTEMATIC 154675 154725	1-(2,4-Dichlorophenyl)-N-hydroxymethanesulfonamide
+T58	SYSTEMATIC 154762 154806	(2,4-dichlorophenyl)methanesulfonyl chloride
+T59	ABBREVIATION 154909 154916	DMSO-d6
+T60	SYSTEMATIC 155021 155071	1-(3,4-Dichlorophenyl)-N-hydroxymethanesulfonamide
+T61	SYSTEMATIC 155108 155152	(3,4-dichlorophenyl)methanesulfonyl chloride
+T62	ABBREVIATION 155255 155262	DMSO-d6
+T63	SYSTEMATIC 155388 155434	1-(3-Fluorophenyl)-N-hydroxymethanesulfonamide
+T64	SYSTEMATIC 155471 155511	(3-fluorophenyl)methanesulfonyl chloride
+T65	ABBREVIATION 155614 155621	DMSO-d6
+T66	SYSTEMATIC 155748 155794	1-(2-Fluorophenyl)-N-hydroxymethanesulfonamide
+T67	SYSTEMATIC 155831 155871	(2-fluorophenyl)methanesulfonyl chloride
+T68	ABBREVIATION 155974 155981	DMSO-d6
+T69	SYSTEMATIC 156096 156141	1-(3-Bromophenyl)-N-hydroxymethanesulfonamide
+T70	SYSTEMATIC 156178 156217	(3-bromophenyl)methanesulfonyl chloride
+T71	ABBREVIATION 156320 156327	DMSO-d6
+T72	SYSTEMATIC 156422 156467	1-(4-Bromophenyl)-N-hydroxymethanesulfonamide
+T73	SYSTEMATIC 156504 156543	(4-bromophenyl)methanesulfonyl chloride
+T74	ABBREVIATION 156646 156653	DMSO-d6
+T75	SYSTEMATIC 156748 156805	N-Hydroxy-1-[3-(trifluoromethyl)phenyl]methanesulfonamide
+T76	SYSTEMATIC 156842 156893	[3-(trifluoromethyl)phenyl]methanesulfonyl chloride
+T77	ABBREVIATION 156996 157003	DMSO-d6
+T78	SYSTEMATIC 157098 157155	N-Hydroxy-1-[4-(trifluoromethyl)phenyl]methanesulfonamide
+T79	SYSTEMATIC 157192 157243	[4-(trifluoromethyl)phenyl]methanesulfonyl chloride
+T80	ABBREVIATION 157346 157353	DMSO-d6
+T81	SYSTEMATIC 157458 157513	1-(2-Chloro-6-fluorophenyl)-N-hydroxymethanesulfonamide
+T82	SYSTEMATIC 157550 157599	(2-chloro-6-fluorophenyl)methanesulfonyl chloride
+T83	ABBREVIATION 157702 157709	DMSO-d6
+T84	SYSTEMATIC 157864 157914	1-(3,5-Difluorophenyl)-N-hydroxymethanesulfonamide
+T85	SYSTEMATIC 157951 157995	(3,5-difluorophenyl)methanesulfonyl chloride
+T86	ABBREVIATION 158098 158105	DMSO-d6
+T87	SYSTEMATIC 158231 158281	1-(2,6-Dichlorophenyl)-N-hydroxymethanesulfonamide
+T88	SYSTEMATIC 158318 158362	(2,6-dichlorophenyl)methanesulfonyl chloride
+T89	ABBREVIATION 158465 158472	DMSO-d6
+T90	SYSTEMATIC 158593 158642	1-1,2-Benzoxazol-3-yl-N-hydroxymethanesulfonamide
+T91	SYSTEMATIC 158673 158686	hydroxylamine
+T92	SYSTEMATIC 158730 158745	tetrahydrofuran
+T93	TRIVIAL 158757 158762	water
+T94	SYSTEMATIC 158804 158847	1,2-benzoxazol-3-ylmethanesulfonyl chloride
+T95	SYSTEMATIC 159002 159019	sulfonyl chloride
+T96	SYSTEMATIC 159105 159118	ethyl acetate
+T97	TRIVIAL 159178 159183	water
+T98	SYSTEMATIC 159205 159219	sodium sulfate
+T99	SYSTEMATIC 159285 159305	N-hydroxysulfonamide
+T100	FAMILY 159360 159368	heptanes
+T101	ABBREVIATION 159369 159372	DCM
+T102	ABBREVIATION 159495 159502	DMSO-d6
+T103	SYSTEMATIC 159685 159740	N-hydroxy-1-(4-methanesulfonylphenyl)methanesulfonamide
+T104	SYSTEMATIC 159746 159794	Sodium (4-methanesulfonylphenyl)methanesulfonate
+T105	SYSTEMATIC 159798 159838	1-(bromomethyl)-4-methanesulfonylbenzene
+T106	TRIVIAL 159861 159866	water
+T107	SYSTEMATIC 159886 159902	disodium sulfite
+T108	SYSTEMATIC 160134 160143	sulfonate
+T109	FAMILY 160188 160196	heptanes
+T110	SYSTEMATIC 160308 160323	Deuterium Oxide
+T111	SYSTEMATIC 160398 160447	(4-Methanesulfonylphenyl)methanesulfonyl chloride
+T112	SYSTEMATIC 160475 160523	sodium (4-methanesulfonylphenyl)methanesulfonate
+T113	ABBREVIATION 160547 160550	DCE
+T114	SYSTEMATIC 160578 160593	oxalyl chloride
+T115	ABBREVIATION 160620 160623	DMF
+T116	ABBREVIATION 160724 160727	DMF
+T117	ABBREVIATION 160974 160977	DCM
+T118	ABBREVIATION 161070 161077	DMSO-d6
+T119	SYSTEMATIC 161152 161208	N-Hydroxy-1-(4-methanesulfonylphenyl)methane-sulfonamide
+T120	SYSTEMATIC 161240 161289	(4-methanesulfonylphenyl)methanesulfonyl chloride
+T121	ABBREVIATION 161395 161402	DMSO-d6
+T122	SYSTEMATIC 161541 161591	1-(3,5-Dichlorophenyl)-N-hydroxymethanesulfonamide
+T123	SYSTEMATIC 161628 161672	(3,5-dichlorophenyl)methanesulfonyl chloride
+T124	ABBREVIATION 161785 161792	DMSO-d6
+T125	SYSTEMATIC 161912 161950	N-Hydroxy-2-phenylethane-1-sulfonamide
+T126	SYSTEMATIC 161987 162021	2-phenylethane-1-sulfonyl chloride
+T127	ABBREVIATION 162127 162134	DMSO-d6
+T128	SYSTEMATIC 162254 162300	N-Hydroxy-1-(4-methylphenyl)methanesulfonamide
+T129	SYSTEMATIC 162337 162377	(4-methylphenyl)methanesulfonyl chloride
+T130	ABBREVIATION 162483 162490	DMSO-d6
+T131	SYSTEMATIC 162605 162650	1-(3-Cyanophenyl)-N-hydroxymethanesulfonamide
+T132	SYSTEMATIC 162687 162726	(3-cyanophenyl)methanesulfonyl chloride
+T133	ABBREVIATION 162832 162839	DMSO-d6
+T134	SYSTEMATIC 162954 163004	1-(4-tert-Butylphenyl)-N-hydroxymethanesulfonamide
+T135	SYSTEMATIC 163041 163085	(4-tert-butylphenyl)methanesulfonyl chloride
+T136	ABBREVIATION 163191 163198	DMSO-d6

@@ -1,0 +1,79 @@
+T1	SYSTEMATIC 7900 7967	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T2	SYSTEMATIC 8004 8019	tetrahydrofuran
+T3	SYSTEMATIC 8037 8059	borane-tetrahydrofuran
+T4	TRIVIAL 8195 8200	water
+T5	SYSTEMATIC 8249 8264	dichlomomethane
+T6	SYSTEMATIC 8321 8375	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T7	ABBREVIATION 8432 8439	DMSO-d6
+T8	FORMULA 8688 8698	C18H14BrFS
+T9	FORMULA 8700 8701	C
+T10	FORMULA 8710 8711	H
+T11	FORMULA 8719 8721	Br
+T12	FORMULA 8730 8731	F
+T13	FORMULA 8755 8756	C
+T14	FORMULA 8765 8766	H
+T15	FORMULA 8774 8776	Br
+T16	FORMULA 8785 8786	F
+T17	FORMULA 8794 8795	S
+T18	SYSTEMATIC 8818 8885	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T19	SYSTEMATIC 8922 8937	tetrahydrofuran
+T20	SYSTEMATIC 8945 8963	sodium borohydride
+T21	SYSTEMATIC 8984 9002	aluminium chloride
+T22	TRIVIAL 9131 9136	water
+T23	SYSTEMATIC 9186 9199	ethyl acetate
+T24	SYSTEMATIC 9256 9310	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T25	SYSTEMATIC 9375 9442	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T26	SYSTEMATIC 9479 9494	tetrahydrofuran
+T27	SYSTEMATIC 9502 9523	potassium borohydride
+T28	SYSTEMATIC 9545 9563	aluminium chloride
+T29	TRIVIAL 9692 9697	water
+T30	SYSTEMATIC 9747 9760	ethyl acetate
+T31	SYSTEMATIC 9818 9872	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T32	SYSTEMATIC 9937 10004	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T33	SYSTEMATIC 10041 10056	tetrahydrofuran
+T34	SYSTEMATIC 10064 10082	sodium borohydride
+T35	FAMILY 10099 10141	boron trifluoride diethyl etherate complex
+T36	TRIVIAL 10270 10275	water
+T37	SYSTEMATIC 10325 10338	ethyl acetate
+T38	SYSTEMATIC 10396 10450	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T39	SYSTEMATIC 10515 10582	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T40	SYSTEMATIC 10619 10634	dichloromethane
+T41	SYSTEMATIC 10642 10660	sodium borohydride
+T42	SYSTEMATIC 10671 10691	trifluoroacetic acid
+T43	TRIVIAL 10820 10825	water
+T44	SYSTEMATIC 10875 10890	dichloromethane
+T45	SYSTEMATIC 10947 11001	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T46	SYSTEMATIC 11066 11133	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T47	SYSTEMATIC 11170 11185	tetrahydrofuran
+T48	SYSTEMATIC 11194 11215	potassium borohydride
+T49	SYSTEMATIC 11227 11247	trifluoroacetic acid
+T50	TRIVIAL 11376 11381	water
+T51	SYSTEMATIC 11437 11450	ethyl acetate
+T52	SYSTEMATIC 11509 11563	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T53	SYSTEMATIC 11628 11695	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T54	SYSTEMATIC 11732 11747	tetrahydrofuran
+T55	SYSTEMATIC 11756 11784	sodium triacetoxyborohydride
+T56	FAMILY 11801 11831	borane-tetrahydrofuran complex
+T57	TRIVIAL 11960 11965	water
+T58	SYSTEMATIC 12021 12034	ethyl acetate
+T59	SYSTEMATIC 12091 12145	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T60	SYSTEMATIC 12210 12277	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T61	SYSTEMATIC 12314 12329	tetrahydrofuran
+T62	FAMILY 12348 12378	borane-tetrahydrofuran complex
+T63	TRIVIAL 12501 12506	water
+T64	SYSTEMATIC 12556 12571	dichloromethane
+T65	SYSTEMATIC 12630 12684	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T66	SYSTEMATIC 12749 12816	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T67	SYSTEMATIC 12853 12868	tetrahydrofuran
+T68	SYSTEMATIC 12876 12894	sodium borohydride
+T69	SYSTEMATIC 12916 12934	aluminium chloride
+T70	TRIVIAL 13051 13056	water
+T71	SYSTEMATIC 13106 13119	ethyl acetate
+T72	SYSTEMATIC 13176 13230	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene
+T73	SYSTEMATIC 13296 13363	(5-bromo-2-methylphenyl)[5-(p-fluorophenyl)thiophene-2-yl]methanone
+T74	SYSTEMATIC 13400 13418	1,2-dichloroethane
+T75	SYSTEMATIC 13427 13448	potassium borohydride
+T76	SYSTEMATIC 13460 13480	trifluoroacetic acid
+T77	TRIVIAL 13609 13614	water
+T78	SYSTEMATIC 13670 13688	1,2-dichloroethane
+T79	SYSTEMATIC 13747 13801	2-(2-methyl-5-bromobenzyl)-5-(4-fluorophenyl)thiophene

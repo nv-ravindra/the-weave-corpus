@@ -1,0 +1,910 @@
+T1	FAMILY 129381 129413	3-(2-Iodophenyl)Prop-2-En-1-Ones
+T2	SYSTEMATIC 129492 129504	benzaldehyde
+T3	FORMULA 129536 129540	MeOH
+T4	FORMULA 129565 129570	NaOMe
+T5	FORMULA 129592 129596	MeOH
+T6	SYSTEMATIC 129669 129675	ketone
+T7	FORMULA 129724 129728	MeOH
+T8	FORMULA 129847 129852	NH4Cl
+T9	FORMULA 129899 129905	CH2Cl2
+T10	FORMULA 129962 129967	MgSO4
+T11	TRIVIAL 130083 130089	silica
+T12	SYSTEMATIC 130178 130236	(E)-3-(2-chloro-6-iodophenyl)-1- cyclohexylprop-2-en-1-one
+T13	SYSTEMATIC 130467 130521	(E)-3-(2-iodophenyl)-1-(3- nitrophenyl)prop-2-en-1-one
+T14	FAMILY 130744 130787	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanones
+T15	FAMILY 130837 130849	Aryl Iodides
+T16	SYSTEMATIC 130863 130891	4-Iodo-1-Trityl-1H-imidazole
+T17	SYSTEMATIC 130917 130945	4-iodo-1-trityl-1H-imidazole
+T18	ABBREVIATION 130978 130981	THF
+T19	FORMULA 131005 131011	EtMgBr
+T20	ABBREVIATION 131022 131025	THF
+T21	FORMULA 131078 131080	N2
+T22	FORMULA 131150 131155	ZnCl2
+T23	FAMILY 131283 131294	aryl iodide
+T24	ABBREVIATION 131320 131323	THF
+T25	FORMULA 131379 131388	Pd(PPh3)4
+T26	FORMULA 131492 131494	N2
+T27	FORMULA 131561 131567	CH2Cl2
+T28	ABBREVIATION 131617 131621	EDTA
+T29	TRIVIAL 131654 131659	brine
+T30	FORMULA 131690 131696	Na2SO4
+T31	SYSTEMATIC 131836 131845	imidazole
+T32	SYSTEMATIC 131879 131890	acetic acid
+T33	FORMULA 131904 131908	MeOH
+T34	FORMULA 132066 132071	K2CO3
+T35	FORMULA 132115 132120	EtOAc
+T36	TRIVIAL 132177 132182	water
+T37	TRIVIAL 132184 132189	brine
+T38	TRIVIAL 132316 132326	silica gel
+T39	SYSTEMATIC 132397 132465	2-(6-chloro-5H-imidazo[5,1-a]- isoindol-5-yl)-1-cyclohexyl- ethanone
+T40	SYSTEMATIC 132723 132772	ethyl 2-(5H-imidazo[5,1-a]- isoindol-5-yl)acetate
+T41	SYSTEMATIC 133022 133083	2-(5H-imidazo[5,1-a]isoindol-5- yl)-1-(3-nitrophenyl)ethanone
+T42	SYSTEMATIC 133367 133395	4-Iodo-1-Trityl-1H-Imidazole
+T43	FAMILY 133401 133420	Phenylboronic Acids
+T44	SYSTEMATIC 133437 133465	4-iodo-1-trytyl-1H-imidazole
+T45	SYSTEMATIC 133495 133516	2-formyl boronic acid
+T46	FORMULA 133545 133550	K3PO4
+T47	SYSTEMATIC 133567 133588	N,N-dimethylformamide
+T48	TRIVIAL 133601 133606	water
+T49	SYSTEMATIC 133630 133638	nitrogen
+T50	FORMULA 133682 133691	Pd(PPh3)4
+T51	SYSTEMATIC 133724 133732	nitrogen
+T52	FORMULA 133831 133833	N2
+T53	TRIVIAL 133903 133909	celite
+T54	TRIVIAL 133940 133945	water
+T55	FORMULA 133958 133963	EtOAc
+T56	FORMULA 134046 134051	EtOAc
+T57	TRIVIAL 134110 134115	water
+T58	TRIVIAL 134127 134132	brine
+T59	FORMULA 134144 134150	Na2SO4
+T60	TRIVIAL 134311 134321	silica gel
+T61	SYSTEMATIC 134390 134433	2-(1-trityl-1H-imidazol-4-yl)- benzaldehyde
+T62	SYSTEMATIC 134573 134624	2-fluoro-6-(1-trityl-1H-imidazol-4- yl)benzaldehyde
+T63	SYSTEMATIC 134770 134821	5-chloro-2-(1-trityl-1H-imidazol-4- yl)benzaldehyde
+T64	SYSTEMATIC 134992 135043	4-chloro-2-(1-trityl-1H-imidazol-4- yl)benzaldehyde
+T65	SYSTEMATIC 135132 135183	4-fluoro-2-(1-trityl-1H-imidazol-4- yl)benzaldehyde
+T66	FORMULA 135196 135203	MeOH-d4
+T67	SYSTEMATIC 135305 135356	3-Methoxy-2-(1-trityl-1H-imidazol-4-yl)benzaldehyde
+T68	SYSTEMATIC 135397 135419	bis(pinacolato)diboron
+T69	FORMULA 135441 135445	KOAc
+T70	FORMULA 135467 135475	Pd(OAc)2
+T71	ABBREVIATION 135496 135499	DMF
+T72	TRIVIAL 135583 135589	Celite
+T73	TRIVIAL 135619 135624	water
+T74	FORMULA 135663 135668	EtOAc
+T75	TRIVIAL 135727 135732	water
+T76	TRIVIAL 135744 135749	brine
+T77	SYSTEMATIC 135848 135876	4-iodo-1-trityl-1H-imidazole
+T78	SYSTEMATIC 135899 135968	3-methoxy-2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzaldehyde
+T79	FORMULA 135990 135995	K2CO3
+T80	FORMULA 136017 136035	Pd(dppf)Cl2.CH2Cl2
+T81	ABBREVIATION 136067 136071	DMSO
+T82	TRIVIAL 136145 136151	Celite
+T83	TRIVIAL 136181 136186	water
+T84	SYSTEMATIC 136225 136238	ethyl acetate
+T85	TRIVIAL 136295 136300	water
+T86	TRIVIAL 136312 136317	brine
+T87	FAMILY 136628 136671	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanones
+T88	FAMILY 136697 136739	2-(1-trityl-1H-imidazol-4-yl)benzaldehydes
+T89	FAMILY 136745 136759	Methyl Ketones
+T90	FAMILY 136817 136825	aldehyde
+T91	SYSTEMATIC 136846 136852	ketone
+T92	ABBREVIATION 136878 136881	THF
+T93	FORMULA 136905 136910	NaOEt
+T94	FORMULA 136943 136947	EtOH
+T95	FORMULA 137075 137080	NH4Cl
+T96	SYSTEMATIC 137130 137145	dichloromethane
+T97	TRIVIAL 137204 137209	brine
+T98	FORMULA 137222 137228	Na2SO4
+T99	SYSTEMATIC 137321 137330	imidazole
+T100	SYSTEMATIC 137364 137375	acetic acid
+T101	FORMULA 137389 137393	MeOH
+T102	FORMULA 137554 137559	K2CO3
+T103	FORMULA 137603 137608	EtOAc
+T104	TRIVIAL 137665 137670	water
+T105	TRIVIAL 137672 137677	brine
+T106	TRIVIAL 137805 137815	silica gel
+T107	SYSTEMATIC 137886 137947	2-(5H-imidazo[5,1-a]isoindol-5- yl)-1-(2-nitrophenyl)ethanone
+T108	SYSTEMATIC 138223 138297	tert-butyl (2-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)phenyl)carbamate
+T109	SYSTEMATIC 138618 138692	tert-butyl (4-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)phenyl)carbamate
+T110	SYSTEMATIC 138899 138951	2-(5H-imidazo[5,1-a]isoindol-5- yl)-1-phenylethanone
+T111	SYSTEMATIC 139237 139319	tert-butyl 4-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)piperidine-1- carboxylate
+T112	SYSTEMATIC 139580 139668	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1,4- dioxaspiro[4.5]decan-8- yl)ethanone
+T113	FORMULA 139681 139688	MeOH-d4
+T114	SYSTEMATIC 139888 139954	2-(8-chloro-5H-imidazo[5,1- a]isoindol-5-yl)-1- cyclohexylethanone
+T115	FORMULA 139967 139974	MeOH-d4
+T116	SYSTEMATIC 140145 140211	2-(7-chloro-5H-imidazo[5,1- a]isoindol-5-yl)-1- cyclohexylethanone
+T117	SYSTEMATIC 140496 140562	1-cyclohexyl-2-(6-fluoro-5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T118	SYSTEMATIC 140813 140880	1-cyclohexyl-2-(9-methoxy-5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T119	SYSTEMATIC 141152 141225	2-(5H-imidazo[5,1-a]isoindol-5- yl)-1-(tetrahydro-2H-pyran-4- yl)ethanone
+T120	SYSTEMATIC 141531 141597	1-cyclohexyl-2-(8-fluoro-5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T121	SYSTEMATIC 141615 141689	tert-butyl (3-(2-(5H- imidazo[5,1-a]isoindol-5- yl)acetyl)phenyl)carbamate
+T122	SYSTEMATIC 141707 141765	1-cyclopentyl-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T123	SYSTEMATIC 141785 141848	1-(2-chlorophenyl)-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T124	SYSTEMATIC 141969 142032	1-(3-chlorophenyl)-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethanone
+T125	SYSTEMATIC 142294 142333	Ethyl 4-methylenecyclohexanecarboxylate
+T126	SYSTEMATIC 142353 142387	methyltriphenylphosphonium bromide
+T127	ABBREVIATION 142411 142414	THF
+T128	FORMULA 142443 142449	n-BuLi
+T129	FAMILY 142460 142467	hexanes
+T130	SYSTEMATIC 142544 142577	Ethyl 4-oxocyclohexanecarboxylate
+T131	SYSTEMATIC 142676 142683	Acetone
+T132	SYSTEMATIC 142782 142797	dichloromethane
+T133	SYSTEMATIC 142802 142813	ethyl ether
+T134	SYSTEMATIC 143060 143105	Ethyl 4-(iodomethylene)cyclohexanecarboxylate
+T135	SYSTEMATIC 143125 143162	iodomethyltriphenylphosphonium iodide
+T136	ABBREVIATION 143186 143189	THF
+T137	SYSTEMATIC 143240 143270	potassium hexamethyldisilazane
+T138	SYSTEMATIC 143279 143286	toluene
+T139	SYSTEMATIC 143367 143400	Ethyl 4-oxocyclohexanecarboxylate
+T140	TRIVIAL 143565 143570	water
+T141	SYSTEMATIC 143598 143603	ether
+T142	FORMULA 143669 143674	MgSO4
+T143	SYSTEMATIC 143944 143992	Ethyl 4-(propan-2-ylidene)cyclohexanecarboxylate
+T144	SYSTEMATIC 144012 144048	isopropyltriphenylphosphonium iodide
+T145	ABBREVIATION 144082 144085	THF
+T146	FORMULA 144127 144133	t-BuOK
+T147	ABBREVIATION 144158 144161	THF
+T148	SYSTEMATIC 144282 144326	4-Oxo-cyclohexanecarboxylic acid ethyl ester
+T149	FORMULA 144584 144590	CH2Cl2
+T150	FORMULA 144609 144614	NH4Cl
+T151	FORMULA 144697 144703	CH2Cl2
+T152	TRIVIAL 144749 144754	brine
+T153	FORMULA 144763 144769	Na2SO4
+T154	TRIVIAL 144892 144902	silica gel
+T155	SYSTEMATIC 145097 145149	Ethyl 4-(cyclopropylmethylene)cyclohexanecarboxylate
+T156	SYSTEMATIC 145169 145213	cyclopropylmethyltriphenylphosphonium iodide
+T157	ABBREVIATION 145246 145249	THF
+T158	FORMULA 145291 145297	t-BuOK
+T159	ABBREVIATION 145322 145325	THF
+T160	SYSTEMATIC 145446 145490	4-Oxo-cyclohexanecarboxylic acid ethyl ester
+T161	FORMULA 145748 145754	CH2Cl2
+T162	FORMULA 145773 145778	NH4Cl
+T163	FORMULA 145861 145867	CH2Cl2
+T164	TRIVIAL 145913 145918	brine
+T165	FORMULA 145927 145933	Na2SO4
+T166	TRIVIAL 146056 146066	silica gel
+T167	FORMULA 146120 146125	CDCl3
+T168	SYSTEMATIC 146342 146383	Ethyl 4-(trityloxy)cyclohexanecarboxylate
+T169	SYSTEMATIC 146401 146425	triphenylmethyl chloride
+T170	SYSTEMATIC 146449 146464	dichloromethane
+T171	ABBREVIATION 146483 146486	DBU
+T172	SYSTEMATIC 146512 146549	ethyl 4-hydroxycyclohexanecarboxylate
+T173	TRIVIAL 146646 146651	water
+T174	SYSTEMATIC 146744 146759	dichloromethane
+T175	FORMULA 146811 146817	Na2SO4
+T176	FORMULA 147270 147275	CHCl3
+T177	SYSTEMATIC 147309 147363	Methyl cis-4-aminocyclohexanecarboxylate hydrochloride
+T178	SYSTEMATIC 147378 147415	cis-4-aminocyclohexanecarboxylic acid
+T179	SYSTEMATIC 147448 147456	methanol
+T180	SYSTEMATIC 147481 147497	thionyl chloride
+T181	SYSTEMATIC 147663 147674	ethyl ether
+T182	FORMULA 147733 147738	CD3OD
+T183	SYSTEMATIC 147861 147905	Methyl cis-4-benzamidocyclohexanecarboxylate
+T184	SYSTEMATIC 147925 147979	methyl cis-4-aminocyclohexanecarboxylate hydrochloride
+T185	FORMULA 148003 148009	CH2Cl2
+T186	SYSTEMATIC 148037 148058	diisopropylethylamine
+T187	SYSTEMATIC 148127 148143	Benzoyl chloride
+T188	TRIVIAL 148286 148291	water
+T189	FORMULA 148304 148310	CH2Cl2
+T190	FORMULA 148393 148399	CH2Cl2
+T191	FORMULA 148457 148463	Na2SO4
+T192	SYSTEMATIC 148757 148813	Methyl trans-4-aminocyclohexanecarboxylate hydrochloride
+T193	SYSTEMATIC 148828 148867	trans-4-aminocyclohexanecarboxylic acid
+T194	SYSTEMATIC 148900 148908	methanol
+T195	SYSTEMATIC 148933 148949	thionyl chloride
+T196	SYSTEMATIC 149115 149126	ethyl ether
+T197	FORMULA 149186 149191	CD3OD
+T198	SYSTEMATIC 149318 149364	Methyl trans-4-benzamidocyclohexanecarboxylate
+T199	SYSTEMATIC 149384 149440	methyl trans-4-aminocyclohexanecarboxylate hydrochloride
+T200	SYSTEMATIC 149500 149516	Benzoyl chloride
+T201	TRIVIAL 149659 149664	water
+T202	FORMULA 149677 149683	CH2Cl2
+T203	FORMULA 149766 149772	CH2Cl2
+T204	FORMULA 149828 149834	Na2SO4
+T205	FORMULA 149928 149933	CD3OD
+T206	SYSTEMATIC 150129 150178	1-tert-butyl 3-methyl azetidine-1,3-dicarboxylate
+T207	SYSTEMATIC 150179 150226	1-(t-butoxycarbonyl)azetidine-3-carboxylic acid
+T208	FORMULA 150265 150269	MeOH
+T209	ABBREVIATION 150282 150285	DCM
+T210	SYSTEMATIC 150336 150362	trimethylsilyldiazomethane
+T211	SYSTEMATIC 150366 150371	ether
+T212	SYSTEMATIC 150786 150828	Methyl cis-4-hydroxycyclohexanecarboxylate
+T213	SYSTEMATIC 150846 150885	cis-4-hydroxycyclohexanecarboxylic acid
+T214	FORMULA 150912 150916	MeOH
+T215	FORMULA 150955 150960	H2SO4
+T216	FORMULA 151091 151096	EtOAc
+T217	FORMULA 151144 151150	NaHCO3
+T218	FORMULA 151242 151247	EtOAc
+T219	FORMULA 151305 151311	Na2SO4
+T220	SYSTEMATIC 151471 151517	Methyl cis-4-(benzyloxy)cyclohexanecarboxylate
+T221	SYSTEMATIC 151535 151577	methyl cis-4-hydroxycyclohexanecarboxylate
+T222	SYSTEMATIC 151601 151607	hexane
+T223	FORMULA 151608 151613	CHCl3
+T224	SYSTEMATIC 151636 151663	benzyl trichloroacetimidate
+T225	SYSTEMATIC 151688 151717	trifluoromethanesulfonic acid
+T226	FORMULA 151807 151812	EtOAc
+T227	FORMULA 151869 151875	NaHCO3
+T228	TRIVIAL 151877 151882	water
+T229	TRIVIAL 151887 151892	brine
+T230	FORMULA 151937 151943	Na2SO4
+T231	TRIVIAL 152043 152053	silica gel
+T232	SYSTEMATIC 152247 152292	Methyl Piperidine-4-Carboxylate Hydrochloride
+T233	FAMILY 152298 152312	Acid Chlorides
+T234	SYSTEMATIC 152332 152377	methyl piperidine-4-carboxylate hydrochloride
+T235	FORMULA 152392 152398	CH2Cl2
+T236	SYSTEMATIC 152426 152448	diisopropylethyl amine
+T237	FAMILY 152520 152533	acid chloride
+T238	TRIVIAL 152660 152665	water
+T239	FORMULA 152678 152684	CH2Cl2
+T240	FORMULA 152767 152773	CH2Cl2
+T241	FORMULA 152827 152833	Na2SO4
+T242	SYSTEMATIC 152942 152983	methyl 1-pivaloylpiperidine-4-carboxylate
+T243	SYSTEMATIC 153139 153195	methyl 1-(thiophene-2-carbonyl)piperidine-4- carboxylate
+T244	SYSTEMATIC 153382 153432	methyl 1-(2-phenylacetyl)piperidine-4- carboxylate
+T245	SYSTEMATIC 153612 153643	Methyl 2-bromo-3-fluorobenzoate
+T246	SYSTEMATIC 153663 153691	2-bromo-3-fluorobenzoic acid
+T247	SYSTEMATIC 153715 153723	methanol
+T248	FORMULA 153749 153754	SOCl2
+T249	FORMULA 153925 153931	NaHCO3
+T250	FORMULA 153982 153987	EtOAc
+T251	FORMULA 154043 154049	Na2SO4
+T252	SYSTEMATIC 154172 154225	Methyl 3-fluoro-2-(1-trityl-1H-imidazol-4-yl)benzoate
+T253	SYSTEMATIC 154251 154279	4-iodo-1-trityl-1H-imidazole
+T254	ABBREVIATION 154312 154315	THF
+T255	FORMULA 154333 154339	EtMgBr
+T256	ABBREVIATION 154350 154353	THF
+T257	FORMULA 154398 154400	N2
+T258	FORMULA 154460 154465	ZnCl2
+T259	ABBREVIATION 154476 154479	THF
+T260	SYSTEMATIC 154592 154623	methyl 2-bromo-3-fluorobenzoate
+T261	ABBREVIATION 154647 154650	THF
+T262	FORMULA 154706 154715	Pd(PPh3)4
+T263	FORMULA 154819 154821	N2
+T264	FORMULA 154888 154894	CH2Cl2
+T265	ABBREVIATION 154944 154948	EDTA
+T266	TRIVIAL 154981 154986	brine
+T267	FORMULA 155017 155023	Na2SO4
+T268	SYSTEMATIC 155273 155323	3-Fluoro-2-(1-trityl-1H-imidazol-4-yl)benzaldehyde
+T269	SYSTEMATIC 155341 155394	methyl 3-fluoro-2-(1-trityl-1H-imidazol-4-yl)benzoate
+T270	SYSTEMATIC 155418 155425	toluene
+T271	ABBREVIATION 155474 155479	DIBAH
+T272	SYSTEMATIC 155571 155579	methanol
+T273	FORMULA 155637 155642	NH4Cl
+T274	FORMULA 155664 155669	EtOAc
+T275	TRIVIAL 155714 155719	brine
+T276	FORMULA 155796 155802	Na2SO4
+T277	FAMILY 155849 155857	aldehyde
+T278	FAMILY 155953 155981	Dimethyl (2-oxo)phosphonates
+T279	SYSTEMATIC 156007 156033	dimethyl methylphosphonate
+T280	SYSTEMATIC 156076 156091	tetrahydrofuran
+T281	SYSTEMATIC 156136 156151	n-butyl lithium
+T282	FORMULA 156215 156217	N2
+T283	MULTIPLE 156360 156381	methyl or ethyl ester
+T284	ABBREVIATION 156435 156438	THF
+T285	FORMULA 156626 156631	NH4Cl
+T286	TRIVIAL 156653 156658	water
+T287	SYSTEMATIC 156691 156704	ethyl acetate
+T288	SYSTEMATIC 156729 156742	ethyl acetate
+T289	TRIVIAL 156767 156772	water
+T290	TRIVIAL 156784 156789	brine
+T291	SYSTEMATIC 156825 156839	sodium sulfate
+T292	SYSTEMATIC 157052 157112	dimethyl (2-(2,5-dimethylfuran-3-yl)-2- oxoethyl)phosphonate
+T293	SYSTEMATIC 157224 157272	dimethyl (2-(furan-2-yl)-2- oxoethyl)phosphonate
+T294	SYSTEMATIC 157396 157459	dimethyl (2-(1-methyl-1H-imidazol-2- yl)-2-oxoethyl)phosphonate
+T295	SYSTEMATIC 157571 157621	dimethyl (2-oxo-2-(thiazol-4- yl)ethyl)phosphonate
+T296	SYSTEMATIC 157719 157776	dimethyl2-(4,4-difluorocyclohexyl)-2- oxoethylphosphonate
+T297	SYSTEMATIC 157921 157978	dimethyl 2-(4-methylenecyclohexyl)-2- oxoethylphosphonate
+T298	SYSTEMATIC 158136 158202	dimethyl 2-oxo-2-(1,4- dioxaspiro[4.5]decan-8- yl)ethylphosphonate
+T299	SYSTEMATIC 158340 158394	dimethyl 2-(4-methylcyclohexyl)-2- oxoethylphosphonate
+T300	SYSTEMATIC 158558 158622	dimethyl 2-(4- (iodomethylene)cyclohexyl)-2- oxoethylphosphonate
+T301	SYSTEMATIC 158765 158833	dimethyl (2-oxo-2-(4-(propan-2- ylidene)cyclohexyl)ethyl)phosphonate
+T302	SYSTEMATIC 158973 159046	dimethyl (2-(4- (cyclopropylmethylene)cyclohexyl)-2- oxoethyl)phosphonate
+T303	SYSTEMATIC 159257 159319	dimethyl (2-oxo-2-(1-pivaloylpiperidin- 4-yl)ethyl)phosphonate
+T304	SYSTEMATIC 159472 159535	dimethyl (2-(1-methyl-1H-imidazol-5- yl)-2-oxoethyl)phosphonate
+T305	SYSTEMATIC 159646 159709	dimethyl (2-(1-methyl-1H-imidazol-4- yl)-2-oxoethyl)phosphonate
+T306	SYSTEMATIC 159829 159879	dimethyl (2-oxo-2-(thiazol-5- yl)ethyl)phosphonate
+T307	SYSTEMATIC 159977 160037	dimethyl (2-(1-acetylpiperidin-4-yl)-2- oxoethyl)phosphonate
+T308	SYSTEMATIC 160243 160320	dimethyl (2-oxo-2-(1-(thiophene-2- carbonyl)piperidin-4- yl)ethyl)phosphonate
+T309	SYSTEMATIC 160565 160634	dimethyl 2-oxo-2-(1-(2- phenylacetyl)piperidin-4- yl)ethylphosphonate
+T310	SYSTEMATIC 160871 160916	dimethyl 3-cyclohexyl-2- oxopropylphosphonate
+T311	SYSTEMATIC 161051 161112	dimethyl (2-oxo-2-(4- (trityloxy)cyclohexyl)ethyl)phosphonate
+T312	SYSTEMATIC 161337 161410	(trans)-methyl 4-(2- (dimethoxyphosphoryl)acetyl)cyclohexane- carboxylate
+T313	SYSTEMATIC 161570 161638	dimethyl (2-oxo-2-(4-(propan-2- ylidene)cyclohexyl)ethyl)phosphonate
+T314	SYSTEMATIC 161779 161837	dimethyl (2-oxo-2-(spiro[2.5]octan-6- yl)ethyl)phosphonate
+T315	SYSTEMATIC 161983 162072	dimethyl (2-((trans)-4-((tert- butyldimethylsilyl)oxy)cyclohexyl)-2- oxoethyl)phosphonate
+T316	SYSTEMATIC 162218 162288	dimethyl (2-((trans)-4- (benzyloxy)cyclohexyl)-2- oxoethyl)phosphonate
+T317	SYSTEMATIC 162469 162533	dimethyl (2-(cis-4- benzamidocyclohexyl)-2- oxoethyl)phosphonate
+T318	SYSTEMATIC 162698 162764	dimethyl (2-(trans-4- benzamidocyclohexyl)-2- oxoethyl)phosphonate
+T319	SYSTEMATIC 163102 163178	dimethyl (2-oxo-2-(4-(2- (trityloxy)ethylidene)cyclohexyl)ethyl) phosphonite
+T320	SYSTEMATIC 163401 163470	tert-butyl 3-(2- (dimethoxyphosphoryl)acetyl)azetidine- 1-carboxylate
+T321	SYSTEMATIC 163563 163613	dimethyl (2-oxo-2-(pyridin-2- yl)ethyl)phosphonate
+T322	SYSTEMATIC 163743 163793	dimethyl (2-oxo-2-(pyridin-3- yl)ethyl)phosphonate
+T323	SYSTEMATIC 163899 163967	dimethyl (2-oxo-2-(4- (trifluoromethyl)cyclohexyl)ethyl) phosphonate
+T324	SYSTEMATIC 164112 164182	dimethyl (2-((1s,4s)-4- (benzyloxy)cyclohexyl)-2- oxoethyl)phosphonate
+T325	FAMILY 164444 164487	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanones
+T326	FORMULA 164570 164573	NaH
+T327	ABBREVIATION 164597 164600	THF
+T328	SYSTEMATIC 164643 164653	phosponate
+T329	ABBREVIATION 164716 164719	THF
+T330	SYSTEMATIC 164783 164824	2-(1-trityl-1H-imidazol-4-yl)benzaldehyde
+T331	ABBREVIATION 164852 164855	THF
+T332	FORMULA 165047 165052	NH4Cl
+T333	TRIVIAL 165065 165070	water
+T334	FORMULA 165117 165123	CH2Cl2
+T335	TRIVIAL 165186 165191	brine
+T336	FORMULA 165212 165218	Na2SO4
+T337	FORMULA 165319 165323	AcOH
+T338	FORMULA 165335 165339	MeOH
+T339	FORMULA 165494 165499	K2CO3
+T340	FORMULA 165511 165516	EtOAc
+T341	FORMULA 165598 165603	EtOAc
+T342	TRIVIAL 165660 165665	water
+T343	TRIVIAL 165667 165672	brine
+T344	FORMULA 165684 165690	Na2SO4
+T345	TRIVIAL 165808 165818	silica gel
+T346	SYSTEMATIC 165887 165953	1-(cyclohex-1-en-1-yl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanone
+T347	SYSTEMATIC 166229 166309	1-(2,5-dimethylfuran-3-yl)-2-(6- fluoro-5H-imidazo[5,1-a]isoindol-5- yl)ethanone
+T348	SYSTEMATIC 166527 166595	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(furan-2- yl)ethanone
+T349	SYSTEMATIC 166799 166882	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1-methyl-1H- imidazol-2-yl)ethanone
+T350	SYSTEMATIC 167098 167158	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (thiazol-4-yl)ethanone
+T351	SYSTEMATIC 167400 167480	1-(4,4-difluorocyclohexyl)-2-(6- fluoro-5H-imidazo[5,1-a]isoindol-5- yl)ethanone
+T352	SYSTEMATIC 167742 167812	1-(4,4-difluorocyclohexyl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanone
+T353	SYSTEMATIC 168109 168178	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (4-methylenecyclohexyl)ethanone
+T354	SYSTEMATIC 168416 168495	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- methylenecyclohexyl)ethanone
+T355	SYSTEMATIC 168763 168850	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1,4- dioxaspiro[4.5]decan-8-yl)ethanone
+T356	FORMULA 168863 168868	CD3OD
+T357	SYSTEMATIC 169028 169104	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- methylcyclohexyl)ethanone
+T358	SYSTEMATIC 169353 169438	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- (iodomethylene)cyclohexyl)ethanone
+T359	FORMULA 169451 169456	CD3OD
+T360	SYSTEMATIC 169675 169751	2-(9-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- methylcyclohexyl)ethanone
+T361	FORMULA 169764 169769	CD3OD
+T362	SYSTEMATIC 169972 170060	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4-(propan-2- ylidene)cyclohexyl)ethanone
+T363	SYSTEMATIC 170351 170444	1-(4- (cyclopropylmethylene)cyclohexyl)- 2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)ethanone
+T364	SYSTEMATIC 170739 170828	1-(4-(2-(5H-imidazo[5,1-a]isoindol- 5-yl)acetyl)piperidin-1-yl)-2,2- dimethylpropan-1-one
+T365	SYSTEMATIC 171120 171203	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1-methyl-1H- imidazol-5-yl)ethanone
+T366	SYSTEMATIC 171409 171482	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (1-methyl-1H-imidazol-4-yl)ethanone
+T367	SYSTEMATIC 171748 171808	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (thiazol-5-yl)ethanone
+T368	SYSTEMATIC 172057 172127	1-(1-acetylpiperidin-4-yl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanone
+T369	SYSTEMATIC 172367 172454	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (1-(thiophene-2-carbonyl)piperidin-4- yl)ethanone
+T370	SYSTEMATIC 172468 172549	1-(4-(2-(5H-imidazo[5,1-a]isoindol- 5-yl)acetyl)piperidin-1-yl)-2- phenylethanone
+T371	SYSTEMATIC 172758 172818	1-cyclohexyl-3-(5H-imidazo[5,1- a]isoindol-5-yl)propan-2-one
+T372	SYSTEMATIC 173081 173151	1-cyclohexyl-3-(6-fluoro-5H- imidazo[5,1-a]isoindol-5-yl)propan- 2-one
+T373	SYSTEMATIC 173376 173453	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- hydroxycyclohexyl)ethanone
+T374	SYSTEMATIC 173764 173820	1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethanone
+T375	SYSTEMATIC 174059 174120	1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-ylidene)ethanone
+T376	FORMULA 174344 174349	CHCl3
+T377	SYSTEMATIC 174493 174576	(trans)-methyl 4-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)cyclohexanecarboxylate
+T378	SYSTEMATIC 174875 174963	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4-(propan-2- ylidene)cyclohexyl)ethanone
+T379	SYSTEMATIC 175252 175320	2-(5H-imidazo[5,1-a]isoindol-5-yl)- 1-(spiro[2.5]octan-6-yl)ethanone
+T380	SYSTEMATIC 175600 175709	1-((trans)-4-((tert- butyldimethylsilyl)oxy)cyclohexyl)- 2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)ethanone
+T381	SYSTEMATIC 175948 176037	1-((trans)-4-(benzyloxy)cyclohexyl)- 2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)ethanone
+T382	SYSTEMATIC 176317 176397	1-((trans)-4-(benzyloxy)cyclohexyl)- 2-(5H-imidazo[5,1-a]isoindol-5- yl)ethanone
+T383	SYSTEMATIC 176683 176758	N-((cis)-4-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)cyclohexyl)benzamide
+T384	SYSTEMATIC 177068 177078	chloroform
+T385	SYSTEMATIC 177196 177273	N-((trans)-4-(2-(5H-imidazo[5,1- a]isoindol-5- yl)acetyl)cyclohexyl)benzamide
+T386	SYSTEMATIC 177568 177578	chloroform
+T387	SYSTEMATIC 177689 177772	1-(4-(2- hydroxyethylidene)cyclohexyl)-2- (5H-imidazo[5,1-a]isoindol-5- yl)ethanone
+T388	SYSTEMATIC 178011 178091	tert-butyl 3-(2-(5H-imidazo[5,1- a]isoindol-5-yl)acetyl)azetidine-1- carboxylate
+T389	SYSTEMATIC 178321 178381	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-2-yl)ethanone
+T390	SYSTEMATIC 178640 178700	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-3-yl)ethanone
+T391	SYSTEMATIC 178862 178922	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-4-yl)ethanone
+T392	SYSTEMATIC 179163 179241	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (4- (trifluoromethyl)cyclohexyl)ethanone
+T393	SYSTEMATIC 179447 179534	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- (trifluoromethyl)cyclohexyl)ethanone
+T394	SYSTEMATIC 179726 179813	1-((cis)-4-(benzyloxy)cyclohexyl)-2- (6-fluoro-5H-imidazo[5,1-a]isoindol- 5-yl)ethanone
+T395	SYSTEMATIC 180164 180235	1-(Cyclohex-3-enyl)-2-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)ethanone
+T396	SYSTEMATIC 180276 180283	benzene
+T397	SYSTEMATIC 180295 180317	p-toluenesulfonic acid
+T398	SYSTEMATIC 180457 180476	potassium carbonate
+T399	SYSTEMATIC 180534 180547	ethyl acetate
+T400	TRIVIAL 180604 180609	water
+T401	TRIVIAL 180611 180616	brine
+T402	FORMULA 180629 180635	Na2SO4
+T403	FAMILY 181035 181078	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanones
+T404	FAMILY 181082 181124	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanols
+T405	SYSTEMATIC 181158 181164	ketone
+T406	FORMULA 181264 181268	MeOH
+T407	FORMULA 181296 181301	NaBH4
+T408	FORMULA 181414 181417	HCl
+T409	FORMULA 181521 181526	K2CO3
+T410	FORMULA 181574 181580	CH2Cl2
+T411	TRIVIAL 181636 181641	brine
+T412	FORMULA 181650 181655	MgSO4
+T413	FORMULA 181786 181790	MeOH
+T414	ABBREVIATION 181791 181794	DCM
+T415	SYSTEMATIC 181874 181938	2-(6-chloro-5H-imidazo[5,1- a]isoindol-5-yl)-1-cyclohexylethanol
+T416	SYSTEMATIC 182233 182288	1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethanol
+T417	SYSTEMATIC 182549 182609	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (2-nitrophenyl)ethanol
+T418	SYSTEMATIC 182821 182881	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (3-nitrophenyl)ethanol
+T419	SYSTEMATIC 183101 183184	tert-butyl (2-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)phenyl)carbamate
+T420	SYSTEMATIC 183520 183603	tert-butyl (4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)phenyl)carbamate
+T421	SYSTEMATIC 183801 183884	tert-butyl (3-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)phenyl)carbamate
+T422	FORMULA 183926 183933	MeOH-d4
+T423	SYSTEMATIC 184105 184156	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- phenylethanol
+T424	SYSTEMATIC 184307 184397	tert-butyl 4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidine-1-carboxylate
+T425	SYSTEMATIC 184724 184788	1-cyclohexyl-2-(6-fluoro-5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T426	SYSTEMATIC 185090 185154	2-(7-chloro-5H-imidazo[5,1- a]isoindol-5-yl)-1-cyclohexylethanol
+T427	SYSTEMATIC 185402 185458	1-cyclopentyl-2-(5h-imidazo[5,1- a]isoindol-5-yl)ethanol
+T428	FORMULA 185669 185674	CHCl3
+T429	SYSTEMATIC 185778 185843	1-(cyclohex-1-en-1-yl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T430	SYSTEMATIC 186266 186327	1-(3-chlorophenyl)-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethanol
+T431	SYSTEMATIC 186503 186564	1-(2-chlorophenyl)-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethanol
+T432	SYSTEMATIC 186764 186828	2-(8-chloro-5H-imidazo[5,1- a]isoindol-5-yl)-1-cyclohexylethanol
+T433	FORMULA 186870 186877	MeOH-d4
+T434	SYSTEMATIC 186988 187052	1-cyclohexyl-2-(8-fluoro-5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T435	FORMULA 187095 187102	MeOH-d4
+T436	SYSTEMATIC 187236 187322	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1,4- dioxaspiro[4.5]decan-8-yl)ethanol
+T437	FORMULA 187364 187371	MeOH-d4
+T438	SYSTEMATIC 187616 187687	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (tetrahydro-2H-pyran-4-yl)ethanol
+T439	SYSTEMATIC 187983 188048	1-cyclohexyl-2-(9-methoxy-5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T440	FORMULA 188090 188095	CD3OD
+T441	SYSTEMATIC 188396 188475	1-(2,5-dimethylfuran-3-yl)-2-(6-fluoro- 5H-imidazo[5,1-a]isoindol-5- yl)ethanol
+T442	SYSTEMATIC 188785 188851	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(furan-2-yl)ethanol
+T443	SYSTEMATIC 189182 189263	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl-1-(1-methyl-1H- imidazol-2-yl)ethanol
+T444	SYSTEMATIC 189524 189583	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (thiazol-4-yl)ethanol
+T445	SYSTEMATIC 189829 189898	1-(4,4-difluorocyclohexyl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T446	SYSTEMATIC 190221 190300	1-(4,4-difluorocyclohexyl)-2-(6-fluoro- 5H-imidazo[5,1-a]isoindol-5- yl)ethanol
+T447	ABBREVIATION 190342 190349	DMSO-d6
+T448	SYSTEMATIC 190630 190701	1-(cyclohex-3-enyl)-2-(6-fluoro-5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T449	SYSTEMATIC 191038 191106	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (4-methylenecyclohexyl)ethanol
+T450	SYSTEMATIC 191546 191632	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1,4- dioxaspiro[4.5]decan-8-yl)ethanol
+T451	FORMULA 191674 191679	CD3OD
+T452	SYSTEMATIC 191911 191986	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- methylcyclohexyl)ethanol
+T453	SYSTEMATIC 192257 192341	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- (iodomethylene)cyclohexyl)ethanol
+T454	SYSTEMATIC 192586 192660	2-(9-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- methylcyclohexy)ethanol
+T455	FORMULA 192702 192707	CD3OD
+T456	SYSTEMATIC 192866 192953	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4-(propan-2- ylidene)cyclohexyl)ethanol
+T457	SYSTEMATIC 193313 193405	1-(4- (cyclopropylmethylene)cyclohexyl)-2- (6-fluoro-5H-imidazo[5,1-a]isoindol- 5-yl)ethanol
+T458	SYSTEMATIC 193736 193834	1-(4-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1-yl)- 2,2-dimethylpropan-1-one
+T459	SYSTEMATIC 194132 194214	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(1-methyl-1H- imidazol-5-yl)ethanol
+T460	SYSTEMATIC 194474 194546	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (1-methyl-1H-imidazol-4-yl)ethanol
+T461	SYSTEMATIC 194835 194894	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (thiazol-5-yl)ethanol
+T462	SYSTEMATIC 195176 195257	1-(4-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1- yl)ethanone
+T463	SYSTEMATIC 195617 195712	(4-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1- yl)(thiophen-2-yl)methanone
+T464	SYSTEMATIC 195978 196068	1-(4-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1-yl)-2- phenylethanone
+T465	SYSTEMATIC 196370 196429	1-cyclohexyl-3-(5H-imidazo[5,1- a]isoindol-5-yl)propan-2-ol
+T466	SYSTEMATIC 196651 196720	1-cyclohexyl-3-(6-fluoro-5H- imidazo[5,1-a]isoindol-5-yl)propan-2- ol
+T467	SYSTEMATIC 196914 196974	1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-ylidene)ethanol
+T468	SYSTEMATIC 197294 197391	(trans)-methyl 4-((1R)-1-hydroxy-2- (5H-imidazo[5,1-a]isoindol-5- yl)ethyl)cyclohexanecarboxylate
+T469	SYSTEMATIC 197768 197835	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (spiro[2.5]octan-6-yl)ethanol
+T470	SYSTEMATIC 198159 198243	(trans)-4-(2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1- hydroxyethyl)cyclohexanol
+T471	SYSTEMATIC 198470 198564	(1R)-1-((trans)-4- (benzyloxy)cyclohexyl)-2-(6-fluoro- 5H-imidazo[5,1-a]isoindol-5- yl)ethanol
+T472	SYSTEMATIC 198884 198968	(1R)-1-((trans)-4- (benzyloxy)cyclohexyl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T473	SYSTEMATIC 199232 199316	N-((cis)-4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)cyclohexyl)benzamide
+T474	FORMULA 199358 199363	CD3OD
+T475	SYSTEMATIC 199694 199780	N-((trans)-4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)cyclohexyl)benzamide
+T476	SYSTEMATIC 200057 200067	chloroform
+T477	SYSTEMATIC 200160 200241	1-(4-(2- hydroxyethylidene)cyclohexyl)-2-(5H- imidazo[5,1-a]isoindol-5-yl)ethanol
+T478	SYSTEMATIC 200524 200613	tert-butyl 3-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)azetidine-1-carboxylate
+T479	SYSTEMATIC 200939 200998	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-2-yl)ethanol
+T480	SYSTEMATIC 201226 201285	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-3-yl)ethanol
+T481	SYSTEMATIC 201508 201567	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (pyridin-4-yl)ethanol
+T482	SYSTEMATIC 201838 201914	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1- (4-(trifluoromethyl)cyclohexyl)ethanol
+T483	SYSTEMATIC 202100 202186	2-(6-fluoro-5H-imidazo[5,1- a]isoindol-5-yl)-1-(4- (trifluoromethyl)cyclohexyl)ethanol
+T484	SYSTEMATIC 202449 202535	1-((cis)-4-(benzyloxy)cyclohexyl)-2- (6-fluoro-5H-imidazo[5,1-a]isoindol- 5-yl)ethanol
+T485	SYSTEMATIC 203012 203020	methanol
+T486	FORMULA 203021 203024	CO2
+T487	ABBREVIATION 203082 203085	Boc
+T488	FAMILY 203136 203155	Boc protected amine
+T489	SYSTEMATIC 203208 203223	dichloromethane
+T490	SYSTEMATIC 203242 203262	trifluoroacetic acid
+T491	SYSTEMATIC 203370 203378	methanol
+T492	SYSTEMATIC 203390 203407	hydrogen chloride
+T493	SYSTEMATIC 203415 203422	dioxane
+T494	SYSTEMATIC 203537 203552	dihydrochloride
+T495	ABBREVIATION 203771 203775	HATU
+T496	SYSTEMATIC 203818 203823	amine
+T497	ABBREVIATION 203869 203872	DMF
+T498	SYSTEMATIC 203908 203923	carboxylic acid
+T499	ABBREVIATION 203937 203942	DIPEA
+T500	ABBREVIATION 203958 203962	HATU
+T501	TRIVIAL 204040 204045	water
+T502	SYSTEMATIC 204095 204110	dichloromethane
+T503	TRIVIAL 204167 204172	water
+T504	FORMULA 204195 204201	Na2SO4
+T505	SYSTEMATIC 204494 204499	amine
+T506	SYSTEMATIC 204545 204560	dichloromethane
+T507	ABBREVIATION 204578 204583	DIPEA
+T508	SYSTEMATIC 204599 204615	phenylisocyanate
+T509	SYSTEMATIC 204726 204741	dichloromethane
+T510	TRIVIAL 204766 204771	water
+T511	FORMULA 204816 204822	Na2SO4
+T512	SYSTEMATIC 205078 205083	amine
+T513	FORMULA 205098 205104	CH2Cl2
+T514	SYSTEMATIC 205122 205141	carbonyldiimidazole
+T515	SYSTEMATIC 205158 205180	ethyl diisopropylamine
+T516	FORMULA 205224 205226	N2
+T517	SYSTEMATIC 205280 205285	amine
+T518	TRIVIAL 205419 205424	water
+T519	SYSTEMATIC 205522 205537	dichloromethane
+T520	FORMULA 205596 205602	Na2SO4
+T521	SYSTEMATIC 205742 205843	1-(4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- (pyrimidin-5-yl)ethanone
+T522	SYSTEMATIC 206180 206190	chloroform
+T523	SYSTEMATIC 206348 206453	2-(3,4-difluorophenyl)-1-(4-(1- hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1- yl)ethanone
+T524	SYSTEMATIC 206912 207002	cyclohexyl(4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)methanone
+T525	SYSTEMATIC 207320 207330	chloroform
+T526	SYSTEMATIC 207443 207544	1-(4-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- (137ridine-4-yl)ethanone
+T527	SYSTEMATIC 208078 208179	2-(4-fluorophenyl)-1-(4-(1- hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1- yl)ethanone
+T528	SYSTEMATIC 208653 208663	chloroform
+T529	SYSTEMATIC 208742 208849	(3-fluoro-2-hydroxyphenyl)(4-(1- hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)piperidin-1- yl)methanone
+T530	SYSTEMATIC 209174 209262	4-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)-N- phenylpiperidine-1-carboxamide
+T531	FORMULA 209275 209280	CD3OD
+T532	SYSTEMATIC 209680 209776	(4-fluorophenyl)(4-(1-hydroxy-2- (5H-imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)methanone
+T533	SYSTEMATIC 210037 210127	1-(3-(1-hydroxy-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethyl)azetidin-1-yl)-2- phenylethanone
+T534	SYSTEMATIC 210403 210490	3-(1-hydroxy-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl)-N- phenylazetidine-1-carboxamide
+T535	SYSTEMATIC 210783 210877	4-((S)-1-hydro-2-((R)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-phenylpiperidine-1-carboxamide
+T536	SYSTEMATIC 211270 211366	4-((R)-1-hydroxy-2-((R)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-phenylpiperidine-1-carboxamide
+T537	SYSTEMATIC 211665 211761	4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-phenylpiperidine-1-carboxamide
+T538	SYSTEMATIC 212047 212143	4-((S)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-phenylpiperidine-1-carboxamide
+T539	SYSTEMATIC 212442 212541	1-(4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- phenylethanone
+T540	SYSTEMATIC 212767 212866	1-(4-((S)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- phenylethanone
+T541	SYSTEMATIC 213205 213324	1-(4-((S)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- (tetrahydro-2H-pyran-4-yl)ethanone
+T542	FORMULA 213337 213342	CD3OD
+T543	SYSTEMATIC 213765 213864	1-(4-((S)-1-hydroxy-2-((R)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- phenylethanone
+T544	SYSTEMATIC 214149 214269	4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-((trans)-4- hydroxyyclohexyl)piperidine-1- carboxamide
+T545	FORMULA 214282 214287	CD3OD
+T546	SYSTEMATIC 214640 214757	4-((S)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-(tetrahydro-2H-pyran-4- yl)piperidine-1-carboxamide
+T547	SYSTEMATIC 215045 215166	4-((S)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-((trans)-4- hydroxycyclohexyl)piperidine-1- carboxamide
+T548	SYSTEMATIC 215634 215753	1-(4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2- (tetrahydro-2H-pyran-4-yl)ethanone
+T549	SYSTEMATIC 216087 216202	4-((R)-1-hydro-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-(tetrahydro-2H-pyran-4- yl)piperidine-1-carboxamide
+T550	SYSTEMATIC 216595 216605	chloroform
+T551	SYSTEMATIC 216705 216804	N-cyclohexyl-4-((R)-1-hydroxy-2- ((S)-5H-imidazo[5,1-a]isomdol-5- yl)ethyl)piperidine-1-carboxamide
+T552	SYSTEMATIC 217278 217379	N-cyclopentyl-4-((R)-1-hydroxy-2- ((S)-5H-imidazo[5,1-a]isoindol-5- yl)ethyl)piperidine-1-carboxamide
+T553	SYSTEMATIC 217397 217517	1-(4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)-2-(4- (trifluoromethyl)phenyl)ethanone
+T554	SYSTEMATIC 217920 218038	4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5-yl)ethyl)- N-(4-(trifluoromethyl)phenyl) piperidine-1-carboxamide
+T555	SYSTEMATIC 218337 218444	(4-((R)-1-hydroxy-2-((S)-5H- imidazo[5,1-a]isoindol-5- yl)ethyl)piperidin-1-yl)(1H- imidazol-1-yl)methanone
+T556	SYSTEMATIC 218775 218785	chloroform
+T557	SYSTEMATIC 218905 218983	1-(1-(benzylsulfonyl)piperidin-4-yl)-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanol
+T558	SYSTEMATIC 218994 219070	2-(5H-imidazo[5,1-a]isoindol-5-yl)-1-(piperidin-4-yl)ethanol dihydrochloride
+T559	FORMULA 219094 219100	CH2Cl2
+T560	SYSTEMATIC 219118 219140	ethyl diisopropylamine
+T561	SYSTEMATIC 219165 219189	benzyl sulfonyl chloride
+T562	SYSTEMATIC 219305 219320	dichloromethane
+T563	TRIVIAL 219345 219350	water
+T564	FORMULA 219395 219401	Na2SO4
+T565	SYSTEMATIC 219932 219977	2-(5H-imidazo[5,1-a]isoindol-5-yl)acetic acid
+T566	SYSTEMATIC 220015 220030	tetrahydrofuran
+T567	FORMULA 220054 220062	LiOH.H2O
+T568	TRIVIAL 220079 220084	water
+T569	SYSTEMATIC 220191 220199	methanol
+T570	SYSTEMATIC 220237 220250	ethyl acetate
+T571	SYSTEMATIC 220316 220328	ethylacetate
+T572	SYSTEMATIC 220592 220633	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanol
+T573	ABBREVIATION 220688 220691	THF
+T574	FORMULA 220692 220696	EtOH
+T575	FORMULA 220722 220727	NaBH4
+T576	FORMULA 220745 220749	LiCl
+T577	FORMULA 220859 220864	NH4Cl
+T578	FORMULA 220911 220917	CH2Cl2
+T579	FORMULA 220975 220980	MgSO4
+T580	TRIVIAL 221095 221101	silica
+T581	SYSTEMATIC 221373 221425	2-(5H-imidazo[5,1-a]isoindol-5-yl)-N-methylacetamide
+T582	SYSTEMATIC 221464 221479	tetrahydrofuran
+T583	SYSTEMATIC 221510 221521	methylamine
+T584	ABBREVIATION 221558 221561	THF
+T585	SYSTEMATIC 222050 222096	2-(5H-imidazo[5,1-a]isoindol-5-yl)acetaldehyde
+T586	SYSTEMATIC 222133 222148	dichloromethane
+T587	SYSTEMATIC 222175 222200	pyridinium chlorochromate
+T588	SYSTEMATIC 222642 222690	(E)-5-(2-bromostyryl)-5H-imidazo[5,1-a]isoindole
+T589	SYSTEMATIC 222726 222741	tetrahydrofuran
+T590	FORMULA 222770 222782	iPrMgCl.LiCl
+T591	ABBREVIATION 222804 222807	THF
+T592	SYSTEMATIC 222854 222900	2-(5H-imidazo[5,1-a]isoindol-5-yl)acetaldehyde
+T593	SYSTEMATIC 222928 222943	tetrahydrofuran
+T594	FORMULA 223075 223080	NH4Cl
+T595	TRIVIAL 223101 223106	water
+T596	FORMULA 223152 223157	EtOAc
+T597	FORMULA 223213 223219	Na2SO4
+T598	FORMULA 223336 223341	EtOAc
+T599	FORMULA 223342 223346	MeOH
+T600	SYSTEMATIC 223544 223641	2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl 2-(((1R,2R,5S)-2-isopropyl-5-methylcyclohexyl)oxy)acetate
+T601	FORMULA 223687 223693	CH2Cl2
+T602	SYSTEMATIC 223713 223734	diisopropylethylamine
+T603	SYSTEMATIC 223803 223868	2-(((1S,2S,5R)-2-isopropyl-5-methylcyclohexyl)oxy)acetyl chloride
+T604	TRIVIAL 223998 224003	water
+T605	FORMULA 224086 224092	CH2Cl2
+T606	FORMULA 224144 224149	MgSO4
+T607	SYSTEMATIC 224661 224718	1-Cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanamine
+T608	SYSTEMATIC 224723 224775	(E)-5-(2-Cyclohexylvinyl)-5H-imidazo[5,1-a]isoindole
+T609	SYSTEMATIC 224793 224811	triphenylphosphine
+T610	ABBREVIATION 224835 224838	THF
+T611	SYSTEMATIC 224866 224877	phthalimide
+T612	ABBREVIATION 224965 224969	DEAD
+T613	FORMULA 225143 225149	CH2Cl2
+T614	FORMULA 225194 225198	NaOH
+T615	TRIVIAL 225210 225215	water
+T616	TRIVIAL 225220 225225	brine
+T617	FORMULA 225256 225262	Na2SO4
+T618	FORMULA 225375 225379	EtOH
+T619	SYSTEMATIC 225391 225412	hydrazine monohydrate
+T620	FORMULA 225604 225610	CH2Cl2
+T621	TRIVIAL 225657 225662	water
+T622	FORMULA 225701 225707	Na2SO4
+T623	SYSTEMATIC 226354 226429	4-(2-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)-1-hydroxyethyl)cyclohexanone
+T624	ABBREVIATION 226475 226478	THF
+T625	FORMULA 226499 226502	HCl
+T626	FORMULA 226651 226655	NaOH
+T627	SYSTEMATIC 226714 226729	dichloromethane
+T628	FORMULA 226784 226790	Na2SO4
+T629	FORMULA 226872 226877	CD3OD
+T630	SYSTEMATIC 227032 227104	1-(4-(Hydroxymethyl)cyclohexyl)-2-(5H-imidazo[5,1-a]isoindol-5-yl)etanol
+T631	ABBREVIATION 227161 227164	THF
+T632	FORMULA 227192 227200	BH3.SMe2
+T633	FORMULA 227329 227331	N2
+T634	TRIVIAL 227363 227368	water
+T635	FORMULA 227400 227404	NaOH
+T636	SYSTEMATIC 227440 227457	hydrogen peroxide
+T637	FORMULA 227622 227628	CH2Cl2
+T638	FORMULA 227674 227680	Na2SO4
+T639	FORMULA 227838 227845	MeOH-d4
+T640	SYSTEMATIC 228046 228100	1-(5H-imidazo[5,1-a]isoindol-5-yl)-2-methylpropan-2-ol
+T641	ABBREVIATION 228153 228156	THF
+T642	FORMULA 228176 228182	MeMgBr
+T643	ABBREVIATION 228192 228195	THF
+T644	SYSTEMATIC 228326 228334	methanol
+T645	TRIVIAL 228408 228418	silica gel
+T646	SYSTEMATIC 228641 228715	4-(2-(6-Fluoro-5H-imidazo[5,1-a]isoindol-5-yl)-1-hydroxyethyl)cyclohexanol
+T647	FORMULA 228769 228773	MeOH
+T648	FORMULA 228794 228799	NaBH4
+T649	FORMULA 228957 228963	CH2Cl2
+T650	FORMULA 228982 228987	NH4Cl
+T651	FORMULA 229069 229075	CH2Cl2
+T652	TRIVIAL 229132 229137	brine
+T653	FORMULA 229146 229152	Na2SO4
+T654	FORMULA 229235 229239	MeOH
+T655	FORMULA 229243 229248	EtOAc
+T656	FORMULA 229286 229293	MeOH-d4
+T657	SYSTEMATIC 229512 229573	1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanone oxime
+T658	FORMULA 229617 229621	EtOH
+T659	FORMULA 229652 229657	NH2OH
+T660	SYSTEMATIC 230125 230182	1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanamine
+T661	FORMULA 230232 230236	EtOH
+T662	FORMULA 230237 230241	AcOH
+T663	SYSTEMATIC 230259 230263	zinc
+T664	FORMULA 230418 230422	MeOH
+T665	ABBREVIATION 230423 230426	DCM
+T666	TRIVIAL 230577 230582	water
+T667	FORMULA 230587 230592	NH4OH
+T668	ABBREVIATION 230884 230887	BOC
+T669	FAMILY 230922 230930	Anilines
+T670	FAMILY 230935 230941	Amines
+T671	SYSTEMATIC 230997 231012	dichloromethane
+T672	SYSTEMATIC 231030 231050	trifluoroacetic acid
+T673	FORMULA 231210 231216	NaHCO3
+T674	FORMULA 231255 231260	EtOAc
+T675	TRIVIAL 231317 231322	water
+T676	TRIVIAL 231324 231329	brine
+T677	FORMULA 231341 231347	Na2SO4
+T678	SYSTEMATIC 231549 231612	1-(2-aminophenyl)-2-(5H- imidazo|[5,1-a]isoindol-5- yl)ethanone
+T679	SYSTEMATIC 231903 231962	2-(5H-imidazo[5,1-a]isoindol- yl)-1-(piperidin-4-yl)ethanol
+T680	SYSTEMATIC 232249 232312	1-(4-aminophenyl)-2-(5H- imidazol[5,1-a]isoindol-5- yl)ethanone
+T681	SYSTEMATIC 232551 232612	1-(3-aminophenyl)-2-(5H- imidazo[5,1-a]isoindol-5- yl)ethanol
+T682	FORMULA 232618 232625	MeOH-d4
+T683	SYSTEMATIC 232825 232887	5-(2-Cyclohexyl-2-hydroxyethyl)-5H-imidazo[5,1-a]isoindol-9-ol
+T684	ABBREVIATION 232932 232935	DCM
+T685	FORMULA 232962 232966	BBr3
+T686	ABBREVIATION 232975 232978	DCM
+T687	FORMULA 233081 233087	NaHCO3
+T688	ABBREVIATION 233139 233142	DCM
+T689	FORMULA 233194 233200	Na2SO4
+T690	FORMULA 233335 233342	MeOH-d4
+T691	SYSTEMATIC 233659 233710	3-Cyclohexyl-3-hydroxy-1-(2-iodophenyl)propan-1-one
+T692	SYSTEMATIC 233728 233744	diisopropylamine
+T693	ABBREVIATION 233768 233771	THF
+T694	FORMULA 233799 233805	n-BuLi
+T695	FORMULA 233849 233851	N2
+T696	SYSTEMATIC 233919 233943	1-(2-iodophenyl)ethanone
+T697	ABBREVIATION 233967 233970	THF
+T698	SYSTEMATIC 234088 234112	cyclohexylcarboxaldehyde
+T699	FORMULA 234272 234277	NH4Cl
+T700	FORMULA 234316 234321	EtOAc
+T701	TRIVIAL 234378 234383	brine
+T702	FORMULA 234392 234398	Na2SO4
+T703	SYSTEMATIC 234821 234893	3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propan-1-one
+T704	SYSTEMATIC 234911 234962	3-Cyclohexyl-3-hydroxy-1-(2-iodophenyl)propan-1-one
+T705	ABBREVIATION 234987 234991	DMAP
+T706	ABBREVIATION 235015 235018	DMF
+T707	FORMULA 235037 235042	TBSCl
+T708	TRIVIAL 235121 235126	water
+T709	FORMULA 235173 235178	EtOAc
+T710	TRIVIAL 235238 235243	water
+T711	TRIVIAL 235255 235260	brine
+T712	FORMULA 235277 235283	Na2SO4
+T713	SYSTEMATIC 235750 235829	(1R,3R)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propan-1-ol
+T714	SYSTEMATIC 235834 235913	(1R,3S)-3-(tert-butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propan-1-ol
+T715	FORMULA 235952 235960	BH3.SMe2
+T716	SYSTEMATIC 235986 236016	S-2-methyl-CBS-oxazaborolidine
+T717	ABBREVIATION 236040 236043	THF
+T718	FORMULA 236106 236109	HCl
+T719	TRIVIAL 236198 236203	water
+T720	FORMULA 236253 236258	EtOAc
+T721	TRIVIAL 236315 236320	brine
+T722	FORMULA 236337 236343	Na2SO4
+T723	FORMULA 236436 236441	EtOAc
+T724	FAMILY 236442 236449	hexanes
+T725	TRIVIAL 236615 236625	silica gel
+T726	SYSTEMATIC 237363 237461	(1R,3S)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl4-methylbenzenesulfonate
+T727	SYSTEMATIC 237513 237528	dichloromethane
+T728	SYSTEMATIC 237546 237559	triethylamine
+T729	ABBREVIATION 237585 237589	DMAP
+T730	SYSTEMATIC 237676 237702	p-toluenesulfonyl chloride
+T731	FORMULA 237855 237860	EtOAc
+T732	TRIVIAL 237907 237912	water
+T733	FORMULA 237930 237936	NaHCO3
+T734	TRIVIAL 237949 237954	brine
+T735	FORMULA 237985 237991	Na2SO4
+T736	SYSTEMATIC 238107 238304	(1R,3R)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl4-methylbenzenesulfonate (1R,3R)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl4-methylbenzenesulfonate
+T737	SYSTEMATIC 238441 238532	1-((1S,3S)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl)-1H-imidazole
+T738	FORMULA 238552 238555	NaH
+T739	ABBREVIATION 238582 238585	DMF
+T740	SYSTEMATIC 238603 238612	imidazole
+T741	SYSTEMATIC 238685 238784	(1R,3S)-3-(tert-butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl 4-methylbenzenesulfonate
+T742	ABBREVIATION 238808 238811	DMF
+T743	TRIVIAL 238919 238924	water
+T744	FORMULA 238974 238979	EtOAc
+T745	TRIVIAL 239036 239041	water
+T746	TRIVIAL 239053 239058	brine
+T747	FORMULA 239075 239081	Na2SO4
+T748	SYSTEMATIC 239483 239574	1-((1S,3R)-3-(tert-Butyldimethylsilyloxy)-3-cyclohexyl-1-(2-iodophenyl)propyl)-1H-imidazole
+T749	SYSTEMATIC 240078 240165	(S)-5-((S)-2-(tert-Butyldimethylsilyloxy)-2-cyclohexylethyl)-5H-imidazo[5,1-a]isoindole
+T750	SYSTEMATIC 240220 240243	dicyclohexylmethylamine
+T751	FORMULA 240266 240270	PPh3
+T752	ABBREVIATION 240294 240297	DMF
+T753	FORMULA 240346 240354	Pd(OAc)2
+T754	SYSTEMATIC 240474 240487	ethyl acetate
+T755	TRIVIAL 240517 240523	Celite
+T756	SYSTEMATIC 240561 240574	ethyl acetate
+T757	TRIVIAL 240610 240615	water
+T758	TRIVIAL 240627 240632	brine
+T759	FORMULA 240649 240655	Na2SO4
+T760	SYSTEMATIC 240750 240839	(S)-5-((R)-2-((tert-butyldimethylsilyl)oxy)-2-cyclohexylethyl)-5H-imidazo[5,1-a]isoindole
+T761	SYSTEMATIC 240969 241031	(S)-1-cyclohexyl-2-((S)-5H-imidazo[5,1-a]isoindol-5-yl)ethanol
+T762	FORMULA 241103 241106	HCl
+T763	SYSTEMATIC 241110 241117	ethanol
+T764	FORMULA 241210 241216	NaHCO3
+T765	SYSTEMATIC 241262 241277	dichloromethane
+T766	FORMULA 241329 241335	Na2SO4
+T767	SYSTEMATIC 241890 241952	(R)-1-cyclohexyl-2-((S)-5H-imidazo[5,1-a]isoindol-5-yl)ethanol
+T768	SYSTEMATIC 242422 242507	(trans)-1-hydroxy-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl) cyclohexanecarboxylic acid
+T769	ABBREVIATION 242560 242563	THF
+T770	TRIVIAL 242564 242569	Water
+T771	SYSTEMATIC 242591 242620	lithium hydroxide monohydrate
+T772	ABBREVIATION 242688 242691	THF
+T773	FORMULA 242776 242779	HCl
+T774	FORMULA 242877 242881	MeOH
+T775	ABBREVIATION 242882 242885	DCM
+T776	TRIVIAL 242930 242940	silica gel
+T777	FORMULA 242981 242985	MeOH
+T778	ABBREVIATION 242986 242989	DCM
+T779	ABBREVIATION 243090 243097	DMSO-d6
+T780	SYSTEMATIC 243425 243506	1-((trans)-4-(hydroxymethyl)cyclohexyl)-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethanol
+T781	ABBREVIATION 243563 243566	THF
+T782	FORMULA 243567 243571	EtOH
+T783	FORMULA 243607 243612	NaBH4
+T784	FORMULA 243638 243642	LiCl
+T785	FORMULA 243803 243808	NH4Cl
+T786	FORMULA 243849 243854	EtOAc
+T787	FORMULA 243910 243916	Na2SO4
+T788	TRIVIAL 244003 244009	silica
+T789	FORMULA 244236 244241	CHCl3
+T790	SYSTEMATIC 244327 244437	(trans)-1-hydroxy-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl)-N-(2-methylsulfonamido)ethyl)cyclohexanecarboxamide
+T791	SYSTEMATIC 244466 244516	N-(2-aminoethyl)methanesulfonamide dihydrochloride
+T792	ABBREVIATION 244541 244544	DMF
+T793	ABBREVIATION 244587 244592	DIPEA
+T794	ABBREVIATION 244617 244621	HATU
+T795	TRIVIAL 244754 244764	silica gel
+T796	FAMILY 244771 244778	hexanes
+T797	FORMULA 244779 244784	EtOAc
+T798	FORMULA 244875 244880	CD3OD
+T799	SYSTEMATIC 245318 245398	(cis)-4-(2-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)-1-hydroxyethyl)cyclohexanol
+T800	ABBREVIATION 245452 245455	THF
+T801	SYSTEMATIC 245482 245490	nitrogen
+T802	SYSTEMATIC 245512 245540	lithium trisiamylborohydride
+T803	ABBREVIATION 245560 245563	THF
+T804	FORMULA 245746 245749	H2O
+T805	FORMULA 245750 245754	EtOH
+T806	FORMULA 245799 245802	HCl
+T807	FORMULA 245839 245844	K2CO3
+T808	SYSTEMATIC 245892 245907	dichloromethane
+T809	FORMULA 245963 245969	Na2SO4
+T810	SYSTEMATIC 246588 246599	isopropanol
+T811	FORMULA 246600 246603	CO2
+T812	ABBREVIATION 246610 246613	DEA
+T813	FORMULA 246637 246642	CD3OD
+T814	FORMULA 246923 246928	CD3OD
+T815	SYSTEMATIC 247174 247257	2-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)-1-((trans)-4-hydroxycyclohexyl)ethanone
+T816	FORMULA 247277 247280	NaH
+T817	ABBREVIATION 247304 247307	THF
+T818	ABBREVIATION 247379 247382	THF
+T819	FAMILY 247448 247456	Aldehyde
+T820	ABBREVIATION 247506 247509	THF
+T821	FORMULA 247749 247754	NH4Cl
+T822	TRIVIAL 247764 247769	water
+T823	FORMULA 247783 247788	EtOAc
+T824	FORMULA 247925 247930	EtOAc
+T825	TRIVIAL 247994 247999	brine
+T826	FORMULA 248015 248021	Na2SO4
+T827	SYSTEMATIC 248156 248167	acetic acid
+T828	FORMULA 248180 248184	MeOH
+T829	FORMULA 248280 248283	HCl
+T830	FORMULA 248380 248386	NaHCO3
+T831	FORMULA 248433 248439	CH2Cl2
+T832	FORMULA 248517 248523	CH2Cl2
+T833	FORMULA 248580 248586	Na2SO4
+T834	TRIVIAL 248699 248709	silica gel
+T835	SYSTEMATIC 248772 248854	(trans)-4-(2-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)-1-hydroxyethyl)cyclohexanol
+T836	FORMULA 248906 248910	MeOH
+T837	FORMULA 248947 248952	NaBH4
+T838	FORMULA 249145 249150	NH4Cl
+T839	SYSTEMATIC 249173 249188	dichloromethane
+T840	SYSTEMATIC 249327 249348	2,2,2-trifluorethanol
+T841	FORMULA 249352 249358	CH2Cl2
+T842	TRIVIAL 249415 249420	brine
+T843	FORMULA 249429 249434	MgSO4
+T844	SYSTEMATIC 250239 250250	isopropanol
+T845	FORMULA 250251 250254	CO2
+T846	ABBREVIATION 250263 250266	DEA
+T847	FORMULA 250494 250499	CHCl3
+T848	FORMULA 250767 250772	CHCl3
+T849	SYSTEMATIC 250834 250903	Sodium 1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl phosphate
+T850	SYSTEMATIC 250957 250965	pyridine
+T851	SYSTEMATIC 250989 251004	dichloromethane
+T852	FORMULA 251031 251036	POCl3
+T853	FORMULA 251158 251164	NaHCO3
+T854	ABBREVIATION 251289 251292	THF
+T855	ABBREVIATION 251409 251412	DCM
+T856	FORMULA 251449 251455	Na2SO4
+T857	TRIVIAL 251466 251471	water
+T858	FORMULA 251584 251589	CD3OD
+T859	SYSTEMATIC 251834 251895	1-cyclohexyl-2-(5H-imidazo[5, 1-a]isoindol-5-yl)ethyl acetate
+T860	SYSTEMATIC 251938 251961	4-dimethylaminopyridine
+T861	SYSTEMATIC 251984 251992	pyridine
+T862	SYSTEMATIC 252017 252033	acetic anhydride
+T863	SYSTEMATIC 252171 252186	dichloromethane
+T864	TRIVIAL 252224 252229	water
+T865	FORMULA 252255 252261	Na2SO4
+T866	SYSTEMATIC 252617 252693	4-(1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethoxy)-4-oxobutanoic acid
+T867	SYSTEMATIC 252743 252766	4-dimethylaminopyridine
+T868	SYSTEMATIC 252790 252805	dichloromethane
+T869	SYSTEMATIC 252830 252848	succinic anhydride
+T870	ABBREVIATION 252872 252877	DIPEA
+T871	FORMULA 252982 252987	NH4Cl
+T872	SYSTEMATIC 253015 253030	dichloromethane
+T873	FORMULA 253086 253092	Na2SO4
+T874	SYSTEMATIC 253151 253158	ethanol
+T875	SYSTEMATIC 253159 253169	chloroform
+T876	SYSTEMATIC 253468 253529	1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl benzoate
+T877	SYSTEMATIC 253579 253602	4-dimethylaminopyridine
+T878	SYSTEMATIC 253625 253633	pyridine
+T879	SYSTEMATIC 253658 253675	benzoic anhydride
+T880	SYSTEMATIC 253813 253828	dichloromethane
+T881	FORMULA 253876 253882	NaHCO3
+T882	TRIVIAL 253892 253897	water
+T883	FORMULA 253921 253927	Na2SO4
+T884	SYSTEMATIC 254318 254386	1-cyclohexyl-2-(5H-imidazo[5,1-a]isoindol-5-yl)ethyl phenylcarbamate
+T885	ABBREVIATION 254438 254441	THF
+T886	SYSTEMATIC 254459 254472	triethylamine
+T887	SYSTEMATIC 254504 254520	phenylisocyanate
+T888	FORMULA 254677 254682	EtOAc
+T889	FORMULA 254683 254687	MeOH
+T890	SYSTEMATIC 255108 255123	dichloromethane
+T891	SYSTEMATIC 255157 255172	carboxylic acid
+T892	SYSTEMATIC 255185 255207	diisopropylethyl amine
+T893	ABBREVIATION 255223 255227	HATU
+T894	FORMULA 255322 255328	NaHCO3
+T895	SYSTEMATIC 255378 255393	dichloromethane
+T896	FORMULA 255449 255455	Na2SO4
+T897	SYSTEMATIC 255510 255525	dichloromethane
+T898	ABBREVIATION 255537 255540	TFA
+T899	TRIVIAL 255667 255672	water
+T900	FORMULA 255683 255688	K2CO3
+T901	SYSTEMATIC 255769 255784	dichloromethane
+T902	FORMULA 255840 255846	Na2SO4
+T903	SYSTEMATIC 255946 256022	(2S)-1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl 2-aminopropanoate
+T904	SYSTEMATIC 256380 256390	chloroform
+T905	SYSTEMATIC 256463 256564	(2S)-1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl pyrrolidine-2- carboxylate dihydrochloride
+T906	FORMULA 256606 256611	CD3OD
+T907	SYSTEMATIC 256924 257033	(2S)-5-(1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethyl) 1-methyl 2- aminopentanedioate dihydrochloride
+T908	ABBREVIATION 257075 257082	DMOS-d6
+T909	SYSTEMATIC 257400 257517	(2S)-1-(1-cyclohexyl-2-(5H-imidazo[5,1- a]isoindol-5-yl)ethoxy)-3-methyl-1- oxobutan-2-aminium chloride hydrochloride
+T910	ABBREVIATION 257559 257566	DMOS-d6
